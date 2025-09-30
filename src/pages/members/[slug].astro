@@ -1,0 +1,200 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import PageHero from '../../components/PageHero.astro';
+import { getCollection, type CollectionEntry } from 'astro:content';
+
+export async function getStaticPaths() {
+  const members = await getCollection('members');
+  return members.map((member) => ({
+    params: { slug: member.slug },
+    props: { member },
+  }));
+}
+
+type Props = {
+  member: CollectionEntry<'members'>;
+};
+
+const { member } = Astro.props;
+const { Content } = await member.render();
+---
+
+<Layout title={member.data.name}>
+  <PageHero
+    titleEn="MEMBERS"
+    subtitle="メンバー"
+    image="images/sub_members@2x.jpg"
+  />
+
+  <section class="breadcrumb-section">
+    <div class="container">
+      <nav class="breadcrumb">
+        <a href="">HOME</a> <span class="breadcrumb-separator">&gt;</span> <a href="members/">メンバー</a> <span class="breadcrumb-separator">&gt;</span> <span class="current-page">{member.data.name}</span>
+      </nav>
+    </div>
+  </section>
+
+  <section class="content-section">
+    <div class="container">
+      <div class="member-detail">
+        <header class="member-header">
+          <div class="member-basic-info">
+            <h1 class="member-name">
+              {member.data.name}
+              {member.data.nameEn && <span class="name-en">{member.data.nameEn}</span>}
+            </h1>
+          </div>
+        </header>
+
+        <div class={`member-content-grid ${!member.data.photo ? 'no-photo' : ''}`}>
+          {member.data.photo && (
+            <div class="member-photo-section">
+              <img src={member.data.photo} alt={member.data.name} class="member-photo" />
+            </div>
+          )}
+
+          <div class="member-details">
+            <div class="content markdown-content">
+              <Content />
+            </div>
+          </div>
+        </div>
+
+        <div class="back-link">
+          <a href="members/" class="btn">← メンバー一覧に戻る</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .breadcrumb-section {
+    padding: 15px 0;
+    background: white;
+    border-bottom: 1px solid #f0f0f0;
+  }
+
+  .breadcrumb {
+    font-size: 0.85rem;
+    color: var(--text-light);
+    margin: 0;
+  }
+
+  .breadcrumb a {
+    color: var(--primary-color);
+    text-decoration: none;
+  }
+
+  .breadcrumb a:hover {
+    text-decoration: underline;
+  }
+
+  .breadcrumb-separator {
+    margin: 0 8px;
+    color: var(--text-light);
+  }
+
+  .current-page {
+    color: var(--text-dark);
+    font-weight: 500;
+  }
+
+  .content-section {
+    padding: 80px 0;
+  }
+
+  .member-detail {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  .member-header {
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid var(--primary-color);
+  }
+
+  .member-name {
+    font-size: 2rem;
+    color: var(--text-dark);
+    margin-bottom: 10px;
+  }
+
+  .name-en {
+    display: inline;
+    font-size: 1.2rem;
+    color: var(--text-light);
+    font-style: italic;
+    margin-left: 10px;
+  }
+
+  .member-content-grid {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    gap: 40px;
+    margin-bottom: 40px;
+  }
+
+  .member-content-grid.no-photo {
+    grid-template-columns: 1fr;
+  }
+
+  .member-photo-section {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .member-photo {
+    width: 100%;
+    max-width: 200px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+  }
+
+  .member-details .content {
+    color: var(--text-dark);
+    line-height: 1.8;
+  }
+
+  .member-details h2 {
+    color: var(--text-dark);
+    font-size: 1.3rem;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid var(--gray-medium);
+  }
+
+  .member-details h2:first-child {
+    margin-top: 0;
+  }
+
+  .member-details p {
+    margin: 15px 0;
+  }
+
+  .back-link {
+    text-align: center;
+    margin-top: 60px;
+  }
+
+  @media (max-width: 768px) {
+    .page-hero {
+      height: 200px;
+    }
+
+    .hero-content h1 {
+      font-size: 2rem;
+    }
+
+    .member-content-grid {
+      grid-template-columns: 1fr;
+      gap: 30px;
+    }
+
+    .member-photo {
+      max-width: 150px;
+      margin: 0 auto;
+    }
+  }
+</style>

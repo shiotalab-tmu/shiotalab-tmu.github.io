@@ -1,0 +1,245 @@
+---
+interface Props {
+  lang?: 'ja' | 'en';
+}
+
+const { lang = 'ja' } = Astro.props;
+
+const menuItems = lang === 'ja' ? [
+  { href: '', label: 'HOME' },
+  { href: 'research/', label: '研究内容' },
+  { href: 'members/', label: 'メンバー' },
+  { href: 'papers/', label: '研究業績' },
+  { href: 'awards/', label: '受賞・表彰' },
+  { href: 'graduates/', label: '主な就職先' }
+] : [
+  { href: 'en/', label: 'HOME' },
+  { href: 'en/research/', label: 'RESEARCH' },
+  { href: 'en/members/', label: 'MEMBERS' },
+  { href: 'en/papers/', label: 'PAPERS' },
+  { href: 'en/awards/', label: 'AWARDS' },
+  { href: 'en/graduates/', label: 'GRADUATES' }
+];
+---
+
+<header class="header">
+  <div class="header-top">
+    <div class="container">
+      <div class="header-content">
+        <a href={lang === 'ja' ? '' : 'en/'} class="logo">
+          <img src="images/h_logo@2x.png" alt="塩田・貴家研究室" />
+        </a>
+        <div class="header-right">
+          <div class="lang-switcher">
+            <a href="" class={lang === 'ja' ? 'active' : ''}>日</a>
+            <a href="en/" class={lang === 'en' ? 'active' : ''}>EN</a>
+          </div>
+          <button class="menu-toggle" id="menu-toggle">
+            <span></span>
+            <span></span>
+            <span></span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <nav class="nav" id="nav">
+    <div class="container">
+      <ul class="nav-menu">
+        {menuItems.map((item) => (
+          <li><a href={item.href}>{item.label}</a></li>
+        ))}
+      </ul>
+    </div>
+  </nav>
+</header>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const menuToggle = document.getElementById('menu-toggle');
+    const nav = document.getElementById('nav');
+    
+    if (menuToggle && nav) {
+      menuToggle.addEventListener('click', function() {
+        nav.classList.toggle('active');
+        menuToggle.classList.toggle('active');
+      });
+    }
+  });
+</script>
+
+<style>
+  .header {
+    background: white;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
+
+  .header-top {
+    border-bottom: 1px solid #e0e0e0;
+    padding: 15px 0;
+  }
+
+  .header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+  }
+
+  .logo img {
+    height: 40px;
+    width: auto;
+  }
+
+  .lab-name {
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: var(--text-dark);
+  }
+
+  .header-right {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .lang-switcher {
+    display: flex;
+    gap: 5px;
+  }
+
+  .menu-toggle {
+    display: none;
+    flex-direction: column;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+  }
+
+  .menu-toggle span {
+    width: 25px;
+    height: 3px;
+    background: var(--primary-color);
+    margin: 3px 0;
+    transition: 0.3s;
+    border-radius: 2px;
+  }
+
+  .menu-toggle.active span:nth-child(1) {
+    transform: rotate(-45deg) translate(-5px, 6px);
+  }
+
+  .menu-toggle.active span:nth-child(2) {
+    opacity: 0;
+  }
+
+  .menu-toggle.active span:nth-child(3) {
+    transform: rotate(45deg) translate(-5px, -6px);
+  }
+
+  .lang-switcher a {
+    padding: 5px 15px;
+    border: 1px solid var(--primary-color);
+    border-radius: 20px;
+    font-size: 0.9rem;
+    transition: all 0.3s ease;
+  }
+
+  .lang-switcher a.active {
+    background: var(--primary-color);
+    color: white;
+  }
+
+  .lang-switcher a:hover {
+    background: var(--primary-color);
+    color: white;
+    opacity: 0.8;
+  }
+
+  .nav {
+    background: var(--primary-color);
+  }
+
+  .nav-menu {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .nav-menu li {
+    flex: 1;
+  }
+
+  .nav-menu a {
+    display: block;
+    padding: 15px;
+    text-align: center;
+    color: white;
+    font-weight: 500;
+    transition: background 0.3s ease;
+  }
+
+  .nav-menu a:hover {
+    background: rgba(255,255,255,0.1);
+  }
+
+  @media (max-width: 768px) {
+    .lab-name {
+      display: none;
+    }
+
+    .header-right {
+      gap: 15px;
+    }
+
+    .lang-switcher {
+      gap: 3px;
+    }
+
+    .lang-switcher a {
+      padding: 3px 8px;
+      font-size: 0.8rem;
+      border-radius: 15px;
+    }
+
+    .menu-toggle {
+      display: flex;
+    }
+
+    .nav {
+      display: none;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      width: 100%;
+      background: var(--primary-color);
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+
+    .nav.active {
+      display: block;
+    }
+
+    .nav-menu {
+      flex-direction: column;
+    }
+
+    .nav-menu li {
+      border-bottom: 1px solid rgba(255,255,255,0.1);
+    }
+
+    .nav-menu li:last-child {
+      border-bottom: none;
+    }
+  }
+</style>

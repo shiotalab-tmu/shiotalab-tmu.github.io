@@ -1,0 +1,78 @@
+---
+---
+
+<section class="hero">
+  <div class="hero-background">
+    <img src="images/main_image@2x.jpg" alt="Research Lab Background" />
+  </div>
+  <div class="hero-content">
+    <div class="container">
+      <h1 class="hero-title">
+        当研究室では音声や画像と言ったマルチメディア情報を用いた<br/>
+        信号処理および機械学習に関する研究を行っています。
+      </h1>
+    </div>
+  </div>
+</section>
+
+<style>
+  .hero {
+    position: relative;
+    height: 500px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .hero-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  }
+
+  .hero-background img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.7);
+  }
+
+  .hero-background::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .hero-content {
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    color: white;
+  }
+
+  .hero-title {
+    font-size: 1.8rem;
+    font-weight: 300;
+    line-height: 1.8;
+    letter-spacing: 0.05em;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+  }
+
+  @media (max-width: 768px) {
+    .hero {
+      height: 350px;
+    }
+
+    .hero-title {
+      font-size: 1.2rem;
+      padding: 0 20px;
+    }
+  }
+</style>

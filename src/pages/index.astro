@@ -1,0 +1,54 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Hero from '../components/Hero.astro';
+import ResearchCard from '../components/ResearchCard.astro';
+import { getCollection } from 'astro:content';
+
+const researchTopics = await getCollection('research');
+const sortedTopics = researchTopics
+  .sort((a, b) => a.data.order - b.data.order)
+  .slice(0, 3); // Show first 3 research topics on home page
+---
+
+<Layout title="ホーム">
+  <Hero />
+  
+  <section class="research-section">
+    <div class="container">
+      <h2 class="section-title">RESEARCH</h2>
+      <div class="research-grid">
+        {sortedTopics.map((topic) => (
+          <ResearchCard
+            title={topic.data.title}
+            description={topic.data.description}
+            image={topic.data.image || 'images/default-research.jpg'}
+            link={`research/#${topic.slug}`}
+          />
+        ))}
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .research-section {
+    padding: 80px 0;
+  }
+
+  .research-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+    margin-top: 50px;
+  }
+
+  @media (max-width: 768px) {
+    .research-section {
+      padding: 50px 0;
+    }
+
+    .research-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

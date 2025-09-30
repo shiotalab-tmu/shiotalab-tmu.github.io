@@ -1,0 +1,99 @@
+---
+import Layout from '../layouts/Layout.astro';
+import PageHero from '../components/PageHero.astro';
+import { getEntry } from 'astro:content';
+
+const awardsContent = await getEntry('awards', 'index');
+if (!awardsContent) {
+  throw new Error('Awards content not found');
+}
+const { Content } = await awardsContent.render();
+
+// TODO: DB抽出して置き換える
+---
+
+<Layout title="受賞・表彰">
+  <PageHero titleEn="AWARDS" subtitle="受賞・表彰" image="images/sub_awards@2x.jpg" />
+
+  <section class="content-section">
+    <div class="container">
+      <div class="markdown-content">
+        <Content />
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .content-section {
+    padding: 80px 0;
+  }
+
+  .awards-list {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  .award-item {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+  }
+
+  .award-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 20px;
+  }
+
+  .award-info h3 {
+    font-size: 1.4rem;
+    color: var(--text-dark);
+    margin-bottom: 10px;
+  }
+
+  .recipient {
+    font-size: 1.1rem;
+    color: var(--text-dark);
+    margin-bottom: 5px;
+    font-weight: 500;
+  }
+
+  .organization {
+    color: var(--primary-color);
+    font-weight: 500;
+  }
+
+  .year {
+    background: var(--primary-color);
+    color: white;
+    padding: 8px 16px;
+    border-radius: 25px;
+    font-size: 1.1rem;
+    font-weight: 500;
+    flex-shrink: 0;
+  }
+
+  .award-content {
+    color: var(--text-light);
+    line-height: 1.6;
+  }
+
+  @media (max-width: 768px) {
+    .award-header {
+      flex-direction: column;
+      gap: 15px;
+    }
+
+    .year {
+      align-self: flex-start;
+    }
+
+    .award-item {
+      padding: 20px;
+    }
+  }
+</style>

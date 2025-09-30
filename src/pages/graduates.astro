@@ -1,0 +1,71 @@
+---
+import Layout from '../layouts/Layout.astro';
+import PageHero from '../components/PageHero.astro';
+import { getEntry } from 'astro:content';
+
+const graduates = await getEntry('graduates', 'index');
+const { title, description } = graduates.data;
+const { Content } = await graduates.render();
+---
+
+<Layout title={title}>
+  <PageHero titleEn="GRADUATES" subtitle={title} image="images/sub_graduatrs@2x.jpg" />
+
+  <section class="content-section">
+    <div class="container">
+      <div class="markdown-content">
+        <Content />
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .content-section {
+    padding: 80px 0;
+    background: white;
+  }
+
+  .markdown-content {
+    max-width: 800px;
+    margin: 0 auto;
+    color: var(--text-dark);
+    line-height: 1.8;
+  }
+
+  .markdown-content h1 {
+    text-align: center;
+    font-size: 2rem;
+    color: var(--text-dark);
+    margin-bottom: 20px;
+  }
+
+  .markdown-content p {
+    text-align: center;
+    font-size: 1.1rem;
+    margin-bottom: 60px;
+    color: var(--text-dark);
+  }
+
+  /* Page-specific markdown overrides if needed */
+
+  @media (max-width: 768px) {
+    .content-section {
+      padding: 60px 0;
+    }
+
+    .markdown-content h1 {
+      font-size: 1.6rem;
+    }
+
+    .markdown-content p {
+      font-size: 1rem;
+      margin-bottom: 40px;
+    }
+
+    .markdown-content h2 {
+      font-size: 1.1rem;
+      margin-top: 40px;
+    }
+  }
+</style>

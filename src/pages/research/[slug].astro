@@ -1,0 +1,250 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection, type CollectionEntry } from 'astro:content';
+
+export async function getStaticPaths() {
+  const research = await getCollection('research');
+  return research.map((item) => ({
+    params: { slug: item.slug },
+    props: { item },
+  }));
+}
+
+type Props = {
+  item: CollectionEntry<'research'>;
+};
+
+const { item } = Astro.props;
+const { Content } = await item.render();
+
+const allResearch = await getCollection('research');
+const sortedResearch = allResearch.sort((a, b) => a.data.order - b.data.order);
+---
+
+<Layout title={item.data.title}>
+  <section class="breadcrumb-section research-breadcrumb">
+    <div class="container">
+      <nav class="breadcrumb">
+        <a href="">HOME</a> &gt; <a href="research/">研究内容</a> &gt; {item.data.title}
+      </nav>
+    </div>
+  </section>
+
+  <section class="research-detail-section">
+    <div class="container">
+      <div class="research-layout">
+        <!-- サイドバー -->
+        <aside class="research-sidebar">
+          <div class="sidebar-header">
+            <h3>RESEARCH</h3>
+            <p>研究内容</p>
+          </div>
+          <nav class="research-nav">
+            {sortedResearch.map((research) => (
+              <a
+                href={`research/${research.slug}/`}
+                class={research.slug === item.slug ? 'nav-item active' : 'nav-item'}
+              >
+                {research.data.title}
+              </a>
+            ))}
+          </nav>
+        </aside>
+
+        <!-- メインコンテンツ -->
+        <main class="research-main">
+          <div class="main-header">
+            {item.data.image && (
+              <div class="header-image">
+                <img src={item.data.image} alt={item.data.title} />
+              </div>
+            )}
+          </div>
+
+          <div class="main-content">
+            <h1 class="research-title">{item.data.title}</h1>
+            <div class="research-content">
+              <Content />
+            </div>
+          </div>
+        </main>
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .breadcrumb {
+    font-size: 0.9rem;
+  }
+
+  /* Research Detail Styles */
+  .research-detail-section {
+    padding: 40px 0 80px;
+  }
+
+  .research-layout {
+    display: grid;
+    grid-template-columns: 280px 1fr;
+    gap: 40px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .research-sidebar {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+    padding: 0;
+    overflow: hidden;
+    height: fit-content;
+    position: sticky;
+    top: 20px;
+  }
+
+  .sidebar-header {
+    background: var(--primary-color);
+    color: white;
+    padding: 25px;
+    text-align: center;
+  }
+
+  .sidebar-header h3 {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin: 0 0 5px 0;
+    letter-spacing: 0.1em;
+  }
+
+  .sidebar-header p {
+    font-size: 0.9rem;
+    margin: 0;
+    opacity: 0.9;
+  }
+
+  .research-nav {
+    padding: 0;
+  }
+
+  .nav-item {
+    display: block;
+    padding: 18px 25px;
+    color: var(--text-dark);
+    text-decoration: none;
+    border-bottom: 1px solid #f0f0f0;
+    transition: background-color 0.3s ease;
+    font-size: 0.95rem;
+  }
+
+  .nav-item:hover {
+    background: #f8f9fa;
+  }
+
+  .nav-item.active {
+    background: #e8f5f4;
+    color: var(--primary-color);
+    font-weight: 500;
+    border-left: 4px solid var(--primary-color);
+  }
+
+  .research-main {
+    background: white;
+    overflow: hidden;
+  }
+
+  .header-image {
+    height: 300px;
+    overflow: hidden;
+  }
+
+  .header-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .main-content {
+    padding: 40px;
+  }
+
+  .research-title {
+    font-size: 2rem;
+    color: var(--text-dark);
+    margin-bottom: 30px;
+    padding-bottom: 15px;
+    border-bottom: 2px solid var(--primary-color);
+  }
+
+  .research-content {
+    color: var(--text-light);
+    line-height: 1.8;
+  }
+
+  .research-content h2 {
+    color: var(--text-dark);
+    font-size: 1.5rem;
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+
+  .research-content h3 {
+    color: var(--text-dark);
+    font-size: 1.3rem;
+    margin-top: 30px;
+    margin-bottom: 15px;
+  }
+
+  .research-content ul {
+    padding-left: 0;
+    list-style: none;
+  }
+
+  .research-content li {
+    position: relative;
+    padding-left: 25px;
+    margin: 8px 0;
+  }
+
+  .research-content li::before {
+    content: '•';
+    position: absolute;
+    left: 10px;
+    color: var(--primary-color);
+    font-weight: bold;
+  }
+
+  @media (max-width: 768px) {
+    .research-layout {
+      grid-template-columns: 1fr;
+      gap: 20px;
+    }
+
+    .research-sidebar {
+      position: static;
+      order: 2;
+    }
+
+    .header-image {
+      height: 200px;
+    }
+
+    .main-content {
+      padding: 25px;
+    }
+
+    .research-title {
+      font-size: 1.6rem;
+    }
+  }
+
+  @media (max-width: 1024px) and (min-width: 769px) {
+    .research-layout {
+      grid-template-columns: 240px 1fr;
+      gap: 30px;
+    }
+
+    .main-content {
+      padding: 30px;
+    }
+  }
+</style>

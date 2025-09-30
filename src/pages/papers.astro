@@ -1,0 +1,200 @@
+---
+import Layout from '../layouts/Layout.astro';
+import PageHero from '../components/PageHero.astro';
+import { getCollection } from 'astro:content';
+
+const allPapers = await getCollection('papers');
+
+// 全年度のリストを取得（ナビゲーション用）
+const allYears = [...new Set(
+  allPapers.map(paper => paper.data.year)
+)] as number[];
+allYears.sort((a, b) => b - a);
+
+// 最新年度を取得
+const latestYear = allYears[0];
+
+// 最新年度の論文を取得してタイプ別に分類
+const yearPapers = allPapers
+  .filter(paper => paper.data.year === latestYear)
+  .sort((a, b) => a.data.title.localeCompare(b.data.title));
+
+const journals = yearPapers.filter(p => p.data.type === 'journal');
+const international = yearPapers.filter(p => p.data.type === 'international');
+const domestic = yearPapers.filter(p => p.data.type === 'domestic');
+
+// 年号を計算（昭和・平成・令和）
+let eraString = '';
+if (latestYear >= 2019) {
+  // 令和年（2019年〜）
+  const reiwaYear = latestYear - 2018;
+  eraString = `（令和${reiwaYear}年）`;
+} else if (latestYear >= 1989) {
+  // 平成年（1989年〜2018年）
+  const heiseiYear = latestYear - 1988;
+  eraString = `（平成${heiseiYear}年）`;
+} else {
+  // 昭和年（〜1988年）
+  const showaYear = latestYear - 1925;
+  eraString = `（昭和${showaYear}年）`;
+}
+---
+
+<Layout title={`${latestYear}年の研究業績`}>
+  <PageHero
+    titleEn="PAPERS"
+    subtitle={`${latestYear}年の研究業績`}
+    image="images/sub_papers@2x.jpg"
+  />
+
+  <section class="content-section">
+    <div class="container">
+      <div class="plain">
+        <h1>{latestYear}年{eraString}の研究業績</h1>
+
+        <!-- 年度ナビゲーション -->
+        <div class="year-navigation">
+          <a href="papers/" class="active">{latestYear}年</a>
+          {allYears.slice(1).map((navYear) => (
+            <a href={`papers/${navYear}/`}>
+              {navYear}年
+            </a>
+          ))}
+        </div>
+
+        {journals.length > 0 && (
+          <>
+            <h2>学術論文</h2>
+            <ol>
+              {journals.map((paper) => (
+                <li>
+                  {paper.data.authors.join(', ')},<br/>
+                  "{paper.data.title}",<br/>
+                  {paper.data.venue}
+                  {paper.data.url && (
+                    <> [<a href={paper.data.url} style="color: #008080" target="_blank">Link</a>]</>
+                  )}
+                </li>
+              ))}
+            </ol>
+          </>
+        )}
+
+        {international.length > 0 && (
+          <>
+            <h2>国際学会論文</h2>
+            <ol>
+              {international.map((paper) => (
+                <li>
+                  {paper.data.authors.join(', ')},<br/>
+                  "{paper.data.title}",<br/>
+                  {paper.data.venue}
+                  {paper.data.url && (
+                    <> [<a href={paper.data.url} style="color: #008080" target="_blank">Link</a>]</>
+                  )}
+                </li>
+              ))}
+            </ol>
+          </>
+        )}
+
+        {domestic.length > 0 && (
+          <>
+            <h2>学会講演論文</h2>
+            <ol>
+              {domestic.map((paper) => (
+                <li>
+                  {paper.data.authors.join(', ')},<br/>
+                  "{paper.data.title}",<br/>
+                  {paper.data.venue}
+                  {paper.data.url && (
+                    <> [<a href={paper.data.url} style="color: #008080" target="_blank">Link</a>]</>
+                  )}
+                </li>
+              ))}
+            </ol>
+          </>
+        )}
+
+        {yearPapers.length === 0 && (
+          <p>この年度の論文は見つかりませんでした。</p>
+        )}
+
+        <p>&nbsp;</p>
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .year-navigation {
+    display: grid;
+    grid-template-columns: repeat(10, auto);
+    gap: 2px 6px;
+    margin: 15px 0;
+    font-size: 0.7rem;
+    justify-content: start;
+    width: fit-content;
+  }
+
+  .year-navigation a {
+    color: var(--primary-color);
+    text-decoration: none;
+    padding: 1px 2px;
+    white-space: nowrap;
+  }
+
+  .year-navigation a:hover {
+    text-decoration: underline;
+  }
+
+  .year-navigation a.active {
+    font-weight: bold;
+    color: var(--text-dark);
+  }
+
+  .papers-section {
+    margin-bottom: 60px;
+  }
+
+  .papers-section h2 {
+    font-size: 1.8rem;
+    color: var(--text-dark);
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid var(--primary-color);
+  }
+
+  h1 {
+    font-size: 2rem;
+    color: var(--text-dark);
+    margin-bottom: 30px;
+    text-align: center;
+  }
+
+  ol {
+    font-size: 90%;
+    line-height: 1.6;
+  }
+
+  ol li {
+    margin-bottom: 20px;
+    color: var(--text-dark);
+  }
+
+  @media (max-width: 768px) {
+    h1 {
+      font-size: 1.5rem;
+    }
+
+    .papers-section h2 {
+      font-size: 1.4rem;
+    }
+
+    .year-navigation {
+      grid-template-columns: repeat(5, auto);
+      gap: 2px 4px;
+      font-size: 0.65rem;
+    }
+  }
+</style>

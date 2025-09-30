@@ -1,0 +1,334 @@
+:root {
+  --primary-color: #00a99d;
+  --secondary-color: #004d7a;
+  --dark-bg: #1a2332;
+  --text-dark: #333;
+  --text-light: #666;
+  --white: #ffffff;
+  --gray-light: #f5f5f5;
+  --gray-medium: #e0e0e0;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Noto Sans JP', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  line-height: 1.6;
+  color: var(--text-dark);
+}
+
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+  transition: opacity 0.3s ease;
+}
+
+a:hover {
+  opacity: 0.8;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.section-title {
+  font-size: 2.5rem;
+  font-weight: 300;
+  text-align: center;
+  margin-bottom: 3rem;
+  letter-spacing: 0.1em;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 30px;
+  background: var(--primary-color);
+  color: white;
+  border-radius: 25px;
+  transition: all 0.3s ease;
+  font-size: 0.9rem;
+}
+
+.btn:hover {
+  background: #008577;
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(0,169,157,0.3);
+}
+
+/* Hero Section Styles */
+.page-hero {
+  position: relative;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.hero-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+.hero-bg img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+
+.hero-content {
+  text-align: center;
+  color: white;
+}
+
+.hero-content h1 {
+  font-size: 3rem;
+  font-weight: 300;
+  letter-spacing: 0.2em;
+  margin-bottom: 10px;
+}
+
+.hero-content p {
+  font-size: 1.2rem;
+  opacity: 0.9;
+}
+
+/* Breadcrumb Styles */
+.breadcrumb-section {
+  padding: 15px 0;
+  background: white;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.breadcrumb-section.research-breadcrumb {
+  padding: 20px 0;
+  background: #f8f9fa;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.breadcrumb {
+  font-size: 0.85rem;
+  color: var(--text-light);
+  margin: 0;
+}
+
+.breadcrumb a {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+.breadcrumb a:hover {
+  text-decoration: underline;
+}
+
+.breadcrumb-separator {
+  margin: 0 8px;
+  color: var(--text-light);
+}
+
+.current-page {
+  color: var(--text-dark);
+  font-weight: 500;
+}
+
+/* Content Section Styles */
+.content-section {
+  padding: 80px 0;
+}
+
+/* Card Styles */
+.card {
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+}
+
+.card-image {
+  position: relative;
+  height: 200px;
+  overflow: hidden;
+}
+
+.card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.card-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(transparent, rgba(0,0,0,0.7));
+  padding: 30px 20px 20px;
+}
+
+.card-title {
+  color: white;
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin: 0;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+}
+
+.card-content {
+  padding: 25px;
+}
+
+.card-description {
+  color: var(--text-light);
+  line-height: 1.6;
+  font-size: 0.9rem;
+  margin-bottom: 20px;
+}
+
+.card-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background: var(--primary-color);
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: background-color 0.3s ease;
+}
+
+.card-button:hover {
+  background: #008a80;
+}
+
+/* Grid Layouts */
+.grid-2 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+}
+
+.grid-3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+}
+
+/* Intro Text Styles */
+.intro-text {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.intro-text p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: var(--text-light);
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+  .page-hero {
+    height: 200px;
+  }
+
+  .hero-content h1 {
+    font-size: 2rem;
+  }
+
+  .grid-2, .grid-3 {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .card-content {
+    padding: 20px;
+  }
+
+  .intro-text p {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 1024px) and (min-width: 769px) {
+  .grid-3 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Common List Styles - Applied globally */
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 30px 0;
+}
+
+ul li {
+  position: relative;
+  padding: 6px 0 6px 24px;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: var(--text-dark);
+}
+
+ul li::before {
+  content: '•';
+  position: absolute;
+  left: 8px;
+  color: var(--primary-color);
+  font-weight: bold;
+}
+
+/* Ordered list styles */
+ol {
+  padding-left: 30px;
+  margin: 0 0 30px 0;
+  counter-reset: item;
+}
+
+ol li {
+  padding: 6px 0;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: var(--text-dark);
+  list-style-type: decimal;
+}
+
+/* Common Markdown Content Styles */
+.markdown-content {
+  color: var(--text-dark);
+  line-height: 1.8;
+}
+
+.markdown-content h2 {
+  color: var(--text-dark);
+  font-size: 1.3rem;
+  margin-bottom: 20px;
+  margin-top: 50px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid var(--primary-color);
+  font-weight: 600;
+}
+
+.markdown-content h2:first-of-type {
+  margin-top: 20px;
+}
+
+
+

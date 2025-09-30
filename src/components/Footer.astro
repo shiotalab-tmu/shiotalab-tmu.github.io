@@ -1,0 +1,153 @@
+---
+interface Props {
+  lang?: 'ja' | 'en';
+}
+
+const { lang = 'ja' } = Astro.props;
+
+const footerLinks = lang === 'ja' ? [
+  { href: '', label: 'HOME' },
+  { href: 'research/', label: '研究内容' },
+  { href: 'members/', label: 'メンバー' },
+  { href: 'papers/', label: '研究業績' },
+  { href: 'awards/', label: '受賞・表彰' },
+  { href: 'graduates/', label: '主な就職先' }
+] : [
+  { href: 'en/', label: 'HOME' },
+  { href: 'en/research/', label: 'RESEARCH' },
+  { href: 'en/members/', label: 'MEMBERS' },
+  { href: 'en/papers/', label: 'PAPERS' },
+  { href: 'en/awards/', label: 'AWARDS' },
+  { href: 'en/graduates/', label: 'GRADUATES' }
+];
+---
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer-content">
+      <div class="footer-logo">
+        <img src="images/f_logo@2x.png" alt="塩田・貴家研究室" />
+        <h3>{lang === 'ja' ? '塩田・貴家研究室' : 'Shiota and Kiya Research Laboratory'}</h3>
+      </div>
+      
+      <div class="footer-info">
+        <p>〒191-0065　東京都日野市旭が丘6-6</p>
+        <p>東京都立大学システムデザイン学部　2号館6階602</p>
+      </div>
+
+      <nav class="footer-nav">
+        <ul>
+          {footerLinks.map((link) => (
+            <li><a href={link.href}>{link.label}</a></li>
+          ))}
+        </ul>
+      </nav>
+    </div>
+
+    <div class="footer-bottom">
+      <p>&copy; 2024 Shiota and Kiya Research Laboratory.</p>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .footer {
+    background: var(--gray-light);
+    border-top: 1px solid var(--gray-medium);
+    padding: 40px 0 20px;
+    margin-top: 80px;
+  }
+
+  .footer-content {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    gap: 40px;
+    margin-bottom: 30px;
+  }
+
+  .footer-logo {
+    text-align: center;
+  }
+
+  .footer-logo img {
+    height: 50px;
+    margin-bottom: 10px;
+  }
+
+  .footer-logo h3 {
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--text-dark);
+  }
+
+  .footer-info {
+    text-align: center;
+  }
+
+  .footer-info p {
+    margin: 5px 0;
+    color: var(--text-light);
+    font-size: 0.9rem;
+  }
+
+  .footer-nav ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 0;
+    margin: 0;
+  }
+
+  .footer-nav li {
+    position: static;
+    padding: 0;
+    margin: 0;
+  }
+
+  .footer-nav li::before {
+    display: none;
+  }
+
+  .footer-nav a {
+    color: var(--text-light);
+    font-size: 0.9rem;
+    text-decoration: none;
+  }
+
+  .footer-nav a:hover {
+    color: var(--primary-color);
+  }
+
+  .footer-bottom {
+    text-align: center;
+    padding-top: 20px;
+    border-top: 1px solid var(--gray-medium);
+  }
+
+  .footer-bottom p {
+    color: var(--text-light);
+    font-size: 0.85rem;
+  }
+
+  @media (max-width: 768px) {
+    .footer-content {
+      grid-template-columns: 1fr;
+      text-align: center;
+      gap: 30px;
+    }
+
+    .footer-nav ul {
+      flex-direction: row;
+      flex-wrap: wrap;
+      gap: 15px 10px;
+      justify-content: center;
+    }
+
+    .footer-nav a {
+      font-size: 0.85rem;
+      white-space: nowrap;
+    }
+  }
+</style>
