@@ -32,7 +32,7 @@ npm run dev  # http://localhost:4321
 | `npm run dev` | 開発サーバー起動 |
 | `npm run build` | 本番ビルド |
 | `npm run preview` | ビルド版プレビュー |
-| `npm run generate:papers` | 論文データベースからMarkdownを生成 |
+| `npm run generate:papers` | 論文データベースからMarkdownを生成(bunkenから自動実行) |
 
 ## デプロイメント
 
