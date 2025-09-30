@@ -5,7 +5,7 @@ import { defineConfig } from 'astro/config';
 export default defineConfig({
   // GitHub Pages project site configuration
   site: 'https://shiotalab-tmu.github.io',
-  base: '/home-page',  // repo name without trailing slash
+  base: '/',  // serve from root
   
   // Build configuration for static deployment
   output: 'static',

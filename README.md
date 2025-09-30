@@ -15,8 +15,8 @@
 何らかの手法でNode20以上を入れてください。
 ```bash
 # リポジトリのクローン
-git clone https://github.com/shiotalab-tmu/home-page.git
-cd home-page
+git clone https://github.com/shiotalab-tmu/shiotalab-tmu.github.io.git
+cd shiotalab-tmu.github.io
 
 # 依存関係のインストール
 npm install
@@ -40,7 +40,7 @@ npm run dev  # http://localhost:4321
 
 このプロジェクトはGitHub Actionsを使用してGitHub Pagesに自動デプロイされます。
 
-**デプロイURL**: https://shiotalab-tmu.github.io/home-page/
+**デプロイURL**: https://shiotalab-tmu.github.io/
 
 #### 自動デプロイの流れ
 1. `main`ブランチにプッシュまたはマージ
