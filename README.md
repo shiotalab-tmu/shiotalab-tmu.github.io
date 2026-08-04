@@ -175,3 +175,5 @@ BUNKEN_API_URL=http://custom-host:8000 npm run generate:papers
 - **技術**: FastAPI + PostgreSQL + Jinja2
 - **機能**: 論文・著者・学会の登録管理、JSON API提供
 - **詳細**: `bunken/README.md` を参照
+
+  test
