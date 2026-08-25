@@ -11,6 +11,11 @@ Kiya and Shiota Research has received the following awards.
 
 ## Awards
 
+* 田中 康平、情報処理学会 音声言語情報処理研究会、企業賞 (Fairy Devices 賞)、2025年6月
+* 田中 康平、情報処理学会 音学シンポジウム2025、学生優秀発表賞、2025年6月
+* 菅野 滉大、情報処理学会 音学シンポジウム2024、学生優秀発表賞、2024年6月
+* 麻生 玲、EMM研究会、学生研究賞、2024年3月
+* 小倉 稜也、日本音響学会秋季研究発表会、学生優秀発表賞、2024年3月
 * 永森輝、2023 RISP International Workshop on Nonlinear Circuits, Communications and Signal Processing NCSP'23 Student Paper Award、2023年3月
 * Zheng Qi、2023 RISP International Workshop on Nonlinear Circuits, Communications and Signal Processing NCSP'23 Student Paper Award、2023年3月
 * April Pyone Maung Maung, IEEE Signal Processing Society, IEEE SPS Japan Student Journal Paper Award, 2022年12月
@@ -69,6 +74,9 @@ Kiya and Shiota Research has received the following awards.
 
 ## Commendations
 
+* 塩田 さやか、電子情報通信学会 ISS、ISS活動功労賞、2026年6月
+* 塩田 さやか、APSIPA、KJRLiu_Mid-Career Award 2026、2026年6月
+* 塩田 さやか、日本音響学会、学会活動貢献賞、2023年3月
 * APSIPA、貴家仁志、2009年から2013年まで初代学術活動担当副会長としての功労、2013年10月30日
 * 2013 IEEE ISCE組織委員会、藤吉正明、2013 IEEE International Symposium on Consumer Electronics (ISCE)最優秀論文賞選定委員会への貢献、2013年6月5日
 * 首都大学東京、室伏辰耶、優秀学生卒業表彰、2013年3月25日
