@@ -3,6 +3,9 @@ import Layout from '../layouts/Layout.astro';
 import PageHero from '../components/PageHero.astro';
 import { getCollection } from 'astro:content';
 
+// /papers（デフォルトルート）で表示する年度（手動で書き換える）
+const PAPERS_DEFAULT_YEAR = 2025;
+
 const allPapers = await getCollection('papers');
 
 // 全年度のリストを取得（ナビゲーション用）
@@ -11,10 +14,9 @@ const allYears = [...new Set(
 )] as number[];
 allYears.sort((a, b) => b - a);
 
-// 最新年度を取得
-const latestYear = allYears[0];
+const latestYear = PAPERS_DEFAULT_YEAR;
 
-// 最新年度の論文を取得してタイプ別に分類
+// デフォルト年度の論文を取得してタイプ別に分類
 const yearPapers = allPapers
   .filter(paper => paper.data.year === latestYear)
   .sort((a, b) => a.data.title.localeCompare(b.data.title));
@@ -54,11 +56,14 @@ if (latestYear >= 2019) {
 
         <!-- 年度ナビゲーション -->
         <div class="year-navigation">
-          <a href="papers/" class="active">{latestYear}年</a>
-          {allYears.slice(1).map((navYear) => (
-            <a href={`papers/${navYear}/`}>
-              {navYear}年
-            </a>
+          {allYears.map((navYear) => (
+            navYear === latestYear ? (
+              <a href="papers/" class="active">{navYear}年</a>
+            ) : (
+              <a href={`papers/${navYear}/`}>
+                {navYear}年
+              </a>
+            )
           ))}
         </div>
 
