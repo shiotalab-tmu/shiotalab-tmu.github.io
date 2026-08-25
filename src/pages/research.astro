@@ -33,7 +33,7 @@ const sortedTopics = researchTopics.sort((a, b) => a.data.order - b.data.order);
             )}
             <div class="card-content">
               <p class="card-description">{topic.data.description}</p>
-              <a href={`research/${topic.slug}/`} class="card-button">詳細を見る</a>
+              <a href={`/research/${topic.slug}/`} class="card-button">詳細を見る</a>
             </div>
           </div>
         ))}
