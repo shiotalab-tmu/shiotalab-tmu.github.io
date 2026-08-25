@@ -156,7 +156,7 @@ const { Content } = await member.render();
     line-height: 1.8;
   }
 
-  .member-details h2 {
+  .member-details :global(h2) {
     color: var(--text-dark);
     font-size: 1.3rem;
     margin-top: 30px;
@@ -165,11 +165,11 @@ const { Content } = await member.render();
     border-bottom: 1px solid var(--gray-medium);
   }
 
-  .member-details h2:first-child {
+  .member-details :global(h2:first-of-type) {
     margin-top: 0;
   }
 
-  .member-details p {
+  .member-details :global(p) {
     margin: 15px 0;
   }
 

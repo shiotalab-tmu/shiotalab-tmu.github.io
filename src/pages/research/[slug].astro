@@ -180,32 +180,32 @@ const sortedResearch = allResearch.sort((a, b) => a.data.order - b.data.order);
     line-height: 1.8;
   }
 
-  .research-content h2 {
+  .research-content :global(h2) {
     color: var(--text-dark);
     font-size: 1.5rem;
     margin-top: 40px;
     margin-bottom: 20px;
   }
 
-  .research-content h3 {
+  .research-content :global(h3) {
     color: var(--text-dark);
     font-size: 1.3rem;
     margin-top: 30px;
     margin-bottom: 15px;
   }
 
-  .research-content ul {
+  .research-content :global(ul) {
     padding-left: 0;
     list-style: none;
   }
 
-  .research-content li {
+  .research-content :global(li) {
     position: relative;
     padding-left: 25px;
     margin: 8px 0;
   }
 
-  .research-content li::before {
+  .research-content :global(li)::before {
     content: '•';
     position: absolute;
     left: 10px;
