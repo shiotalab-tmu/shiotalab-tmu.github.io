@@ -2,7 +2,7 @@
 title: プライバシー保護
 titleEn: Privacy Protection
 description: テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト
-image: images/im_privacy@2x.jpg
+image: images/im_voice_privacy_ja@2x.webp
 order: 3
 ---
 

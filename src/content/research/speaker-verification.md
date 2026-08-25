@@ -2,7 +2,7 @@
 title: 話者照合
 titleEn: Speaker Verification
 description: 声の個人性を生体情報として利用し、入力された音声が登録された本人のものかどうかを判定する音声認証技術です。深層学習に基づく話者埋め込みによる、高精度で安全な話者照合の実現を目指しています。
-image: images/im_wasya@2x.jpg
+image: images/im_speaker_verification_ja@2x.webp
 order: 1
 ---
 
