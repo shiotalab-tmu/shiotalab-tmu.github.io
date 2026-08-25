@@ -7,6 +7,7 @@ interface Props {
 }
 
 const { title, description, image, link } = Astro.props;
+const isEnglish = link.startsWith('/en') || link.startsWith('en');
 ---
 
 <article class="research-card">
@@ -15,7 +16,7 @@ const { title, description, image, link } = Astro.props;
   </div>
   <div class="card-content">
     <p>{description}</p>
-    <a href={link} class="btn">詳細を見る</a>
+    <a href={link} class="btn">{isEnglish ? 'View Details' : '詳細を見る'}</a>
   </div>
 </article>
 

@@ -9,7 +9,7 @@ organization: ""
 
 貴家・塩田研究グループでは以下のような賞や表彰を受けています
 
-## 賞
+## 受賞
 
 * 永森輝、2023 RISP International Workshop on Nonlinear Circuits, Communications and Signal Processing NCSP'23 Student Paper Award、2023年3月
 * Zheng Qi、2023 RISP International Workshop on Nonlinear Circuits, Communications and Signal Processing NCSP'23 Student Paper Award、2023年3月
