@@ -219,9 +219,9 @@ alumni:
 
   - name: エイプリル ピョン マウン マウン
     nameEn: April Pyone Maung Maung
-    affiliation: Rinna株式会社
-    affiliationEn: Rinna Inc.
-    url: https://rinna.co.jp/
+    affiliation: 国立情報学研究所
+    affiliationEn: NII
+    url: https://www.nii.ac.jp/
 
   - name: 飯田 健太
     nameEn: Kenta Iida

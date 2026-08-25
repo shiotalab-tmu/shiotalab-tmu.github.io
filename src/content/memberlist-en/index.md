@@ -219,9 +219,9 @@ alumni:
 
   - name: April Pyone Maung Maung
     nameEn: April Pyone Maung Maung
-    affiliation: Rinna Inc.
-    affiliationEn: Rinna Inc.
-    url: https://rinna.co.jp/
+    affiliation: NII
+    affiliationEn: NII
+    url: https://www.nii.ac.jp/
 
   - name: Kenta Iida
     nameEn: Kenta Iida
