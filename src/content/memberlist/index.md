@@ -211,6 +211,12 @@ alumni:
     affiliationEn: Amivoice Thai
     url: http://www.amivoicethai.com/
 
+  - name: 木下 裕磨
+    nameEn: Yuma Kinoshita
+    affiliation: 東海大学
+    affiliationEn: Tokai University
+    url: https://www.u-tokai.ac.jp/
+
   - name: エイプリル ピョン マウン マウン
     nameEn: April Pyone Maung Maung
     affiliation: Rinna株式会社
@@ -222,6 +228,12 @@ alumni:
     affiliation: NEC
     affiliationEn: NEC Corporation
     url: https://jpn.nec.com/
+
+  - name: 中満 達也
+    nameEn: Tatsuya Chuman
+    affiliation: NTTファシリティーズ
+    affiliationEn: NTT Facilities
+    url: https://www.ntt-f.co.jp/
 ---
 
 # メンバーリスト
