@@ -10,5 +10,5 @@ url: "https://doi.org/10.1109/78.622960"
 doi: "https://doi.org/10.1109/78.622960"
 webpage: "http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=622960"
 publish: "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=622960"
-local: "https://www.notion.so/signed/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ff5f029f9-eee2-4bc2-b830-072ad5f6e7d5%2F9cdd14dc-46a0-45b4-8081-401610ed7c11%2Fieeetsp45_9_2376.pdf?table=block&id=3c7d54c3-53c8-8102-aa92-c707ac22f338"
+local: "https://www.notion.so/3c7d54c353c88102aa92c707ac22f338"
 ---

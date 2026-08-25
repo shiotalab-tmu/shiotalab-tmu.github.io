@@ -7,5 +7,5 @@ authors:
 year: 2023
 type: "domestic"
 venue: "Acoustical Society of Japan Autumn Meeting, pp. 1221-1224, 名古屋工業大学, 2023-09-27."
-local: "https://www.notion.so/signed/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ff5f029f9-eee2-4bc2-b830-072ad5f6e7d5%2F7b0593b6-a88e-4f96-845a-b3a9975f5558%2F20230731_niwa12.pdf?table=block&id=3c7d54c3-53c8-8113-91ab-e34df52935f6"
+local: "https://www.notion.so/3c7d54c353c8811391abe34df52935f6"
 ---

@@ -11,5 +11,5 @@ venue: "International Technical Conference on Circuits/Systems, Computers and Co
 url: "http://www.ieice.org/proceedings/ITC-CSCC2008/program/A3_abst.html#A3-3"
 webpage: "http://www.ieice.org/proceedings/ITC-CSCC2008/program/A3_abst.html#A3-3"
 publish: "http://www.ieice.org/proceedings/ITC-CSCC2008/pdf/p49_A3-3.pdf"
-local: "https://www.notion.so/signed/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ff5f029f9-eee2-4bc2-b830-072ad5f6e7d5%2Fffedd968-9a28-4afb-a19e-0576bbea1707%2Fitc-cscc2008_07_hosaka.pdf?table=block&id=3c7d54c3-53c8-81de-8944-f48f7b155558"
+local: "https://www.notion.so/3c7d54c353c881de8944f48f7b155558"
 ---

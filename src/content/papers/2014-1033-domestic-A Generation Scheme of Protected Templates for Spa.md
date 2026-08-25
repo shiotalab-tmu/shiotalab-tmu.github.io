@@ -12,5 +12,5 @@ venue: "Technical Report of IEICE, Vol. 113, No. 433, pp. IE2013-107, 札幌市�
 url: "http://www.ieice.org/ken/paper/201402179B9z/eng/"
 webpage: "http://www.ieice.org/ken/paper/201402179B9z/eng/"
 publish: "https://www.ieice.org/ken/user/index.php?cmd=login&back_url=http%3A%2F%2Fwww.ieice.org%2Fken%2Fpaper%2F201402179B9z%2F"
-local: "https://www.notion.so/signed/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ff5f029f9-eee2-4bc2-b830-072ad5f6e7d5%2F8feceda6-36f4-4bf0-aa3c-7f5300f1413c%2FIE2013-107.pdf?table=block&id=3c7d54c3-53c8-81a9-bd65-d4f235d3d2e1"
+local: "https://www.notion.so/3c7d54c353c881a9bd65d4f235d3d2e1"
 ---

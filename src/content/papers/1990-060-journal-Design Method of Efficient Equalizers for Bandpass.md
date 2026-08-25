@@ -9,5 +9,5 @@ type: "journal"
 venue: "IEICE Trans., Vol. J73-A, No. 5, pp. 955-960, 1990-05-01."
 url: "http://search.ieice.org/bin/summary.php?id=j73-a_5_955&category=A&year=1990&lang=E&abst=j"
 webpage: "http://search.ieice.org/bin/summary.php?id=j73-a_5_955&category=A&year=1990&lang=E&abst=j"
-local: "https://www.notion.so/signed/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ff5f029f9-eee2-4bc2-b830-072ad5f6e7d5%2F8241d7f8-70f0-48c1-abb6-981c970c362f%2Fj73-a_5_955.pdf?table=block&id=3c7d54c3-53c8-81cf-b6c9-f424a6bf0137"
+local: "https://www.notion.so/3c7d54c353c881cfb6c9f424a6bf0137"
 ---
