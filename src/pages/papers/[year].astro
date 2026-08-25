@@ -21,6 +21,8 @@ export async function getStaticPaths() {
 
 const { year } = Astro.props;
 const allPapers = await getCollection('papers');
+const englishPapers = await getCollection('papers-en');
+const hasEnglishYear = englishPapers.some(paper => paper.data.year === year);
 
 // 全年度のリストを取得（ナビゲーション用）
 const allYears = [...new Set(
@@ -53,7 +55,7 @@ if (year >= 2019) {
 }
 ---
 
-<Layout title={`${year}年の研究業績`}>
+<Layout title={`${year}年の研究業績`} alternateHref={hasEnglishYear ? `en/papers/${year}/` : 'en/papers/'}>
   <PageHero 
     titleEn="PAPERS" 
     subtitle={`${year}年の研究業績`} 

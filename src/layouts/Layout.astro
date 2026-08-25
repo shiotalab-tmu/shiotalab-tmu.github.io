@@ -7,9 +7,15 @@ interface Props {
 	title: string;
 	description?: string;
 	lang?: 'ja' | 'en';
+	alternateHref?: string;
 }
 
-const { title, description = '塩田・貴家研究室 - 東京都立大学 システムデザイン学部', lang = 'ja' } = Astro.props;
+const {
+	title,
+	description = '塩田・貴家研究室 - 東京都立大学 システムデザイン学部',
+	lang = 'ja',
+	alternateHref,
+} = Astro.props;
 ---
 
 <!doctype html>
@@ -27,7 +33,7 @@ const { title, description = '塩田・貴家研究室 - 東京都立大学 シ�
 		<title>塩田・貴家研究室 | {title}</title>
 	</head>
 	<body>
-		<Header lang={lang} />
+		<Header lang={lang} alternateHref={alternateHref} />
 		<main>
 			<slot />
 		</main>

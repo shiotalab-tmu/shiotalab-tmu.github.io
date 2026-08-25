@@ -1,15 +1,15 @@
 ---
-title: "受賞・表彰"
+title: "Awards"
 recipient: ""
 year: 0
 organization: ""
 ---
 
-# 受賞・表彰
+# Awards
 
-貴家・塩田研究グループでは以下のような賞や表彰を受けています
+Kiya and Shiota Research has received the following awards.
 
-## 賞
+## Awards
 
 * 永森輝、2023 RISP International Workshop on Nonlinear Circuits, Communications and Signal Processing NCSP'23 Student Paper Award、2023年3月
 * Zheng Qi、2023 RISP International Workshop on Nonlinear Circuits, Communications and Signal Processing NCSP'23 Student Paper Award、2023年3月
@@ -67,7 +67,7 @@ organization: ""
 * 第5回映像情報メディア学会研究奨励賞、安藤勝俊、"レイヤー構造を利用したJPEG2000符号化画像の効果的暗号化法"、2002年11月28日
 * 第14回電子情報通信学会回路とシステム（軽井沢）ワークショップ 奨励賞、黒崎正行、"電子透かしを用いた動画像符号化におけるエラー隠蔽法"、2002年4月22日
 
-## 表彰
+## Commendations
 
 * APSIPA、貴家仁志、2009年から2013年まで初代学術活動担当副会長としての功労、2013年10月30日
 * 2013 IEEE ISCE組織委員会、藤吉正明、2013 IEEE International Symposium on Consumer Electronics (ISCE)最優秀論文賞選定委員会への貢献、2013年6月5日
