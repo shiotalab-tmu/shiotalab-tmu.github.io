@@ -1,6 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import PageHero from '../../components/PageHero.astro';
+import PaperLinks from '../../components/PaperLinks.astro';
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -88,9 +89,7 @@ if (year >= 2019) {
                   {paper.data.authors.join(', ')},<br/>
                   "{paper.data.title}",<br/>
                   {paper.data.venue}
-                  {paper.data.url && (
-                    <> [<a href={paper.data.url} style="color: #008080" target="_blank">Link</a>]</>
-                  )}
+                  <PaperLinks paper={paper.data} />
                 </li>
               ))}
             </ol>
@@ -106,9 +105,7 @@ if (year >= 2019) {
                   {paper.data.authors.join(', ')},<br/>
                   "{paper.data.title}",<br/>
                   {paper.data.venue}
-                  {paper.data.url && (
-                    <> [<a href={paper.data.url} style="color: #008080" target="_blank">Link</a>]</>
-                  )}
+                  <PaperLinks paper={paper.data} />
                 </li>
               ))}
             </ol>
@@ -124,9 +121,7 @@ if (year >= 2019) {
                   {paper.data.authors.join(', ')},<br/>
                   "{paper.data.title}",<br/>
                   {paper.data.venue}
-                  {paper.data.url && (
-                    <> [<a href={paper.data.url} style="color: #008080" target="_blank">Link</a>]</>
-                  )}
+                  <PaperLinks paper={paper.data} />
                 </li>
               ))}
             </ol>

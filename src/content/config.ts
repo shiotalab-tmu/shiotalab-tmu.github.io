@@ -84,28 +84,27 @@ const memberListEnCollection = defineCollection({
   }),
 });
 
+const paperSchema = z.object({
+  title: z.string(),
+  authors: z.array(z.string()),
+  year: z.number(),
+  type: z.enum(['journal', 'international', 'domestic']),
+  venue: z.string(),
+  url: z.string().optional(),
+  doi: z.string().optional(),
+  webpage: z.string().optional(),
+  publish: z.string().optional(),
+  local: z.string().optional(),
+});
+
 const papersCollection = defineCollection({
   type: 'content',
-  schema: z.object({
-    title: z.string(),
-    authors: z.array(z.string()),
-    year: z.number(),
-    type: z.enum(['journal', 'international', 'domestic']),
-    venue: z.string(),
-    url: z.string().optional(),
-  }),
+  schema: paperSchema,
 });
 
 const papersEnCollection = defineCollection({
   type: 'content',
-  schema: z.object({
-    title: z.string(),
-    authors: z.array(z.string()),
-    year: z.number(),
-    type: z.enum(['journal', 'international', 'domestic']),
-    venue: z.string(),
-    url: z.string().optional(),
-  }),
+  schema: paperSchema,
 });
 
 const awardsCollection = defineCollection({

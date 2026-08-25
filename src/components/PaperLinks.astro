@@ -1,0 +1,31 @@
+---
+// 論文1件分のリンク群([DOI] [webpage] [Publish] [Local])を表示する
+// 個別リンクが1つもない場合は従来の単一urlを[Link]として表示する
+interface PaperData {
+  url?: string;
+  doi?: string;
+  webpage?: string;
+  publish?: string;
+  local?: string;
+}
+
+interface Props {
+  paper: PaperData;
+}
+
+const { paper } = Astro.props;
+
+let links = [
+  { label: 'DOI', href: paper.doi },
+  { label: 'webpage', href: paper.webpage },
+  { label: 'Publish', href: paper.publish },
+  { label: 'Local', href: paper.local },
+].filter((link): link is { label: string; href: string } => !!link.href);
+
+if (links.length === 0 && paper.url) {
+  links = [{ label: 'Link', href: paper.url }];
+}
+---
+{links.map((link) => (
+  <> [<a href={link.href} style="color: #008080" target="_blank">{link.label}</a>]</>
+))}

@@ -229,17 +229,18 @@ function generateMarkdown(paper: Paper): string {
   // venue
   const venue = cleanString(buildVenueString(paper));
 
-  // URL (優先順位: DOI > eurl > jurl > ppdfurl)
-  let url: string | null = null;
-  if (paper.doi) {
-    url = `https://doi.org/${paper.doi}`;
-  } else if (paper.urls.english) {
-    url = paper.urls.english;
-  } else if (paper.urls.japanese) {
-    url = paper.urls.japanese;
-  } else if (paper.urls.presentation_pdf) {
-    url = paper.urls.presentation_pdf;
+  // リンク各種(旧サイト準拠: DOI / webpage / Publish / Local)
+  const doi = paper.doi ? `https://doi.org/${paper.doi}` : null;
+  const webpage = paper.urls.english || paper.urls.japanese;
+  const publish = paper.urls.presentation_pdf;
+  // rpdfurlは絶対URLのみ使用(相対パスの旧ローカルパスは出さない)
+  let local: string | null = paper.urls.review_pdf?.trim() || null;
+  if (local && !/^https?:\/\//.test(local)) {
+    local = null;
   }
+
+  // 後方互換の単一URL (優先順位: DOI > eurl > jurl > ppdfurl)
+  const url = doi || webpage || publish;
 
   // Frontmatterオブジェクトを構築
   const frontmatter: Record<string, any> = {
@@ -252,6 +253,18 @@ function generateMarkdown(paper: Paper): string {
 
   if (url) {
     frontmatter.url = url;
+  }
+  if (doi) {
+    frontmatter.doi = doi;
+  }
+  if (webpage) {
+    frontmatter.webpage = webpage;
+  }
+  if (publish) {
+    frontmatter.publish = publish;
+  }
+  if (local) {
+    frontmatter.local = local;
   }
 
   // js-yamlで安全にYAMLに変換
