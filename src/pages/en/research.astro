@@ -1,0 +1,49 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import PageHero from '../../components/PageHero.astro';
+import { getCollection } from 'astro:content';
+
+const researchTopics = await getCollection('research-en');
+const sortedTopics = researchTopics.sort((a, b) => a.data.order - b.data.order);
+---
+
+<Layout title="Research" lang="en">
+  <PageHero
+    titleEn="RESEARCH"
+    subtitle="Research Topics"
+    image="images/sub_resrarch@2x.jpg"
+  />
+
+  <section class="content-section">
+    <div class="container">
+      <div class="intro-text">
+        <p>
+          Text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text
+        </p>
+      </div>
+
+      <div class="research-grid grid-3">
+        {sortedTopics.map((topic) => (
+          <div class="research-card card">
+            {topic.data.image && (
+              <div class="card-image">
+                <img src={topic.data.image} alt={topic.data.titleEn || topic.data.title} />
+              </div>
+            )}
+            <div class="card-content">
+              <p class="card-description">{topic.data.description}</p>
+              <a href={`en/research/${topic.slug}/`} class="card-button">View Details</a>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .research-grid {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+</style>

@@ -1,4 +1,9 @@
 ---
+interface Props {
+  lang?: 'ja' | 'en';
+}
+
+const { lang = 'ja' } = Astro.props;
 ---
 
 <section class="hero">
@@ -8,8 +13,11 @@
   <div class="hero-content">
     <div class="container">
       <h1 class="hero-title">
-        当研究室では音声や画像と言ったマルチメディア情報を用いた<br/>
-        信号処理および機械学習に関する研究を行っています。
+        {lang === 'ja' ? (
+          <>当研究室では音声や画像と言ったマルチメディア情報を用いた<br/>信号処理および機械学習に関する研究を行っています。</>
+        ) : (
+          <>We conduct research on signal processing and machine learning<br/>using multimedia information such as audio and images.</>
+        )}
       </h1>
     </div>
   </div>

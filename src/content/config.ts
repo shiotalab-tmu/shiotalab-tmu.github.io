@@ -13,7 +13,49 @@ const membersCollection = defineCollection({
   }),
 });
 
+const membersEnCollection = defineCollection({
+  type: 'content',
+  schema: z.object({
+    name: z.string(),
+    nameEn: z.string().optional(),
+    role: z.string(),
+    photo: z.string().optional(),
+    email: z.string().optional(),
+    research: z.array(z.string()).optional(),
+    order: z.number().default(999),
+  }),
+});
+
 const memberListCollection = defineCollection({
+  type: 'content',
+  schema: z.object({
+    faculty: z.array(z.object({
+      name: z.string(),
+      nameEn: z.string().optional(),
+      role: z.string(),
+      roleEn: z.string(),
+      slug: z.string(),
+    })),
+    students: z.array(z.object({
+      section: z.string(),
+      sectionEn: z.string(),
+      members: z.array(z.object({
+        name: z.string(),
+        nameEn: z.string().optional(),
+        year: z.string(),
+      })),
+    })),
+    alumni: z.array(z.object({
+      name: z.string(),
+      nameEn: z.string(),
+      affiliation: z.string(),
+      affiliationEn: z.string(),
+      url: z.string(),
+    })),
+  }),
+});
+
+const memberListEnCollection = defineCollection({
   type: 'content',
   schema: z.object({
     faculty: z.array(z.object({
@@ -54,7 +96,29 @@ const papersCollection = defineCollection({
   }),
 });
 
+const papersEnCollection = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    authors: z.array(z.string()),
+    year: z.number(),
+    type: z.enum(['journal', 'international', 'domestic']),
+    venue: z.string(),
+    url: z.string().optional(),
+  }),
+});
+
 const awardsCollection = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    recipient: z.string(),
+    year: z.number(),
+    organization: z.string(),
+  }),
+});
+
+const awardsEnCollection = defineCollection({
   type: 'content',
   schema: z.object({
     title: z.string(),
@@ -75,7 +139,28 @@ const researchCollection = defineCollection({
   }),
 });
 
+const researchEnCollection = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    titleEn: z.string(),
+    description: z.string(),
+    image: z.string().optional(),
+    order: z.number().default(999),
+  }),
+});
+
 const graduatesCollection = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    titleEn: z.string(),
+    description: z.string(),
+    descriptionEn: z.string(),
+  }),
+});
+
+const graduatesEnCollection = defineCollection({
   type: 'content',
   schema: z.object({
     title: z.string(),
@@ -87,9 +172,15 @@ const graduatesCollection = defineCollection({
 
 export const collections = {
   'members': membersCollection,
+  'members-en': membersEnCollection,
   'memberlist': memberListCollection,
+  'memberlist-en': memberListEnCollection,
   'papers': papersCollection,
+  'papers-en': papersEnCollection,
   'awards': awardsCollection,
+  'awards-en': awardsEnCollection,
   'research': researchCollection,
+  'research-en': researchEnCollection,
   'graduates': graduatesCollection,
+  'graduates-en': graduatesEnCollection,
 };

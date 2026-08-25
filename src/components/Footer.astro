@@ -31,8 +31,17 @@ const footerLinks = lang === 'ja' ? [
       </div>
       
       <div class="footer-info">
-        <p>〒191-0065　東京都日野市旭が丘6-6</p>
-        <p>東京都立大学システムデザイン学部　2号館6階602</p>
+        {lang === 'ja' ? (
+          <>
+            <p>〒191-0065　東京都日野市旭が丘6-6</p>
+            <p>東京都立大学システムデザイン学部　2号館6階602</p>
+          </>
+        ) : (
+          <>
+            <p>6-6 Asahigaoka, Hino-shi, Tokyo 191-0065</p>
+            <p>Room 602, 6th Floor, Building 2, Faculty of Systems Design, Tokyo Metropolitan University</p>
+          </>
+        )}
       </div>
 
       <nav class="footer-nav">

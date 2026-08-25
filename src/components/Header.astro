@@ -1,9 +1,18 @@
 ---
 interface Props {
   lang?: 'ja' | 'en';
+  alternateHref?: string;
 }
 
-const { lang = 'ja' } = Astro.props;
+const { lang = 'ja', alternateHref } = Astro.props;
+const basePath = import.meta.env.BASE_URL;
+const currentPath = Astro.url.pathname.startsWith(basePath)
+  ? Astro.url.pathname.slice(basePath.length)
+  : Astro.url.pathname.replace(/^\//, '');
+const defaultAlternateHref = lang === 'ja'
+  ? `en/${currentPath}`
+  : currentPath.replace(/^en\/?/, '');
+const languageHref = alternateHref ?? defaultAlternateHref;
 
 const menuItems = lang === 'ja' ? [
   { href: '', label: 'HOME' },
@@ -31,8 +40,8 @@ const menuItems = lang === 'ja' ? [
         </a>
         <div class="header-right">
           <div class="lang-switcher">
-            <a href="" class={lang === 'ja' ? 'active' : ''}>日</a>
-            <a href="en/" class={lang === 'en' ? 'active' : ''}>EN</a>
+            <a href={lang === 'ja' ? currentPath : languageHref} class={lang === 'ja' ? 'active' : ''}>日</a>
+            <a href={lang === 'en' ? currentPath : languageHref} class={lang === 'en' ? 'active' : ''}>EN</a>
           </div>
           <button class="menu-toggle" id="menu-toggle">
             <span></span>
