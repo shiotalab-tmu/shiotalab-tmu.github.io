@@ -2,7 +2,7 @@
 title: Speaker Verification
 titleEn: Speaker Verification
 description: Text text text text text text text text text text text text text text text text
-image: images/im_wasya@2x.jpg
+image: images/im_speaker_verification_en@2x.webp
 order: 1
 ---
 
