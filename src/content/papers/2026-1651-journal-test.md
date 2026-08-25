@@ -1,0 +1,8 @@
+---
+title: "test"
+authors:
+  - "Takuo YAMAGUCHI"
+year: 2026
+type: "journal"
+venue: "IEICE Trans. Fundamentals, 2026-08-25."
+---
