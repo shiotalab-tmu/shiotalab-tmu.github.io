@@ -28,9 +28,13 @@ const { faculty, students, alumni } = memberList.data;
             {faculty.map((member) => (
               <div class="faculty-item">
                 <span class="role-label">{member.roleEn}</span>
-                <a href={member.slug ? `en/members/${member.slug}/` : undefined} class="name-jp-link">
-                  {member.nameEn || member.name}
-                </a>
+                {member.slug ? (
+                  <a href={`en/members/${member.slug}/`} class="name-jp-link">
+                    {member.nameEn || member.name}
+                  </a>
+                ) : (
+                  <span class="name-jp-link">{member.nameEn || member.name}</span>
+                )}
                 <span class="name-en">{member.name}</span>
                 <span class="position">
                   {member.roleEn}

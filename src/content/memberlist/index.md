@@ -21,55 +21,68 @@ faculty:
 students:
   - section: 博士後期課程学生
     sectionEn: Doctoral Students
-    members: []
+    members:
+      - name: 田中 康平
+        nameEn: Kohei Tanaka
+        year: D1
 
   - section: 博士前期課程学生
     sectionEn: Master's Students
     members:
-      - name: 難波 栄輝
-        nameEn: Haruto Namba
-        year: M2
-      - name: 田中 康平
-        nameEn: Kohei Tanaka
-        year: M2
-      - name: 菅野 滉大
-        nameEn: Kouta Kanno
-        year: M2
-      - name: 鄒 恒毅
-        nameEn: Hengyi Zou
+      - name: 冨永 陽也
+        nameEn: Haruya Tominaga
         year: M2
       - name: 古林 嵯羽仁
         nameEn: Sawato Furubayashi
-        year: M1
-      - name: 山口 拓生
-        nameEn: Takuo Yamaguchi
-        year: M1
-      - name: 冨永 陽也
-        nameEn: Haruya Tominaga
-        year: M1
+        year: M2
       - name: 堀江 涼花
         nameEn: Suzuka Horie
+        year: M2
+      - name: 山口 拓生
+        nameEn: Takuo Yamaguchi
+        year: M2
+      - name: 安藤 栄規
+        nameEn: Hiroki Ando
+        year: M1
+      - name: 盛 文静
+        nameEn: Bunsei Sei
+        year: M1
+      - name: 堤 歩斗
+        nameEn: Ayuto Tsutsumi
+        year: M1
+      - name: 渡邉 真子
+        nameEn: Mako Watanabe
         year: M1
 
   - section: 学部生
     sectionEn: Undergraduate Students
     members:
-      - name: 堤 歩斗
-        nameEn: Ayuto Tsutsumi
+      - name: 井本 旺我
+        nameEn: Oga Imoto
         year: B4
-      - name: 安藤 栄規
-        nameEn: Hiroki Ando
+      - name: 髙安 利玖
+        nameEn: Riku Takayasu
         year: B4
-      - name: オリモブ ムハマドオリム
-        nameEn: Mukhammadolim Olimov
+      - name: 橋本 律希
+        nameEn: Ritsuki Hashimoto
         year: B4
-      - name: 渡邉 真子
-        nameEn: Mako Watanabe
+      - name: 森嶋 優生
+        nameEn: Yuna Morishima
+        year: B4
+      - name: 山田 宙
+        nameEn: Sora Yamada
         year: B4
 
   - section: 研究生
     sectionEn: Research Students
     members: []
+
+  - section: インターンシップ研修生
+    sectionEn: Internship Trainees
+    members:
+      - name: 菅野 滉大
+        nameEn: Kouta Kanno
+        year: ""
 
 alumni:
   - name: 西川 清史

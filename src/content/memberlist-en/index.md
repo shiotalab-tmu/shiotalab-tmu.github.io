@@ -21,55 +21,68 @@ faculty:
 students:
   - section: Doctoral Students
     sectionEn: Doctoral Students
-    members: []
+    members:
+      - name: Kohei Tanaka
+        nameEn: Kohei Tanaka
+        year: D1
 
   - section: Master's Students
     sectionEn: Master's Students
     members:
-      - name: Haruto Namba
-        nameEn: Haruto Namba
-        year: M2
-      - name: Kohei Tanaka
-        nameEn: Kohei Tanaka
-        year: M2
-      - name: Kouta Kanno
-        nameEn: Kouta Kanno
-        year: M2
-      - name: Hengyi Zou
-        nameEn: Hengyi Zou
+      - name: Haruya Tominaga
+        nameEn: Haruya Tominaga
         year: M2
       - name: Sawato Furubayashi
         nameEn: Sawato Furubayashi
-        year: M1
-      - name: Takuo Yamaguchi
-        nameEn: Takuo Yamaguchi
-        year: M1
-      - name: Haruya Tominaga
-        nameEn: Haruya Tominaga
-        year: M1
+        year: M2
       - name: Suzuka Horie
         nameEn: Suzuka Horie
+        year: M2
+      - name: Takuo Yamaguchi
+        nameEn: Takuo Yamaguchi
+        year: M2
+      - name: Hiroki Ando
+        nameEn: Hiroki Ando
+        year: M1
+      - name: Bunsei Sei
+        nameEn: Bunsei Sei
+        year: M1
+      - name: Ayuto Tsutsumi
+        nameEn: Ayuto Tsutsumi
+        year: M1
+      - name: Mako Watanabe
+        nameEn: Mako Watanabe
         year: M1
 
   - section: Undergraduate Students
     sectionEn: Undergraduate Students
     members:
-      - name: Ayuto Tsutsumi
-        nameEn: Ayuto Tsutsumi
+      - name: Oga Imoto
+        nameEn: Oga Imoto
         year: B4
-      - name: Hiroki Ando
-        nameEn: Hiroki Ando
+      - name: Riku Takayasu
+        nameEn: Riku Takayasu
         year: B4
-      - name: Mukhammadolim Olimov
-        nameEn: Mukhammadolim Olimov
+      - name: Ritsuki Hashimoto
+        nameEn: Ritsuki Hashimoto
         year: B4
-      - name: Mako Watanabe
-        nameEn: Mako Watanabe
+      - name: Yuna Morishima
+        nameEn: Yuna Morishima
+        year: B4
+      - name: Sora Yamada
+        nameEn: Sora Yamada
         year: B4
 
   - section: Research Students
     sectionEn: Research Students
     members: []
+
+  - section: Internship Trainees
+    sectionEn: Internship Trainees
+    members:
+      - name: Kouta Kanno
+        nameEn: Kouta Kanno
+        year: ""
 
 alumni:
   - name: Kiyoshi Nishikawa
