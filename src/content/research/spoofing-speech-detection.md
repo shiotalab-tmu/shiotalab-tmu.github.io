@@ -1,6 +1,6 @@
 ---
-title: なりすまし検出
-titleEn: Deepfake Detection
+title: なりすまし音声検出
+titleEn: Spoofing Speech Detection
 description: 入力された音声が、人間が実際に発声したものか否かを識別する技術です。深層学習や音声信号処理の活用、データベースの構築などを通じて、頑健ななりすまし音声検出のモデルの構築に取り組んでいます。
 image: images/im_spoofing_detection_ja@2x.webp
 order: 2
