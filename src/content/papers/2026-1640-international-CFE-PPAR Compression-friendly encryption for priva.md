@@ -8,4 +8,6 @@ year: 2026
 type: "international"
 venue: "IEEE International Conference on Image Processing, 2026-09-13."
 url: "https://arxiv.org/abs/2605.05692"
+webpage: "https://arxiv.org/abs/2605.05692"
+publish: "https://arxiv.org/pdf/2605.05692"
 ---

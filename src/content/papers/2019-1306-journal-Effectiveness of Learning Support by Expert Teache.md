@@ -8,4 +8,6 @@ year: 2019
 type: "journal"
 venue: "Educational technology research, Vol. 41, No. 1, pp. 25-38, 2019-02-28."
 url: "https://www.jstage.jst.go.jp/article/etr/41/1/41_42090/_article/-char/ja"
+webpage: "https://www.jstage.jst.go.jp/article/etr/41/1/41_42090/_article/-char/ja"
+publish: "https://www.jstage.jst.go.jp/article/etr/41/1/41_42090/_pdf/-char/ja"
 ---

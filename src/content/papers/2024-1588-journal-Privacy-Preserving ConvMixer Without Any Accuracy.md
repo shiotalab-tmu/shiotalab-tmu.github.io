@@ -8,4 +8,6 @@ year: 2024
 type: "journal"
 venue: "MDPI Information, Vol. 15, No. 11, p. 723, 2024-11-11."
 url: "https://doi.org/https://doi.org/10.3390/info15110723"
+doi: "https://doi.org/https://doi.org/10.3390/info15110723"
+webpage: "https://www.mdpi.com/2078-2489/15/11/723"
 ---

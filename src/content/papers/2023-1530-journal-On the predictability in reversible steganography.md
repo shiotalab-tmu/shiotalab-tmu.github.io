@@ -10,4 +10,6 @@ year: 2023
 type: "journal"
 venue: "Telecommunication Systems, 2023-01-09."
 url: "https://doi.org/https://doi.org/10.1007/s11235-022-00985-0"
+doi: "https://doi.org/https://doi.org/10.1007/s11235-022-00985-0"
+webpage: "https://link.springer.com/article/10.1007/s11235-022-00985-0"
 ---

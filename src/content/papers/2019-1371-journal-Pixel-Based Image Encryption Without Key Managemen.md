@@ -8,4 +8,7 @@ year: 2019
 type: "journal"
 venue: "IEEE Access, Vol. 7, pp. 177844-177855, 2019-12-12."
 url: "https://doi.org/10.1109/ACCESS.2019.2959017"
+doi: "https://doi.org/10.1109/ACCESS.2019.2959017"
+webpage: "https://ieeexplore.ieee.org/document/8931606"
+publish: "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8931606&isnumber=8600701"
 ---

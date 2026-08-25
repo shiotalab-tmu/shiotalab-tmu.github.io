@@ -9,4 +9,5 @@ year: 2006
 type: "domestic"
 venue: "IEEE Tokyo Young Researchers Workshop, pp. K-1, 東京都目黒区, 2006-12-11."
 url: "http://www.young-researchers.net/tyrw3rd/submit/abstract.html#K"
+webpage: "http://www.young-researchers.net/tyrw3rd/submit/abstract.html#K"
 ---

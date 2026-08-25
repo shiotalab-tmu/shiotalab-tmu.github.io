@@ -9,4 +9,6 @@ year: 2022
 type: "journal"
 venue: "IEEE Access, Vol. 10, pp. 89051-89062, 2022-08-19."
 url: "https://doi.org/10.1109/ACCESS.2022.3200391"
+doi: "https://doi.org/10.1109/ACCESS.2022.3200391"
+webpage: "https://ieeexplore.ieee.org/document/9863833/"
 ---

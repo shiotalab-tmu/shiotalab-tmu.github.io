@@ -8,4 +8,7 @@ year: 2013
 type: "domestic"
 venue: "Technical Report of IEICE, Vol. 113, No. 138, pp. EMM2013-28, 札幌市白石区, 2013-07-18."
 url: "http://www.ieice.org/ken/paper/20130718GBex/eng/"
+webpage: "http://www.ieice.org/ken/paper/20130718GBex/eng/"
+publish: "https://www.ieice.org/ken/user/index.php?cmd=login&back_url=http%3A%2F%2Fwww.ieice.org%2Fken%2Fpaper%2F20130718GBex%2F"
+local: "https://www.notion.so/signed/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ff5f029f9-eee2-4bc2-b830-072ad5f6e7d5%2Fc53d4c36-062b-4dcd-9614-55985de206ee%2FEMM2013-28.pdf?table=block&id=3c7d54c3-53c8-814c-b89d-dd6a3de8ab45"
 ---

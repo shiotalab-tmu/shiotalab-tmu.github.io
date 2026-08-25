@@ -8,4 +8,5 @@ year: 2024
 type: "domestic"
 venue: "Technical Report of IEICE, Vol. 123, No. 332, pp. 26-31, 東北大, 2024-01-17."
 url: "https://ken.ieice.org/ken/paper/20240117ecAp/"
+webpage: "https://ken.ieice.org/ken/paper/20240117ecAp/"
 ---

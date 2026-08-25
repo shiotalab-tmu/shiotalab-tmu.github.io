@@ -9,4 +9,5 @@ year: 2025
 type: "international"
 venue: "ISCA International Conference on Interspeech, pp. 3913-3917, ロッテルダム, 2025-08-20."
 url: "https://www.isca-archive.org/interspeech_2025/shiota25_interspeech.html"
+webpage: "https://www.isca-archive.org/interspeech_2025/shiota25_interspeech.html"
 ---

@@ -7,4 +7,5 @@ year: 2021
 type: "international"
 venue: "ACM Workshop on Information Hiding and Multimedia Security, Brussels, Belgium, 2021-06-22."
 url: "https://arxiv.org/abs/2104.04241"
+publish: "https://arxiv.org/abs/2104.04241"
 ---

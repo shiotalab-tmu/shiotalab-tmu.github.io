@@ -8,4 +8,6 @@ year: 2023
 type: "journal"
 venue: "MDPI Sensors, Vol. 23, No. 7, 2023-03-23."
 url: "https://doi.org/10.3390/s23073400"
+doi: "https://doi.org/10.3390/s23073400"
+webpage: "https://www.mdpi.com/1424-8220/23/7/3400"
 ---

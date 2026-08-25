@@ -7,4 +7,5 @@ year: 2022
 type: "journal"
 venue: "APSIPA Trans. Signal and Information Processing, Vol. 11, No.1, e3, 2022-04-01."
 url: "https://arxiv.org/abs/2111.04506"
+publish: "https://arxiv.org/abs/2111.04506"
 ---

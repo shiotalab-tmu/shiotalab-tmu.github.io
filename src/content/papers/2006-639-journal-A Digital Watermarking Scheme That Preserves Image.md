@@ -8,4 +8,7 @@ year: 2006
 type: "journal"
 venue: "Systems and Computers in Japan, Vol. 37, No. 8, pp. 90-100, 2006-07-01."
 url: "https://doi.org/10.1002/scj.20257"
+doi: "https://doi.org/10.1002/scj.20257"
+webpage: "http://onlinelibrary.wiley.com/doi/10.1002/scj.20257/abstract"
+publish: "http://onlinelibrary.wiley.com/doi/10.1002/scj.20257/pdf"
 ---

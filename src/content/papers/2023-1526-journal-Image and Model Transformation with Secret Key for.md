@@ -9,4 +9,5 @@ year: 2023
 type: "journal"
 venue: "IEICE Trans. Inf. & Sys., Vol. E106.D, No. 1, pp. 2-11, 2023-01-01."
 url: "https://doi.org/10.1587/transinf.2022MUI0001"
+doi: "https://doi.org/10.1587/transinf.2022MUI0001"
 ---

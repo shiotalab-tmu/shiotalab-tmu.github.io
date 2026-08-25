@@ -8,4 +8,7 @@ year: 2026
 type: "international"
 venue: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. 21892-21894, 2026-05-08."
 url: "https://doi.org/10.1109/ICASSP55912.2026.11461019"
+doi: "https://doi.org/10.1109/ICASSP55912.2026.11461019"
+webpage: "https://ieeexplore.ieee.org/document/11461019"
+publish: "https://arxiv.org/pdf/2602.00604"
 ---

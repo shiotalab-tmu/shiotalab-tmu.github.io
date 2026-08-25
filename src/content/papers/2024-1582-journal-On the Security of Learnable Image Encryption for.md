@@ -8,4 +8,6 @@ year: 2024
 type: "journal"
 venue: "IEEE Access, Vol. 12, pp. 126415-126425, 2024-09-05."
 url: "https://doi.org/10.1109/ACCESS.2024.3454199"
+doi: "https://doi.org/10.1109/ACCESS.2024.3454199"
+webpage: "https://ieeexplore.ieee.org/document/10666663?source=authoralert"
 ---

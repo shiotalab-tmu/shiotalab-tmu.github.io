@@ -9,4 +9,6 @@ year: 2022
 type: "journal"
 venue: "Computer Speech and Language, Vol. 72, No. 101315, 2022-03-01."
 url: "https://doi.org/https://doi.org/10.1016/j.csl.2021.101315"
+doi: "https://doi.org/https://doi.org/10.1016/j.csl.2021.101315"
+webpage: "https://www.sciencedirect.com/science/article/pii/S0885230821001108?dgcid=author"
 ---

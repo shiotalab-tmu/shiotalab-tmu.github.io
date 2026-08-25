@@ -8,4 +8,6 @@ year: 2020
 type: "international"
 venue: "IEEE Global Conference on Consumer Electronics, pp. 222-226, Kobe, Japan, 2020-10-13."
 url: "https://ieeexplore.ieee.org/document/9291845"
+webpage: "https://ieeexplore.ieee.org/document/9291845"
+publish: "https://arxiv.org/abs/2012.08751"
 ---

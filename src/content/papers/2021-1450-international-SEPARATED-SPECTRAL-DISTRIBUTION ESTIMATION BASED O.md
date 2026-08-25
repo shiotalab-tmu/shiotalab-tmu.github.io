@@ -7,4 +7,6 @@ year: 2021
 type: "international"
 venue: "IEEE International Conference on Image Processing, pp. 1379-1383, Anchorage, Alaska, USA, 2021-09-21."
 url: "https://ieeexplore.ieee.org/document/9506040"
+webpage: "https://ieeexplore.ieee.org/document/9506040"
+publish: "https://arxiv.org/abs/2106.01861"
 ---

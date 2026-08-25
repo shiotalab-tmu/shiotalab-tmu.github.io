@@ -8,4 +8,6 @@ year: 2024
 type: "journal"
 venue: "APSIPA Trans. Signal and Information Processing, Vol. 13, No.1, e8, 2024-04-08."
 url: "https://doi.org/http://dx.doi.org/10.1561/116.00000012"
+doi: "https://doi.org/http://dx.doi.org/10.1561/116.00000012"
+webpage: "https://www.nowpublishers.com/article/Details/SIP-2024-0002"
 ---

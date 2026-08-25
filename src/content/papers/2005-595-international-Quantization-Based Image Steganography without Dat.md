@@ -9,4 +9,7 @@ year: 2005
 type: "international"
 venue: "IEEE International Symposium on Circuits and Systems, pp. C2L-R.5, Kobe, Japan, 2005-05-26."
 url: "https://doi.org/10.1109/ISCAS.2005.1465753"
+doi: "https://doi.org/10.1109/ISCAS.2005.1465753"
+webpage: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=1465753"
+publish: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1465753"
 ---

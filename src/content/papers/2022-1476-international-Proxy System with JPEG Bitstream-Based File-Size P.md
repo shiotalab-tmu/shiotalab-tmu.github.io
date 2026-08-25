@@ -7,4 +7,5 @@ year: 2022
 type: "international"
 venue: "International Workshop on Advanced Image Technology, pp. 54, Hong Kong, 2022-01-05."
 url: "https://arxiv.org/abs/2201.03469"
+publish: "https://arxiv.org/abs/2201.03469"
 ---

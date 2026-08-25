@@ -8,4 +8,7 @@ year: 2023
 type: "journal"
 venue: "ECTI Trans. Computer and Information Technology, Vol. 17, No. 3, pp. 409-419, 2023-09-02."
 url: "https://doi.org/https://doi.org/10.37936/ecti-cit.2023173.253320"
+doi: "https://doi.org/https://doi.org/10.37936/ecti-cit.2023173.253320"
+webpage: "https://ph01.tci-thaijo.org/index.php/ecticit/article/view/253320"
+publish: "https://ph01.tci-thaijo.org/index.php/ecticit/article/view/253320/171336"
 ---

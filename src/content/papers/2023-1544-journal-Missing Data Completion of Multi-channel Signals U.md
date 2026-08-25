@@ -11,4 +11,6 @@ year: 2023
 type: "journal"
 venue: "APSIPA Trans. Signal and Information Processing, Vol. 12, no.3, e16, 2023-04-25."
 url: "https://doi.org/http://dx.doi.org/10.1561/116.00000074"
+doi: "https://doi.org/http://dx.doi.org/10.1561/116.00000074"
+webpage: "https://www.nowpublishers.com/article/Details/SIP-2022-0074"
 ---

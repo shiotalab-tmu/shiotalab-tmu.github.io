@@ -8,4 +8,6 @@ year: 2023
 type: "journal"
 venue: "MDPI Journal of Imaging, Vol. 9, No. 4, 2023-04-01."
 url: "https://doi.org/https://doi.org/10.3390/jimaging9040085"
+doi: "https://doi.org/https://doi.org/10.3390/jimaging9040085"
+webpage: "https://www.mdpi.com/2313-433X/9/4/85"
 ---

@@ -9,4 +9,7 @@ year: 2006
 type: "international"
 venue: "IEEE Asia-Pacific Conference on Circuits and Systems, pp. D3-PM1-RM4.1, Singapore, 2006-12-07."
 url: "https://doi.org/10.1109/APCCAS.2006.342198"
+doi: "https://doi.org/10.1109/APCCAS.2006.342198"
+webpage: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4145774"
+publish: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4145774"
 ---

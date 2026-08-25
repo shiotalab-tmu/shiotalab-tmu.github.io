@@ -9,4 +9,7 @@ year: 2006
 type: "international"
 venue: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, pp. TPM2-5-1, Yonago, Japan, 2006-12-14."
 url: "https://doi.org/10.1109/ISPACS.2006.364761"
+doi: "https://doi.org/10.1109/ISPACS.2006.364761"
+webpage: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4212379"
+publish: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4212379"
 ---

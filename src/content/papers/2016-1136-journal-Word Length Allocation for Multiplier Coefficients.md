@@ -9,4 +9,5 @@ year: 2016
 type: "journal"
 venue: "IEEJ Transactions on Electronics, Information and Systems, Vol. 136, No. 9, 2016-09-01."
 url: "https://www.jstage.jst.go.jp/browse/ieejeiss"
+webpage: "https://www.jstage.jst.go.jp/browse/ieejeiss"
 ---

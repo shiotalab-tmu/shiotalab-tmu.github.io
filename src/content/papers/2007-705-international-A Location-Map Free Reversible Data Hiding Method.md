@@ -9,4 +9,7 @@ year: 2007
 type: "international"
 venue: "IEEE International Conference on Image Processing, Vol. III, pp. TA-P2.5, San Antonio, TX, the U.S., 2007-09-18."
 url: "https://doi.org/10.1109/ICIP.2007.4379295"
+doi: "https://doi.org/10.1109/ICIP.2007.4379295"
+webpage: "http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=4379295"
+publish: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4379295"
 ---

@@ -8,4 +8,6 @@ year: 2022
 type: "journal"
 venue: "Applied Sciences, Vol. 12, No. 19, 2022-09-20."
 url: "https://doi.org/10.3390/app12199418"
+doi: "https://doi.org/10.3390/app12199418"
+webpage: "https://www.mdpi.com/2076-3417/12/19/9418"
 ---

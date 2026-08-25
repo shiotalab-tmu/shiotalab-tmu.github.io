@@ -10,4 +10,5 @@ year: 2019
 type: "journal"
 venue: "APSIPA Trans. Signal and Information Processing, Vol. 8, pp. E3, 2019-01-01."
 url: "https://doi.org/10.1017/ATSIP.2018.29"
+doi: "https://doi.org/10.1017/ATSIP.2018.29"
 ---

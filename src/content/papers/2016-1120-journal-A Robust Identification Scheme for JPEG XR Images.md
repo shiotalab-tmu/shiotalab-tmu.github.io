@@ -8,4 +8,6 @@ year: 2016
 type: "journal"
 venue: "LNCS, T. Bräunl, B. McCane, M. Rivera, and X. Yu, Eds. Springer-Verlag, Vol. 9431, pp. 38-50, 2016-02-04."
 url: "https://doi.org/10.1007/978-3-319-29451-3_4"
+doi: "https://doi.org/10.1007/978-3-319-29451-3_4"
+publish: "http://link.springer.com/chapter/10.1007%2F978-3-319-29451-3_4"
 ---

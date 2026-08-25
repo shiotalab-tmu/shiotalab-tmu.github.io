@@ -9,4 +9,7 @@ year: 2005
 type: "journal"
 venue: "IEICE Trans., Vol. J88-D-II, No. 10, pp. 2037-2045, 2005-10-01."
 url: "http://search.ieice.org/bin/summary.php?id=j88-d2_10_2037&category=D&year=2005&lang=E&abst=j"
+webpage: "http://search.ieice.org/bin/summary.php?id=j88-d2_10_2037&category=D&year=2005&lang=E&abst=j"
+publish: "https://search.ieice.org/bin/pdf_link.php?category=D&lang=J&year=2005&fname=j88-d2_10_2037&abst="
+local: "https://www.notion.so/signed/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ff5f029f9-eee2-4bc2-b830-072ad5f6e7d5%2F71fdca62-aea5-47d8-ba6c-18d405a6bf00%2Fj88-d2_10_2037.pdf?table=block&id=3c7d54c3-53c8-812f-8506-da9118cf30f6"
 ---

@@ -8,4 +8,6 @@ year: 1970
 type: "journal"
 venue: "IEEE Open Journal of Signal Processing, 1970-01-01."
 url: "https://doi.org/10.1109/OJSP.2024.3419569"
+doi: "https://doi.org/10.1109/OJSP.2024.3419569"
+webpage: "https://ieeexplore.ieee.org/document/10572223"
 ---

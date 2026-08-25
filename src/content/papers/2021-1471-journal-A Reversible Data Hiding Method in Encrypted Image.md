@@ -8,4 +8,6 @@ year: 2021
 type: "journal"
 venue: "MDPI Journal of Imaging, Vol. 7, No. 12, 2021-12-07."
 url: "https://doi.org/10.3390/jimaging7120268"
+doi: "https://doi.org/10.3390/jimaging7120268"
+webpage: "https://www.mdpi.com/2313-433X/7/12/268"
 ---

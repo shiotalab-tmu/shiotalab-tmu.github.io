@@ -9,4 +9,5 @@ year: 2024
 type: "international"
 venue: "IEEE International Conference on Image Processing, Abu Dhabi, UAE, 2024-10-27."
 url: "https://arxiv.org/abs/2402.08200"
+publish: "https://arxiv.org/abs/2402.08200"
 ---

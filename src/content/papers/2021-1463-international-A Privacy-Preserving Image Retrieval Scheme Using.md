@@ -7,4 +7,6 @@ year: 2021
 type: "international"
 venue: "APSIPA Annual Summit and Conference, pp. 1846-1850, Tokyo, Japan, 2021-12-14."
 url: "https://ieeexplore.ieee.org/document/9689362"
+webpage: "https://ieeexplore.ieee.org/document/9689362"
+publish: "https://arxiv.org/abs/2109.01841"
 ---

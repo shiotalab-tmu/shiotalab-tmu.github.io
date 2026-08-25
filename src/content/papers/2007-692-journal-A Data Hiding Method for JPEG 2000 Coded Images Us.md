@@ -9,4 +9,7 @@ year: 2007
 type: "journal"
 venue: "Electronics and Communications in Japan, Part III, Vol. 90, No. 7, pp. 37-46, 2007-07-01."
 url: "https://doi.org/10.1002/ecjc.20286"
+doi: "https://doi.org/10.1002/ecjc.20286"
+webpage: "http://onlinelibrary.wiley.com/doi/10.1002/ecjc.20286/abstract"
+publish: "https://onlinelibrary.wiley.com/doi/10.1002/ecjc.20286/pdf"
 ---

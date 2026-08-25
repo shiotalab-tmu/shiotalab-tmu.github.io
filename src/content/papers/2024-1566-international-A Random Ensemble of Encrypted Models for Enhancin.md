@@ -8,4 +8,5 @@ year: 2024
 type: "international"
 venue: "RISP International Workshop on Nonlinear Circuits, Communications and Signal Processing, Hawaii, 2024-02-27."
 url: "https://arxiv.org/abs/2401.02633"
+publish: "https://arxiv.org/abs/2401.02633"
 ---

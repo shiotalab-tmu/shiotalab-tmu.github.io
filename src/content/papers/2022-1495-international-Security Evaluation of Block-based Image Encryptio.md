@@ -7,4 +7,7 @@ year: 2022
 type: "international"
 venue: "IEEE Global Conference on Life Sciences and Technologies, pp. 458-461, Osaka, Japan, 2022-03-08."
 url: "https://doi.org/978-1-6654-1903-1/22"
+doi: "https://doi.org/978-1-6654-1903-1/22"
+webpage: "https://ieeexplore.ieee.org/abstract/document/9754937"
+publish: "https://arxiv.org/abs/2202.00806"
 ---
