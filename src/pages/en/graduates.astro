@@ -33,14 +33,14 @@ const { Content } = await graduates.render();
     line-height: 1.8;
   }
 
-  .markdown-content h1 {
+  .markdown-content :global(h1) {
     text-align: center;
     font-size: 2rem;
     color: var(--text-dark);
     margin-bottom: 20px;
   }
 
-  .markdown-content p {
+  .markdown-content :global(p) {
     text-align: center;
     font-size: 1.1rem;
     margin-bottom: 60px;
@@ -52,16 +52,16 @@ const { Content } = await graduates.render();
       padding: 60px 0;
     }
 
-    .markdown-content h1 {
+    .markdown-content :global(h1) {
       font-size: 1.6rem;
     }
 
-    .markdown-content p {
+    .markdown-content :global(p) {
       font-size: 1rem;
       margin-bottom: 40px;
     }
 
-    .markdown-content h2 {
+    .markdown-content :global(h2) {
       font-size: 1.1rem;
       margin-top: 40px;
     }

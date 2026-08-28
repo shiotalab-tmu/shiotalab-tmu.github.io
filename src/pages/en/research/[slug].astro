@@ -63,7 +63,7 @@ const sortedResearch = allResearch.sort((a, b) => a.data.order - b.data.order);
 
           <div class="main-content">
             <h1 class="research-title">{item.data.titleEn || item.data.title}</h1>
-            <div class="research-content">
+            <div class="markdown-content">
               <Content />
             </div>
           </div>
@@ -173,44 +173,6 @@ const sortedResearch = allResearch.sort((a, b) => a.data.order - b.data.order);
     margin-bottom: 30px;
     padding-bottom: 15px;
     border-bottom: 2px solid var(--primary-color);
-  }
-
-  .research-content {
-    color: var(--text-light);
-    line-height: 1.8;
-  }
-
-  .research-content h2 {
-    color: var(--text-dark);
-    font-size: 1.5rem;
-    margin-top: 40px;
-    margin-bottom: 20px;
-  }
-
-  .research-content h3 {
-    color: var(--text-dark);
-    font-size: 1.3rem;
-    margin-top: 30px;
-    margin-bottom: 15px;
-  }
-
-  .research-content ul {
-    padding-left: 0;
-    list-style: none;
-  }
-
-  .research-content li {
-    position: relative;
-    padding-left: 25px;
-    margin: 8px 0;
-  }
-
-  .research-content li::before {
-    content: '•';
-    position: absolute;
-    left: 10px;
-    color: var(--primary-color);
-    font-weight: bold;
   }
 
   @media (max-width: 768px) {
