@@ -54,7 +54,7 @@ const { Content } = await member.render();
           )}
 
           <div class="member-details">
-            <div class="content markdown-content">
+            <div class="markdown-content">
               <Content />
             </div>
           </div>
@@ -149,28 +149,6 @@ const { Content } = await member.render();
     width: 100%;
     max-width: 200px;
     box-shadow: 0 5px 20px rgba(0,0,0,0.1);
-  }
-
-  .member-details .content {
-    color: var(--text-dark);
-    line-height: 1.8;
-  }
-
-  .member-details h2 {
-    color: var(--text-dark);
-    font-size: 1.3rem;
-    margin-top: 30px;
-    margin-bottom: 15px;
-    padding-bottom: 5px;
-    border-bottom: 1px solid var(--gray-medium);
-  }
-
-  .member-details h2:first-child {
-    margin-top: 0;
-  }
-
-  .member-details p {
-    margin: 15px 0;
   }
 
   .back-link {

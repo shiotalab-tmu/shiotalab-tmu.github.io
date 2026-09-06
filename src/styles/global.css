@@ -330,5 +330,18 @@ ol li {
   margin-top: 20px;
 }
 
+.markdown-content h3 {
+  color: var(--text-dark);
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-top: 30px;
+  margin-bottom: 12px;
+}
 
+.markdown-content p {
+  margin-bottom: 1.2em;
+}
 
+.markdown-content p:last-child {
+  margin-bottom: 0;
+}
