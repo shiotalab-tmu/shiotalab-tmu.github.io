@@ -210,8 +210,14 @@ function cleanString(str: string): string {
  * 論文データからmarkdownコンテンツを生成
  */
 function generateMarkdown(paper: Paper): string {
-  // タイトル (英語優先)
-  const title = cleanString(paper.title.english || paper.title.japanese || 'Untitled');
+  // タイトル (日本語・英語の両方を保持。表示側で言語ごとに優先順位をつけてフォールバックする)
+  let titleJa = paper.title.japanese ? cleanString(paper.title.japanese) : null;
+  const titleEn = paper.title.english ? cleanString(paper.title.english) : null;
+  if (!titleJa && !titleEn) {
+    // DB上タイトル未入力の欠損データ (両方null) 向けのプレースホルダー
+    // (空文字はスキーマの「titleJa/titleEnのいずれか必須」チェックに落ちるため不可)
+    titleJa = 'Untitled';
+  }
 
   // 著者リスト
   const authors = paper.authors
@@ -243,13 +249,21 @@ function generateMarkdown(paper: Paper): string {
   const url = doi || webpage || publish;
 
   // Frontmatterオブジェクトを構築
-  const frontmatter: Record<string, any> = {
-    title,
+  const frontmatter: Record<string, any> = {};
+
+  if (titleJa) {
+    frontmatter.titleJa = titleJa;
+  }
+  if (titleEn) {
+    frontmatter.titleEn = titleEn;
+  }
+
+  Object.assign(frontmatter, {
     authors,
     year,
     type: paperType,
     venue,
-  };
+  });
 
   if (url) {
     frontmatter.url = url;

@@ -3,8 +3,12 @@ import Layout from '../../layouts/Layout.astro';
 import PageHero from '../../components/PageHero.astro';
 import PaperLinks from '../../components/PaperLinks.astro';
 import { getCollection } from 'astro:content';
+import { paperTitleEn } from '../../utils/paperTitle';
 
-const allPapers = await getCollection('papers-en');
+// /en/papers（デフォルトルート）で表示する年度（ja側のPAPERS_DEFAULT_YEARと合わせる）
+const PAPERS_DEFAULT_YEAR = 2025;
+
+const allPapers = await getCollection('papers');
 
 // 全年度のリストを取得（ナビゲーション用）
 const allYears = [...new Set(
@@ -12,13 +16,12 @@ const allYears = [...new Set(
 )] as number[];
 allYears.sort((a, b) => b - a);
 
-// 最新年度を取得
-const latestYear = allYears[0];
+const latestYear = PAPERS_DEFAULT_YEAR;
 
 // 最新年度の論文を取得してタイプ別に分類
 const yearPapers = allPapers
   .filter(paper => paper.data.year === latestYear)
-  .sort((a, b) => a.data.title.localeCompare(b.data.title));
+  .sort((a, b) => paperTitleEn(a.data).localeCompare(paperTitleEn(b.data)));
 
 const journals = yearPapers.filter(p => p.data.type === 'journal');
 const international = yearPapers.filter(p => p.data.type === 'international');
@@ -39,11 +42,14 @@ const domestic = yearPapers.filter(p => p.data.type === 'domestic');
 
         <!-- 年度ナビゲーション -->
         <div class="year-navigation">
-          <a href="en/papers/" class="active">{latestYear}</a>
-          {allYears.slice(1).map((navYear) => (
-            <a href={`en/papers/${navYear}/`}>
-              {navYear}
-            </a>
+          {allYears.map((navYear) => (
+            navYear === latestYear ? (
+              <a href="en/papers/" class="active">{navYear}</a>
+            ) : (
+              <a href={`en/papers/${navYear}/`}>
+                {navYear}
+              </a>
+            )
           ))}
         </div>
 
@@ -54,7 +60,7 @@ const domestic = yearPapers.filter(p => p.data.type === 'domestic');
               {journals.map((paper) => (
                 <li>
                   {paper.data.authors.join(', ')},<br/>
-                  "{paper.data.title}",<br/>
+                  "{paperTitleEn(paper.data)}",<br/>
                   {paper.data.venue}
                   <PaperLinks paper={paper.data} />
                 </li>
@@ -70,7 +76,7 @@ const domestic = yearPapers.filter(p => p.data.type === 'domestic');
               {international.map((paper) => (
                 <li>
                   {paper.data.authors.join(', ')},<br/>
-                  "{paper.data.title}",<br/>
+                  "{paperTitleEn(paper.data)}",<br/>
                   {paper.data.venue}
                   <PaperLinks paper={paper.data} />
                 </li>
@@ -86,7 +92,7 @@ const domestic = yearPapers.filter(p => p.data.type === 'domestic');
               {domestic.map((paper) => (
                 <li>
                   {paper.data.authors.join(', ')},<br/>
-                  "{paper.data.title}",<br/>
+                  "{paperTitleEn(paper.data)}",<br/>
                   {paper.data.venue}
                   <PaperLinks paper={paper.data} />
                 </li>
