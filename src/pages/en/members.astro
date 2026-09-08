@@ -29,11 +29,11 @@ const { faculty, students, alumni } = memberList.data;
               <div class="faculty-item">
                 <span class="role-label">{member.roleEn}</span>
                 {member.slug ? (
-                  <a href={`en/members/${member.slug}/`} class="name-jp-link">
+                  <a href={`en/members/${member.slug}/`}>
                     {member.nameEn || member.name}
                   </a>
                 ) : (
-                  <span class="name-jp-link">{member.nameEn || member.name}</span>
+                  <span>{member.nameEn || member.name}</span>
                 )}
                 <span class="name-en">{member.name}</span>
                 <span class="position">
@@ -46,20 +46,27 @@ const { faculty, students, alumni } = memberList.data;
         </div>
       )}
 
-      {students.map((studentGroup) => (
-        <div class="member-section">
-          <h2>{studentGroup.sectionEn}</h2>
-          <div class="member-list-simple">
-            {studentGroup.members.map((member) => (
-              <div class="student-item">
-                <span class="student-id">{member.year}</span>
-                <span class="student-name">{member.nameEn || member.name}</span>
-                <span class="student-name-en">{member.name}</span>
-              </div>
-            ))}
+      {students.map((studentGroup) => {
+        
+        // Hide sections with 0 members
+        if (studentGroup.members.length == 0) return <></>;
+        
+        return (
+          <div class="member-section">
+            <h2>{studentGroup.sectionEn}</h2>
+            <div class="member-list-simple">
+              {studentGroup.members.map((member) => (
+                <div class="student-item">
+                  <span class="student-id">{member.year}</span>
+                  <span class="student-name">{member.nameEn || member.name}</span>
+                  <span class="student-name-en">{member.name}</span>
+                </div>
+              ))}
+            </div>
           </div>
-        </div>
-      ))}
+        )
+
+      })}
 
       {alumni.length > 0 && (
         <div class="member-section">
@@ -114,11 +121,6 @@ const { faculty, students, alumni } = memberList.data;
   }
 
   .role-label {
-    color: var(--text-dark);
-    font-weight: 500;
-  }
-
-  .name-jp-link {
     color: var(--text-dark);
     font-weight: 500;
   }
