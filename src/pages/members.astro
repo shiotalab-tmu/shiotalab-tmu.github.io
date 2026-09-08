@@ -29,9 +29,9 @@ const { faculty, students, alumni } = memberList.data;
               <div class="faculty-item">
                 <span class="role-label">{member.role}</span>
                 {member.slug ? (
-                  <a href={`members/${member.slug}/`} class="name-jp-link">{member.name}</a>
+                  <a href={`members/${member.slug}/`}>{member.name}</a>
                 ) : (
-                  <span class="name-jp-link">{member.name}</span>
+                  <>{member.name}</>
                 )}
                 <span class="name-en">{member.nameEn || ''}</span>
                 <span class="position">
@@ -44,20 +44,26 @@ const { faculty, students, alumni } = memberList.data;
         </div>
       )}
 
-      {students.map((studentGroup) => (
-        <div class="member-section">
-          <h2>{studentGroup.section}</h2>
-          <div class="member-list-simple">
-            {studentGroup.members.map((member) => (
-              <div class="student-item">
-                <span class="student-id">{member.year}</span>
-                <span class="student-name">{member.name}</span>
-                <span class="student-name-en">{member.nameEn || ''}</span>
-              </div>
-            ))}
+      {students.map((studentGroup) => {
+        
+        // Hide sections with 0 members
+        if (studentGroup.members.length == 0) return <></>;
+
+        return (
+          <div class="member-section">
+            <h2>{studentGroup.section}</h2>
+            <div class="member-list-simple">
+              {studentGroup.members.map((member) => (
+                <div class="student-item">
+                  <span class="student-id">{member.year}</span>
+                  <span class="student-name">{member.name}</span>
+                  <span class="student-name-en">{member.nameEn || ''}</span>
+                </div>
+              ))}
+            </div>
           </div>
-        </div>
-      ))}
+        )
+      })}
 
       {alumni.length > 0 && (
         <div class="member-section">
