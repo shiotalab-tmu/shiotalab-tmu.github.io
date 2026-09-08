@@ -25,7 +25,7 @@ const sortedResearch = allResearch.sort((a, b) => a.data.order - b.data.order);
   <section class="breadcrumb-section research-breadcrumb">
     <div class="container">
       <nav class="breadcrumb">
-        <a href="en/">HOME</a> &gt; <a href="en/research/">RESEARCH</a> &gt; {item.data.titleEn || item.data.title}
+        <a href="">HOME</a> <span class="breadcrumb-separator">&gt;</span> <a href="research/">RESEARCH</a> <span class="breadcrumb-separator">&gt;</span> <span class="current-page">{item.data.titleEn || item.data.title}</span>
       </nav>
     </div>
   </section>
@@ -74,10 +74,6 @@ const sortedResearch = allResearch.sort((a, b) => a.data.order - b.data.order);
 </Layout>
 
 <style>
-  .breadcrumb {
-    font-size: 0.9rem;
-  }
-
   /* Research Detail Styles */
   .research-detail-section {
     padding: 40px 0 80px;
