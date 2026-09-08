@@ -85,9 +85,12 @@ const memberListEnCollection = defineCollection({
 });
 
 const paperSchema = z.object({
-  title: z.string(),
+  // 日本語タイトル・英語タイトルは片方だけの場合がある（片方は表示側でフォールバック）
+  titleJa: z.string().optional(),
+  titleEn: z.string().optional(),
   authors: z.array(z.string()),
-  year: z.number(),
+  // 発表日 (YYYY-MM-DD)。年度絞り込み・新しい順ソートの両方のキー (yearは冗長なので持たない。paperYear()で導出する)
+  date: z.string(),
   type: z.enum(['journal', 'international', 'domestic']),
   venue: z.string(),
   url: z.string().optional(),
@@ -95,14 +98,11 @@ const paperSchema = z.object({
   webpage: z.string().optional(),
   publish: z.string().optional(),
   local: z.string().optional(),
+}).refine((data) => !!(data.titleJa || data.titleEn), {
+  message: 'titleJa または titleEn のいずれかが必要です',
 });
 
 const papersCollection = defineCollection({
-  type: 'content',
-  schema: paperSchema,
-});
-
-const papersEnCollection = defineCollection({
   type: 'content',
   schema: paperSchema,
 });
@@ -175,7 +175,6 @@ export const collections = {
   'memberlist': memberListCollection,
   'memberlist-en': memberListEnCollection,
   'papers': papersCollection,
-  'papers-en': papersEnCollection,
   'awards': awardsCollection,
   'awards-en': awardsEnCollection,
   'research': researchCollection,

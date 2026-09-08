@@ -3,17 +3,19 @@ import Layout from '../../layouts/Layout.astro';
 import PageHero from '../../components/PageHero.astro';
 import PaperLinks from '../../components/PaperLinks.astro';
 import { getCollection } from 'astro:content';
+import { paperTitleJa } from '../../utils/paperTitle';
+import { paperYear } from '../../utils/paperDate';
 
 export async function getStaticPaths() {
   const allPapers = await getCollection('papers');
-  
+
   // 年度一覧を取得（indexファイルを除く）
   const years = [...new Set(
     allPapers
       .filter(paper => paper.slug !== 'index')
-      .map(paper => paper.data.year)
+      .map(paper => paperYear(paper.data.date))
   )].sort((a, b) => b - a);
-  
+
   return years.map(year => ({
     params: { year: year.toString() },
     props: { year }
@@ -22,18 +24,16 @@ export async function getStaticPaths() {
 
 const { year } = Astro.props;
 const allPapers = await getCollection('papers');
-const englishPapers = await getCollection('papers-en');
-const hasEnglishYear = englishPapers.some(paper => paper.data.year === year);
 
 // 全年度のリストを取得（ナビゲーション用）
 const allYears = [...new Set(
-  allPapers.map(paper => paper.data.year)
+  allPapers.map(paper => paperYear(paper.data.date))
 )].sort((a, b) => b - a);
 
 // 指定された年の論文を取得してタイプ別に分類
 const yearPapers = allPapers
-  .filter(paper => paper.data.year === year)
-  .sort((a, b) => a.data.title.localeCompare(b.data.title));
+  .filter(paper => paperYear(paper.data.date) === year)
+  .sort((a, b) => b.data.date.localeCompare(a.data.date));
 
 const journals = yearPapers.filter(p => p.data.type === 'journal');
 const international = yearPapers.filter(p => p.data.type === 'international');
@@ -56,7 +56,7 @@ if (year >= 2019) {
 }
 ---
 
-<Layout title={`${year}年の研究業績`} alternateHref={hasEnglishYear ? `en/papers/${year}/` : 'en/papers/'}>
+<Layout title={`${year}年の研究業績`} alternateHref={`en/papers/${year}/`}>
   <PageHero 
     titleEn="PAPERS" 
     subtitle={`${year}年の研究業績`} 
@@ -87,7 +87,7 @@ if (year >= 2019) {
               {journals.map((paper) => (
                 <li>
                   {paper.data.authors.join(', ')},<br/>
-                  "{paper.data.title}",<br/>
+                  "{paperTitleJa(paper.data)}",<br/>
                   {paper.data.venue}
                   <PaperLinks paper={paper.data} />
                 </li>
@@ -103,7 +103,7 @@ if (year >= 2019) {
               {international.map((paper) => (
                 <li>
                   {paper.data.authors.join(', ')},<br/>
-                  "{paper.data.title}",<br/>
+                  "{paperTitleJa(paper.data)}",<br/>
                   {paper.data.venue}
                   <PaperLinks paper={paper.data} />
                 </li>
@@ -119,7 +119,7 @@ if (year >= 2019) {
               {domestic.map((paper) => (
                 <li>
                   {paper.data.authors.join(', ')},<br/>
-                  "{paper.data.title}",<br/>
+                  "{paperTitleJa(paper.data)}",<br/>
                   {paper.data.venue}
                   <PaperLinks paper={paper.data} />
                 </li>

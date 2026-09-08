@@ -3,6 +3,8 @@ import Layout from '../layouts/Layout.astro';
 import PageHero from '../components/PageHero.astro';
 import PaperLinks from '../components/PaperLinks.astro';
 import { getCollection } from 'astro:content';
+import { paperTitleJa } from '../utils/paperTitle';
+import { paperYear } from '../utils/paperDate';
 
 // /papers（デフォルトルート）で表示する年度（手動で書き換える）
 const PAPERS_DEFAULT_YEAR = 2025;
@@ -11,7 +13,7 @@ const allPapers = await getCollection('papers');
 
 // 全年度のリストを取得（ナビゲーション用）
 const allYears = [...new Set(
-  allPapers.map(paper => paper.data.year)
+  allPapers.map(paper => paperYear(paper.data.date))
 )] as number[];
 allYears.sort((a, b) => b - a);
 
@@ -19,8 +21,8 @@ const latestYear = PAPERS_DEFAULT_YEAR;
 
 // デフォルト年度の論文を取得してタイプ別に分類
 const yearPapers = allPapers
-  .filter(paper => paper.data.year === latestYear)
-  .sort((a, b) => a.data.title.localeCompare(b.data.title));
+  .filter(paper => paperYear(paper.data.date) === latestYear)
+  .sort((a, b) => b.data.date.localeCompare(a.data.date));
 
 const journals = yearPapers.filter(p => p.data.type === 'journal');
 const international = yearPapers.filter(p => p.data.type === 'international');
@@ -75,7 +77,7 @@ if (latestYear >= 2019) {
               {journals.map((paper) => (
                 <li>
                   {paper.data.authors.join(', ')},<br/>
-                  "{paper.data.title}",<br/>
+                  "{paperTitleJa(paper.data)}",<br/>
                   {paper.data.venue}
                   <PaperLinks paper={paper.data} />
                 </li>
@@ -91,7 +93,7 @@ if (latestYear >= 2019) {
               {international.map((paper) => (
                 <li>
                   {paper.data.authors.join(', ')},<br/>
-                  "{paper.data.title}",<br/>
+                  "{paperTitleJa(paper.data)}",<br/>
                   {paper.data.venue}
                   <PaperLinks paper={paper.data} />
                 </li>
@@ -107,7 +109,7 @@ if (latestYear >= 2019) {
               {domestic.map((paper) => (
                 <li>
                   {paper.data.authors.join(', ')},<br/>
-                  "{paper.data.title}",<br/>
+                  "{paperTitleJa(paper.data)}",<br/>
                   {paper.data.venue}
                   <PaperLinks paper={paper.data} />
                 </li>
