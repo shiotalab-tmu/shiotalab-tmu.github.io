@@ -11,4 +11,5 @@ type: "international"
 venue: "AACE International Conference of Society for Information Technology and Teacher Education, pp. 2241-2248, New Orleans, LA, the U.S., 2013-03-27."
 url: "http://academicexperts.org/conf/site/2013/papers/39465/"
 webpage: "http://academicexperts.org/conf/site/2013/papers/39465/"
+local: "https://www.notion.so/3c7d54c353c881dda56ce44ec407f0fc"
 ---

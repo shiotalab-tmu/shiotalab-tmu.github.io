@@ -7,4 +7,5 @@ authors:
 date: "2017-06-13"
 type: "international"
 venue: "The Scandinavian Conference on Image Analysis, pp. 562-573, Tromsø, Norway, 2017-06-13."
+local: "https://www.notion.so/3c7d54c353c88114abefd900543433a1"
 ---

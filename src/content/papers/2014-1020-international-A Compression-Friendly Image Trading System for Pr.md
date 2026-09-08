@@ -8,4 +8,5 @@ authors:
 date: "2014-01-07"
 type: "international"
 venue: "International Workshop on Advanced Image Technology, pp. P2-028, Bangkok, Thailand, 2014-01-07."
+local: "https://www.notion.so/3c7d54c353c881068869f1ad453aeb83"
 ---

@@ -8,4 +8,5 @@ authors:
 date: "2016-12-08"
 type: "domestic"
 venue: "Technical Report of IEICE, Vol. 116, No. 344, pp. SIS2016-28, 広島市立大学サテライトキャンパス, 2016-12-08."
+local: "https://www.notion.so/3c7d54c353c88159b3d4fa1d90c9119e"
 ---

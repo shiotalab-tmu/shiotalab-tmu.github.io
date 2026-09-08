@@ -10,4 +10,5 @@ type: "domestic"
 venue: "Technical Report of IEICE, Vol. 119, No. 335, pp. SIS2019-26, 岡山, 2019-12-12."
 url: "https://www.ieice.org/ken/paper/20191212S1sw/eng/"
 webpage: "https://www.ieice.org/ken/paper/20191212S1sw/eng/"
+local: "https://www.notion.so/3c7d54c353c881ceafcddc78e90308f3"
 ---

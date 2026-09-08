@@ -9,4 +9,5 @@ type: "international"
 venue: "IEEE Global Conference on Life Sciences and Technologies, pp. 8-12, Nara, Japan, 2021-03-09."
 url: "https://ieeexplore.ieee.org/document/9391973"
 webpage: "https://ieeexplore.ieee.org/document/9391973"
+local: "https://www.notion.so/3c7d54c353c88100915ecc2a7f8994da"
 ---

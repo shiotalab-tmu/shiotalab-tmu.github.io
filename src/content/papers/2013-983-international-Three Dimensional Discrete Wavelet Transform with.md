@@ -7,4 +7,5 @@ authors:
 date: "2013-09-18"
 type: "international"
 venue: "IEEE International Conference on Image Processing, pp. WA.L4.6, Melbourne, VIC, Australia, 2013-09-18."
+local: "https://www.notion.so/3c7d54c353c8819fac6ac771d4f7166e"
 ---

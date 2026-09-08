@@ -8,4 +8,5 @@ authors:
 date: "2009-02-04"
 type: "domestic"
 venue: "Technical Report of IEICE, Vol. 108, No. 425, pp. IE2008-208, 札幌市北区, 2009-02-04."
+local: "https://www.notion.so/3c7d54c353c8819f9fc2c5f974d9b28d"
 ---

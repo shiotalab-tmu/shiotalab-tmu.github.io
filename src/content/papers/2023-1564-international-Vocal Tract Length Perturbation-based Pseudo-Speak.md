@@ -7,4 +7,5 @@ authors:
 date: "2023-11-03"
 type: "international"
 venue: "APSIPA Annual Summit and Conference, pp. 2209-2213, TICC, Taipei, Tiwan, 2023-11-03."
+local: "https://www.notion.so/3c7d54c353c881919688d5c1398bad26"
 ---

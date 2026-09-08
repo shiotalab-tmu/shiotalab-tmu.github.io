@@ -11,4 +11,5 @@ url: "https://doi.org/10.1587/elex.7.1534"
 doi: "https://doi.org/10.1587/elex.7.1534"
 webpage: "http://www.jstage.jst.go.jp/article/elex/7/20/7_20_1534/_article"
 publish: "http://www.jstage.jst.go.jp/article/elex/7/20/7_20_1534/_pdf"
+local: "https://www.notion.so/3c7d54c353c8818680bed559516804c4"
 ---

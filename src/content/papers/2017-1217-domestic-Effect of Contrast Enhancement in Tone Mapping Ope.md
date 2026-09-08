@@ -11,4 +11,5 @@ type: "domestic"
 venue: "Technical Report of IEICE, Vol. IEICE-117, No. 235, pp. SIS2017-21, 奈良市水門町, 2017-10-12."
 url: "http://www.ieice.org/ken/paper/20171012Lbxc/eng/"
 webpage: "http://www.ieice.org/ken/paper/20171012Lbxc/eng/"
+local: "https://www.notion.so/3c7d54c353c88105a7edc6d190a93c14"
 ---

@@ -11,4 +11,5 @@ url: "https://doi.org/10.1109/ISCIT.2013.6645895"
 doi: "https://doi.org/10.1109/ISCIT.2013.6645895"
 webpage: "http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=6645895"
 publish: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6645895"
+local: "https://www.notion.so/3c7d54c353c88189b583f326fd97537e"
 ---

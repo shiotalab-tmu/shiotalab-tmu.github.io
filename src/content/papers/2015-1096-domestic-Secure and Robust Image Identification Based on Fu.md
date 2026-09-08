@@ -8,4 +8,5 @@ authors:
 date: "2015-09-02"
 type: "domestic"
 venue: "Technical Report of IEICE, Vol. 115, No. 208, pp. SIS2015-17, 関西大学　千里山キャンパス, 2015-09-02."
+local: "https://www.notion.so/3c7d54c353c881849f3dfac63c944ca4"
 ---

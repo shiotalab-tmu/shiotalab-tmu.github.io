@@ -10,4 +10,5 @@ type: "journal"
 venue: "IECE Trans., Vol. J68-A, No. 8, pp. 725-732, 1985-08-01."
 url: "http://search.ieice.org/bin/summary.php?id=j68-a_8_725&category=A&year=1985&lang=E&abst=j"
 webpage: "http://search.ieice.org/bin/summary.php?id=j68-a_8_725&category=A&year=1985&lang=E&abst=j"
+local: "https://www.notion.so/3c7d54c353c881149a06d7b9ce6969a0"
 ---

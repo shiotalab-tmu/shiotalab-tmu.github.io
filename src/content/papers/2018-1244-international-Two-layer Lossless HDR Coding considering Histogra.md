@@ -7,4 +7,5 @@ authors:
 date: "2018-06-25"
 type: "international"
 venue: "Picture Coding Symposium, pp. 11-15, San Francisco, USA, 2018-06-25."
+local: "https://www.notion.so/3c7d54c353c8810da260ddd12b7d44ce"
 ---

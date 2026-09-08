@@ -8,4 +8,5 @@ authors:
 date: "2020-09-28"
 type: "international"
 venue: "IEEE International Conference on Consumer Electronics - Taiwan, Taoyuan, Taiwan, 2020-09-28."
+local: "https://www.notion.so/3c7d54c353c881cc86dbf2a5aecc2657"
 ---

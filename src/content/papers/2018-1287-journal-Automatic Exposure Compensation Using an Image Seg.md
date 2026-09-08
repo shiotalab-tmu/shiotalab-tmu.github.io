@@ -8,4 +8,5 @@ type: "journal"
 venue: "APSIPA Trans. Signal and Information Processing, Vol. 7, pp. E22, 2018-12-01."
 url: "https://doi.org/10.1017/ATSIP.2018.26"
 doi: "https://doi.org/10.1017/ATSIP.2018.26"
+local: "https://www.notion.so/3c7d54c353c8814da406eb9ac00df038"
 ---

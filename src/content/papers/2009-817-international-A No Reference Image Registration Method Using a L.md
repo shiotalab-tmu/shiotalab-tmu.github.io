@@ -11,4 +11,5 @@ url: "https://doi.org/10.1109/ISPACS.2009.5383864"
 doi: "https://doi.org/10.1109/ISPACS.2009.5383864"
 webpage: "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5383864"
 publish: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5383864"
+local: "https://www.notion.so/3c7d54c353c88107a11ffce9d175ad67"
 ---

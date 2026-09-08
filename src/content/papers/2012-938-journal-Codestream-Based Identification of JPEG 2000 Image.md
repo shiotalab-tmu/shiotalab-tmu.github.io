@@ -11,4 +11,5 @@ url: "https://doi.org/10.1587/transinf.E95.D.1120"
 doi: "https://doi.org/10.1587/transinf.E95.D.1120"
 webpage: "http://search.ieice.org/bin/summary.php?id=e95-d_4_1120&category=D&year=2012&lang=E&abst="
 publish: "http://search.ieice.org/bin/pdf_link.php?category=D&lang=E&year=2012&fname=e95-d_4_1120&abst="
+local: "https://www.notion.so/3c7d54c353c881d79824c239a7ec0595"
 ---

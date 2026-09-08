@@ -10,4 +10,5 @@ url: "https://doi.org/10.1109/ICASSP.2010.5495484"
 doi: "https://doi.org/10.1109/ICASSP.2010.5495484"
 webpage: "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5495484"
 publish: "http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5495484"
+local: "https://www.notion.so/3c7d54c353c8810d8f09ff9f6d0150b0"
 ---

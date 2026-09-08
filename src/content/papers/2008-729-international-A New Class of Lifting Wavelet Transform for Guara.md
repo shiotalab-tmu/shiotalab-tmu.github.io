@@ -11,4 +11,5 @@ url: "https://doi.org/10.1109/ICASSP.2008.4518349"
 doi: "https://doi.org/10.1109/ICASSP.2008.4518349"
 webpage: "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4518349"
 publish: "http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4518349"
+local: "https://www.notion.so/3c7d54c353c881128bbbfe9dea0485f4"
 ---

@@ -7,4 +7,5 @@ authors:
 date: "2009-07-07"
 type: "international"
 venue: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. S20-B4.1, Jeju, Korea, 2009-07-07."
+local: "https://www.notion.so/3c7d54c353c881db9b05c7003f83f5d6"
 ---

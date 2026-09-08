@@ -11,4 +11,5 @@ url: "https://doi.org/10.1109/ISPACS.2006.364771"
 doi: "https://doi.org/10.1109/ISPACS.2006.364771"
 webpage: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4212389"
 publish: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4212389"
+local: "https://www.notion.so/3c7d54c353c8817fab74c0cea13561d2"
 ---

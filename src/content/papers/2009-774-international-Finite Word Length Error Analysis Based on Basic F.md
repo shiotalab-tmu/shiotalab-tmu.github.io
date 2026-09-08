@@ -10,4 +10,5 @@ url: "https://doi.org/10.1109/ISPACS.2009.4806763"
 doi: "https://doi.org/10.1109/ISPACS.2009.4806763"
 webpage: "http://ieeexplore.ieee.org/xpl/abs_all.jsp?arnumber=4806763"
 publish: "http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4806763"
+local: "https://www.notion.so/3c7d54c353c881e88772cf233f5fa980"
 ---

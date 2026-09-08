@@ -8,4 +8,5 @@ type: "international"
 venue: "Pacific-Rim Conference on Multimedia, Vol. Part II, pp. LNCS 9315, Gwangju, Korea, 2015-09-16."
 url: "https://doi.org/10.1007/978-3-319-24078-7_22"
 doi: "https://doi.org/10.1007/978-3-319-24078-7_22"
+local: "https://www.notion.so/3c7d54c353c8810688defd0183743eb1"
 ---

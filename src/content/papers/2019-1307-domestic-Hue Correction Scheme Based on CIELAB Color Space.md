@@ -7,4 +7,5 @@ authors:
 date: "2019-03-14"
 type: "domestic"
 venue: "Technical Report of IEICE, Vol. 118, No. 496, pp. SIP2018-105, 長崎県長崎市, 2019-03-14."
+local: "https://www.notion.so/3c7d54c353c881389766e129bc311c00"
 ---

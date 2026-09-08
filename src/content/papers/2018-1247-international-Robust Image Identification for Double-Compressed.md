@@ -6,4 +6,5 @@ authors:
 date: "2018-06-14"
 type: "international"
 venue: "International Conference on Communications, Bucharest, Romania, 2018-06-14."
+local: "https://www.notion.so/3c7d54c353c881c38ac9e76a3ad13189"
 ---

@@ -9,4 +9,5 @@ type: "domestic"
 venue: "Technical Report of IEICE, Vol. 109, No. 112, pp. SIP2009-19, 北海道釧路市, 2009-07-01."
 url: "http://www.ieice.org/ken/paper/20090701qaNR/eng/"
 webpage: "http://www.ieice.org/ken/paper/20090701qaNR/eng/"
+local: "https://www.notion.so/3c7d54c353c881499dc2f22097803282"
 ---

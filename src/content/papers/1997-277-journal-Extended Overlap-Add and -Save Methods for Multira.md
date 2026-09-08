@@ -10,4 +10,5 @@ url: "https://doi.org/10.1109/78.622960"
 doi: "https://doi.org/10.1109/78.622960"
 webpage: "http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=622960"
 publish: "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=622960"
+local: "https://www.notion.so/3c7d54c353c88102aa92c707ac22f338"
 ---

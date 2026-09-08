@@ -6,4 +6,5 @@ authors:
 date: "2018-12-01"
 type: "journal"
 venue: "IEICE Trans. Fundamentals, Vol. E101-A, No. 12, pp. 2405-2408, 2018-12-01."
+local: "https://www.notion.so/3c7d54c353c8816d85c9f4a285bc46f3"
 ---

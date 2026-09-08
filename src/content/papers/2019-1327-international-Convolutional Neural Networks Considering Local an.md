@@ -6,4 +6,5 @@ authors:
 date: "2019-09-24"
 type: "international"
 venue: "IEEE International Conference on Image Processing, Taipei, Taiwan, 2019-09-24."
+local: "https://www.notion.so/3c7d54c353c881ff922ac5ddbc296202"
 ---

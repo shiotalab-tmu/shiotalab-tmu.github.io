@@ -10,4 +10,5 @@ type: "domestic"
 venue: "Technical Report of IEICE, Vol. 116, No. 449, pp. EMM2016-82, 東北大学 電気通信研究所, 2017-01-31."
 url: "http://www.ieice.org/ken/paper/20170131hbPz/eng/"
 webpage: "http://www.ieice.org/ken/paper/20170131hbPz/eng/"
+local: "https://www.notion.so/3c7d54c353c881138728c855ca91d1f3"
 ---

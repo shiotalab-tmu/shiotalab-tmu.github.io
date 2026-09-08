@@ -6,4 +6,5 @@ authors:
 date: "2019-01-01"
 type: "journal"
 venue: "IEICE Trans. Inf. & Sys., Vol. E102-D, No. 1, pp. 2-10, 2019-01-01."
+local: "https://www.notion.so/3c7d54c353c8814a8047c025cd79b2c1"
 ---

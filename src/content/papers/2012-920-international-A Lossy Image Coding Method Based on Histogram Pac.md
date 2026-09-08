@@ -7,4 +7,5 @@ authors:
 date: "2012-01-09"
 type: "international"
 venue: "International Workshop on Advanced Image Technology, pp. 1-2, Ho Chi Minh City, Vietnam, 2012-01-09."
+local: "https://www.notion.so/3c7d54c353c8811f85ebe30b0e6a36f0"
 ---

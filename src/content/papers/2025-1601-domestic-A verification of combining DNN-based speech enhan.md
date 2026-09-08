@@ -9,4 +9,5 @@ authors:
 date: "2025-03-19"
 type: "domestic"
 venue: "Acoustical Society of Japan Spring Meeting, pp. 1083-1084, 埼玉大学, 2025-03-19."
+local: "https://www.notion.so/3c7d54c353c881cc91e4f86507b600e2"
 ---

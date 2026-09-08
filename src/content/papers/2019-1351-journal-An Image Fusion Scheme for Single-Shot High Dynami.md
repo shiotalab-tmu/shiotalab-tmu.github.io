@@ -8,4 +8,5 @@ authors:
 date: "2019-12-01"
 type: "journal"
 venue: "IEICE Trans. Fundamentals, Vol. E102-A, No. 12, 2019-12-01."
+local: "https://www.notion.so/3c7d54c353c881c18d0cd31691a019c4"
 ---

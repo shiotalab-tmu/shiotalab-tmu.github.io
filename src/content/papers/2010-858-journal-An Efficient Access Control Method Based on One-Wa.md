@@ -13,4 +13,5 @@ url: "https://doi.org/10.3169/itej.64.1621"
 doi: "https://doi.org/10.3169/itej.64.1621"
 webpage: "http://www.jstage.jst.go.jp/article/itej/64/11/64_11_1621/_article/-char/"
 publish: "http://www.jstage.jst.go.jp/article/itej/64/11/64_11_1621/_pdf"
+local: "https://www.notion.so/3c7d54c353c8815d96b4c9ee70076442"
 ---

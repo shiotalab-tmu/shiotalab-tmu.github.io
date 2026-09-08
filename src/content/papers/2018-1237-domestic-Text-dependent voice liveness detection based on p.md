@@ -10,4 +10,5 @@ type: "domestic"
 venue: "Speech Committee, Vol. 117, No. 517, pp. SP2017-94, 沖縄県石垣市, 2018-03-19."
 url: "http://www.ieice.org/ken/paper/20180319P12P/eng/"
 webpage: "http://www.ieice.org/ken/paper/20180319P12P/eng/"
+local: "https://www.notion.so/3c7d54c353c881639075dfc9abc42e90"
 ---

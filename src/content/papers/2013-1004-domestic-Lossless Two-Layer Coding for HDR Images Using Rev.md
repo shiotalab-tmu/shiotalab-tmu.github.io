@@ -9,4 +9,5 @@ authors:
 date: "2013-10-05"
 type: "domestic"
 venue: "IECE Shin'etsu Branch Conference, pp. 6C-4, 新潟県長岡市, 2013-10-05."
+local: "https://www.notion.so/3c7d54c353c881319126dbed7fda12dc"
 ---

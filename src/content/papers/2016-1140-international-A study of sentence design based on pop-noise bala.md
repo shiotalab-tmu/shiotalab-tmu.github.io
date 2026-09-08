@@ -7,4 +7,5 @@ authors:
 date: "2016-08-23"
 type: "international"
 venue: "Workshop on Community-centric Systems as Interdisciplinary Study, Hachioji, Tokyo, Japan, 2016-08-23."
+local: "https://www.notion.so/3c7d54c353c881158e37f860a7ee71d5"
 ---

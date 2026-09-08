@@ -9,4 +9,5 @@ type: "journal"
 venue: "IEICE Trans. Fundamentals, Vol. E83-A, No. 8, pp. 1582-1588, 2000-08-01."
 url: "http://search.ieice.org/bin/summary.php?id=e83-a_8_1582&category=A&year=2000&lang=E&abst="
 webpage: "http://search.ieice.org/bin/summary.php?id=e83-a_8_1582&category=A&year=2000&lang=E&abst="
+local: "https://www.notion.so/3c7d54c353c881efbde0ce9a002ca949"
 ---

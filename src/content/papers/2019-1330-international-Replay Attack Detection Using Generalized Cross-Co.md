@@ -8,4 +8,5 @@ authors:
 date: "2019-09-03"
 type: "international"
 venue: "EURASIP European Signal Processing Conference, A Coruña, Spain, 2019-09-03."
+local: "https://www.notion.so/3c7d54c353c8814c9bade7e8043cebe6"
 ---

@@ -8,4 +8,5 @@ authors:
 date: "2014-10-30"
 type: "international"
 venue: "IEEE International Conference on Image Processing, pp. TEC-P10.6, Paris, France, 2014-10-30."
+local: "https://www.notion.so/3c7d54c353c881f48802cbc42a75f5c5"
 ---

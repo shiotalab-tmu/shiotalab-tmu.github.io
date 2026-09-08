@@ -10,4 +10,5 @@ type: "domestic"
 venue: "Speech Committee, 沖縄県青年会館, 2026-03-03."
 url: "https://ken.ieice.org/ken/paper/20260303TcTC/"
 webpage: "https://ken.ieice.org/ken/paper/20260303TcTC/"
+local: "https://www.notion.so/3c7d54c353c8810fbb4bf8b5c27953d9"
 ---

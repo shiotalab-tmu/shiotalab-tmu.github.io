@@ -6,4 +6,5 @@ authors:
 date: "2021-01-05"
 type: "international"
 venue: "International Workshop on Advanced Image Technology, Kagoshima, Japan, 2021-01-05."
+local: "https://www.notion.so/3c7d54c353c881038778f877662904bc"
 ---

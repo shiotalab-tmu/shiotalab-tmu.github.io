@@ -11,4 +11,5 @@ type: "domestic"
 venue: "Technical Report of IEICE, Vol. IEICE-116 , No. 95, pp. SIP2016-49, 青森県弘前市大字下白銀町2-1, 2016-06-16."
 url: "http://www.ieice.org/ken/paper/20160616Ob8y/eng/"
 webpage: "http://www.ieice.org/ken/paper/20160616Ob8y/eng/"
+local: "https://www.notion.so/3c7d54c353c881b48e30e5398c2471e2"
 ---

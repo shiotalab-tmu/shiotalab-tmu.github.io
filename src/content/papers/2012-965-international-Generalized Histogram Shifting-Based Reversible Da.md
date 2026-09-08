@@ -9,4 +9,5 @@ venue: "APSIPA Annual Summit and Conference, pp. PS.6-IVM.19-2, Los Angeles, CA,
 url: "http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=6411847"
 webpage: "http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=6411847"
 publish: "http://www.apsipa.org/proceedings_2012/papers/22.pdf"
+local: "https://www.notion.so/3c7d54c353c88136b582dd3df6059134"
 ---

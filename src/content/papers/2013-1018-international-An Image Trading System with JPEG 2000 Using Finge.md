@@ -11,4 +11,5 @@ url: "https://doi.org/10.1109/ISPACS.2013.6704517"
 doi: "https://doi.org/10.1109/ISPACS.2013.6704517"
 webpage: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6704517"
 publish: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6704517"
+local: "https://www.notion.so/3c7d54c353c881d48423e17bd31f5309"
 ---

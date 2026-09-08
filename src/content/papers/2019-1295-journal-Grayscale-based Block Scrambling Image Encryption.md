@@ -6,4 +6,5 @@ authors:
 date: "2019-02-01"
 type: "journal"
 venue: "APSIPA Trans. Signal and Information Processing, Vol. 8, pp. E7, 2019-02-01."
+local: "https://www.notion.so/3c7d54c353c881a78c29f63648440fb7"
 ---

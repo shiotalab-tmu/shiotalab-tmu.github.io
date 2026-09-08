@@ -10,4 +10,5 @@ type: "journal"
 venue: "IEICE Trans., Vol. J79-A, No. 5, pp. 1050-1057, 1996-05-01."
 url: "http://search.ieice.org/bin/summary.php?id=j79-a_5_1050&category=A&year=1996&lang=E&abst=j"
 webpage: "http://search.ieice.org/bin/summary.php?id=j79-a_5_1050&category=A&year=1996&lang=E&abst=j"
+local: "https://www.notion.so/3c7d54c353c881b8b1eaf98bfd1a0875"
 ---

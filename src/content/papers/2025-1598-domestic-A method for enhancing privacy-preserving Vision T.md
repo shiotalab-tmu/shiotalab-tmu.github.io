@@ -12,4 +12,5 @@ url: "https://doi.org/https://ken.ieice.org/ken/program/index.php?tgs_regid=6b26
 doi: "https://doi.org/https://ken.ieice.org/ken/program/index.php?tgs_regid=6b26902fffd1e1f6aa4df9dc05d091115feec40a4e377fa90563c5366cb5b4aa&tgid=IEICE-EMM"
 webpage: "https://ken.ieice.org/ken/paper/20250121xcHr/"
 publish: "https://ken.ieice.org/ken/user/index.php?cmd=download_preview&p=JfIP&t=IEICE-EMM"
+local: "https://www.notion.so/3c7d54c353c8818390fec649a6739c41"
 ---

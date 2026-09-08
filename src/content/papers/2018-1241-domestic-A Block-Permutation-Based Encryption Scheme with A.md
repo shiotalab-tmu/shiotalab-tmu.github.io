@@ -8,4 +8,5 @@ authors:
 date: "2018-01-27"
 type: "domestic"
 venue: "IEEJ Technical Report, Vol. 2018, No. 1, pp. 35-40, 千葉県千葉市, 2018-01-27."
+local: "https://www.notion.so/3c7d54c353c881e4b5f7d048cbe7521b"
 ---

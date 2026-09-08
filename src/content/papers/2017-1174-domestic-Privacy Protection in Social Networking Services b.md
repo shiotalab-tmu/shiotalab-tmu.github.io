@@ -10,4 +10,5 @@ type: "domestic"
 venue: "Technical Report of IEICE, Vol. 116, No. 464, pp.  IE2016-101, 北海道札幌市, 2017-02-20."
 url: "http://www.ieice.org/ken/paper/20170220sbqD/eng/"
 webpage: "http://www.ieice.org/ken/paper/20170220sbqD/eng/"
+local: "https://www.notion.so/3c7d54c353c881ed92a4fb41b70942fc"
 ---

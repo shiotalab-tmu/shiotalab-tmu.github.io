@@ -8,4 +8,5 @@ authors:
 date: "2018-03-14"
 type: "domestic"
 venue: "Acoustical Society of Japan Spring Meeting, pp. 2-Q-2, 埼玉県南埼玉郡　日本工業大学宮代キャンパス, 2018-03-14."
+local: "https://www.notion.so/3c7d54c353c88189ae18fc190ed5ad52"
 ---

@@ -11,4 +11,5 @@ url: "https://doi.org/10.1109/ISCIT.2010.5665100"
 doi: "https://doi.org/10.1109/ISCIT.2010.5665100"
 webpage: "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5665100"
 publish: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5665100"
+local: "https://www.notion.so/3c7d54c353c881f2907acdeaef9074bc"
 ---

@@ -9,4 +9,5 @@ type: "domestic"
 venue: "ITE Technical Report, Vol. 36, No. 21, pp. ME2012-84, 石川県金沢市, 2012-06-11."
 url: "http://www.ite.or.jp/ken/paper/20120611pAc8/eng/"
 webpage: "http://www.ite.or.jp/ken/paper/20120611pAc8/eng/"
+local: "https://www.notion.so/3c7d54c353c88109a2f0e259cde48ac2"
 ---

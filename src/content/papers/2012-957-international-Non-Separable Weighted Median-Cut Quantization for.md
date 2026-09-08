@@ -12,4 +12,5 @@ url: "https://doi.org/10.1109/ISPACS.2012.6473536"
 doi: "https://doi.org/10.1109/ISPACS.2012.6473536"
 webpage: "http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=6473536"
 publish: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6473536"
+local: "https://www.notion.so/3c7d54c353c881ee814bec2f70bd9dbb"
 ---

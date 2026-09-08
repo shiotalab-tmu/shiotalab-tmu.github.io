@@ -10,4 +10,5 @@ type: "journal"
 venue: "IECE Trans., Vol. J69-A, No. 11, pp. 1376-1384, 1986-11-01."
 url: "http://search.ieice.org/bin/summary.php?id=j69-a_11_1376&category=A&year=1986&lang=E&abst=j"
 webpage: "http://search.ieice.org/bin/summary.php?id=j69-a_11_1376&category=A&year=1986&lang=E&abst=j"
+local: "https://www.notion.so/3c7d54c353c881c4824ef77841bd6a56"
 ---

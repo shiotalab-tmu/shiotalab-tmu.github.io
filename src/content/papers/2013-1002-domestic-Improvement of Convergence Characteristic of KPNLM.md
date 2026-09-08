@@ -10,4 +10,5 @@ type: "domestic"
 venue: "Society Conference of IEICE, pp. A-4-25, 福岡市東区, 2013-09-19."
 url: "http://www.gakkai-web.net/gakkai/ieice/2013Spro/Settings/ab/a_04_025.html"
 webpage: "http://www.gakkai-web.net/gakkai/ieice/2013Spro/Settings/ab/a_04_025.html"
+local: "https://www.notion.so/3c7d54c353c88180aa2ddd27d11e430b"
 ---

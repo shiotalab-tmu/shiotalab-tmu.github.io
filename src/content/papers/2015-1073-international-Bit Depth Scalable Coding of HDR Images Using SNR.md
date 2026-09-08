@@ -7,4 +7,5 @@ authors:
 date: "2015-01-13"
 type: "international"
 venue: "International Workshop on Advanced Image Technology, National Cheng Kung University, Tainan, Taiwan, 2015-01-13."
+local: "https://www.notion.so/3c7d54c353c881dc9ec4de9cd707b335"
 ---

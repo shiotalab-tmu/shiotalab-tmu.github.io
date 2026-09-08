@@ -11,4 +11,5 @@ url: "https://doi.org/10.1109/ICIP.2007.4379789"
 doi: "https://doi.org/10.1109/ICIP.2007.4379789"
 webpage: "http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=4379789"
 publish: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4379789"
+local: "https://www.notion.so/3c7d54c353c881d99c22ec25d9cf4c02"
 ---

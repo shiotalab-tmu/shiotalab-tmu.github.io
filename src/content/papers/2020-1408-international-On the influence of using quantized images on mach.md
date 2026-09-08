@@ -9,4 +9,5 @@ type: "international"
 venue: "IEEE Global Conference on Consumer Electronics, pp. 101-104, Kobe, Japan, 2020-10-14."
 url: "https://ieeexplore.ieee.org/document/9291959"
 webpage: "https://ieeexplore.ieee.org/document/9291959"
+local: "https://www.notion.so/3c7d54c353c881099902c838481a3ce0"
 ---

@@ -9,4 +9,5 @@ type: "journal"
 venue: "IEICE Trans. Fundamentals, Vol. E97-A  , No. 7, pp. 1492-1499, 2014-07-01."
 url: "http://search.ieice.org/bin/summary.php?id=e97-a_7_1492&category=A&year=2014&lang=E&abst="
 webpage: "http://search.ieice.org/bin/summary.php?id=e97-a_7_1492&category=A&year=2014&lang=E&abst="
+local: "https://www.notion.so/3c7d54c353c881f581c8c0b4e797c2e9"
 ---

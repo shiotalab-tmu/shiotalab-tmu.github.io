@@ -7,4 +7,5 @@ authors:
 date: "2011-11-07"
 type: "international"
 venue: "SPIE/IEEE Visual Communications and Image Processing, pp. P-07.1, Tainan, Taiwan, R.O.C., 2011-11-07."
+local: "https://www.notion.so/3c7d54c353c88147acdecb31d58b0c47"
 ---

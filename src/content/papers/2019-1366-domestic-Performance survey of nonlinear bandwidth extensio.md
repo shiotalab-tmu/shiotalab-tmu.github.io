@@ -10,4 +10,5 @@ type: "domestic"
 venue: "IPSJ Special Interest Groups Spoken Language Processing, Vol. 2019-SLP-129, No. 6, pp. 1-5, Kyoto, Japan, 2019-10-04."
 url: "https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=199669&item_no=1&page_id=13&block_id=8"
 webpage: "https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=199669&item_no=1&page_id=13&block_id=8"
+local: "https://www.notion.so/3c7d54c353c881c082f6c1726c67f178"
 ---

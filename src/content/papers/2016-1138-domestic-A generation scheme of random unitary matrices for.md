@@ -8,4 +8,5 @@ authors:
 date: "2016-06-16"
 type: "domestic"
 venue: "Technical Report of IEICE, Vol. 116, No. 95, pp.  SIP2016-48, 青森県弘前市, 2016-06-16."
+local: "https://www.notion.so/3c7d54c353c881aa8508eb185696f851"
 ---

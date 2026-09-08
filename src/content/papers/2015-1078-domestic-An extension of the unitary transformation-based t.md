@@ -12,4 +12,5 @@ type: "domestic"
 venue: "Technical Report of IEICE, Vol. 114, No. 511, pp. EMM2014-81 , 沖縄県石垣市, 2015-03-12."
 url: "http://www.ieice.org/ken/paper/201503121BYN/eng/"
 webpage: "http://www.ieice.org/ken/paper/201503121BYN/eng/"
+local: "https://www.notion.so/3c7d54c353c8813692fbfb9b9aac6317"
 ---

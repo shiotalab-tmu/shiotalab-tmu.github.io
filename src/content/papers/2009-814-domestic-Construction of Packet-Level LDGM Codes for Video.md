@@ -10,4 +10,5 @@ authors:
 date: "2009-11-27"
 type: "domestic"
 venue: "IEICE Signal Processing Symposium, pp. B9-2, 鹿児島県鹿児島市, 2009-11-27."
+local: "https://www.notion.so/3c7d54c353c881138686fc9d559f4e8a"
 ---

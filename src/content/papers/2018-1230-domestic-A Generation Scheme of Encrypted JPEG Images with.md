@@ -9,4 +9,5 @@ type: "domestic"
 venue: "Technical Report of IEICE, Vol. 117, No. 476, pp. EMM2017-91, 鹿児島県，奄美市, 2018-03-06."
 url: "http://www.ieice.org/ken/paper/2018030641cU/eng/"
 webpage: "http://www.ieice.org/ken/paper/2018030641cU/eng/"
+local: "https://www.notion.so/3c7d54c353c88114b6ebd928eeffd2ca"
 ---

@@ -8,4 +8,5 @@ authors:
 date: "2011-11-18"
 type: "domestic"
 venue: "IEICE Signal Processing Symposium, pp. A11-5, 札幌市白石区, 2011-11-18."
+local: "https://www.notion.so/3c7d54c353c88130bcefe0a68fb4d62f"
 ---

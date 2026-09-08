@@ -9,4 +9,5 @@ type: "journal"
 venue: "IEICE Trans., Vol. J77-A, No. 8, pp. 1046-1055, 1994-08-01."
 url: "http://search.ieice.org/bin/summary.php?id=j77-a_8_1046&category=A&year=1994&lang=E&abst=j"
 webpage: "http://search.ieice.org/bin/summary.php?id=j77-a_8_1046&category=A&year=1994&lang=E&abst=j"
+local: "https://www.notion.so/3c7d54c353c8817cacb7d1d1b147785a"
 ---

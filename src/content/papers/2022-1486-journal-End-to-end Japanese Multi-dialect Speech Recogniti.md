@@ -10,4 +10,5 @@ type: "journal"
 venue: "APSIPA Trans. Signal and Information Processing, Vol. 11, No.1, e4, 2022-04-01."
 url: "https://www.nowpublishers.com/article/Details/SIP-2021-0045"
 webpage: "https://www.nowpublishers.com/article/Details/SIP-2021-0045"
+local: "https://www.notion.so/3c7d54c353c881529f9bc7532ca98967"
 ---

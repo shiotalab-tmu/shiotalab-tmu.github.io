@@ -12,4 +12,5 @@ url: "https://doi.org/10.3169/itej.65.193"
 doi: "https://doi.org/10.3169/itej.65.193"
 webpage: "http://www.jstage.jst.go.jp/article/itej/65/2/65_2_193/_article/-char/"
 publish: "http://www.jstage.jst.go.jp/article/itej/65/2/65_2_193/_pdf"
+local: "https://www.notion.so/3c7d54c353c881a1b837fcbaa7b91697"
 ---

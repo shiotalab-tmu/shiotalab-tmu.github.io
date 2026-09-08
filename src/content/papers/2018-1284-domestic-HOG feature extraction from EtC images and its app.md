@@ -7,4 +7,5 @@ authors:
 date: "2018-10-25"
 type: "domestic"
 venue: "Technical Report of IEICE, Vol. IEICE-118, No. 264, pp. 13-18, 京都大学 百周年時計台記念館, 2018-10-25."
+local: "https://www.notion.so/3c7d54c353c881e08c76e3b5a0b7315c"
 ---

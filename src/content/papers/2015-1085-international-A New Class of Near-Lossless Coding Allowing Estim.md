@@ -7,4 +7,5 @@ authors:
 date: "2015-10-07"
 type: "international"
 venue: "IEEE International Symposium on Communications and Information Technologies, pp. 109-112, Nara, Japan, 2015-10-07."
+local: "https://www.notion.so/3c7d54c353c8817da09dcc444a7be3ce"
 ---

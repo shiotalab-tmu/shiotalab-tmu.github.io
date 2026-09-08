@@ -10,4 +10,5 @@ venue: "International Technical Conference on Circuits/Systems, Computers and Co
 url: "http://www.ieice.org/proceedings/ITC-CSCC2008/program/F6_abst.html#F6-1"
 webpage: "http://www.ieice.org/proceedings/ITC-CSCC2008/program/F6_abst.html#F6-1"
 publish: "http://www.ieice.org/proceedings/ITC-CSCC2008/pdf/p897_F6-1.pdf"
+local: "https://www.notion.so/3c7d54c353c8813bb050d37d22926aa1"
 ---

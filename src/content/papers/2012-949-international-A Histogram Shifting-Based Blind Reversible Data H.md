@@ -9,4 +9,5 @@ url: "https://doi.org/10.1109/ISCIT.2012.6380913"
 doi: "https://doi.org/10.1109/ISCIT.2012.6380913"
 webpage: "http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=6380913"
 publish: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6380913"
+local: "https://www.notion.so/3c7d54c353c881718dc7f2070c942ae6"
 ---

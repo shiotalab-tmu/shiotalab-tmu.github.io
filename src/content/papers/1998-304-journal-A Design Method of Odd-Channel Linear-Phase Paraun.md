@@ -8,4 +8,5 @@ type: "journal"
 venue: "IEICE Trans. Fundamentals, Vol. E81-A, No. 5, pp. 976-980, 1998-05-01."
 url: "http://search.ieice.org/bin/summary.php?id=e81-a_5_976&category=A&year=1998&lang=E&abst="
 webpage: "http://search.ieice.org/bin/summary.php?id=e81-a_5_976&category=A&year=1998&lang=E&abst="
+local: "https://www.notion.so/3c7d54c353c881779110d92bce4f466a"
 ---

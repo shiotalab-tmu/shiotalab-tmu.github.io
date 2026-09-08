@@ -14,4 +14,5 @@ type: "domestic"
 venue: "Technical Report of IEICE, Vol. 115, No. 523, pp. 2015-156, 別府国際コンベンションセンター B-ConPlaza, 2016-03-29."
 url: "http://www.ieice.org/ken/paper/20160329ibHG/eng/"
 webpage: "http://www.ieice.org/ken/paper/20160329ibHG/eng/"
+local: "https://www.notion.so/3c7d54c353c881ec9d26f049388e274a"
 ---

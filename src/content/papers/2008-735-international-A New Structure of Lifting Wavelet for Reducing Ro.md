@@ -11,4 +11,5 @@ url: "https://doi.org/10.1109/ISCAS.2008.4542059"
 doi: "https://doi.org/10.1109/ISCAS.2008.4542059"
 webpage: "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4542059"
 publish: "http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4542059"
+local: "https://www.notion.so/3c7d54c353c88162a829e21ec43930d6"
 ---

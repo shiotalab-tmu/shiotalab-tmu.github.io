@@ -10,4 +10,5 @@ type: "domestic"
 venue: "Technical Report of IEICE, Vol. 113, No. 120, pp. SIP2013-38, 熊本県熊本市, 2013-07-11."
 url: "http://www.ieice.org/ken/paper/20130711FB4c/eng/"
 webpage: "http://www.ieice.org/ken/paper/20130711FB4c/eng/"
+local: "https://www.notion.so/3c7d54c353c881ebab13e9eac79044bd"
 ---

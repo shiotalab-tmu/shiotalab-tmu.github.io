@@ -10,4 +10,5 @@ type: "journal"
 venue: "IEICE Trans., Vol. J70-A, No. 8, pp. 1107-1114, 1987-08-01."
 url: "http://search.ieice.org/bin/summary.php?id=j70-a_8_1107&category=A&year=1987&lang=E&abst=j"
 webpage: "http://search.ieice.org/bin/summary.php?id=j70-a_8_1107&category=A&year=1987&lang=E&abst=j"
+local: "https://www.notion.so/3c7d54c353c88145b52fe7e21dc3137d"
 ---

@@ -7,4 +7,5 @@ authors:
 date: "2024-12-18"
 type: "domestic"
 venue: "IEICE Signal Processing Symposium, 北海道大学, 2024-12-18."
+local: "https://www.notion.so/3c7d54c353c881848abbee63049e418e"
 ---

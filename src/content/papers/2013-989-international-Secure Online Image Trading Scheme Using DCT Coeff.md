@@ -13,4 +13,5 @@ url: "https://doi.org/10.1109/ISCE.2013.6570234"
 doi: "https://doi.org/10.1109/ISCE.2013.6570234"
 webpage: "http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=6570234"
 publish: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6570234"
+local: "https://www.notion.so/3c7d54c353c88156ba67ebd21e656723"
 ---

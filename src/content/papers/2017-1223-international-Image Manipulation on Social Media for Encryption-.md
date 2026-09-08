@@ -7,4 +7,5 @@ authors:
 date: "2017-12-14"
 type: "international"
 venue: "APSIPA Annual Summit and Conference, Kuala Lumpur, Malaysia, 2017-12-14."
+local: "https://www.notion.so/3c7d54c353c881c9b99ce51bb170551a"
 ---

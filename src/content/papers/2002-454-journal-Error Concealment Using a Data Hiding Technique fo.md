@@ -8,4 +8,5 @@ type: "journal"
 venue: "IEICE Trans. Fundamentals, Vol. E85-A, No. 4, pp. 790-796, 2002-04-01."
 url: "http://search.ieice.org/bin/summary.php?id=e85-a_4_790&category=A&year=2002&lang=E&abst="
 webpage: "http://search.ieice.org/bin/summary.php?id=e85-a_4_790&category=A&year=2002&lang=E&abst="
+local: "https://www.notion.so/3c7d54c353c881ed8cbcc34e85e66005"
 ---

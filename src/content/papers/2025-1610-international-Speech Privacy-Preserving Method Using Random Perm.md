@@ -6,4 +6,5 @@ authors:
 date: "2025-09-25"
 type: "international"
 venue: "IEEE Global Conference on Consumer Electronics, グランキューブ大阪（大阪府立国際会議場）, 2025-09-25."
+local: "https://www.notion.so/3c7d54c353c881be9701ea91f09e9679"
 ---
