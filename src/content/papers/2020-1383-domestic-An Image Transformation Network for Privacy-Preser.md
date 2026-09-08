@@ -1,13 +1,13 @@
 ---
-title: "An Image Transformation Network for Privacy-Preserving Deep Neural Networks"
+titleJa: "プライバシー保護を考慮したDNNのための画像変換ネットワーク"
+titleEn: "An Image Transformation Network for Privacy-Preserving Deep Neural Networks"
 authors:
   - "Hiroki ITO"
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"
-year: 2020
+date: "2020-02-27"
 type: "domestic"
 venue: "Technical Report of IEICE, Vol. 119, No. 422, pp. IE2019-75, 北海道札幌市北区, 2020-02-27."
 url: "https://www.ieice.org/ken/paper/20200227b1VK/eng/"
 webpage: "https://www.ieice.org/ken/paper/20200227b1VK/eng/"
-local: "https://www.notion.so/3c7d54c353c8811d81f4d8520ea2a4a8"
 ---

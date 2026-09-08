@@ -1,15 +1,15 @@
 ---
-title: "A hue-preserving tone mapping scheme"
+titleJa: "色相保存を考慮したトーンマッピング法"
+titleEn: "A hue-preserving tone mapping scheme"
 authors:
   - "Kouki SEO"
   - "Artit VISAVAKITCHAROEN"
   - "Yuma KINOSHITA"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"
-year: 2019
+date: "2019-02-19"
 type: "domestic"
 venue: "Technical Report of IEICE, Vol. 118, No. 450, pp. IE2018-87, 北海道札幌市, 2019-02-19."
 url: "https://www.ieice.org/ken/paper/20190219l19a/eng/"
 webpage: "https://www.ieice.org/ken/paper/20190219l19a/eng/"
-local: "https://www.notion.so/3c7d54c353c881488e5ce3bfcd657b23"
 ---

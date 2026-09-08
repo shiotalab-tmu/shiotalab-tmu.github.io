@@ -1,11 +1,10 @@
 ---
-title: "Fast Inverse Tone Mapping Based on Reinhard's Global Operator with Estimated Parameters"
+titleEn: "Fast Inverse Tone Mapping Based on Reinhard's Global Operator with Estimated Parameters"
 authors:
   - "Yuma KINOSHITA"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"
-year: 2017
+date: "2017-11-01"
 type: "journal"
 venue: "IEICE Trans. Fundamentals, Vol. E100-A, No. 11, pp. 2248-2255, 2017-11-01."
-local: "https://www.notion.so/3c7d54c353c88145aaccfd3400828f23"
 ---

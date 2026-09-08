@@ -1,13 +1,13 @@
 ---
-title: "An FFT Based Full-Search Block-Matching Algorithm Using an Overlap-Save Method"
+titleJa: "重複保持法に基づくFFT全探索ブロックマッチング"
+titleEn: "An FFT Based Full-Search Block-Matching Algorithm Using an Overlap-Save Method"
 authors:
   - "Hidetake SASAKI"
   - "Zhen LI"
   - "Hitoshi KIYA"
-year: 2010
+date: "2010-01-21"
 type: "domestic"
 venue: "Technical Report of IEICE, Vol. 109, No. 368, pp. SIP2009-85, 福岡市西区, 2010-01-21."
 url: "http://www.ieice.org/ken/paper/20100121caUm/eng/"
 webpage: "http://www.ieice.org/ken/paper/20100121caUm/eng/"
-local: "https://www.notion.so/3c7d54c353c8816cadc7ff705098f78a"
 ---

@@ -1,11 +1,10 @@
 ---
-title: "On the Security of Block Scrambling-based EtC Systems against Extended Jigsaw Puzzle Solver Attacks"
+titleEn: "On the Security of Block Scrambling-based EtC Systems against Extended Jigsaw Puzzle Solver Attacks"
 authors:
   - "Tatsuya CHUMAN"
   - "Kenta KURIHARA"
   - "Hitoshi KIYA"
-year: 2018
+date: "2018-01-01"
 type: "journal"
 venue: "IEICE Trans. Inf. & Sys., Vol. E101-D, No. 1, pp. 37-44, 2018-01-01."
-local: "https://www.notion.so/3c7d54c353c881f19ef0dcc18541e1b4"
 ---

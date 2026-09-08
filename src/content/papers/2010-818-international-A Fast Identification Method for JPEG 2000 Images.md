@@ -1,11 +1,10 @@
 ---
-title: "A Fast Identification Method for JPEG 2000 Images with Different Code-Block Sizes and Resolution Levels"
+titleEn: "A Fast Identification Method for JPEG 2000 Images with Different Code-Block Sizes and Resolution Levels"
 authors:
   - "Hiroaki IWAI"
   - "Marielena PALACIOS PEREZ"
   - "Hitoshi KIYA"
-year: 2010
+date: "2010-01-12"
 type: "international"
 venue: "International Workshop on Advanced Image Technology, pp. P5-3, Kuala Lumpur, Malaysia, 2010-01-12."
-local: "https://www.notion.so/3c7d54c353c88181a6f2ec775cadc824"
 ---

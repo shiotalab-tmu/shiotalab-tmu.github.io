@@ -1,10 +1,9 @@
 ---
-title: "Speeding up Image Identification with Visually Protected Features for JPEG Images"
+titleEn: "Speeding up Image Identification with Visually Protected Features for JPEG Images"
 authors:
   - "Kenta IIDA"
   - "Hitoshi KIYA"
-year: 2017
+date: "2017-09-25"
 type: "international"
 venue: "International Workshop on Signal Design and its Applications in Communications, Sapporo, Hokkaido, Japan, 2017-09-25."
-local: "https://www.notion.so/3c7d54c353c881c9bb5af82432bfc387"
 ---

@@ -1,10 +1,11 @@
 ---
-title: "Relation between quantization effects and zero locations in FIR digital filters"
+titleJa: "FIRディジタルフィルタにおける根配置と係数量子化効果の関係について"
+titleEn: "Relation between quantization effects and zero locations in FIR digital filters"
 authors:
   - "Hitoshi KIYA"
   - "Yukio MORI"
   - "Masahiko SAGAWA"
-year: 1986
+date: "1986-05-01"
 type: "domestic"
 venue: "Technical Report of IECE, pp. CAS86-8, 1986-05-01."
 ---

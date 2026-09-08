@@ -1,12 +1,12 @@
 ---
-title: "Improving Measures for Noise Decision Accuracy Based on The Robust Statistics and Directivity Distribution for a Denoising Framework"
+titleJa: "NL-means雑音除去フレームワークのためのロバスト統計と方向性分散に基づく雑音判定精度の改善法"
+titleEn: "Improving Measures for Noise Decision Accuracy Based on The Robust Statistics and Directivity Distribution for a Denoising Framework"
 authors:
   - "Dongliang QU"
   - "Kiyoshi NISHIKAWA"
-year: 2013
+date: "2013-12-10"
 type: "domestic"
 venue: "ITE Technical Report, Vol. 37, No. 56, pp. ME2013-128, 福井県あわら市, 2013-12-10."
 url: "http://www.ite.or.jp/ken/paper/201312101A3A/eng/"
 webpage: "http://www.ite.or.jp/ken/paper/201312101A3A/eng/"
-local: "https://www.notion.so/3c7d54c353c881f7952bc775674be18e"
 ---

@@ -1,10 +1,9 @@
 ---
-title: "Robust Image Identification with DC Coefficients for Double-compressed JPEG Images"
+titleEn: "Robust Image Identification with DC Coefficients for Double-compressed JPEG Images"
 authors:
   - "Kenta IIDA"
   - "Hitoshi KIYA"
-year: 2019
+date: "2019-01-01"
 type: "journal"
 venue: "IEICE Trans. Inf. & Sys., Vol. E102-D, No. 1, pp. 2-10, 2019-01-01."
-local: "https://www.notion.so/3c7d54c353c8814a8047c025cd79b2c1"
 ---

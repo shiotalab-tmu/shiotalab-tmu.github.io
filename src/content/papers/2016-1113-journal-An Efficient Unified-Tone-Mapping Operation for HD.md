@@ -1,10 +1,9 @@
 ---
-title: "An Efficient Unified-Tone-Mapping Operation for HDR Images with Various Formats"
+titleEn: "An Efficient Unified-Tone-Mapping Operation for HDR Images with Various Formats"
 authors:
   - "Hitoshi KIYA"
   - "Toshiyuki DOBASHI"
-year: 2016
+date: "2016-01-01"
 type: "journal"
 venue: "ITE Transactions on Media Technology and Applications, Vol. 4, No. 1, pp. 2-9, 2016-01-01."
-local: "https://www.notion.so/3c7d54c353c88191a8b2d2d2ee852514"
 ---

@@ -1,11 +1,11 @@
 ---
-title: " A study of speech synthesis attack methods against spoofed speech detection systems."
+titleJa: "なりすまし音声検出システムに対する音声合成攻撃手法の検討"
+titleEn: " A study of speech synthesis attack methods against spoofed speech detection systems."
 authors:
   - "Sawato Furubayashi"
   - "Shinnosuke Takamichi"
   - "Sayaka SHIOTA"
-year: 2025
+date: "2025-03-26"
 type: "domestic"
 venue: "General Conference of IEICE, 東京都市大学　世田谷キャンパス, 2025-03-26."
-local: "https://www.notion.so/3c7d54c353c88123bfccc665d13d4f99"
 ---

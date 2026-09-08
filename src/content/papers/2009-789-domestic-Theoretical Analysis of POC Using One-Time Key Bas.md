@@ -1,12 +1,12 @@
 ---
-title: "Theoretical Analysis of POC Using One-Time Key Based Phase Scrambling"
+titleJa: "ワンタイムキーを用いた位相スクランブル信号のためのPOCの理論解析"
+titleEn: "Theoretical Analysis of POC Using One-Time Key Based Phase Scrambling"
 authors:
   - "Izumi ITO"
   - "Hitoshi KIYA"
-year: 2009
+date: "2009-07-01"
 type: "domestic"
 venue: "Technical Report of IEICE, Vol. 109, No. 112, pp. SIP2009-19, 北海道釧路市, 2009-07-01."
 url: "http://www.ieice.org/ken/paper/20090701qaNR/eng/"
 webpage: "http://www.ieice.org/ken/paper/20090701qaNR/eng/"
-local: "https://www.notion.so/3c7d54c353c881499dc2f22097803282"
 ---

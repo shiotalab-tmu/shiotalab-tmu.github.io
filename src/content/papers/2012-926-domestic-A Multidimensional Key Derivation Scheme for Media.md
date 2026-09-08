@@ -1,12 +1,12 @@
 ---
-title: "A Multidimensional Key Derivation Scheme for Media Access Control Using Recursive Hash Functions"
+titleJa: "メディアアクセス制御のための再帰ハッシュ連鎖型多次元鍵派生方式"
+titleEn: "A Multidimensional Key Derivation Scheme for Media Access Control Using Recursive Hash Functions"
 authors:
   - "Shoko IMAIZUMI"
   - "Naokazu AOKI"
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"
-year: 2012
+date: "2012-02-02"
 type: "domestic"
 venue: "IEICE Symposium on Cryptography and Information Security, pp. 4F1-2, 石川県金沢市, 2012-02-02."
-local: "https://www.notion.so/3c7d54c353c88100a765e04a6dda6ca2"
 ---

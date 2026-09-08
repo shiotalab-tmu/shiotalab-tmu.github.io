@@ -1,10 +1,10 @@
 ---
-title: "HOG feature extraction from EtC images, and its application to image classification with machine learning"
+titleJa: "EtC画像からのHOG特徴量抽出とその機械学習による画像分類への応用"
+titleEn: "HOG feature extraction from EtC images, and its application to image classification with machine learning"
 authors:
   - "Masaki KITAYAMA"
   - "Hitoshi KIYA"
-year: 2018
+date: "2018-10-25"
 type: "domestic"
 venue: "Technical Report of IEICE, Vol. IEICE-118, No. 264, pp. 13-18, 京都大学 百周年時計台記念館, 2018-10-25."
-local: "https://www.notion.so/3c7d54c353c881e08c76e3b5a0b7315c"
 ---

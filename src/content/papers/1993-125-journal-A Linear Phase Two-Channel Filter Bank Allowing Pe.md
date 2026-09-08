@@ -1,13 +1,12 @@
 ---
-title: "A Linear Phase Two-Channel Filter Bank Allowing Perfect Reconstruction"
+titleEn: "A Linear Phase Two-Channel Filter Bank Allowing Perfect Reconstruction"
 authors:
   - "Hitoshi KIYA"
   - "Mitsuo YAE"
   - "Masahiro IWAHASHI"
-year: 1993
+date: "1993-04-01"
 type: "journal"
 venue: "IEICE Trans. Fundamentals, Vol. E76-A, No. 4, pp. 620-625, 1993-04-01."
 url: "http://search.ieice.org/bin/summary.php?id=e76-a_4_620&category=A&year=1993&lang=E&abst="
 webpage: "http://search.ieice.org/bin/summary.php?id=e76-a_4_620&category=A&year=1993&lang=E&abst="
-local: "https://www.notion.so/3c7d54c353c88179873fc14969d4e448"
 ---

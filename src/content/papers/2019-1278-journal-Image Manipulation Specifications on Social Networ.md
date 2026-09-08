@@ -1,12 +1,11 @@
 ---
-title: "Image Manipulation Specifications on Social Networking Services for Encryption-then-Compression Systems"
+titleEn: "Image Manipulation Specifications on Social Networking Services for Encryption-then-Compression Systems"
 authors:
   - "Tatsuya CHUMAN"
   - "Kenta IIDA"
   - "Warit SIRICHOTEDUMRONG"
   - "Hitoshi KIYA"
-year: 2019
+date: "2019-01-01"
 type: "journal"
 venue: "IEICE Trans. Inf. & Sys., Vol. E102-D, No. 1, pp. 11-18, 2019-01-01."
-local: "https://www.notion.so/3c7d54c353c881e8a212f97692f0d9b7"
 ---

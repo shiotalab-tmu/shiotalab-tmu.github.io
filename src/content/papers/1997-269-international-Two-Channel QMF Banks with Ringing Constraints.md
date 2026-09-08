@@ -1,9 +1,9 @@
 ---
-title: "Two-Channel QMF Banks with Ringing Constraints"
+titleEn: "Two-Channel QMF Banks with Ringing Constraints"
 authors:
   - "Kazuhiro KOJIMA"
   - "Hitoshi KIYA"
-year: 1997
+date: "1997-07-01"
 type: "international"
 venue: "International Technical Conference on Circuits/Systems, Computers and Communications, 1997-07-01."
 ---

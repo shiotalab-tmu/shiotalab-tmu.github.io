@@ -1,11 +1,10 @@
 ---
-title: "Efficient Lossless to Lossy Transcoding of JPEG 2000 Codestreams for D-Cinema"
+titleEn: "Efficient Lossless to Lossy Transcoding of JPEG 2000 Codestreams for D-Cinema"
 authors:
   - "Takahiro FUKUHARA"
   - "Katsutoshi ANDO"
   - "Hitoshi KIYA"
-year: 2009
+date: "2009-02-01"
 type: "journal"
 venue: "SMPTE Motion Imaging J., Vol. 2009, pp. 50-56, 2009-02-01."
-local: "https://www.notion.so/3c7d54c353c881e89d9fd6131b957d06"
 ---

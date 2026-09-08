@@ -1,13 +1,13 @@
 ---
-title: "Improvement of Convergence Characteristic of KPNLMS Algorithm by Using Multi Kernel Learning "
+titleJa: "マルチカーネル学習法を用いたKPLMSアルゴリズムの収束特性の改善法"
+titleEn: "Improvement of Convergence Characteristic of KPNLMS Algorithm by Using Multi Kernel Learning "
 authors:
   - "Yuji MARU"
   - "Kiyoshi NISHIKAWA"
   - "Felix ALBU"
-year: 2013
+date: "2013-09-19"
 type: "domestic"
 venue: "Society Conference of IEICE, pp. A-4-25, 福岡市東区, 2013-09-19."
 url: "http://www.gakkai-web.net/gakkai/ieice/2013Spro/Settings/ab/a_04_025.html"
 webpage: "http://www.gakkai-web.net/gakkai/ieice/2013Spro/Settings/ab/a_04_025.html"
-local: "https://www.notion.so/3c7d54c353c88180aa2ddd27d11e430b"
 ---

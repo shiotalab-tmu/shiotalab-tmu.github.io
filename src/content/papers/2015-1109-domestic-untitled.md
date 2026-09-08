@@ -1,9 +1,9 @@
 ---
-title: "Untitled"
+titleJa: "Untitled"
 authors:
   - "Kenta IIDA"
   - "Hitoshi KIYA"
-year: 2015
+date: "2015-12-03"
 type: "domestic"
 venue: "2015-12-03."
 ---

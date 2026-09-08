@@ -1,12 +1,12 @@
 ---
-title: "A Design Method for Oversampled DFT Filter Banks with the Minimum Delay"
+titleJa: "最小遅延量を持つオーバサンプルDFTフィルタバンクの設計"
+titleEn: "A Design Method for Oversampled DFT Filter Banks with the Minimum Delay"
 authors:
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"
-year: 1996
+date: "1996-11-01"
 type: "journal"
 venue: "IEICE Trans., Vol. J79-A, No. 11, pp. 1801-1807, 1996-11-01."
 url: "http://search.ieice.org/bin/summary.php?id=j79-a_11_1801&category=A&year=1996&lang=E&abst=j"
 webpage: "http://search.ieice.org/bin/summary.php?id=j79-a_11_1801&category=A&year=1996&lang=E&abst=j"
-local: "https://www.notion.so/3c7d54c353c881a3a11ce7c432677580"
 ---

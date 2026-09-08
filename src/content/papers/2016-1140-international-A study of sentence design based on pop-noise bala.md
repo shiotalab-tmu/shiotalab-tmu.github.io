@@ -1,11 +1,10 @@
 ---
-title: "A study of sentence design based on pop-noise balance for voice liveness detection"
+titleEn: "A study of sentence design based on pop-noise balance for voice liveness detection"
 authors:
   - "Shihono MOCHIZUKI"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"
-year: 2016
+date: "2016-08-23"
 type: "international"
 venue: "Workshop on Community-centric Systems as Interdisciplinary Study, Hachioji, Tokyo, Japan, 2016-08-23."
-local: "https://www.notion.so/3c7d54c353c881158e37f860a7ee71d5"
 ---

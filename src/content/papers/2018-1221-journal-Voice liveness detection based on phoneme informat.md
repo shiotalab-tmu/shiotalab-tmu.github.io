@@ -1,11 +1,11 @@
 ---
-title: "Voice liveness detection based on phoneme information-based pop-noise detector"
+titleJa: "話者照合のための音素情報を考慮したポップノイズ検出法による声の生体検知"
+titleEn: "Voice liveness detection based on phoneme information-based pop-noise detector"
 authors:
   - "Shihono MOCHIZUKI"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"
-year: 2018
+date: "2018-03-01"
 type: "journal"
 venue: "IEICE Trans., Vol. J101-D, No. 3, pp. 588-596, 2018-03-01."
-local: "https://www.notion.so/3c7d54c353c88169813df3fbe12f1c13"
 ---

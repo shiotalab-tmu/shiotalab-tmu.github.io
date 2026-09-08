@@ -1,12 +1,11 @@
 ---
-title: "A Design Method of Odd-Channel Linear-Phase Paraunitary Filter Banks with a Lattice Structure"
+titleEn: "A Design Method of Odd-Channel Linear-Phase Paraunitary Filter Banks with a Lattice Structure"
 authors:
   - "Shogo MURAMATSU"
   - "Hitoshi KIYA"
-year: 1998
+date: "1998-05-01"
 type: "journal"
 venue: "IEICE Trans. Fundamentals, Vol. E81-A, No. 5, pp. 976-980, 1998-05-01."
 url: "http://search.ieice.org/bin/summary.php?id=e81-a_5_976&category=A&year=1998&lang=E&abst="
 webpage: "http://search.ieice.org/bin/summary.php?id=e81-a_5_976&category=A&year=1998&lang=E&abst="
-local: "https://www.notion.so/3c7d54c353c881779110d92bce4f466a"
 ---

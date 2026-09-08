@@ -1,12 +1,11 @@
 ---
-title: "Image Matching between Scrambled Images for Secure Data Management"
+titleEn: "Image Matching between Scrambled Images for Secure Data Management"
 authors:
   - "Hitoshi KIYA"
   - "Izumi ITO"
-year: 2008
+date: "2008-08-28"
 type: "international"
 venue: "EURASIP European Signal Processing Conference, pp. L4-3.5, Lausanne, Switzerland, 2008-08-28."
 url: "http://www.eurasip.org/Proceedings/Eusipco/Eusipco2008/papers/1569102164.pdf"
 publish: "http://www.eurasip.org/Proceedings/Eusipco/Eusipco2008/papers/1569102164.pdf"
-local: "https://www.notion.so/3c7d54c353c8819d9074d66701163be4"
 ---

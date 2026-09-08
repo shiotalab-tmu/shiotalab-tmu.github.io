@@ -1,14 +1,13 @@
 ---
-title: "A Reversible Data Hiding Method in Compressible Encrypted Images"
+titleEn: "A Reversible Data Hiding Method in Compressible Encrypted Images"
 authors:
   - "Shoko IMAIZUMI"
   - "Yusuke Izawa"
   - "Ryoichi HIRASAWA"
   - "Hitoshi KIYA"
-year: 2020
+date: "2020-12-01"
 type: "journal"
 venue: "IEICE Trans. Fundamentals, Vol. E103-A, No. 12, pp. 1579-1588, 2020-12-01."
 url: "https://search.ieice.org/bin/summary.php?id=e103-a_12_1579&category=A&year=2020&lang=E&abst="
 webpage: "https://search.ieice.org/bin/summary.php?id=e103-a_12_1579&category=A&year=2020&lang=E&abst="
-local: "https://www.notion.so/3c7d54c353c88157bf90e7cfabbd1418"
 ---

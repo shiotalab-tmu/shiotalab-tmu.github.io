@@ -1,13 +1,13 @@
 ---
-title: "Near Lossless Data Hiding Using Sparsity of Image Histogram"
+titleJa: "ヒストグラムの疎性を利用したニアロスレスな画像データハイディング"
+titleEn: "Near Lossless Data Hiding Using Sparsity of Image Histogram"
 authors:
   - "Ryo OISHI"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"
-year: 2015
+date: "2015-03-12"
 type: "domestic"
 venue: "Technical Report of IEICE, Vol. 114, No. 511, pp. EMM2014-80, 石垣島, 2015-03-12."
 url: "http://www.ieice.org/ken/paper/201503121BYN/eng/"
 webpage: "http://www.ieice.org/ken/paper/201503121BYN/eng/"
-local: "https://www.notion.so/3c7d54c353c8812586c9dd4541835481"
 ---

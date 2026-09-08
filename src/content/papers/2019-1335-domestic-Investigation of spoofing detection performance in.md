@@ -1,11 +1,11 @@
 ---
-title: "Investigation of spoofing detection performance in different acoustic configurations with ASVspoof 2019 database"
+titleJa: "ASVspoof 2019 データを用いた環境ごとにおける なりすまし検出の性能評価に関する調査"
+titleEn: "Investigation of spoofing detection performance in different acoustic configurations with ASVspoof 2019 database"
 authors:
   - "Sakurako OKUNO"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"
-year: 2019
+date: "2019-06-23"
 type: "domestic"
 venue: "IPSJ Special Interest Groups Spoken Language Processing, Vol. 2019-SLP-127, No. 59, pp. 1-4, 2019-06-23."
-local: "https://www.notion.so/3c7d54c353c881a4ac13fd023b2fc023"
 ---

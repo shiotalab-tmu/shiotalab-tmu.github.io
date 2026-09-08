@@ -1,13 +1,13 @@
 ---
-title: "Oblivious Affine Compensation Using Three 2-D Barcodes"
+titleJa: "3つの二次元コードを用いた原画像不要な画像アフィン歪み補正法"
+titleEn: "Oblivious Affine Compensation Using Three 2-D Barcodes"
 authors:
   - "Masashi SHIMIZU"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"
-year: 2009
+date: "2009-06-15"
 type: "domestic"
 venue: "ITE Technical Report, Vol. 33, No. 23, pp. ME2009-96, 石川県金沢市, 2009-06-15."
 url: "http://www.ite.or.jp/ken/paper/20090615iAac/eng/"
 webpage: "http://www.ite.or.jp/ken/paper/20090615iAac/eng/"
-local: "https://www.notion.so/3c7d54c353c8815785dbe8f54d04e54f"
 ---

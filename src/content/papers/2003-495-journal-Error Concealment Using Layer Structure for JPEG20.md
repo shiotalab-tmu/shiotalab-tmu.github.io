@@ -1,12 +1,11 @@
 ---
-title: "Error Concealment Using Layer Structure for JPEG2000 Images"
+titleEn: "Error Concealment Using Layer Structure for JPEG2000 Images"
 authors:
   - "Masayuki KUROSAKI"
   - "Hitoshi KIYA"
-year: 2003
+date: "2003-04-01"
 type: "journal"
 venue: "IEICE Trans. Fundamentals, Vol. E86-A, No. 4, pp. 772-778, 2003-04-01."
 url: "http://search.ieice.org/bin/summary.php?id=e86-a_4_772&category=A&year=2003&lang=E&abst="
 webpage: "http://search.ieice.org/bin/summary.php?id=e86-a_4_772&category=A&year=2003&lang=E&abst="
-local: "https://www.notion.so/3c7d54c353c881dab7e5e7bb1aa096ed"
 ---

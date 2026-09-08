@@ -1,11 +1,12 @@
 ---
-title: "Evaluating the robustness of signal processing-based pseudonymization method using parameter optimization against decryption attack"
+titleJa: "パラメータ最適化を用いた信号処理による仮名化手法の復号攻撃に対するロバスト性評価"
+titleEn: "Evaluating the robustness of signal processing-based pseudonymization method using parameter optimization against decryption attack"
 authors:
   - "Hiroto KAI"
   - "Shinnosuke Takamichi"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"
-year: 2022
+date: "2022-03-02"
 type: "domestic"
 venue: "Speech Committee, Vol. IEICE-121 , No. 384, pp. 144-199, 沖縄県立博物館・美術館, 2022-03-02."
 url: "https://www.ieice.org/ken/paper/20220302ECJ1/eng/"

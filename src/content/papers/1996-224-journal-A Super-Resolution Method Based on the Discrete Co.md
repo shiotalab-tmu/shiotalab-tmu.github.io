@@ -1,12 +1,11 @@
 ---
-title: "A Super-Resolution Method Based on the Discrete Cosine Transform"
+titleEn: "A Super-Resolution Method Based on the Discrete Cosine Transform"
 authors:
   - "Hisashi SAKANE"
   - "Hitoshi KIYA"
-year: 1996
+date: "1996-06-01"
 type: "journal"
 venue: "IEICE Trans. Fundamentals, Vol. E79-A, No. 6, pp. 768-776, 1996-06-01."
 url: "http://search.ieice.org/bin/summary.php?id=e79-a_6_768&category=A&year=1996&lang=E&abst="
 webpage: "http://search.ieice.org/bin/summary.php?id=e79-a_6_768&category=A&year=1996&lang=E&abst="
-local: "https://www.notion.so/3c7d54c353c8811a858df82dfd62ff7a"
 ---

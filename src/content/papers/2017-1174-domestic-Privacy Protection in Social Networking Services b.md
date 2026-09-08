@@ -1,13 +1,13 @@
 ---
-title: "Privacy Protection in Social Networking Services based on an Encryption-then-Compression System for the JPEG Standard"
+titleJa: "JPEG画像のEncryption-then-Compressionシステムに基づくソーシャルネットワーキングサービスにおけるプライバシー保護"
+titleEn: "Privacy Protection in Social Networking Services based on an Encryption-then-Compression System for the JPEG Standard"
 authors:
   - "Takahiro Maekawa"
   - "Kenta KURIHARA"
   - "Hitoshi KIYA"
-year: 2017
+date: "2017-02-20"
 type: "domestic"
 venue: "Technical Report of IEICE, Vol. 116, No. 464, pp.  IE2016-101, 北海道札幌市, 2017-02-20."
 url: "http://www.ieice.org/ken/paper/20170220sbqD/eng/"
 webpage: "http://www.ieice.org/ken/paper/20170220sbqD/eng/"
-local: "https://www.notion.so/3c7d54c353c881ed92a4fb41b70942fc"
 ---

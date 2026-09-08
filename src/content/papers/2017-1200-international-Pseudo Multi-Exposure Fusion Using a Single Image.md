@@ -1,12 +1,11 @@
 ---
-title: "Pseudo Multi-Exposure Fusion Using a Single Image"
+titleEn: "Pseudo Multi-Exposure Fusion Using a Single Image"
 authors:
   - "Yuma KINOSHITA"
   - "Taichi YOSHIDA"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"
-year: 2017
+date: "2017-12-13"
 type: "international"
 venue: "APSIPA Annual Summit and Conference, pp. 263-269, Kuala Lumpur, Malaysia, 2017-12-13."
-local: "https://www.notion.so/3c7d54c353c8814d9456e57bdd224581"
 ---

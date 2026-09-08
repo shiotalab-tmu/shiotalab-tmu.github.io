@@ -1,11 +1,11 @@
 ---
-title: "Constructing Method of Fixed Order for Kernel Adaptive Algorithms"
+titleJa: "次数固定での更新を可能とするカーネル適応アルゴリズムの構成法"
+titleEn: "Constructing Method of Fixed Order for Kernel Adaptive Algorithms"
 authors:
   - "Koji MAKIZAKI"
   - "Yuichi NODA"
   - "Kiyoshi NISHIKAWA"
-year: 2011
+date: "2011-03-15"
 type: "domestic"
 venue: "General Conference of IEICE, Vol. ESS, pp. A-4-22, 東京都世田谷区, 2011-03-15."
-local: "https://www.notion.so/3c7d54c353c8817ea9b2fafa86da1617"
 ---

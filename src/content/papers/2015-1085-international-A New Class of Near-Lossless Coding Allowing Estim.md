@@ -1,11 +1,10 @@
 ---
-title: "A New Class of Near-Lossless Coding Allowing Estimation of ℓ_∞ Bound"
+titleEn: "A New Class of Near-Lossless Coding Allowing Estimation of ℓ_∞ Bound"
 authors:
   - "Hiroyuki KOBAYASHI"
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"
-year: 2015
+date: "2015-10-07"
 type: "international"
 venue: "IEEE International Symposium on Communications and Information Technologies, pp. 109-112, Nara, Japan, 2015-10-07."
-local: "https://www.notion.so/3c7d54c353c8817da09dcc444a7be3ce"
 ---

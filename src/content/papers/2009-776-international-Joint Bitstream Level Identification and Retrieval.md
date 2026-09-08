@@ -1,15 +1,14 @@
 ---
-title: "Joint Bitstream Level Identification and Retrieval Method of JPEG 2000 Images for Digital Cinema"
+titleEn: "Joint Bitstream Level Identification and Retrieval Method of JPEG 2000 Images for Digital Cinema"
 authors:
   - "Osamu WATANABE"
   - "Takahiro FUKUHARA"
   - "Hitoshi KIYA"
-year: 2009
+date: "2009-02-10"
 type: "international"
 venue: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, pp. WAM1-3-2, Bangkok, Thailand, 2009-02-10."
 url: "https://doi.org/10.1109/ISPACS.2009.4806753"
 doi: "https://doi.org/10.1109/ISPACS.2009.4806753"
 webpage: "http://ieeexplore.ieee.org/xpl/abs_all.jsp?arnumber=4806753"
 publish: "http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4806753"
-local: "https://www.notion.so/3c7d54c353c8813d8915c2967bb4ccc9"
 ---

@@ -1,11 +1,10 @@
 ---
-title: "Lossless Two-Layer Coding using Histogram Packing Technique for HDR Images"
+titleEn: "Lossless Two-Layer Coding using Histogram Packing Technique for HDR Images"
 authors:
   - "Osamu WATANABE"
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"
-year: 2018
+date: "2018-05-29"
 type: "international"
 venue: "IEEE International Symposium on Circuits and Systems, Florence, Italy, 2018-05-29."
-local: "https://www.notion.so/3c7d54c353c881c29f11f3faa6ab3854"
 ---

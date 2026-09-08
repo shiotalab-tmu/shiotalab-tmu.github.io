@@ -1,16 +1,15 @@
 ---
-title: "A Secure Online Image Trading System for Untrusted Cloud Environments"
+titleEn: "A Secure Online Image Trading System for Untrusted Cloud Environments"
 authors:
   - "Khairul Munadi"
   - "Mohammad Syaryadhi BASYIRUDDIN"
   - "Fitri Arnia"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"
-year: 2015
+date: "2015-06-17"
 type: "journal"
 venue: "SpringerPlus.2015, Vol. 4, No. 277, 2015-06-17."
 url: "https://doi.org/10.1186/s40064-015-1052-1"
 doi: "https://doi.org/10.1186/s40064-015-1052-1"
 webpage: "http://www.springerplus.com/content/4/1/277"
-local: "https://www.notion.so/3c7d54c353c881668c74c25c294d0d3e"
 ---

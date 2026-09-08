@@ -1,10 +1,11 @@
 ---
-title: "Image Quality Improvement of the Reversible Data Hiding Method Based on High-Density Embedding"
+titleJa: "埋込情報量あたりの変化画素数低減による可逆情報埋込法の画質改善"
+titleEn: "Image Quality Improvement of the Reversible Data Hiding Method Based on High-Density Embedding"
 authors:
   - "Michihiko ONO"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"
-year: 2008
+date: "2008-09-18"
 type: "domestic"
 venue: "Society Conference of IEICE, Vol. ESS, pp. A-4-6, 川崎市多摩区, 2008-09-18."
 ---

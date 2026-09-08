@@ -1,11 +1,10 @@
 ---
-title: "Two-layer Near-lossless HDR Coding using Zero-Skip Quantization with Backward Compatibility to JPEG"
+titleEn: "Two-layer Near-lossless HDR Coding using Zero-Skip Quantization with Backward Compatibility to JPEG"
 authors:
   - "Hiroyuki KOBAYASHI"
   - "Osamu WATANABE"
   - "Hitoshi KIYA"
-year: 2019
+date: "2019-12-01"
 type: "journal"
 venue: "IEICE Trans. Fundamentals, Vol. E102-A, No. 12, 2019-12-01."
-local: "https://www.notion.so/3c7d54c353c881baa0b3d5a803c231d9"
 ---

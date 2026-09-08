@@ -1,11 +1,10 @@
 ---
-title: "A Unified Tone Mapping Operation for HDR Images Expressed in Integer Data"
+titleEn: "A Unified Tone Mapping Operation for HDR Images Expressed in Integer Data"
 authors:
   - "Toshiyuki DOBASHI"
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"
-year: 2016
+date: "2016-03-01"
 type: "journal"
 venue: "IEICE Trans. Fundamentals, Vol. E.99-A, No. 3, pp. 774-776, 2016-03-01."
-local: "https://www.notion.so/3c7d54c353c8815d865adb76456419c8"
 ---

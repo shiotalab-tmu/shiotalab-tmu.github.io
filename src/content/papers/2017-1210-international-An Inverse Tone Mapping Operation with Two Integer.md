@@ -1,11 +1,10 @@
 ---
-title: "An Inverse Tone Mapping Operation with Two Integer Data for HDR images"
+titleEn: "An Inverse Tone Mapping Operation with Two Integer Data for HDR images"
 authors:
   - "Toshiyuki DOBASHI"
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"
-year: 2017
+date: "2017-11-09"
 type: "international"
 venue: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, pp. 634-639, Xiamen, China, 2017-11-09."
-local: "https://www.notion.so/3c7d54c353c88135a405f761f5a32a65"
 ---

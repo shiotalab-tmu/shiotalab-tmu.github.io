@@ -1,9 +1,10 @@
 ---
-title: "Speech spoofing detection using deep learning model with multiple acoustic features"
+titleJa: "複数の音声特徴量を用いた深層学習モデルによるなりすまし音声検出の検討"
+titleEn: "Speech spoofing detection using deep learning model with multiple acoustic features"
 authors:
   - "Haruto NAMBA"
   - "Sayaka SHIOTA"
-year: 2025
+date: "2025-03-04"
 type: "domestic"
 venue: "Speech Committee, Vol. 124, No. 391, pp. SP2024-71, 沖縄県青年会館, 2025-03-04."
 url: "https://ken.ieice.org/ken/paper/20250304Yciv/"

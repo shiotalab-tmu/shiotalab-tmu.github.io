@@ -1,8 +1,9 @@
 ---
-title: "Image transformation with random numbers for reliable AI "
+titleJa: "信頼できるAIのための乱数を用いた画像変換"
+titleEn: "Image transformation with random numbers for reliable AI "
 authors:
   - "Hitoshi KIYA"
-year: 2023
+date: "2023-03-02"
 type: "domestic"
 venue: "Technical Report of IEICE, Vol. 122, No. 412, pp. EMM2022-87 , 福江文化会館 , 2023-03-02."
 url: "https://ken.ieice.org/ken/paper/20230302wCRv/eng/"

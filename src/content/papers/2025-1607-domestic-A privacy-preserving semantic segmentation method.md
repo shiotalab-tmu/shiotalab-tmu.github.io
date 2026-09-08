@@ -1,14 +1,14 @@
 ---
-title: "A privacy-preserving semantic segmentation method that enables model training on cloud servers"
+titleJa: "クラウドサーバーでモデル学習を可能とするプライバシー保護セマンティックセグメンテーション法"
+titleEn: "A privacy-preserving semantic segmentation method that enables model training on cloud servers"
 authors:
   - "Homare SUEYOSHI"
   - "Koki HORIO"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"
-year: 2025
+date: "2025-05-29"
 type: "domestic"
 venue: "Technical Report of IEICE, Vol. 125, No. 38, pp. EMM2025-7, 長崎大学 文教キャンパス, 2025-05-29."
 url: "https://ken.ieice.org/ken/paper/20250529YcKB/eng/"
 webpage: "https://ken.ieice.org/ken/paper/20250529YcKB/eng/"
-local: "https://www.notion.so/3c7d54c353c88180ac65f3a409920a4e"
 ---

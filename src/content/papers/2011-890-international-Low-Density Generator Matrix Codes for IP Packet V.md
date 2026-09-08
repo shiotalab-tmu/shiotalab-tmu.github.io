@@ -1,5 +1,5 @@
 ---
-title: "Low-Density Generator Matrix Codes for IP Packet Video Streaming with Backward Compatibility"
+titleEn: "Low-Density Generator Matrix Codes for IP Packet Video Streaming with Backward Compatibility"
 authors:
   - "Yoshihide TONOMURA"
   - "Daisuke SHIRAI"
@@ -7,8 +7,7 @@ authors:
   - "Takayuki NAKACHI"
   - "Tatsuya FUJII"
   - "Hitoshi KIYA"
-year: 2011
+date: "2011-06-06"
 type: "international"
 venue: "IEEE International Conference on Communications, pp. CSMA-02.5, Kyoto, Japan, 2011-06-06."
-local: "https://www.notion.so/3c7d54c353c881ff88cdd9f264ee9125"
 ---

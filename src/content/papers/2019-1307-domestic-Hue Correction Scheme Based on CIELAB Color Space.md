@@ -1,10 +1,10 @@
 ---
-title: "Hue Correction Scheme Based on CIELAB Color Space"
+titleJa: "CIELAB色空間に基づく色相補正法"
+titleEn: "Hue Correction Scheme Based on CIELAB Color Space"
 authors:
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"
-year: 2019
+date: "2019-03-14"
 type: "domestic"
 venue: "Technical Report of IEICE, Vol. 118, No. 496, pp. SIP2018-105, 長崎県長崎市, 2019-03-14."
-local: "https://www.notion.so/3c7d54c353c881389766e129bc311c00"
 ---

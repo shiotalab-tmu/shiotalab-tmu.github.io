@@ -1,13 +1,13 @@
 ---
-title: "A parallel computation method of super resolution using convolutional neural networks "
+titleJa: "畳み込みニューラルネットワークを用いた超解像の並列計算法 "
+titleEn: "A parallel computation method of super resolution using convolutional neural networks "
 authors:
   - "Yusuke Sugawara"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"
-year: 2017
+date: "2017-02-20"
 type: "domestic"
 venue: "Technical Report of IEICE, Vol. 116, No. 464, pp. IE2016-102 , 札幌市北区, 2017-02-20."
 url: "http://www.ieice.org/ken/paper/20170220Cbq5/eng/"
 webpage: "http://www.ieice.org/ken/paper/20170220Cbq5/eng/"
-local: "https://www.notion.so/3c7d54c353c88123ac74fbbfcd4c860f"
 ---

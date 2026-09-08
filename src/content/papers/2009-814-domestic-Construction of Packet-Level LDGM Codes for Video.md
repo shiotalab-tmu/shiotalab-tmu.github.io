@@ -1,13 +1,13 @@
 ---
-title: "Construction of Packet-Level LDGM Codes for Video Applications and Its Evaluation"
+titleJa: "アプリケーション要求に適したパケットレベルLDGM符号の構成と性能評価"
+titleEn: "Construction of Packet-Level LDGM Codes for Video Applications and Its Evaluation"
 authors:
   - "Yoshihide TONOMURA"
   - "Daisuke SHIRAI"
   - "Takayuki NAKACHI"
   - "Tatsuya FUJII"
   - "Hitoshi KIYA"
-year: 2009
+date: "2009-11-27"
 type: "domestic"
 venue: "IEICE Signal Processing Symposium, pp. B9-2, 鹿児島県鹿児島市, 2009-11-27."
-local: "https://www.notion.so/3c7d54c353c881138686fc9d559f4e8a"
 ---

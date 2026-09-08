@@ -1,10 +1,10 @@
 ---
-title: "Untitled"
+titleJa: "Untitled"
 authors:
   - "Ryo OISHI"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"
-year: 2017
+date: "2017-01-31"
 type: "domestic"
 venue: "2017-01-31."
 ---

@@ -1,11 +1,12 @@
 ---
-title: "Fast Image Identification for Coded Images with Different Compression Ratio"
+titleJa: "圧縮率の異なる符号化画像の高速な画像同定法"
+titleEn: "Fast Image Identification for Coded Images with Different Compression Ratio"
 authors:
   - "Ikue IIZUKA"
   - "Fitri Arnia"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"
-year: 2005
+date: "2005-06-28"
 type: "domestic"
 venue: "Technical Report of IEICE, Vol. 105, No. 150, pp. SIP2005-41, 宮城県仙台市青葉区, 2005-06-28."
 url: "http://www.ieice.org/ken/paper/20050628nAes/eng/"

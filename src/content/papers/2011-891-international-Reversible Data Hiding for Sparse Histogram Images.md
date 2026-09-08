@@ -1,10 +1,9 @@
 ---
-title: "Reversible Data Hiding for Sparse Histogram Images"
+titleEn: "Reversible Data Hiding for Sparse Histogram Images"
 authors:
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"
-year: 2011
+date: "2011-06-21"
 type: "international"
 venue: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. TC1-3, Gyeongju, Korea, 2011-06-21."
-local: "https://www.notion.so/3c7d54c353c8816e976cce6007411fd5"
 ---

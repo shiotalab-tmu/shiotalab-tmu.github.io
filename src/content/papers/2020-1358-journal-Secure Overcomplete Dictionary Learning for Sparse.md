@@ -1,11 +1,10 @@
 ---
-title: "Secure Overcomplete Dictionary Learning for Sparse Representation"
+titleEn: "Secure Overcomplete Dictionary Learning for Sparse Representation"
 authors:
   - "Takayuki NAKACHI"
   - "Yukihiro Bandoh"
   - "Hitoshi KIYA"
-year: 2020
+date: "2020-01-01"
 type: "journal"
 venue: "IEICE Trans. Inf. & Sys., Vol. E103-D, No. 1, pp. 50-58, 2020-01-01."
-local: "https://www.notion.so/3c7d54c353c881a7bdf4d9438072ecad"
 ---

@@ -1,12 +1,11 @@
 ---
-title: "Adaptive Directional Lifting Structure of Three Dimensional Non-separable Discrete Wavelet Transform for High Resolution Volumetric Data Compression"
+titleEn: "Adaptive Directional Lifting Structure of Three Dimensional Non-separable Discrete Wavelet Transform for High Resolution Volumetric Data Compression"
 authors:
   - "Fairoza Amira Binti HAMZAH"
   - "Masahiro IWAHASHI"
   - "Taichi YOSHIDA"
   - "Hitoshi KIYA"
-year: 2016
+date: "2016-05-01"
 type: "journal"
 venue: "IEICE Trans. Fundamentals, Vol. E99-A, No. 5, pp. 892-899, 2016-05-01."
-local: "https://www.notion.so/3c7d54c353c881b7adcfc83fa341e6f4"
 ---

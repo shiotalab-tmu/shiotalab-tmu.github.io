@@ -1,5 +1,6 @@
 ---
-title: "A tandem double-single channel pop noise detector based voice liveness detection for speaker verification"
+titleJa: "ステレオ/モノラルポップノイズ検出法の縦列接続による話者照合のための声の生体検知"
+titleEn: "A tandem double-single channel pop noise detector based voice liveness detection for speaker verification"
 authors:
   - "Sayaka SHIOTA"
   - "Fernando Villaviencio"
@@ -7,10 +8,9 @@ authors:
   - "Nobutaka ONO"
   - "Isao ECHIZEN"
   - "Tomoko MATSUI"
-year: 2016
+date: "2016-03-08"
 type: "domestic"
 venue: "Acoustical Society of Japan Spring Meeting, pp. 1-1-8, 2016-03-08."
 url: "http://www.asj.gr.jp/annualmeeting/2016spring_youryou.html"
 webpage: "http://www.asj.gr.jp/annualmeeting/2016spring_youryou.html"
-local: "https://www.notion.so/3c7d54c353c8810fb6f8e233cd44a082"
 ---

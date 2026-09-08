@@ -1,11 +1,10 @@
 ---
-title: "Multi-Keyed Hierarchical Image Authentication"
+titleEn: "Multi-Keyed Hierarchical Image Authentication"
 authors:
   - "Kenta WATANABE"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"
-year: 2010
+date: "2010-12-16"
 type: "international"
 venue: "APSIPA Annual Summit and Conference, Vol. Student Symposium, pp. 62-62, Biopolis, Singapore, 2010-12-16."
-local: "https://www.notion.so/3c7d54c353c881af922bcf21a8ac3dd5"
 ---
