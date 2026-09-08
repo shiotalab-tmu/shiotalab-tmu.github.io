@@ -89,7 +89,8 @@ const paperSchema = z.object({
   titleJa: z.string().optional(),
   titleEn: z.string().optional(),
   authors: z.array(z.string()),
-  year: z.number(),
+  // 発表日 (YYYY-MM-DD)。年度絞り込み・新しい順ソートの両方のキー (yearは冗長なので持たない。paperYear()で導出する)
+  date: z.string(),
   type: z.enum(['journal', 'international', 'domestic']),
   venue: z.string(),
   url: z.string().optional(),

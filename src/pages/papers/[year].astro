@@ -4,6 +4,7 @@ import PageHero from '../../components/PageHero.astro';
 import PaperLinks from '../../components/PaperLinks.astro';
 import { getCollection } from 'astro:content';
 import { paperTitleJa } from '../../utils/paperTitle';
+import { paperYear } from '../../utils/paperDate';
 
 export async function getStaticPaths() {
   const allPapers = await getCollection('papers');
@@ -12,7 +13,7 @@ export async function getStaticPaths() {
   const years = [...new Set(
     allPapers
       .filter(paper => paper.slug !== 'index')
-      .map(paper => paper.data.year)
+      .map(paper => paperYear(paper.data.date))
   )].sort((a, b) => b - a);
 
   return years.map(year => ({
@@ -26,13 +27,13 @@ const allPapers = await getCollection('papers');
 
 // 全年度のリストを取得（ナビゲーション用）
 const allYears = [...new Set(
-  allPapers.map(paper => paper.data.year)
+  allPapers.map(paper => paperYear(paper.data.date))
 )].sort((a, b) => b - a);
 
 // 指定された年の論文を取得してタイプ別に分類
 const yearPapers = allPapers
-  .filter(paper => paper.data.year === year)
-  .sort((a, b) => paperTitleJa(a.data).localeCompare(paperTitleJa(b.data)));
+  .filter(paper => paperYear(paper.data.date) === year)
+  .sort((a, b) => b.data.date.localeCompare(a.data.date));
 
 const journals = yearPapers.filter(p => p.data.type === 'journal');
 const international = yearPapers.filter(p => p.data.type === 'international');

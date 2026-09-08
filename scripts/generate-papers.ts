@@ -224,9 +224,6 @@ function generateMarkdown(paper: Paper): string {
     .sort((a, b) => a.order - b.order)
     .map(author => cleanString(author.name.english || author.name.japanese));
 
-  // 年
-  const year = parseInt(paper.date.slice(0, 4));
-
   // type
   const paperType = paper.journal
     ? mapPtypeToType(paper.journal.type)
@@ -260,7 +257,7 @@ function generateMarkdown(paper: Paper): string {
 
   Object.assign(frontmatter, {
     authors,
-    year,
+    date: paper.date,
     type: paperType,
     venue,
   });
@@ -295,11 +292,21 @@ function generateMarkdown(paper: Paper): string {
 /**
  * メイン処理
  */
+// 研究室の実績として扱う最古の年。日付の入力ミス (例: 西暦0026年、1970年など
+// 研究室設立より前の年) によるデータを除外するための下限
+const MIN_YEAR = 1980;
+
 async function main() {
   try {
     console.log('📚 論文データを取得中...');
-    const papers = await fetchPapers();
-    console.log(`✅ ${papers.length}件の論文データを取得しました`);
+    const allPapers = await fetchPapers();
+    console.log(`✅ ${allPapers.length}件の論文データを取得しました`);
+
+    const papers = allPapers.filter(paper => parseInt(paper.date.slice(0, 4), 10) >= MIN_YEAR);
+    const excludedCount = allPapers.length - papers.length;
+    if (excludedCount > 0) {
+      console.log(`⚠️  ${MIN_YEAR}年より前の日付のデータを${excludedCount}件除外しました`);
+    }
 
     // 出力先ディレクトリを準備
     const outputDir = getOutputDir();
