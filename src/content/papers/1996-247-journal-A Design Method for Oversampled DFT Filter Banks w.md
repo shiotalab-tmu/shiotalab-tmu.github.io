@@ -1,7 +1,10 @@
 ---
 titleJa: "最小遅延量を持つオーバサンプルDFTフィルタバンクの設計"
 titleEn: "A Design Method for Oversampled DFT Filter Banks with the Minimum Delay"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"
 date: "1996-11-01"

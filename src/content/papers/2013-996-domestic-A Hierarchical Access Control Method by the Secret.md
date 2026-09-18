@@ -1,7 +1,11 @@
 ---
 titleJa: "秘密分散法による階層的アクセス制御"
 titleEn: "A Hierarchical Access Control Method by the Secret Sharing Scheme"
-authors:
+authorsJa:
+  - "倉上 高史"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Takashi KURAKAMI"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

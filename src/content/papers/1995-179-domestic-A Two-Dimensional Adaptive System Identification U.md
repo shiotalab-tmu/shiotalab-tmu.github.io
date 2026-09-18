@@ -1,7 +1,12 @@
 ---
 titleJa: "2次元DFT周波数サンプリングフィルタ(FSF)バンクを用いた2次元適応システム同定 --- 画像の雑音除去 ---"
 titleEn: "A Two-Dimensional Adaptive System Identification Utilizing the Two-Dimensional DFT Frequency Sampling Filter (FSF) Bank"
-authors:
+authorsJa:
+  - "福田 和子"
+  - "金城 繁徳"
+  - "尾知 博"
+  - "貴家 仁志"
+authorsEn:
   - "Kazuko FUKUDA"
   - "Shigenori KINJO"
   - "Hiroshi OCHI"

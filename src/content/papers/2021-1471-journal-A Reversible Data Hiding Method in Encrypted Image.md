@@ -1,6 +1,10 @@
 ---
 titleEn: "A Reversible Data Hiding Method in Encrypted Images for Controlling Trade-Off between Hiding Capacity and Compression Efficiency"
-authors:
+authorsJa:
+  - "本村 遼太"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Ryota MOTOMURA"
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"

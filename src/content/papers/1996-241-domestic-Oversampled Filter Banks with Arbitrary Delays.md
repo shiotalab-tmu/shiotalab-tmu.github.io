@@ -1,7 +1,11 @@
 ---
 titleJa: "任意の遅延量を持つオーバサンプルフィルタバンク"
 titleEn: "Oversampled Filter Banks with Arbitrary Delays"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "山内 拓也"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Takuya YAMAUCHI"
   - "Hitoshi KIYA"

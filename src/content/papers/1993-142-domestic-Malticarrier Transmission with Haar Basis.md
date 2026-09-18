@@ -1,7 +1,10 @@
 ---
 titleJa: "ハール基底に基づくマルチキャリア伝送"
 titleEn: "Malticarrier Transmission with Haar Basis"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"
 date: "1993-11-01"

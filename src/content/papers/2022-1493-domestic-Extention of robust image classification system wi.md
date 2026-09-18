@@ -1,7 +1,11 @@
 ---
 titleJa: "敵対的事例検出器を用いたロバストな画像分類システムの拡張"
 titleEn: "Extention of robust image classification system with Adversarial Example Detectors"
-authors:
+authorsJa:
+  - "田中 美貴"
+  - "長我部　恭行"
+  - "貴家 仁志"
+authorsEn:
   - "Miki TANAKA"
   - "Takayuki OSAKABE"
   - "Hitoshi KIYA"

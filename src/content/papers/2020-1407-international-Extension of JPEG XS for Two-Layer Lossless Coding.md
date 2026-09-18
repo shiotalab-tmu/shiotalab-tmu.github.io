@@ -1,6 +1,9 @@
 ---
 titleEn: "Extension of JPEG XS for Two-Layer Lossless Coding"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"
 date: "2020-10-14"

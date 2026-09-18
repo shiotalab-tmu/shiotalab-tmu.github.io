@@ -1,6 +1,11 @@
 ---
 titleEn: "DCT Sign-Based Similarity Measure for JPEG Image Retrieval"
-authors:
+authorsJa:
+  - "フィトリ アルニア"
+  - "飯塚 郁絵"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Fitri Arnia"
   - "Ikue IIZUKA"
   - "Masaaki FUJIYOSHI"

@@ -1,6 +1,9 @@
 ---
 titleEn: "Checkerboard-Artifact-Free Image-Enhancement Network Considering Local and Global Features"
-authors:
+authorsJa:
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"
 date: "2020-12-08"

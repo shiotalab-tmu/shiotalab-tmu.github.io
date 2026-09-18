@@ -1,6 +1,11 @@
 ---
 titleEn: "1D Frequency Transformation-Based Amplitude-Only Images for Copyright- and Privacy-Protection in Image Trading Systems"
-authors:
+authorsJa:
+  - "セタン ワンニダー"
+  - "劉 審川"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Wannida SAE-TANG"
   - "Shen Chuan LIU"
   - "Masaaki FUJIYOSHI"

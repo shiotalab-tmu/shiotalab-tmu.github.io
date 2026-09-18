@@ -1,7 +1,11 @@
 ---
 titleJa: "ランダムユニタリ変換ベースの分散秘匿化信号に対するスパースモデリング"
 titleEn: "Sparse modeling on distributed encryption signal with random unitary transform"
-authors:
+authorsJa:
+  - "坂東 幸浩"
+  - "仲地 孝之"
+  - "貴家 仁志"
+authorsEn:
   - "Yukihiro Bandoh"
   - "Takayuki NAKACHI"
   - "Hitoshi KIYA"

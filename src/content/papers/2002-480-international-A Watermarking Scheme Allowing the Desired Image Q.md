@@ -1,6 +1,10 @@
 ---
 titleEn: "A Watermarking Scheme Allowing the Desired Image Quality with No Limitation on the Distribution of Watermark Sequences"
-authors:
+authorsJa:
+  - "橘 高志"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Takashi TACHIBANA"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

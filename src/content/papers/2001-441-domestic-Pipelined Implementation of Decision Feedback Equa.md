@@ -1,7 +1,11 @@
 ---
 titleJa: "レイテンシを考慮した判定帰還型等等化器のパイプライン実現法"
 titleEn: "Pipelined Implementation of Decision Feedback Equalizers Considering Latency"
-authors:
+authorsJa:
+  - "仁木 健生"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Takeo NIKI"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

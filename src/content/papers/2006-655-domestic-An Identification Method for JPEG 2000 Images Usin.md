@@ -1,7 +1,11 @@
 ---
 titleJa: "DWT係数の正負符号を用いたJPEG2000符号化画像の同定法"
 titleEn: "An Identification Method for JPEG 2000 Images Using the Signs of DWT Coefficients"
-authors:
+authorsJa:
+  - "渡邊 修"
+  - "川名 明夫"
+  - "貴家 仁志"
+authorsEn:
   - "Osamu WATANABE"
   - "Akio KAWANA"
   - "Hitoshi KIYA"

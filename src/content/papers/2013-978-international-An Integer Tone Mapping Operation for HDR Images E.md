@@ -1,6 +1,10 @@
 ---
 titleEn: "An Integer Tone Mapping Operation for HDR Images Expressed in Floating Point Data"
-authors:
+authorsJa:
+  - "室伏 辰耶"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Tatsuya MUROFUSHI"
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"

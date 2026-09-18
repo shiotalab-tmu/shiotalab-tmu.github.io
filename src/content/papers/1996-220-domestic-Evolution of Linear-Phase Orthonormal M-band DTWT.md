@@ -1,7 +1,11 @@
 ---
 titleJa: "改良GenLOTを用いた直線位相正規直交M帯域DTWTの評価"
 titleEn: "Evolution of Linear-Phase Orthonormal M-band DTWT using the modified GenLOT"
-authors:
+authorsJa:
+  - "原田 康裕"
+  - "村松 正吾"
+  - "貴家 仁志"
+authorsEn:
   - "Yasuhiro HARADA"
   - "Shogo MURAMATSU"
   - "Hitoshi KIYA"

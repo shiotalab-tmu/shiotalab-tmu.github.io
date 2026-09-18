@@ -1,7 +1,11 @@
 ---
 titleJa: "話者照合のための整数化を用いた位相情報抽出に関する考察"
 titleEn: "Investigation of integer-based phase information extraction for automatic speaker verification"
-authors:
+authorsJa:
+  - "仲野 詩織"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Shiori NAKANO"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

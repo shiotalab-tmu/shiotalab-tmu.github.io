@@ -1,6 +1,10 @@
 ---
 titleEn: "FFT-Based Full-Search Block Matching Using Overlap-Add Method"
-authors:
+authorsJa:
+  - "佐々木 秀竹"
+  - "李 禎"
+  - "貴家 仁志"
+authorsEn:
   - "Hidetake SASAKI"
   - "Zhen LI"
   - "Hitoshi KIYA"

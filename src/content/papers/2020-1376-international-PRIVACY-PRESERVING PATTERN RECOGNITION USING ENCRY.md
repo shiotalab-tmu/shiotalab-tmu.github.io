@@ -1,6 +1,10 @@
 ---
 titleEn: "PRIVACY-PRESERVING PATTERN RECOGNITION USING ENCRYPTED SPARSE REPRESENTATIONS IN L0 NORM MINIMIZATION"
-authors:
+authorsJa:
+  - "仲地 孝之"
+  - "Yitu WANG"
+  - "貴家 仁志"
+authorsEn:
   - "Takayuki NAKACHI"
   - "Yitu WANG"
   - "Hitoshi KIYA"

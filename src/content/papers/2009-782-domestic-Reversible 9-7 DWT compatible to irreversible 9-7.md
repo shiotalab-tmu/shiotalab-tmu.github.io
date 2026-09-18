@@ -1,7 +1,10 @@
 ---
 titleJa: "JPEG 2000の非可逆9-7 DWTと互換な可逆9-7 DWT"
 titleEn: "Reversible 9-7 DWT compatible to irreversible 9-7 DWT of JPEG 2000"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"
 date: "2009-03-16"

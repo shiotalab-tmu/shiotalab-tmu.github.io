@@ -1,7 +1,11 @@
 ---
 titleJa: "可逆情報埋込み法の埋込み情報量と画質改善"
 titleEn: "Improvement of the Lossless Data Embedding on the Capacity and the Image Quality"
-authors:
+authorsJa:
+  - "金 弘林"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Hong Lin JIN"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

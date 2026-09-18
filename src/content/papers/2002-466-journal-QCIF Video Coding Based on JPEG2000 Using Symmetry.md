@@ -1,6 +1,9 @@
 ---
 titleEn: "QCIF Video Coding Based on JPEG2000 Using Symmetry of Images"
-authors:
+authorsJa:
+  - "高木 亜有子"
+  - "貴家 仁志"
+authorsEn:
   - "Ayuko TAKAGI"
   - "Hitoshi KIYA"
 date: "2002-08-01"

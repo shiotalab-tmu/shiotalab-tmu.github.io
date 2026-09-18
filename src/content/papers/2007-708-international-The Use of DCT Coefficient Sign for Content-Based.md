@@ -1,6 +1,10 @@
 ---
 titleEn: "The Use of DCT Coefficient Sign for Content-Based Copy Detection"
-authors:
+authorsJa:
+  - "フィトリ アルニア"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Fitri Arnia"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

@@ -1,6 +1,9 @@
 ---
 titleEn: "Low Computational Complexity Implementation Method for W-CDMA systems"
-authors:
+authorsJa:
+  - "福田 亮"
+  - "西川 清史"
+authorsEn:
   - "Ryo FUKUDA"
   - "Kiyoshi NISHIKAWA"
 date: "2003-07-07"

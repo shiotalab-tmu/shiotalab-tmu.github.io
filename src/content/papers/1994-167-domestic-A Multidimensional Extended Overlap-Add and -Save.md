@@ -1,7 +1,10 @@
 ---
 titleJa: "任意のサンプリング格子変換のための多次元拡張重複加算法及び保持法"
 titleEn: "A Multidimensional Extended Overlap-Add and -Save Method for Arbitrary Sampling Lattice Alteration"
-authors:
+authorsJa:
+  - "村松 正吾"
+  - "貴家 仁志"
+authorsEn:
   - "Shogo MURAMATSU"
   - "Hitoshi KIYA"
 date: "1994-09-01"

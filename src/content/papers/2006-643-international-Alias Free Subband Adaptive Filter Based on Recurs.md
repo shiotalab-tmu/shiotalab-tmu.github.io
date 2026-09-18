@@ -1,6 +1,10 @@
 ---
 titleEn: "Alias Free Subband Adaptive Filter Based on Recursive Least Squares Algorithm for Finite Word-Length"
-authors:
+authorsJa:
+  - "遠藤 耕太"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Kota ENDO"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

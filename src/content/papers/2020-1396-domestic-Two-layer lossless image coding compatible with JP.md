@@ -1,7 +1,10 @@
 ---
 titleJa: "JPEG XSと互換性を有する二層ロスレス画像符号化"
 titleEn: "Two-layer lossless image coding compatible with JPEG XS"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"
 date: "2020-06-04"

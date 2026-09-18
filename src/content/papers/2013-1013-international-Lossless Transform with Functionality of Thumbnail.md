@@ -1,6 +1,10 @@
 ---
 titleEn: "Lossless Transform with Functionality of Thumbnail Previewing"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "ポームリチグン スヴィット"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Suvit POOMRITTIGUL"
   - "Hitoshi KIYA"

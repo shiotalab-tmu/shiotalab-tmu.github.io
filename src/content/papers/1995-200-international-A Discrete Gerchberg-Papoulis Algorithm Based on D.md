@@ -1,6 +1,10 @@
 ---
 titleEn: "A Discrete Gerchberg-Papoulis Algorithm Based on DCT"
-authors:
+authorsJa:
+  - "坂根 尚"
+  - "植木 あきひこ"
+  - "貴家 仁志"
+authorsEn:
   - "Hisashi SAKANE"
   - "Akihiko UEKI"
   - "Hitoshi KIYA"

@@ -1,6 +1,12 @@
 ---
 titleEn: "Content Based Image Copy Detection Based on Sign of Wavelet Coefficients"
-authors:
+authorsJa:
+  - "フィトリ アルニア"
+  - "オーグスティヌス アイファン"
+  - "ハイルル ムナディ"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Fitri Arnia"
   - "Agustinus Ifan"
   - "Khairul Munadi"

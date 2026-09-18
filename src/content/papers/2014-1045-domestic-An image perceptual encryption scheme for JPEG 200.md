@@ -1,7 +1,10 @@
 ---
 titleJa: "JPEG2000のための画像の知覚暗号化法"
 titleEn: "An image perceptual encryption scheme for JPEG 2000 compression"
-authors:
+authorsJa:
+  - "内田 輝"
+  - "貴家 仁志"
+authorsEn:
   - "Akira UCHIDA"
   - "Hitoshi KIYA"
 date: "2014-07-10"

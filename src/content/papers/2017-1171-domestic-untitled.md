@@ -1,6 +1,10 @@
 ---
 titleJa: "Untitled"
-authors:
+authorsJa:
+  - "中満 達也"
+  - "栗原 健太"
+  - "貴家 仁志"
+authorsEn:
   - "Tatsuya CHUMAN"
   - "Kenta KURIHARA"
   - "Hitoshi KIYA"

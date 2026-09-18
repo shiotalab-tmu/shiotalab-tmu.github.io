@@ -1,6 +1,10 @@
 ---
 titleJa: "線形システムの極，零点感度解析"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "伊藤 宏一"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi KIYA"
   - "Kouichi ITOH"
   - "Masahiko SAGAWA"

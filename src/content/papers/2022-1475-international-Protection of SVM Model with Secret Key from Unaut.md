@@ -1,6 +1,10 @@
 ---
 titleEn: "Protection of SVM Model with Secret Key from Unauthorized Access"
-authors:
+authorsJa:
+  - "飯島 諒太"
+  - "エイプリルピョンマウンマウン"
+  - "貴家 仁志"
+authorsEn:
   - "Ryota IIJIMA"
   - "April Pyone MAUNG MAUNG"
   - "Hitoshi KIYA"

@@ -1,6 +1,8 @@
 ---
 titleEn: "Generalized Histogram Shifting-Based Blind Reversible Data Hiding with Balanced and Guarded Double Side Modification"
-authors:
+authorsJa:
+  - "藤吉 正明"
+authorsEn:
   - "Masaaki FUJIYOSHI"
 date: "2013-10-04"
 type: "international"

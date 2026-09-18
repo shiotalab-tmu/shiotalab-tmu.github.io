@@ -1,7 +1,12 @@
 ---
 titleJa: "ヒストグラムパッキングとグラデーション予測を用いた二階層ロスレス HDR 画像符号化"
 titleEn: "TWO LAYER LOSSLESS HDR IMAGE CODING USING HISTGRAM PACKING AND GRADATION PREDICTION"
-authors:
+authorsJa:
+  - "長谷川 治郎"
+  - "吉田 太一"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Jirou HASEGAWA"
   - "Taichi YOSHIDA"
   - "Masahiro IWAHASHI"

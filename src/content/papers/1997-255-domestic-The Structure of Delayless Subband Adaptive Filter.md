@@ -1,7 +1,11 @@
 ---
 titleJa: "アダマール変換を用いた遅延のないサブバンド適応フィルタの構成法"
 titleEn: "The Structure of Delayless Subband Adaptive Filter using Hadamard Transformation"
-authors:
+authorsJa:
+  - "山内 拓也"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Takuya YAMAUCHI"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

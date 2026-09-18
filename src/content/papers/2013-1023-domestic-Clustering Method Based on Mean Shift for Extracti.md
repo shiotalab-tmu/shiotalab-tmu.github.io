@@ -1,7 +1,11 @@
 ---
 titleJa: "特定歩行者の抽出のためのMean Shiftによるクラスタリング手法"
 titleEn: "Clustering Method Based on Mean Shift for Extracting A Specific Walking Person"
-authors:
+authorsJa:
+  - "大橋 正樹"
+  - "西谷 隆夫"
+  - "西川 清史"
+authorsEn:
   - "Masaki OHASHI"
   - "Takao NISHITANI"
   - "Kiyoshi NISHIKAWA"

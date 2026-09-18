@@ -1,6 +1,9 @@
 ---
 titleJa: "話者照合コーパスJTubeSpeech-ASVにおける言語と性別による影響調査"
-authors:
+authorsJa:
+  - "平山 絵理"
+  - "塩田 さやか"
+authorsEn:
   - "Eri HIRAYAMA"
   - "Sayaka SHIOTA"
 date: "2024-03-07"

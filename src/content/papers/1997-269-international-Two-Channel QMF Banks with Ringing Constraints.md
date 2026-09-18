@@ -1,6 +1,9 @@
 ---
 titleEn: "Two-Channel QMF Banks with Ringing Constraints"
-authors:
+authorsJa:
+  - "小島 一浩"
+  - "貴家 仁志"
+authorsEn:
   - "Kazuhiro KOJIMA"
   - "Hitoshi KIYA"
 date: "1997-07-01"

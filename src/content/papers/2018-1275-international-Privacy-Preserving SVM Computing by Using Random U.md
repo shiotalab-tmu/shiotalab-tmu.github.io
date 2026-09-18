@@ -1,6 +1,11 @@
 ---
 titleEn: "Privacy-Preserving SVM Computing by Using Random Unitary Transformation"
-authors:
+authorsJa:
+  - "前川 貴大"
+  - "仲地 孝之"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Takahiro Maekawa"
   - "Takayuki NAKACHI"
   - "Sayaka SHIOTA"

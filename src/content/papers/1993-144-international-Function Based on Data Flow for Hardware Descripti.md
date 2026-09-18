@@ -1,6 +1,10 @@
 ---
 titleEn: "Function Based on Data Flow for Hardware Description Languages and Functional Verification"
-authors:
+authorsJa:
+  - "吉田 たけお"
+  - "貴家 仁志"
+  - "内藤 祥雄"
+authorsEn:
   - "Takeo YOSHIDA"
   - "Hitoshi KIYA"
   - "Sachio NAITO"

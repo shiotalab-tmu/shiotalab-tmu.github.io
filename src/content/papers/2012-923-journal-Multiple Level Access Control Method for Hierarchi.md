@@ -1,7 +1,11 @@
 ---
 titleJa: "低演算量鍵生成手法を用いたマルチメディアコンテンツの多重階層型アクセス制御方式"
 titleEn: "Multiple Level Access Control Method for Hierarchical Multimedia Content Using Low-complexity Key Generating Schemes"
-authors:
+authorsJa:
+  - "今泉 祥子"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Shoko IMAIZUMI"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

@@ -1,7 +1,12 @@
 ---
 titleJa: "JPEG 2000符号化画像のための階層的暗号化法"
 titleEn: "A Hierarchical Encryption Method for JPEG 2000 Codestreams"
-authors:
+authorsJa:
+  - "中崎 暁子"
+  - "渡邊 修"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Akiko NAKAZAKI"
   - "Osamu WATANABE"
   - "Masaaki FUJIYOSHI"

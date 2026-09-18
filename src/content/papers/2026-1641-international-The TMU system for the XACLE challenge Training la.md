@@ -1,6 +1,10 @@
 ---
 titleEn: "The TMU system for the XACLE challenge: Training large audio language models with CLAP pseudo-labels"
-authors:
+authorsJa:
+  - "堤 歩斗"
+  - "田中 康平"
+  - "塩田 さやか"
+authorsEn:
   - "Ayuto TSUTSUMI"
   - "Kohei TANAKA"
   - "Sayaka SHIOTA"

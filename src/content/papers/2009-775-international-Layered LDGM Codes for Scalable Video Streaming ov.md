@@ -1,6 +1,12 @@
 ---
 titleEn: "Layered LDGM Codes for Scalable Video Streaming over Packet Erasure Channels"
-authors:
+authorsJa:
+  - "外村 喜秀"
+  - "白井 大介"
+  - "仲地 孝之"
+  - "藤井 竜也"
+  - "貴家 仁志"
+authorsEn:
   - "Yoshihide TONOMURA"
   - "Daisuke SHIRAI"
   - "Takayuki NAKACHI"

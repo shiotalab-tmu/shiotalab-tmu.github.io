@@ -1,7 +1,10 @@
 ---
 titleJa: "任意の間引き率を持つ完全再構成DFTフィルタバンクとその最小遅延量について"
 titleEn: "Oversampled DFT Filter Banks with Arbitrary Decimation Ratios and Their Minimum Delays"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"
 date: "1996-05-01"

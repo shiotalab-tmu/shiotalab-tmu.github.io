@@ -1,6 +1,10 @@
 ---
 titleEn: "A Fixed-Point Local Tone Mapping Operation for HDR Images"
-authors:
+authorsJa:
+  - "土橋 俊之"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Toshiyuki DOBASHI"
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"

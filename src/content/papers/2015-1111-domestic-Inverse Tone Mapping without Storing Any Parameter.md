@@ -1,7 +1,12 @@
 ---
 titleJa: "HDR画像のためのパラメータを用いない逆トーンマッピング法とその応用"
 titleEn: "Inverse Tone Mapping without Storing Any Parameters for HDR Images and Its Application "
-authors:
+authorsJa:
+  - "木下 裕磨"
+  - "塩田 さやか"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Yuma KINOSHITA"
   - "Sayaka SHIOTA"
   - "Masahiro IWAHASHI"

@@ -1,7 +1,11 @@
 ---
 titleJa: "スパース性に基づく可変忘却係数を用いたRLS型適応フィルタの追従特性改善法"
 titleEn: "Sparsity-Based Variable Forgetting Factor Algorithm for Improvement of Tracking Performance of RLS-Type Adaptive"
-authors:
+authorsJa:
+  - "西川 清史"
+  - "牧﨑 幸司"
+  - "長谷川 絢也"
+authorsEn:
   - "Kiyoshi NISHIKAWA"
   - "Koji MAKIZAKI"
   - "Jun'ya HASEGAWA"

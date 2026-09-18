@@ -1,7 +1,11 @@
 ---
 titleJa: "適応フィルタに基づくチェス版歪みを伴わないレート変換器の設計"
 titleEn: "A Design Method of Rate Converters without Checkerboard Effect Based on Adaptive Filters"
-authors:
+authorsJa:
+  - "渡部 誠二"
+  - "貴家 仁志"
+  - "藤井 信生"
+authorsEn:
   - "Seiji WATANABE"
   - "Hitoshi KIYA"
   - "Nobuo FUJII"

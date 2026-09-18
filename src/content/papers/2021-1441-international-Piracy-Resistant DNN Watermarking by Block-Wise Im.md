@@ -1,6 +1,9 @@
 ---
 titleEn: "Piracy-Resistant DNN Watermarking by Block-Wise Image Transformation with Secret Key"
-authors:
+authorsJa:
+  - "エイプリルピョンマウンマウン"
+  - "貴家 仁志"
+authorsEn:
   - "April Pyone MAUNG MAUNG"
   - "Hitoshi KIYA"
 date: "2021-06-22"

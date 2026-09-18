@@ -1,7 +1,11 @@
 ---
 titleJa: "スケーラブル・デコーダにおけるドリフト低減のための動き補償"
 titleEn: "A Motion Compensation of Scalable Decoder for Drift Reduction"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "貴家 仁志"
+  - "神林 紀嘉"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"
   - "Noriyoshi KAMBAYASHI"

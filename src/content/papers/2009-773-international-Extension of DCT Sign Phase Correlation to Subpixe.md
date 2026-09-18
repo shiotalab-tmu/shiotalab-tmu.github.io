@@ -1,6 +1,10 @@
 ---
 titleEn: "Extension of DCT Sign Phase Correlation to Subpixel Registration"
-authors:
+authorsJa:
+  - "伊藤 泉"
+  - "植村 淳志"
+  - "貴家 仁志"
+authorsEn:
   - "Izumi ITO"
   - "Atsushi UEMURA"
   - "Hitoshi KIYA"

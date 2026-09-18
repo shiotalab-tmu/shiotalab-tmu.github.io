@@ -1,7 +1,10 @@
 ---
 titleJa: "画像遮蔽のDCT符号限定相関への影響"
 titleEn: "Effect of Occulusion on DCT Sign-Only Correlation"
-authors:
+authorsJa:
+  - "伊藤 泉"
+  - "貴家 仁志"
+authorsEn:
   - "Izumi ITO"
   - "Hitoshi KIYA"
 date: "2007-03-22"

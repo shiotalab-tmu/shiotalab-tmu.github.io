@@ -1,7 +1,13 @@
 ---
 titleJa: "スケーラブル符号化画像に対するアクセス制御のための効果的な暗号鍵生成方式"
 titleEn: "An Efficient Key Derivation Method for Access Control of Scalable Coded Images"
-authors:
+authorsJa:
+  - "今泉 祥子"
+  - "藤吉 正明"
+  - "貴家 仁志"
+  - "青木 直和"
+  - "小林 裕幸"
+authorsEn:
   - "Shoko IMAIZUMI"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

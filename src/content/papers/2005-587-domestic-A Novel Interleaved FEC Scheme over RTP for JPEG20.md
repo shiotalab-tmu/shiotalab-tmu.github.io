@@ -1,6 +1,11 @@
 ---
 titleEn: "A Novel Interleaved FEC Scheme over RTP for JPEG2000 Image Transmission"
-authors:
+authorsJa:
+  - "黒崎 正行"
+  - "ハイルル ムナディ"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Masayuki KUROSAKI"
   - "Khairul Munadi"
   - "Kiyoshi NISHIKAWA"

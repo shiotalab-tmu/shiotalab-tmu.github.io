@@ -1,7 +1,10 @@
 ---
 titleJa: "DFTを利用したマルチキャリア変調信号の時間領域と周波数領域のエネルギー分布の関係について"
 titleEn: "A Study on the Relation of Energy Distribution between Time and Frequency Domain for Multicarrier Modulation Signals Using DFT"
-authors:
+authorsJa:
+  - "横田 智也"
+  - "西川 清史"
+authorsEn:
   - "Tomoya YOKOTA"
   - "Kiyoshi NISHIKAWA"
 date: "2004-11-11"

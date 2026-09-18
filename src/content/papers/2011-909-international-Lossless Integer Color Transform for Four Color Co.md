@@ -1,6 +1,10 @@
 ---
 titleEn: "Lossless Integer Color Transform for Four Color Components"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "小川 公則"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Masanori OGAWA"
   - "Hitoshi KIYA"

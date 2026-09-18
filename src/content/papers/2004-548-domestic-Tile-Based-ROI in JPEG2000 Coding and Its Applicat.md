@@ -1,7 +1,11 @@
 ---
 titleJa: "JPEG2000符号化におけるタイリングROIの提案とその応用"
 titleEn: "Tile-Based-ROI in JPEG2000 Coding and Its Application"
-authors:
+authorsJa:
+  - "山口 裕之"
+  - "渡邊 修"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki YAMAGUCHI"
   - "Osamu WATANABE"
   - "Hitoshi KIYA"

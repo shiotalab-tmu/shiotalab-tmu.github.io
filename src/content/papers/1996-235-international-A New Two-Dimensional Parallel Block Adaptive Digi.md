@@ -1,6 +1,10 @@
 ---
 titleEn: "A New Two-Dimensional Parallel Block Adaptive Digital Filter"
-authors:
+authorsJa:
+  - "金城 繁徳"
+  - "尾知 博"
+  - "貴家 仁志"
+authorsEn:
   - "Shigenori KINJO"
   - "Hiroshi OCHI"
   - "Hitoshi KIYA"

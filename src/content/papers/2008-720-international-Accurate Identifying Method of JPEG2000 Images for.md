@@ -1,6 +1,10 @@
 ---
 titleEn: "Accurate Identifying Method of JPEG2000 Images for Digital Cinema"
-authors:
+authorsJa:
+  - "福原 隆浩"
+  - "保坂 和寿"
+  - "貴家 仁志"
+authorsEn:
   - "Takahiro FUKUHARA"
   - "Kazuhisa HOSAKA"
   - "Hitoshi KIYA"

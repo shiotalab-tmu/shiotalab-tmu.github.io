@@ -1,7 +1,11 @@
 ---
 titleJa: "暗号化画像に対するMSB予測型可逆情報埋込み法の拡張"
 titleEn: "An Extension of MSB Prediction-Based Method for Reversible Data Hiding in Encrypted Images"
-authors:
+authorsJa:
+  - "平澤 凌一"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Ryoichi HIRASAWA"
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"

@@ -1,6 +1,10 @@
 ---
 titleEn: "Image Transformation Network for Privacy-Preserving Deep Neural Networks and Its Security Evaluation"
-authors:
+authorsJa:
+  - "伊藤 広樹"
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroki ITO"
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"

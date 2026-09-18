@@ -1,7 +1,11 @@
 ---
 titleJa: "ランダム直交行列を用いた秘密鍵による音声のプライバシー保護法への攻撃に対する頑健性"
 titleEn: "Robustness Against Attacks on a Voice Privacy-preserving Method Using Random Orthogonal Matrix-based Secret Key"
-authors:
+authorsJa:
+  - "丹羽 祥子"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Shoko NIWA"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

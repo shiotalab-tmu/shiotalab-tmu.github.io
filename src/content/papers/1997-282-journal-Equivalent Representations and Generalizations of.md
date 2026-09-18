@@ -1,7 +1,10 @@
 ---
 titleJa: "DCT領域での画像の解像度変換の等価表現とその一般化処理"
 titleEn: "Equivalent Representations and Generalizations of Image Resolution Conversions in DCT-Domain"
-authors:
+authorsJa:
+  - "鄒 暁霞"
+  - "貴家 仁志"
+authorsEn:
   - "XiaoXia ZOU"
   - "Hitoshi KIYA"
 date: "1997-11-01"

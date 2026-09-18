@@ -1,6 +1,10 @@
 ---
 titleEn: "Pipelined LMS Adaptive Filter Using a New Look-Ahead Transformation"
-authors:
+authorsJa:
+  - "松原 勝重"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Katsushige MATSUBARA"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

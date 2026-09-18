@@ -1,7 +1,12 @@
 ---
 titleJa: "圧縮率の異なる符号化画像の高速な画像同定法"
 titleEn: "Fast Image Identification for Coded Images with Different Compression Ratio"
-authors:
+authorsJa:
+  - "飯塚 郁絵"
+  - "フィトリ アルニア"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Ikue IIZUKA"
   - "Fitri Arnia"
   - "Masaaki FUJIYOSHI"

@@ -1,7 +1,11 @@
 ---
 titleJa: "下位ビットプレーンの削除によるJPEG2000画像の画質改善法"
 titleEn: "An Image Quality Improvement Scheme by Deleting Lower Bitplane for JPEG2000 Coded Images"
-authors:
+authorsJa:
+  - "長藁 真一"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Shin'ichi NAGAWARA"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

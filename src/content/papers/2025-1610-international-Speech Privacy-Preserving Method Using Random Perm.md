@@ -1,6 +1,9 @@
 ---
 titleEn: "Speech Privacy-Preserving Method Using Random Permutation of Speech Segments"
-authors:
+authorsJa:
+  - "冨永 陽也"
+  - "塩田 さやか"
+authorsEn:
   - "Haruya TOMINAGA"
   - "Sayaka SHIOTA"
 date: "2025-09-25"

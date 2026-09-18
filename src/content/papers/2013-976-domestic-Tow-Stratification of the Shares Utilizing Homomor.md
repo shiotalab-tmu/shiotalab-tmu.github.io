@@ -1,7 +1,11 @@
 ---
 titleJa: "秘密分散法における準同型性を活用したシェアの二階層化"
 titleEn: "Tow-Stratification of the Shares Utilizing Homomorphism in the Secret Sharing Scheme"
-authors:
+authorsJa:
+  - "倉上 高史"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Takashi KURAKAMI"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

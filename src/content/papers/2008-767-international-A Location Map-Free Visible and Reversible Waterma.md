@@ -1,6 +1,10 @@
 ---
 titleEn: "A Location Map-Free Visible and Reversible Watermarking Method with Authentication Ability"
-authors:
+authorsJa:
+  - "韓 昇祐"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Seungwu HAN"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

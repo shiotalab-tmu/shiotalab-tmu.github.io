@@ -1,6 +1,10 @@
 ---
 titleEn: "A VLSI Architecture of Median-Cut Quantization for Low-Bit Motion Estimation"
-authors:
+authorsJa:
+  - "村松 正吾"
+  - "山田 昭彦"
+  - "貴家 仁志"
+authorsEn:
   - "Shogo MURAMATSU"
   - "Akihiko YAMADA"
   - "Hitoshi KIYA"

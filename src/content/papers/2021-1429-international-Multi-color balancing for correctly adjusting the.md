@@ -1,6 +1,10 @@
 ---
 titleEn: "Multi-color balancing for correctly adjusting the intensity of target colors"
-authors:
+authorsJa:
+  - "赤澤 輝昭"
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Teruaki AKAZAWA"
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"

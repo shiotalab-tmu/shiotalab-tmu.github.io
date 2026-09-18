@@ -1,7 +1,11 @@
 ---
 titleJa: "超広帯域音声のための低周波成分への影響を考慮した非線形帯域拡張法に基づく話者照合の検討"
 titleEn: "Speaker verification based on non-linear bandwidth extension considering aliasing artifacts for super-wideband applications "
-authors:
+authorsJa:
+  - "宮本 春奈"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Haruna MIYAMOTO"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

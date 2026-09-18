@@ -1,7 +1,11 @@
 ---
 titleJa: "視覚情報保護を考慮した機械学習のためのランダムサンプリング次元削減法"
 titleEn: "A Dimensionality Reduction Method with Random Sampling for Privacy-Preserving Machine Learning "
-authors:
+authorsJa:
+  - "河村 綾菜"
+  - "飯田 健太"
+  - "貴家 仁志"
+authorsEn:
   - "Ayana KAWAMURA"
   - "Kenta IIDA"
   - "Hitoshi KIYA"

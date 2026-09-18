@@ -1,6 +1,9 @@
 ---
 titleEn: "Improving the Throughput of RLS Adaptive Filters with Only a Few Processing Elements"
-authors:
+authorsJa:
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"
 date: "2000-10-01"

@@ -1,7 +1,11 @@
 ---
 titleJa: "ルックアヘッドDelayed LMSアルゴリズムのシストリックアレー実現"
 titleEn: "A Systolic Array Realization of The Look-ahead-based Delayed LMS Algorithm"
-authors:
+authorsJa:
+  - "松原 勝重"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Katsushige MATSUBARA"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

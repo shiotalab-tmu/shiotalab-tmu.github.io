@@ -1,6 +1,10 @@
 ---
 titleEn: "A Framework for Transformation Network Training in Coordination with Semi-trusted Cloud Provider for Privacy-Preserving Deep Neural Networks"
-authors:
+authorsJa:
+  - "伊藤 広樹"
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroki ITO"
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"

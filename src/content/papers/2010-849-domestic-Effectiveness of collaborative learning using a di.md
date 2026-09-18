@@ -1,7 +1,11 @@
 ---
 titleJa: "デジタルペンとマインドマップを用いた協調学習の有効性 〜 expert参加の有無に着目して〜"
 titleEn: "Effectiveness of collaborative learning using a digital pen and mind maps -- Focusing on whether experts participate or not"
-authors:
+authorsJa:
+  - "松波 紀幸"
+  - "永井 正洋"
+  - "貴家 仁志"
+authorsEn:
   - "Noriyuki MATSUNAMI"
   - "Masahiro NAGAI"
   - "Hitoshi KIYA"

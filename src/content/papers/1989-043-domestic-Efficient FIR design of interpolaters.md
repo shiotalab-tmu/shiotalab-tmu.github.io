@@ -1,7 +1,11 @@
 ---
 titleJa: "インタポレータの効果的なFIR設計"
 titleEn: "Efficient FIR design of interpolaters"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "伊藤 一広"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi KIYA"
   - "Kazuhiro ITOH"
   - "Masahiko SAGAWA"

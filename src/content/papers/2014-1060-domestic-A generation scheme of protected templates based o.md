@@ -1,7 +1,12 @@
 ---
 titleJa: "直交変換に基づく生体認証のためのテンプレート保護法"
 titleEn: "A generation scheme of protected templates based on orthogonal transforms for biometrics"
-authors:
+authorsJa:
+  - "中村 維吹"
+  - "倉上 高史"
+  - "外村 喜秀"
+  - "貴家 仁志"
+authorsEn:
   - "Ibuki NAKAMURA"
   - "Takashi KURAKAMI"
   - "Yoshihide TONOMURA"

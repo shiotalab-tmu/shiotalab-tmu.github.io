@@ -1,6 +1,10 @@
 ---
 titleEn: "Improvement of Convergence Speed for Subband Adaptive Digital Filters Using the Multirate Repeating Method"
-authors:
+authorsJa:
+  - "芦原 浩司"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Kouji ASHIHARA"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

@@ -3,7 +3,7 @@ import Layout from '../../layouts/Layout.astro';
 import PageHero from '../../components/PageHero.astro';
 import PaperLinks from '../../components/PaperLinks.astro';
 import { getCollection } from 'astro:content';
-import { paperTitleEn } from '../../utils/paperTitle';
+import { paperTitle, paperAuthors } from '../../utils/paperTitle';
 import { paperYear } from '../../utils/paperDate';
 
 // /en/papers（デフォルトルート）で表示する年度（ja側のPAPERS_DEFAULT_YEARと合わせる）
@@ -22,7 +22,7 @@ const latestYear = PAPERS_DEFAULT_YEAR;
 // 最新年度の論文を取得してタイプ別に分類
 const yearPapers = allPapers
   .filter(paper => paperYear(paper.data.date) === latestYear)
-  .sort((a, b) => b.data.date.localeCompare(a.data.date));
+  .sort((a, b) => a.data.date.localeCompare(b.data.date));
 
 const journals = yearPapers.filter(p => p.data.type === 'journal');
 const international = yearPapers.filter(p => p.data.type === 'international');
@@ -60,8 +60,8 @@ const domestic = yearPapers.filter(p => p.data.type === 'domestic');
             <ol>
               {journals.map((paper) => (
                 <li>
-                  {paper.data.authors.join(', ')},<br/>
-                  "{paperTitleEn(paper.data)}",<br/>
+                  {paperAuthors(paper.data, 'en').join(', ')},<br/>
+                  "{paperTitle(paper.data, 'en')}",<br/>
                   {paper.data.venue}
                   <PaperLinks paper={paper.data} />
                 </li>
@@ -76,8 +76,8 @@ const domestic = yearPapers.filter(p => p.data.type === 'domestic');
             <ol>
               {international.map((paper) => (
                 <li>
-                  {paper.data.authors.join(', ')},<br/>
-                  "{paperTitleEn(paper.data)}",<br/>
+                  {paperAuthors(paper.data, 'en').join(', ')},<br/>
+                  "{paperTitle(paper.data, 'en')}",<br/>
                   {paper.data.venue}
                   <PaperLinks paper={paper.data} />
                 </li>
@@ -92,8 +92,8 @@ const domestic = yearPapers.filter(p => p.data.type === 'domestic');
             <ol>
               {domestic.map((paper) => (
                 <li>
-                  {paper.data.authors.join(', ')},<br/>
-                  "{paperTitleEn(paper.data)}",<br/>
+                  {paperAuthors(paper.data, 'en').join(', ')},<br/>
+                  "{paperTitle(paper.data, 'en')}",<br/>
                   {paper.data.venue}
                   <PaperLinks paper={paper.data} />
                 </li>

@@ -1,7 +1,11 @@
 ---
 titleJa: "マーカコードの発生を考慮したJPEG2000符号化画像の情報半開示法"
 titleEn: "Partial-Scrambling of JPEG2000 Images without Generating Marker Codes"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "今泉 祥子"
+  - "渡邊 修"
+authorsEn:
   - "Hitoshi KIYA"
   - "Shoko IMAIZUMI"
   - "Osamu WATANABE"

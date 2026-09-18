@@ -1,6 +1,10 @@
 ---
 titleEn: "An Efficient Reversible Image Authentication Method"
-authors:
+authorsJa:
+  - "韓 昇祐"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Seungwu HAN"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

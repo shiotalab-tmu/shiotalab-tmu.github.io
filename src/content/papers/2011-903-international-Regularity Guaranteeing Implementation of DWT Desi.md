@@ -1,6 +1,9 @@
 ---
 titleEn: "Regularity Guaranteeing Implementation of DWT Designed under Lifting Structure"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"
 date: "2011-10-19"

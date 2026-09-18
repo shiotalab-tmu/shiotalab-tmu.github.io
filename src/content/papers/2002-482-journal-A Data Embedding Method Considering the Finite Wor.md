@@ -1,6 +1,10 @@
 ---
 titleEn: "A Data Embedding Method Considering the Finite Word-Length for High Quality Images"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "橘 高志"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Takashi TACHIBANA"
   - "Hitoshi KIYA"

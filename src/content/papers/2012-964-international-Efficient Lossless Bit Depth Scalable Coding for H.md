@@ -1,6 +1,9 @@
 ---
 titleEn: "Efficient Lossless Bit Depth Scalable Coding for HDR Images"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"
 date: "2012-12-06"

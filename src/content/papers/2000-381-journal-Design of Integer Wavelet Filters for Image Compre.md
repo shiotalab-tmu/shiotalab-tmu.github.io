@@ -1,6 +1,10 @@
 ---
 titleEn: "Design of Integer Wavelet Filters for Image Compression"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "小林 弘幸"
+  - "渡邊 修"
+authorsEn:
   - "Hitoshi KIYA"
   - "Hiroyuki KOBAYASHI"
   - "Osamu WATANABE"

@@ -1,6 +1,10 @@
 ---
 titleJa: "FFTを用いたGerchberg-Papoulis反復法の実現"
-authors:
+authorsJa:
+  - "坂根 尚"
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Hisashi SAKANE"
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"

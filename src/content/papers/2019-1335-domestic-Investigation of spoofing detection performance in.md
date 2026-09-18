@@ -1,7 +1,11 @@
 ---
 titleJa: "ASVspoof 2019 データを用いた環境ごとにおける なりすまし検出の性能評価に関する調査"
 titleEn: "Investigation of spoofing detection performance in different acoustic configurations with ASVspoof 2019 database"
-authors:
+authorsJa:
+  - "奥野 桜子"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Sakurako OKUNO"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

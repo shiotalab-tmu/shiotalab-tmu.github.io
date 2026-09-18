@@ -1,6 +1,10 @@
 ---
 titleEn: "Joint Bitstream Level Identification and Retrieval Method of JPEG 2000 Images for Digital Cinema"
-authors:
+authorsJa:
+  - "渡邊 修"
+  - "福原 隆浩"
+  - "貴家 仁志"
+authorsEn:
   - "Osamu WATANABE"
   - "Takahiro FUKUHARA"
   - "Hitoshi KIYA"

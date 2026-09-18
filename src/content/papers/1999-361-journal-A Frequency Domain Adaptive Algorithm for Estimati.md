@@ -1,6 +1,10 @@
 ---
 titleEn: "A Frequency Domain Adaptive Algorithm for Estimating Impulse Response with Flat Delay and Dispersive Response Region"
-authors:
+authorsJa:
+  - "山田 洋士"
+  - "貴家 仁志"
+  - "神林 紀嘉"
+authorsEn:
   - "Youji YAMADA"
   - "Hitoshi KIYA"
   - "Noriyoshi KAMBAYASHI"

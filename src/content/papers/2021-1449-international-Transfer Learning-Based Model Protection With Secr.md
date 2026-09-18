@@ -1,6 +1,9 @@
 ---
 titleEn: "Transfer Learning-Based Model Protection With Secret Key"
-authors:
+authorsJa:
+  - "エイプリルピョンマウンマウン"
+  - "貴家 仁志"
+authorsEn:
   - "April Pyone MAUNG MAUNG"
   - "Hitoshi KIYA"
 date: "2021-09-19"

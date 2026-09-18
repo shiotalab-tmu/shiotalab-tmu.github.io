@@ -1,6 +1,10 @@
 ---
 titleEn: "Towards Noise-Robust Automatic Speaker Verification Using Pop Noise"
-authors:
+authorsJa:
+  - "中西 亮介"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Ryosuke NAKANISHI"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

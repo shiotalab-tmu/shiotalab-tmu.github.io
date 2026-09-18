@@ -1,7 +1,11 @@
 ---
 titleJa: "Vision Transformerの組み込み構造を利用した連合学習の安全性の強化"
 titleEn: "Enhanced Security with the Embedding Structure of Vision Transformer in Federated Learning"
-authors:
+authorsJa:
+  - "麻生 伶"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Rei ASO"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

@@ -1,7 +1,10 @@
 ---
 titleJa: "限定色画像のロスレス符号化のためのインデックス変換法"
 titleEn: "Index Substitution Method for Lossless Coding of Pallete-Based Images"
-authors:
+authorsJa:
+  - "麻野 啓成"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroshige ASANO"
   - "Hitoshi KIYA"
 date: "1999-09-01"

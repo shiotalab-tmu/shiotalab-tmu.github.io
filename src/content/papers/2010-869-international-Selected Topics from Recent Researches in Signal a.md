@@ -1,6 +1,9 @@
 ---
 titleEn: "Selected Topics from Recent Researches in Signal and Image Processing at Tokyo Metropolitan University"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "西川 清史"
+authorsEn:
   - "Hitoshi KIYA"
   - "Kiyoshi NISHIKAWA"
 date: "2010-12-17"

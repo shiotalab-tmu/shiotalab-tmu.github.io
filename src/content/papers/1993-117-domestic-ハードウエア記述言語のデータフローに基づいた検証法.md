@@ -1,6 +1,10 @@
 ---
 titleJa: "ハードウエア記述言語のデータフローに基づいた検証法"
-authors:
+authorsJa:
+  - "吉田 たけお"
+  - "貴家 仁志"
+  - "内藤 祥雄"
+authorsEn:
   - "Takeo YOSHIDA"
   - "Hitoshi KIYA"
   - "Sachio NAITO"

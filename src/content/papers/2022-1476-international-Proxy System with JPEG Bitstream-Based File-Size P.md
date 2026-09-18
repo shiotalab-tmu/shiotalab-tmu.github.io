@@ -1,6 +1,9 @@
 ---
 titleEn: "Proxy System with JPEG Bitstream-Based File-Size Preserving Encryption for Cloud Photo Streams"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"
 date: "2022-01-05"

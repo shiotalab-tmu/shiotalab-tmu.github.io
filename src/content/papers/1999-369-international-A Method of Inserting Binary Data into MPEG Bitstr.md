@@ -1,6 +1,11 @@
 ---
 titleEn: "A Method of Inserting Binary Data into MPEG Bitstreams for Video Index Labeling"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "野口 祥宏"
+  - "高木 亜有子"
+  - "小林 弘幸"
+authorsEn:
   - "Hitoshi KIYA"
   - "Yoshihiro NOGUCHI"
   - "Ayuko TAKAGI"

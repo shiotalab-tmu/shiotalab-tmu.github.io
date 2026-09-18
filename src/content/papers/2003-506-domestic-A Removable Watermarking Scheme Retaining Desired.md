@@ -1,7 +1,12 @@
 ---
 titleJa: "透かし系列除去可能な画質保証型電子透かし法とその評価"
 titleEn: "A Removable Watermarking Scheme Retaining Desired Image Quality and Its Evaluation"
-authors:
+authorsJa:
+  - "松井 勝之"
+  - "橘 高志"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Katsuyuki MATSUI"
   - "Takashi TACHIBANA"
   - "Masaaki FUJIYOSHI"

@@ -1,6 +1,12 @@
 ---
 titleEn: "Layered Low-Density Generator Matrix Codes for Super High Definition Scalable Video Coding System"
-authors:
+authorsJa:
+  - "外村 喜秀"
+  - "白井 大介"
+  - "仲地 孝之"
+  - "藤井 竜也"
+  - "貴家 仁志"
+authorsEn:
   - "Yoshihide TONOMURA"
   - "Daisuke SHIRAI"
   - "Takayuki NAKACHI"

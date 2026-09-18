@@ -1,7 +1,10 @@
 ---
 titleJa: "相関ピークの相互干渉を考慮したDCT-SPCによるサブピクセル画像マッチング"
 titleEn: "Subpixel Image Matching for DCT-SPC Considering Interference of Correlation Peaks"
-authors:
+authorsJa:
+  - "伊藤 泉"
+  - "貴家 仁志"
+authorsEn:
   - "Izumi ITO"
   - "Hitoshi KIYA"
 date: "2008-10-30"

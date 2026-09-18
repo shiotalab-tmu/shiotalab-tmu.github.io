@@ -1,7 +1,11 @@
 ---
 titleJa: "DCT係数の正負符号と位相限定相関との関係について"
 titleEn: "Relationship between Signs of DCT Coefficients and Phase-Only Correlation"
-authors:
+authorsJa:
+  - "伊藤 泉"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Izumi ITO"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

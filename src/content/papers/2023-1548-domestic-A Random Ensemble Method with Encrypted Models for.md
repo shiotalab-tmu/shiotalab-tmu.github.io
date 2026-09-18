@@ -1,7 +1,12 @@
 ---
 titleJa: "敵対的攻撃に対する頑健性向上のための暗号化モデルのランダムアンサンブル"
 titleEn: "A Random Ensemble Method with Encrypted Models for Improving Robustness against Adversarial Examples"
-authors:
+authorsJa:
+  - "飯島 諒太"
+  - "田中 美貴"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Ryota IIJIMA"
   - "Miki TANAKA"
   - "Sayaka SHIOTA"

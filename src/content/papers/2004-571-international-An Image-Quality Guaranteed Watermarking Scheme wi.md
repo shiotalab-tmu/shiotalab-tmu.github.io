@@ -1,6 +1,10 @@
 ---
 titleEn: "An Image-Quality Guaranteed Watermarking Scheme with Spreading Spectrum of Watermark"
-authors:
+authorsJa:
+  - "橘 高志"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Takashi TACHIBANA"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

@@ -1,7 +1,12 @@
 ---
 titleJa: "イコライザを用いた並列QMFバンクの設計"
 titleEn: "Design of parallel QMF banks with equalizers"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "岩橋 政宏"
+  - "伊藤 一広"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi KIYA"
   - "Masahiro IWAHASHI"
   - "Kazuhiro ITOH"

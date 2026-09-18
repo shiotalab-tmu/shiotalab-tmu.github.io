@@ -1,6 +1,9 @@
 ---
 titleEn: "Reversible Data Hiding for Sparse Histogram Images"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"
 date: "2011-06-21"

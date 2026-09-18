@@ -1,7 +1,10 @@
 ---
 titleJa: "再送要求の選択的制御を可能とする新しい画像伝送プロトコル"
 titleEn: "A New Image Transport Protocol Allowing Selective Request Retrasnmissions"
-authors:
+authorsJa:
+  - "佐々木 孝子"
+  - "西川 清史"
+authorsEn:
   - "Takako SASAKI"
   - "Kiyoshi NISHIKAWA"
 date: "2003-03-01"

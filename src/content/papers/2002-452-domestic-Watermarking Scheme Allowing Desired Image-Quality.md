@@ -1,7 +1,10 @@
 ---
 titleJa: "有限語長の影響を考慮した画質保証型電子透かし法"
 titleEn: "Watermarking Scheme Allowing Desired Image-Quality by Considering the Finite Word-Length"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"
 date: "2002-03-01"

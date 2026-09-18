@@ -1,7 +1,11 @@
 ---
 titleJa: "再帰型ハッシュ連鎖を用いたディジタルコンテンツのアクセス制御方式"
 titleEn: "An Access Control Method Using Recursive Hash Chains for Digital Content"
-authors:
+authorsJa:
+  - "今泉 祥子"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Shoko IMAIZUMI"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

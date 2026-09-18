@@ -1,6 +1,9 @@
 ---
 titleEn: "On the Security of Block Scrambling-Based Image Encryption Including JPEG Distorsion against Jigsaw Puzzle Solver Attacks"
-authors:
+authorsJa:
+  - "中満 達也"
+  - "貴家 仁志"
+authorsEn:
   - "Tatsuya CHUMAN"
   - "Hitoshi KIYA"
 date: "2017-09-25"

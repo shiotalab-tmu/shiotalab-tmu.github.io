@@ -1,7 +1,11 @@
 ---
 titleJa: "プライバシー保護を考慮したVision Transformerのための暗号化事前学習モデルを用いたファインチューニング法 "
 titleEn: "A fine-tuning method using encrypted pre-trained model for Vision Transformer considering privacy protection"
-authors:
+authorsJa:
+  - "堀尾虹輝"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Koki HORIO"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

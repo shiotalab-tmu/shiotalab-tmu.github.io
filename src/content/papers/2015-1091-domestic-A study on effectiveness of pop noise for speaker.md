@@ -1,7 +1,12 @@
 ---
 titleJa: "話者照合におけるポップノイズの有効性に関する検討"
 titleEn: "A study on effectiveness of pop noise for speaker verification "
-authors:
+authorsJa:
+  - "仲野 詩織"
+  - "中西 亮介"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Shiori NAKANO"
   - "Ryosuke NAKANISHI"
   - "Sayaka SHIOTA"

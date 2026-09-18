@@ -1,7 +1,10 @@
 ---
 titleJa: "データマッピングに基づく画像の可逆符号化"
 titleEn: "Lossless Image coding based on Data-Mapping"
-authors:
+authorsJa:
+  - "渡邊 修"
+  - "貴家 仁志"
+authorsEn:
   - "Osamu WATANABE"
   - "Hitoshi KIYA"
 date: "1999-07-01"

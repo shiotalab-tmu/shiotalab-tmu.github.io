@@ -1,6 +1,10 @@
 ---
 titleEn: "Adversarial Robustness by One Bit Double Quantization for Visual Classification"
-authors:
+authorsJa:
+  - "エイプリルピョンマウンマウン"
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "April Pyone MAUNG MAUNG"
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"

@@ -1,7 +1,12 @@
 ---
 titleJa: "円対称フィルタに対する高次マクレラン変換の検討"
 titleEn: "Consideration on high order McClellan transformations for circularly symmetric filters"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "田沢 志郎"
+  - "佐々木 健"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi KIYA"
   - "Shiro TAZAWA"
   - "Ken SASAKI"

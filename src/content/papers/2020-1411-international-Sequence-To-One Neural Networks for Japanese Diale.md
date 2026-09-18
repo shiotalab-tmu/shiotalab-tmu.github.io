@@ -1,6 +1,11 @@
 ---
 titleEn: "Sequence-To-One Neural Networks for Japanese Dialect Speech Classification"
-authors:
+authorsJa:
+  - "今泉　遼"
+  - "増村　亮"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Ryo IMAIZUMI"
   - "Ryo MASUMURA"
   - "Sayaka SHIOTA"

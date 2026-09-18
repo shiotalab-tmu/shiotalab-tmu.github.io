@@ -1,7 +1,11 @@
 ---
 titleJa: "ヒストグラムの疎性を考慮したニアロスレス画像符号化法"
 titleEn: "Near Lossless Image Coding Method Considering the Histogram Sparsity"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"

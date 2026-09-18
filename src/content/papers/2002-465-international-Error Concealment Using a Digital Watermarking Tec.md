@@ -1,6 +1,10 @@
 ---
 titleEn: "Error Concealment Using a Digital Watermarking Technique for Interframe Video Coding "
-authors:
+authorsJa:
+  - "ハイルル ムナディ"
+  - "黒崎 正行"
+  - "貴家 仁志"
+authorsEn:
   - "Khairul Munadi"
   - "Masayuki KUROSAKI"
   - "Hitoshi KIYA"

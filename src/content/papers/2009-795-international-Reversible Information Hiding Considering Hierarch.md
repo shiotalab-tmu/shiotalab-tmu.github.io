@@ -1,6 +1,10 @@
 ---
 titleEn: "Reversible Information Hiding Considering Hierarchical Access Control"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "韓 昇祐"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Seungwu HAN"
   - "Hitoshi KIYA"

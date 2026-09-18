@@ -1,7 +1,12 @@
 ---
 titleJa: "方言ラベルを補助特徴量とした End-to-End 日本語方言音声認識"
 titleEn: "Using Dialect Label as Auxiliary Feature for End-to-End Japanese Dialect Speech Recognition"
-authors:
+authorsJa:
+  - "今泉　遼"
+  - "増村　亮"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Ryo IMAIZUMI"
   - "Ryo MASUMURA"
   - "Sayaka SHIOTA"

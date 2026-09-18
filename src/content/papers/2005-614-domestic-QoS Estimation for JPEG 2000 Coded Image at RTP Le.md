@@ -1,7 +1,11 @@
 ---
 titleJa: "RTPレベルでのJPEG 2000符号化画像のQoS推定法"
 titleEn: "QoS Estimation for JPEG 2000 Coded Image at RTP Level"
-authors:
+authorsJa:
+  - "長藁 真一"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Shin'ichi NAGAWARA"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

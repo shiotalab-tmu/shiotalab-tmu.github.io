@@ -1,7 +1,11 @@
 ---
 titleJa: "x-vector に基づく話者照合における非線形帯域拡張法の評価"
 titleEn: "Evaluation of non-linear artificial bandwidth extension with x-vector-based speaker verification"
-authors:
+authorsJa:
+  - "上西 遼大"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Ryota KAMINISHI"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

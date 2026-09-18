@@ -1,7 +1,10 @@
 ---
 titleJa: "チェス盤歪みの性質に基づくCNN生成画像の汎用検出器"
 titleEn: "A universal detector of CNN-generated images based on properties of checkerboard artifacts "
-authors:
+authorsJa:
+  - "田中 美貴"
+  - "貴家 仁志"
+authorsEn:
   - "Miki TANAKA"
   - "Hitoshi KIYA"
 date: "2021-05-20"

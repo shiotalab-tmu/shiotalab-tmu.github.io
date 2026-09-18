@@ -1,6 +1,9 @@
 ---
 titleEn: "An extension of JPEG XT with JPEG 2000"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"
 date: "2017-06-14"

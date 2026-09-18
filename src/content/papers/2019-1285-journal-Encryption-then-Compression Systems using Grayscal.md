@@ -1,6 +1,10 @@
 ---
 titleEn: "Encryption-then-Compression Systems using Grayscale-based Image Encryption for JPEG Images"
-authors:
+authorsJa:
+  - "中満 達也"
+  - "ワリット　シリチョットダムロン"
+  - "貴家 仁志"
+authorsEn:
   - "Tatsuya CHUMAN"
   - "Warit SIRICHOTEDUMRONG"
   - "Hitoshi KIYA"

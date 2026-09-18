@@ -1,6 +1,9 @@
 ---
 titleEn: "Conditions for Convergence of a Delayless Subband Adaptive Filter and Its Efficient Implementation"
-authors:
+authorsJa:
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"
 date: "1997-06-01"

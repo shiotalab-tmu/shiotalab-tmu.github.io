@@ -1,6 +1,9 @@
 ---
 titleEn: "Reversible Color Transform with Compatibility to Irreversible Transform"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"
 date: "2010-09-28"

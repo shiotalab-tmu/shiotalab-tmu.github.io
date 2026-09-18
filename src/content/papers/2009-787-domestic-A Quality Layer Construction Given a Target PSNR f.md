@@ -1,7 +1,11 @@
 ---
 titleJa: "JPEG 2000符号化のためのPSNR指定に基づくレイヤー構成の制御法"
 titleEn: "A Quality Layer Construction Given a Target PSNR for JPEG 2000"
-authors:
+authorsJa:
+  - "田中 集"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Atsumu TANAKA"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

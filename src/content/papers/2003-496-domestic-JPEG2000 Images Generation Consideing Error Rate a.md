@@ -1,7 +1,10 @@
 ---
 titleJa: "誤り率を考慮したJPEG2000符号化画像の生成とその評価"
 titleEn: "JPEG2000 Images Generation Consideing Error Rate and Its Evaluation"
-authors:
+authorsJa:
+  - "黒崎 正行"
+  - "貴家 仁志"
+authorsEn:
   - "Masayuki KUROSAKI"
   - "Hitoshi KIYA"
 date: "2003-04-28"

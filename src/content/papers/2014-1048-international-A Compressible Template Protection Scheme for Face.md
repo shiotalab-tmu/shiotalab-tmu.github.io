@@ -1,6 +1,12 @@
 ---
 titleEn: "A Compressible Template Protection Scheme for Face Recognition Based on Sparse Representation"
-authors:
+authorsJa:
+  - "村木 雄一"
+  - "古川 昌和"
+  - "藤吉 正明"
+  - "外村 喜秀"
+  - "貴家 仁志"
+authorsEn:
   - "Yuichi MURAKI"
   - "Masakazu FURUKAWA"
   - "Masaaki FUJIYOSHI"

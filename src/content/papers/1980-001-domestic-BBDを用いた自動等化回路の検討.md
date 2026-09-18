@@ -1,6 +1,10 @@
 ---
 titleJa: "BBDを用いた自動等化回路の検討"
-authors:
+authorsJa:
+  - "佐藤 政夫"
+  - "貴家 仁志"
+  - "神林 紀嘉"
+authorsEn:
   - "Masao SATO"
   - "Hitoshi KIYA"
   - "Noriyoshi KAMBAYASHI"

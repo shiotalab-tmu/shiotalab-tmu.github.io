@@ -1,6 +1,10 @@
 ---
 titleEn: "On the Security of Pixel-Based Image Encryption for Privacy-Preserving Deep Neural Networks"
-authors:
+authorsJa:
+  - "ワリット　シリチョットダムロン"
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Warit SIRICHOTEDUMRONG"
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"

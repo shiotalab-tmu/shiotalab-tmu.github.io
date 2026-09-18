@@ -1,7 +1,11 @@
 ---
 titleJa: "複数クライアントに適用可能な鍵管理不要なプライバシー保護画像分類法"
 titleEn: "A privacy-preserving image classification method applicable to multiple clients without key management "
-authors:
+authorsJa:
+  - "廣瀬万玲"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Mare Hirose"
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"

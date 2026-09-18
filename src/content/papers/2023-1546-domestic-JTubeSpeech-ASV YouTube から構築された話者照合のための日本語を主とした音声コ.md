@@ -1,6 +1,11 @@
 ---
 titleJa: "JTubeSpeech-ASV: YouTube から構築された話者照合のための日本語を主とした音声コーパス"
-authors:
+authorsJa:
+  - "塩田 さやか"
+  - "永森 輝"
+  - "若松 智花"
+  - "高道 慎之介"
+authorsEn:
   - "Sayaka SHIOTA"
   - "Teru NAGAMORI"
   - "Tomoka WAKAMATSU"

@@ -1,7 +1,11 @@
 ---
 titleJa: "話者照合のためのポップノイズの発生頻度を考慮したプロンプト文を用いた声の生体検知"
 titleEn: "Phoneme information-based pop-noise detection using designed sentence for voice liveness detection and anti-spoofing countermeasure"
-authors:
+authorsJa:
+  - "望月 紫穂野"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Shihono MOCHIZUKI"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

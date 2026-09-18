@@ -1,6 +1,10 @@
 ---
 titleJa: "パラメ-タ変動に対する線形システムの安定限界の検討"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "森 幸男"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi KIYA"
   - "Yukio MORI"
   - "Masahiko SAGAWA"

@@ -219,10 +219,10 @@ function generateMarkdown(paper: Paper): string {
     titleJa = 'Untitled';
   }
 
-  // 著者リスト
-  const authors = paper.authors
-    .sort((a, b) => a.order - b.order)
-    .map(author => cleanString(author.name.english || author.name.japanese));
+  // 著者リスト (日本語・英語の両方を保持。表示側で種別・サイト言語ごとに優先順位をつけてフォールバックする)
+  const sortedAuthors = paper.authors.sort((a, b) => a.order - b.order);
+  const authorsJa = sortedAuthors.map(author => cleanString(author.name.japanese || author.name.english));
+  const authorsEn = sortedAuthors.map(author => cleanString(author.name.english || author.name.japanese));
 
   // type
   const paperType = paper.journal
@@ -256,7 +256,8 @@ function generateMarkdown(paper: Paper): string {
   }
 
   Object.assign(frontmatter, {
-    authors,
+    authorsJa,
+    authorsEn,
     date: paper.date,
     type: paperType,
     venue,

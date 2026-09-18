@@ -1,7 +1,10 @@
 ---
 titleJa: "EtC画像を用いた固有顔のプライバシー保護を考慮した計算法"
 titleEn: "A privacy preserving culculation method of eigenface using EtC images"
-authors:
+authorsJa:
+  - "北山　昌希"
+  - "貴家 仁志"
+authorsEn:
   - "Masaki KITAYAMA"
   - "Hitoshi KIYA"
 date: "2019-03-13"

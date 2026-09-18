@@ -1,7 +1,11 @@
 ---
 titleJa: "コードブロック単位処理を用いたJPEG 2000符号化画像のためのMDC法"
 titleEn: "An MDC with Code Block-Based Processing for JPEG 2000 Coded Images "
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "長藁 真一"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Shin'ichi NAGAWARA"
   - "Hitoshi KIYA"

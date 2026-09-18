@@ -1,6 +1,9 @@
 ---
 titleEn: "Error Concealment Using a Data Hiding Technique for MPEG Video"
-authors:
+authorsJa:
+  - "黒崎 正行"
+  - "貴家 仁志"
+authorsEn:
   - "Masayuki KUROSAKI"
   - "Hitoshi KIYA"
 date: "2001-08-01"

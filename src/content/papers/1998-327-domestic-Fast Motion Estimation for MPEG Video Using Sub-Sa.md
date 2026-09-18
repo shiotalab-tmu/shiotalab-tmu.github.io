@@ -1,7 +1,10 @@
 ---
 titleJa: "間引きブロック法を用いたMPEGビデオの高速動き検出"
 titleEn: "Fast Motion Estimation for MPEG Video Using Sub-Sampled Block Method"
-authors:
+authorsJa:
+  - "野口 祥宏"
+  - "貴家 仁志"
+authorsEn:
   - "Yoshihiro NOGUCHI"
   - "Hitoshi KIYA"
 date: "1998-11-01"

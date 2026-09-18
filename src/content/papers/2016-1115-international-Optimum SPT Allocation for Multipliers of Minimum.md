@@ -1,6 +1,11 @@
 ---
 titleEn: "Optimum SPT Allocation for Multipliers of Minimum Lifting 2D Wavelet Transform"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "オラチョン テラポン"
+  - "吉田 太一"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Teerapong ORACHON"
   - "Taichi YOSHIDA"

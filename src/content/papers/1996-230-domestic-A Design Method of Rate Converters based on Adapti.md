@@ -1,7 +1,12 @@
 ---
 titleJa: "適応フィルタに基づくレート変換器の設計"
 titleEn: "A Design Method of Rate Converters based on Adaptive Filters"
-authors:
+authorsJa:
+  - "渡部 誠二"
+  - "西川 清史"
+  - "藤井 信生"
+  - "貴家 仁志"
+authorsEn:
   - "Seiji WATANABE"
   - "Kiyoshi NISHIKAWA"
   - "Nobuo FUJII"

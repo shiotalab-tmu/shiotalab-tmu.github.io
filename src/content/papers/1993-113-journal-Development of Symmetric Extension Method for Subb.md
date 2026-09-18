@@ -1,6 +1,9 @@
 ---
 titleEn: "Development of Symmetric Extension Method for Subband Image Coding"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "西川 清史"
+authorsEn:
   - "Hitoshi KIYA"
   - "Kiyoshi NISHIKAWA"
 date: "1993-01-01"

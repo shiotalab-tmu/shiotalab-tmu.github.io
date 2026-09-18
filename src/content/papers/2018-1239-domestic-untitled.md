@@ -1,6 +1,10 @@
 ---
 titleJa: "Untitled"
-authors:
+authorsJa:
+  - "上西 遼大"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Ryota KAMINISHI"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

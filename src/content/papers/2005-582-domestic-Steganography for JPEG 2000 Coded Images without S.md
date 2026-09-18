@@ -1,7 +1,12 @@
 ---
 titleJa: "埋込み位置を記憶不要なJPEG 2000符号化画像のステガノグラフィ"
 titleEn: "Steganography for JPEG 2000 Coded Images without Stego Position Memorization"
-authors:
+authorsJa:
+  - "金 弘林"
+  - "関 裕介"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Hong Lin JIN"
   - "Yusuke SEKI"
   - "Masaaki FUJIYOSHI"

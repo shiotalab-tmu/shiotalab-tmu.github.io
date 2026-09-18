@@ -1,7 +1,10 @@
 ---
 titleJa: "GAN による画像加工の検出法のロバスト性"
 titleEn: "Robustness Evaluation of Detectinon methods for Image manipulation with GANs"
-authors:
+authorsJa:
+  - "田中 美貴"
+  - "貴家 仁志"
+authorsEn:
   - "Miki TANAKA"
   - "Hitoshi KIYA"
 date: "2020-10-01"

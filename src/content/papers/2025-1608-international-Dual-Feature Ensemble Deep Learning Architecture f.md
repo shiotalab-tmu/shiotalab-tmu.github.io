@@ -1,6 +1,9 @@
 ---
 titleEn: "Dual-Feature Ensemble Deep Learning Architecture for Robust Spoofing Speech Detection"
-authors:
+authorsJa:
+  - "難波 栄輝"
+  - "塩田 さやか"
+authorsEn:
   - "Haruto NAMBA"
   - "Sayaka SHIOTA"
 date: "2025-09-25"

@@ -1,6 +1,10 @@
 ---
 titleEn: "Scale and Rotation Estimation of Similarity-Transformed Images via Cross-Correlation Maximization Based on Auxiliary Function Method"
-authors:
+authorsJa:
+  - "山下　真司"
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Shinji YAMASHITA"
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"

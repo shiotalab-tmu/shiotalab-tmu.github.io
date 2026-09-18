@@ -1,7 +1,11 @@
 ---
 titleJa: "フォーマット変換を用いたHDR画像に対するロスレスビット深度スケーラブル符号化"
 titleEn: "Lossless Bit Depth Scalable Coding for HDR Images Using Format Conversion"
-authors:
+authorsJa:
+  - "伊藤 麗良"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Reira ITO"
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"

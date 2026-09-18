@@ -1,6 +1,10 @@
 ---
 titleEn: "A Privacy-Preserving Semantic-Segmentation Method Using Domain-Adaptation Technique"
-authors:
+authorsJa:
+  - "末吉 保稀"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Homare SUEYOSHI"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

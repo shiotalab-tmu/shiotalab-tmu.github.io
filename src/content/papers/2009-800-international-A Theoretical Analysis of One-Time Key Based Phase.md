@@ -1,6 +1,9 @@
 ---
 titleEn: "A Theoretical Analysis of One-Time Key Based Phase Scrambling for Phase-Only Correlation between Visually Protected Images"
-authors:
+authorsJa:
+  - "伊藤 泉"
+  - "貴家 仁志"
+authorsEn:
   - "Izumi ITO"
   - "Hitoshi KIYA"
 date: "2009-10-05"

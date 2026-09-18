@@ -1,7 +1,11 @@
 ---
 titleJa: "照明光の影響軽減のためのマルチカラーバランスに基づく特定色補正法"
 titleEn: "Target-color correction method based on multi-color balance"
-authors:
+authorsJa:
+  - "赤澤 輝昭"
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Teruaki AKAZAWA"
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"

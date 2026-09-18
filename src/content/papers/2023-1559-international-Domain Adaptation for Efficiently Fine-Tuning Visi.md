@@ -1,6 +1,10 @@
 ---
 titleEn: "Domain Adaptation for Efficiently Fine-Tuning Vision Transformer with Encrypted Images"
-authors:
+authorsJa:
+  - "永森 輝"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Teru NAGAMORI"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

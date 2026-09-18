@@ -1,7 +1,10 @@
 ---
 titleJa: "画質・処理負担制御パラメータを有するJPEG2000符号化画像の情報半開示法"
 titleEn: "Partial-Scrambling of Images Encoded by JPEG2000 with the Parameters That Control Image Quarities and Operating Tasks"
-authors:
+authorsJa:
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"
 date: "2003-02-01"

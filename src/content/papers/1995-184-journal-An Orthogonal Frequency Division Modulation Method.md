@@ -1,7 +1,10 @@
 ---
 titleJa: "階層的復調を可能とする直交周波数分割変調の一検討"
 titleEn: "An Orthogonal Frequency Division Modulation Method Allowing Hierarchy Reconstruction"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"
 date: "1995-03-01"

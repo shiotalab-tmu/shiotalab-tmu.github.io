@@ -1,6 +1,10 @@
 ---
 titleEn: "On the Transferability of Adversarial Examples between Encrypted Models"
-authors:
+authorsJa:
+  - "田中 美貴"
+  - "越前 功"
+  - "貴家 仁志"
+authorsEn:
   - "Miki TANAKA"
   - "Isao ECHIZEN"
   - "Hitoshi KIYA"

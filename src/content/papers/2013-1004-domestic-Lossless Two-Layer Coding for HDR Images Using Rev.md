@@ -1,7 +1,12 @@
 ---
 titleJa: "可逆対数写像とヒストグラム・パッキングを用いたHDR画像のロスレス二階層符号化"
 titleEn: "Lossless Two-Layer Coding for HDR Images Using Reversible Logarithmic Mapping and Histogram Packing"
-authors:
+authorsJa:
+  - "伊藤 麗良"
+  - "長谷川 治郎"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Reira ITO"
   - "Jirou HASEGAWA"
   - "Masahiro IWAHASHI"

@@ -1,6 +1,10 @@
 ---
 titleJa: "帯域分割ブロック適応フィルタに有効な周波数サンプリングフィルタ(FSF)バンクの提案"
-authors:
+authorsJa:
+  - "金城 繁徳"
+  - "貴家 仁志"
+  - "尾知 博"
+authorsEn:
   - "Shigenori KINJO"
   - "Hitoshi KIYA"
   - "Hiroshi OCHI"

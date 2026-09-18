@@ -1,6 +1,9 @@
 ---
 titleEn: "Error Concealment Using Layer Structure for JPEG2000 Images"
-authors:
+authorsJa:
+  - "黒崎 正行"
+  - "貴家 仁志"
+authorsEn:
   - "Masayuki KUROSAKI"
   - "Hitoshi KIYA"
 date: "2003-04-01"

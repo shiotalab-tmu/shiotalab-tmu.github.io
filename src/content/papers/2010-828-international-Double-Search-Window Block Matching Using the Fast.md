@@ -1,6 +1,9 @@
 ---
 titleEn: "Double-Search-Window Block Matching Using the Fast Fourier Transform"
-authors:
+authorsJa:
+  - "李 禎"
+  - "貴家 仁志"
+authorsEn:
   - "Zhen LI"
   - "Hitoshi KIYA"
 date: "2010-03-19"

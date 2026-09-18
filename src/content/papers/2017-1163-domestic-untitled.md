@@ -1,6 +1,10 @@
 ---
 titleJa: "Untitled"
-authors:
+authorsJa:
+  - "大石　涼"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Ryo OISHI"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

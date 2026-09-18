@@ -1,7 +1,10 @@
 ---
 titleJa: "QoS制御を可能とするマルチレートOFDMに関する研究"
 titleEn: "A Study on Multirate OFDM Enabling QoS Control"
-authors:
+authorsJa:
+  - "横田 智也"
+  - "西川 清史"
+authorsEn:
   - "Tomoya YOKOTA"
   - "Kiyoshi NISHIKAWA"
 date: "2003-04-28"

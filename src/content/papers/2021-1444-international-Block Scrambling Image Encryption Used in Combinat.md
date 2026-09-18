@@ -1,6 +1,9 @@
 ---
 titleEn: "Block Scrambling Image Encryption Used in Combination with Data Augmentation for Privacy-Preserving DNNs"
-authors:
+authorsJa:
+  - "中満 達也"
+  - "貴家 仁志"
+authorsEn:
   - "Tatsuya CHUMAN"
   - "Hitoshi KIYA"
 date: "2021-06-16"

@@ -1,7 +1,11 @@
 ---
 titleJa: "縦続形構成による低感度な直線位相FIRディジタルフィルタの一構成法"
 titleEn: "Low Sensitivity Realization of Linear Phase FIR Digital Filters Using Cascade Form"
-authors:
+authorsJa:
+  - "本間 仁志"
+  - "森 幸男"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi HONMA"
   - "Yukio MORI"
   - "Masahiko SAGAWA"

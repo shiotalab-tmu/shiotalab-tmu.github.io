@@ -1,7 +1,11 @@
 ---
 titleJa: "伝送路誤りを考慮したJPEG2000画像の暗号化法"
 titleEn: "Cryptography Considering Transmission Error for JPEG2000 Images"
-authors:
+authorsJa:
+  - "安藤 勝俊"
+  - "渡邊 修"
+  - "貴家 仁志"
+authorsEn:
   - "Katsutoshi ANDO"
   - "Osamu WATANABE"
   - "Hitoshi KIYA"

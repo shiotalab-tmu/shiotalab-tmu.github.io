@@ -1,7 +1,10 @@
 ---
 titleJa: "FFTを用いた複素内挿法の精度改善"
 titleEn: "Improving the Accuracy of Polynomial Interpolation Using the FFT"
-authors:
+authorsJa:
+  - "本間 仁志"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi HONMA"
   - "Masahiko SAGAWA"
 date: "1985-10-01"

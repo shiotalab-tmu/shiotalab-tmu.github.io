@@ -1,7 +1,13 @@
 ---
 titleJa: "スパース表現に基づく顔識別のための保護テンプレート生成法"
 titleEn: "A Generation Scheme of Protected Templates for Sparse Representation-based Face Recognition"
-authors:
+authorsJa:
+  - "古川 昌和"
+  - "村木 雄一"
+  - "藤吉 正明"
+  - "外村 喜秀"
+  - "貴家 仁志"
+authorsEn:
   - "Masakazu FURUKAWA"
   - "Yuichi MURAKI"
   - "Masaaki FUJIYOSHI"

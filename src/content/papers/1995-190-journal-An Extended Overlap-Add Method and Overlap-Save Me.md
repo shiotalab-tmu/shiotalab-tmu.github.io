@@ -1,6 +1,9 @@
 ---
 titleEn: "An Extended Overlap-Add Method and Overlap-Save Method for Sampling Rate Conversion"
-authors:
+authorsJa:
+  - "村松 正吾"
+  - "貴家 仁志"
+authorsEn:
   - "Shogo MURAMATSU"
   - "Hitoshi KIYA"
 date: "1995-03-01"

@@ -1,7 +1,11 @@
 ---
 titleJa: "空間領域の可逆情報埋込み"
 titleEn: "Reversible Data Hiding in the Spatial Domain"
-authors:
+authorsJa:
+  - "金 弘林"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Hong Lin JIN"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

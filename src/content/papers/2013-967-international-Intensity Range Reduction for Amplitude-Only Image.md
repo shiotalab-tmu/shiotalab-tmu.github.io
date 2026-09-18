@@ -1,6 +1,11 @@
 ---
 titleEn: "Intensity Range Reduction for Amplitude-Only Images"
-authors:
+authorsJa:
+  - "セタン ワンニダー"
+  - "藤吉 正明"
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Wannida SAE-TANG"
   - "Masaaki FUJIYOSHI"
   - "Hiroyuki KOBAYASHI"

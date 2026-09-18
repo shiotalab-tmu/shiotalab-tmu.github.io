@@ -1,6 +1,10 @@
 ---
 titleEn: "Checkerboard Artifacts Free Convolutional Neural Networks"
-authors:
+authorsJa:
+  - "菅原 佑介"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Yusuke Sugawara"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

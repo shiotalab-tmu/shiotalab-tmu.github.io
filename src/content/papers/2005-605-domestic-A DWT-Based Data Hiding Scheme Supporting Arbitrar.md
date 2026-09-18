@@ -1,7 +1,11 @@
 ---
 titleJa: "任意形状ROIに対応可能なDWT領域情報埋込み法"
 titleEn: "A DWT-Based Data Hiding Scheme Supporting Arbitrarily Shaped ROI"
-authors:
+authorsJa:
+  - "金 弘林"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Hong Lin JIN"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

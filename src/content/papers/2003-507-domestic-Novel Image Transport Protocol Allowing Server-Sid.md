@@ -1,6 +1,10 @@
 ---
 titleEn: "Novel Image Transport Protocol Allowing Server-Side Control of Request for Retransmission"
-authors:
+authorsJa:
+  - "西川 清史"
+  - "佐々木 孝子"
+  - "貴家 仁志"
+authorsEn:
   - "Kiyoshi NISHIKAWA"
   - "Takako SASAKI"
   - "Hitoshi KIYA"

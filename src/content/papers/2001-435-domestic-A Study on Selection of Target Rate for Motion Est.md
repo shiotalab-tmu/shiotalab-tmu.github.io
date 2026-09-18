@@ -1,7 +1,10 @@
 ---
 titleJa: "低階調動き推定におけるターゲットレートの影響"
 titleEn: "A Study on Selection of Target Rate for Motion Estimation Using Low-Bit Images"
-authors:
+authorsJa:
+  - "高木 亜有子"
+  - "貴家 仁志"
+authorsEn:
   - "Ayuko TAKAGI"
   - "Hitoshi KIYA"
 date: "2001-09-01"

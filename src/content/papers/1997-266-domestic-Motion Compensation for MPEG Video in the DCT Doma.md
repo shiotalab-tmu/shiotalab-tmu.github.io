@@ -1,6 +1,9 @@
 ---
 titleEn: "Motion Compensation for MPEG Video in the DCT Domain"
-authors:
+authorsJa:
+  - "野口 祥宏"
+  - "貴家 仁志"
+authorsEn:
   - "Yoshihiro NOGUCHI"
   - "Hitoshi KIYA"
 date: "1997-06-01"

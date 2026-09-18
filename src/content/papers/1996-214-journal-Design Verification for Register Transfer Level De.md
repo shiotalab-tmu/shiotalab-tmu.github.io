@@ -1,7 +1,11 @@
 ---
 titleJa: "入力名集合と制御条件を用いたレジスタ転送レベルの設計検証法"
 titleEn: "Design Verification for Register Transfer Level Design by Input Label Sets and Control Conditions"
-authors:
+authorsJa:
+  - "吉田 たけお"
+  - "貴家 仁志"
+  - "内藤 祥雄"
+authorsEn:
   - "Takeo YOSHIDA"
   - "Hitoshi KIYA"
   - "Sachio NAITO"

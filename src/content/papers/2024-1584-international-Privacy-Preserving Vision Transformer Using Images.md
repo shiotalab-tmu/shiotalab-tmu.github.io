@@ -1,6 +1,10 @@
 ---
 titleEn: "Privacy-Preserving Vision Transformer Using Images Encrypted with Restricted Random Permutation Matrices"
-authors:
+authorsJa:
+  - "堀尾虹輝"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Koki HORIO"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

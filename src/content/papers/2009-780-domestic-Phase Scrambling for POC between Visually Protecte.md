@@ -1,7 +1,10 @@
 ---
 titleJa: "位相限定相関のための画像の視覚的保護法"
 titleEn: "Phase Scrambling for POC between Visually Protected Images"
-authors:
+authorsJa:
+  - "伊藤 泉"
+  - "貴家 仁志"
+authorsEn:
   - "Izumi ITO"
   - "Hitoshi KIYA"
 date: "2009-03-17"

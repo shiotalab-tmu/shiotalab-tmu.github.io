@@ -1,7 +1,10 @@
 ---
 titleJa: "疎ヒストグラム画像のビット深度並列符号化に関する一考察"
 titleEn: "A Study on Bit Depth Parallel Coding for Images with Sparse Histogram"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"
 date: "2011-07-25"

@@ -1,7 +1,12 @@
 ---
 titleJa: "ヒストグラムの疎性を考慮したLloyd-Max法の効果的適用法"
 titleEn: "A Lloyd-Max Based Quantization Algorithm for Digital Images with Sparse Histogram"
-authors:
+authorsJa:
+  - "下城 拓也"
+  - "飯塚 広樹"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Takuya SHIMOJOH"
   - "Hiroki IIDUKA"
   - "Masahiro IWAHASHI"

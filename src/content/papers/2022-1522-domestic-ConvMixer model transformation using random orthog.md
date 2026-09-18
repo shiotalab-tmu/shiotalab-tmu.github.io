@@ -1,7 +1,11 @@
 ---
 titleJa: "テスト画像のプライバシー保護を考慮したランダム直交行列を用いたConvMixerモデルの変換法"
 titleEn: "ConvMixer model transformation using random orthogonal matrices for privacy protection of test images"
-authors:
+authorsJa:
+  - "麻生 伶"
+  - "中満 達也"
+  - "貴家 仁志"
+authorsEn:
   - "Rei ASO"
   - "Tatsuya CHUMAN"
   - "Hitoshi KIYA"

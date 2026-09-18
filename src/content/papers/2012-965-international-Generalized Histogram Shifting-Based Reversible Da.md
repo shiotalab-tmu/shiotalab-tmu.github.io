@@ -1,6 +1,9 @@
 ---
 titleEn: "Generalized Histogram Shifting-Based Reversible Data Hiding with an Adaptive Binary-to-q-ary Converter"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"
 date: "2012-12-06"

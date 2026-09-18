@@ -1,7 +1,11 @@
 ---
 titleJa: "インターポレータのための効果的なFIRフィルタの設計"
 titleEn: "Efficient Design of FIR Filters for Interpolaters"
-authors:
+authorsJa:
+  - "本間 仁志"
+  - "伊藤 一広"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi HONMA"
   - "Kazuhiro ITOH"
   - "Masahiko SAGAWA"

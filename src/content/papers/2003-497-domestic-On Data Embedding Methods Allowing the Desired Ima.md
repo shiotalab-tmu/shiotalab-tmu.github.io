@@ -1,7 +1,11 @@
 ---
 titleJa: "JPEG画像のための画質保証型データ埋込み法に関する検討"
 titleEn: "On Data Embedding Methods Allowing the Desired Image Quality for JPEG Coded Images"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "河西 元彦"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Motohiko KASAI"
   - "Hitoshi KIYA"

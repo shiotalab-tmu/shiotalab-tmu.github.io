@@ -1,7 +1,11 @@
 ---
 titleJa: "埋込み係数をブロック毎に変更可能な画質保証型電子透かし法"
 titleEn: "An Image Quality Guaranteed Watermarking Scheme by Spreading the Spectrum of Watermarks"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "橘 高志"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Takashi TACHIBANA"
   - "Hitoshi KIYA"

@@ -1,6 +1,9 @@
 ---
 titleEn: "L0 Norm Optimization in Scrambled Sparse Representation Domain and Its Application to EtC System"
-authors:
+authorsJa:
+  - "仲地 孝之"
+  - "貴家 仁志"
+authorsEn:
   - "Takayuki NAKACHI"
   - "Hitoshi KIYA"
 date: "2020-12-01"

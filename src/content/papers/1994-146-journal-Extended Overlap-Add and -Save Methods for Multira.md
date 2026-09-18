@@ -1,6 +1,9 @@
 ---
 titleEn: "Extended Overlap-Add and -Save Methods for Multirate Signal Processing"
-authors:
+authorsJa:
+  - "村松 正吾"
+  - "貴家 仁志"
+authorsEn:
   - "Shogo MURAMATSU"
   - "Hitoshi KIYA"
 date: "1994-01-01"

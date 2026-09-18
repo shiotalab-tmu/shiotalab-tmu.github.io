@@ -1,7 +1,11 @@
 ---
 titleJa: "DWTを用いた画質保証型電子透かし法"
 titleEn: "An Image-Quality Guaranteed Watermark Using a DWT"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "渡邊 修"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Osamu WATANABE"
   - "Hitoshi KIYA"

@@ -1,7 +1,10 @@
 ---
 titleJa: "有色信号に対して拡張されたNLMS適応アルゴリズム"
 titleEn: "An extended NLMS algorithm for colored input signals"
-authors:
+authorsJa:
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"
 date: "1995-09-01"

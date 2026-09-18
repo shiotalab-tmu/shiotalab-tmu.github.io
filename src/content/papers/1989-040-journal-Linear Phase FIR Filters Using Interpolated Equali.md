@@ -1,6 +1,10 @@
 ---
 titleEn: "Linear Phase FIR Filters Using Interpolated Equalizers"
-authors:
+authorsJa:
+  - "本間 仁志"
+  - "山田 正一"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi HONMA"
   - "Masakazu YAMADA"
   - "Masahiko SAGAWA"

@@ -1,7 +1,12 @@
 ---
 titleJa: " EtCシステムのための可逆な画像情報埋込法"
 titleEn: "A Reversible Data Hiding Scheme for the EtC System "
-authors:
+authorsJa:
+  - "李 瑞峰"
+  - "藤吉 正明"
+  - "貴家 仁志"
+  - "高間 康史"
+authorsEn:
   - "Ruifeng LI"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

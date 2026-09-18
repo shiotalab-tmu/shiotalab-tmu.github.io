@@ -1,6 +1,10 @@
 ---
 titleEn: "Consideration on Using Delayline Instead of an Estimated Secondary Path in the Filtered-X LMS Algorithm"
-authors:
+authorsJa:
+  - "西川 清史"
+  - "福島 廣"
+  - "貴家 仁志"
+authorsEn:
   - "Kiyoshi NISHIKAWA"
   - "Hiroshi FUKUSHIMA"
   - "Hitoshi KIYA"

@@ -1,7 +1,12 @@
 ---
 titleJa: "圧縮効率を考慮したカラー画像のための知覚暗号化法"
 titleEn: "A Comprssion-friendly Perceptual Encryption Method for Color Images"
-authors:
+authorsJa:
+  - "菊池 真徳"
+  - "栗原 健太"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Masanori KIKUCHI"
   - "Kenta KURIHARA"
   - "Sayaka SHIOTA"

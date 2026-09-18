@@ -1,6 +1,11 @@
 ---
 titleJa: "DFTバンクを用いた帯域分割形適応フィルタと周波数領域適応フィルタの関係について"
-authors:
+authorsJa:
+  - "山田 洋士"
+  - "尾知 博"
+  - "貴家 仁志"
+  - "神林 紀嘉"
+authorsEn:
   - "Youji YAMADA"
   - "Hiroshi OCHI"
   - "Hitoshi KIYA"

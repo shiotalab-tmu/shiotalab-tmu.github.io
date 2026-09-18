@@ -1,7 +1,11 @@
 ---
 titleJa: "電子透かし耐性向上のための幾何補正法とその要求精度"
 titleEn: "Geometrical Compensation Methods for the Image Watermarking Scheme and Its Required Accuracy"
-authors:
+authorsJa:
+  - "上村 翔平"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Shouhei KAMIMURA"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

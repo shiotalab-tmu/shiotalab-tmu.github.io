@@ -1,6 +1,9 @@
 ---
 titleEn: "RLS Algorithm with Periodical Re-Initialization for Improving Tracking Performance"
-authors:
+authorsJa:
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"
 date: "2007-11-08"

@@ -1,6 +1,10 @@
 ---
 titleEn: "Method for Estimating Amount of Delay of Sparse Channel Based on Phase-Only Correlation"
-authors:
+authorsJa:
+  - "今水 敦志"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Atsushi IMAMIZU"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

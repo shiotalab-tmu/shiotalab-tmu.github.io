@@ -1,6 +1,11 @@
 ---
 titleEn: "A Secure Face Recognition Scheme Using Noisy Images Based on Kernel Sparse Representation"
-authors:
+authorsJa:
+  - "古川 昌和"
+  - "村木 雄一"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Masakazu FURUKAWA"
   - "Yuichi MURAKI"
   - "Masaaki FUJIYOSHI"

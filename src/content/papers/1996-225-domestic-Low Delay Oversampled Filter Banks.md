@@ -1,7 +1,11 @@
 ---
 titleJa: "低遅延量を持つオーバサンプルフィルタバンクについて"
 titleEn: "Low Delay Oversampled Filter Banks"
-authors:
+authorsJa:
+  - "山内 拓也"
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Takuya YAMAUCHI"
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"

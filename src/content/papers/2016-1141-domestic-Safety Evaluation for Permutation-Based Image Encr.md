@@ -1,7 +1,11 @@
 ---
 titleJa: "ジグソーパズル解法に対するブロックスクランブル画像暗号化法の評価"
 titleEn: "Safety Evaluation for Permutation-Based Image Encryption Schemes against Jigsaw Puzzle Solvers"
-authors:
+authorsJa:
+  - "中満 達也"
+  - "栗原 健太"
+  - "貴家 仁志"
+authorsEn:
   - "Tatsuya CHUMAN"
   - "Kenta KURIHARA"
   - "Hitoshi KIYA"

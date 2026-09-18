@@ -1,6 +1,10 @@
 ---
 titleEn: "An Inverse Tone Mapping Operation without Any Parameters for Remapping HDR Images"
-authors:
+authorsJa:
+  - "木下 裕磨"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Yuma KINOSHITA"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

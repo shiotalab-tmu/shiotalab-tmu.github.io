@@ -1,7 +1,11 @@
 ---
 titleJa: "フィルタバンクを用いたLMS適応信号処理"
 titleEn: "Adaptive signal processing based on LMS adaptive filter bank"
-authors:
+authorsJa:
+  - "知念 徹"
+  - "貴家 仁志"
+  - "佐川 雅彦"
+authorsEn:
   - "Tohru CHINEN"
   - "Hitoshi KIYA"
   - "Masahiko SAGAWA"

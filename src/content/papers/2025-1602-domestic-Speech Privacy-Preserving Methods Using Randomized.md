@@ -1,7 +1,10 @@
 ---
 titleJa: "音声セグメントのランダム入れ替えによる音声プライバシー保護法"
 titleEn: "Speech Privacy-Preserving Methods Using Randomized Reordering of Speech Segments"
-authors:
+authorsJa:
+  - "冨永 陽也"
+  - "塩田 さやか"
+authorsEn:
   - "Haruya TOMINAGA"
   - "Sayaka SHIOTA"
 date: "2025-03-26"

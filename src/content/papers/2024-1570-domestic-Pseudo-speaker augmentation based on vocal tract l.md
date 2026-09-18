@@ -1,7 +1,11 @@
 ---
 titleJa: "話者照合のための話者性の変動量を考慮した声道長摂動による疑似話者生成"
 titleEn: "Pseudo-speaker augmentation based on vocal tract length perturbation considering speaker variability for speaker verification"
-authors:
+authorsJa:
+  - "大野　史夏"
+  - "若松 智花"
+  - "塩田 さやか"
+authorsEn:
   - "Fumika ONO"
   - "Tomoka WAKAMATSU"
   - "Sayaka SHIOTA"

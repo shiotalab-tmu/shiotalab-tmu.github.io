@@ -1,6 +1,9 @@
 ---
 titleEn: "An Efficient Structure of Generalized Lapped Orthogonal Transforms for Finite-Duration Sequences and Its Application to M-Band Discrete-Time Wavelet Transforms"
-authors:
+authorsJa:
+  - "村松 正吾"
+  - "貴家 仁志"
+authorsEn:
   - "Shogo MURAMATSU"
   - "Hitoshi KIYA"
 date: "1997-10-01"

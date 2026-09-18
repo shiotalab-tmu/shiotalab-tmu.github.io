@@ -1,7 +1,11 @@
 ---
 titleJa: "プログレッシブ伝送のための限定色画像の一表現"
 titleEn: "A Representation of Palette-Based Images for Progressive Transmitting"
-authors:
+authorsJa:
+  - "渡邊 修"
+  - "麻野 啓成"
+  - "貴家 仁志"
+authorsEn:
   - "Osamu WATANABE"
   - "Hiroshige ASANO"
   - "Hitoshi KIYA"

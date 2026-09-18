@@ -1,7 +1,11 @@
 ---
 titleJa: "マルチカーネル学習法を用いたKPLMSアルゴリズムの収束特性の改善法"
 titleEn: "Improvement of Convergence Characteristic of KPNLMS Algorithm by Using Multi Kernel Learning "
-authors:
+authorsJa:
+  - "丸 裕士"
+  - "西川 清史"
+  - "アルブ フェリックス"
+authorsEn:
   - "Yuji MARU"
   - "Kiyoshi NISHIKAWA"
   - "Felix ALBU"

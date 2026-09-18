@@ -1,6 +1,10 @@
 ---
 titleEn: "Structure from Motion with Integrated Deblurring"
-authors:
+authorsJa:
+  - "廣井 透"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Tohru HIROI"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

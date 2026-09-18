@@ -1,6 +1,10 @@
 ---
 titleEn: "On the influence of using quantized images on machine learning algorithms"
-authors:
+authorsJa:
+  - "長我部　恭行"
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Takayuki OSAKABE"
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"

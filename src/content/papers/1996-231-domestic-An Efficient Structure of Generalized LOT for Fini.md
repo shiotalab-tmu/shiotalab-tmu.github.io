@@ -1,7 +1,10 @@
 ---
 titleJa: "有限長信号に対する一般化LOTの効果的構成 --- 対称拡張法の効果的実現 ---"
 titleEn: "An Efficient Structure of Generalized LOT for Finite-Duration Sequences : Efficient implementation of a symmetric extension method"
-authors:
+authorsJa:
+  - "村松 正吾"
+  - "貴家 仁志"
+authorsEn:
   - "Shogo MURAMATSU"
   - "Hitoshi KIYA"
 date: "1996-07-01"

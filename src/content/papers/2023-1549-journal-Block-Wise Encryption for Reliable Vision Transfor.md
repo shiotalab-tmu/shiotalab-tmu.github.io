@@ -1,6 +1,10 @@
 ---
 titleEn: "Block-Wise Encryption for Reliable Vision Transformer models"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "飯島 諒太"
+  - "永森 輝"
+authorsEn:
   - "Hitoshi KIYA"
   - "Ryota IIJIMA"
   - "Teru NAGAMORI"

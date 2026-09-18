@@ -1,7 +1,10 @@
 ---
 titleJa: "Encryption-then-Compressionシステムにおける秘匿スパース表現を用いた画像圧縮法 "
 titleEn: "Image Compression in Encryption-then-Compression System Using Secure Sparse Representations "
-authors:
+authorsJa:
+  - "仲地 孝之"
+  - "貴家 仁志"
+authorsEn:
   - "Takayuki NAKACHI"
   - "Hitoshi KIYA"
 date: "2019-10-25"

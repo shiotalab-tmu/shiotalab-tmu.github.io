@@ -1,6 +1,10 @@
 ---
 titleEn: "Effectiveness of Collaborative Learning Using the Digital Pen and the Mind-Map"
-authors:
+authorsJa:
+  - "松波 紀幸"
+  - "永井 正洋"
+  - "貴家 仁志"
+authorsEn:
   - "Noriyuki MATSUNAMI"
   - "Masahiro NAGAI"
   - "Hitoshi KIYA"

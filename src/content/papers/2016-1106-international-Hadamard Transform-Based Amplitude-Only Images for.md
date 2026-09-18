@@ -1,6 +1,9 @@
 ---
 titleEn: "Hadamard Transform-Based Amplitude-Only Images for Image Trading Systems"
-authors:
+authorsJa:
+  - "セタン ワンニダー"
+  - "貴家 仁志"
+authorsEn:
   - "Wannida SAE-TANG"
   - "Hitoshi KIYA"
 date: "2016-01-07"

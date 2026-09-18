@@ -1,7 +1,11 @@
 ---
 titleJa: "マルチレート技法を用いた高速なブロックLMS適応フィルタ"
 titleEn: "Efficient realization of adaptive digital filters using multilate techniques"
-authors:
+authorsJa:
+  - "知念 徹"
+  - "貴家 仁志"
+  - "佐川 雅彦"
+authorsEn:
   - "Tohru CHINEN"
   - "Hitoshi KIYA"
   - "Masahiko SAGAWA"

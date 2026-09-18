@@ -1,6 +1,8 @@
 ---
 titleEn: "Compressible and Learnable Encryption for Untrusted Cloud Enviroments"
-authors:
+authorsJa:
+  - "貴家 仁志"
+authorsEn:
   - "Hitoshi KIYA"
 date: "2018-11-01"
 type: "journal"

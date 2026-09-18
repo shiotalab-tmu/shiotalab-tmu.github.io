@@ -1,7 +1,11 @@
 ---
 titleJa: "カラー情報付加によるQRコードの多機能化"
 titleEn: "Multi-Functionalization of QR Codes by Introducing Color Information "
-authors:
+authorsJa:
+  - "暴 満粟"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Mansu BAO"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

@@ -1,7 +1,11 @@
 ---
 titleJa: "輝度勾配バイナリ画像の位相情報に基づく画像マッチング"
 titleEn: "Image Matching Based on Phase Information of Intensity Gradient Binary Images"
-authors:
+authorsJa:
+  - "中村 英輔"
+  - "伊藤 泉"
+  - "貴家 仁志"
+authorsEn:
   - "Eisuke NAKAMURA"
   - "Izumi ITO"
   - "Hitoshi KIYA"

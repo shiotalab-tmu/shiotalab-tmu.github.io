@@ -1,7 +1,11 @@
 ---
 titleJa: "暗号処理と可換な(2,n)閾値秘密分散法とその秘密計算法への適用"
 titleEn: "A (2,n)-Threshold Secret Sharing Scheme with the Commutative Property and Its Application to Secure Computations"
-authors:
+authorsJa:
+  - "倉上 高史"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Takashi KURAKAMI"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

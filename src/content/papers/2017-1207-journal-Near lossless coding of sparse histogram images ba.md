@@ -1,6 +1,12 @@
 ---
 titleEn: "Near lossless coding of sparse histogram images based on zero-skip quantization"
-authors:
+authorsJa:
+  - "峯脇 さやか"
+  - "岩橋 政宏"
+  - "小林 弘幸"
+  - "吉田 太一"
+  - "貴家 仁志"
+authorsEn:
   - "Sayaka MINEWAKI"
   - "Masahiro IWAHASHI"
   - "Hiroyuki KOBAYASHI"

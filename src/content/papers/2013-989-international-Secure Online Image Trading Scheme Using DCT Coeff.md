@@ -1,6 +1,12 @@
 ---
 titleEn: "Secure Online Image Trading Scheme Using DCT Coefficients and Moment Invariant Feature"
-authors:
+authorsJa:
+  - "ハイルル ムナディ"
+  - "バシルディン モハマドシャリャディ"
+  - "フィトリ アルニア"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Khairul Munadi"
   - "Mohammad Syaryadhi BASYIRUDDIN"
   - "Fitri Arnia"

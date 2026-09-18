@@ -1,6 +1,10 @@
 ---
 titleEn: "Methods for Avoiding the Checkerboard Distortion Caused by Rounding Error in Multirate System"
-authors:
+authorsJa:
+  - "岩井 宏晃"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroaki IWAI"
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"

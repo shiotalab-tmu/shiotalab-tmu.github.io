@@ -1,6 +1,10 @@
 ---
 titleEn: "Reversible Data Hiding Based on Adaptive Modulation of Statistics Invertibility"
-authors:
+authorsJa:
+  - "金 弘林"
+  - "崔 潤植"
+  - "貴家 仁志"
+authorsEn:
   - "Hong Lin JIN"
   - "Yoonsik CHOE"
   - "Hitoshi KIYA"

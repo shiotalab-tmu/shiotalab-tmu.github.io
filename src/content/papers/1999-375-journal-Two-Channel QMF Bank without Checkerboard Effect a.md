@@ -1,6 +1,10 @@
 ---
 titleEn: "Two-Channel QMF Bank without Checkerboard Effect and Its Lattice Structure"
-authors:
+authorsJa:
+  - "原田 康裕"
+  - "村松 正吾"
+  - "貴家 仁志"
+authorsEn:
   - "Yasuhiro HARADA"
   - "Shogo MURAMATSU"
   - "Hitoshi KIYA"

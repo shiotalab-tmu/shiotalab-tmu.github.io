@@ -1,7 +1,11 @@
 ---
 titleJa: "マクレラン変換によるFIRファンフィルタの一設計法"
 titleEn: "A Design Method of FIR Fan Filters Based on McClellan Transformations"
-authors:
+authorsJa:
+  - "田沢 志郎"
+  - "本間 仁志"
+  - "佐川 雅彦"
+authorsEn:
   - "Shiro TAZAWA"
   - "Hitoshi HONMA"
   - "Masahiko SAGAWA"

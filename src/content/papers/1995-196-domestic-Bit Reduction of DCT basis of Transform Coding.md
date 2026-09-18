@@ -1,7 +1,11 @@
 ---
 titleJa: "変換符号化におけるDCT基底のビット数低減とその影響"
 titleEn: "Bit Reduction of DCT basis of Transform Coding"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "神林 紀嘉"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Noriyoshi KAMBAYASHI"
   - "Hitoshi KIYA"

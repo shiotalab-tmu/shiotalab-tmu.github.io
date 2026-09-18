@@ -1,6 +1,10 @@
 ---
 titleEn: "A New Class of Subband Adaptive Filter Using Alias-Free Maximally Decimated DFT-Bank"
-authors:
+authorsJa:
+  - "尾知 博"
+  - "山田 洋士"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroshi OCHI"
   - "Youji YAMADA"
   - "Hitoshi KIYA"

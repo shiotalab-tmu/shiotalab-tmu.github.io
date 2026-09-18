@@ -1,6 +1,9 @@
 ---
 titleEn: "Lossless Video Coding Using Interleaved Multiple Frames"
-authors:
+authorsJa:
+  - "高木 亜有子"
+  - "貴家 仁志"
+authorsEn:
   - "Ayuko TAKAGI"
   - "Hitoshi KIYA"
 date: "2003-01-01"

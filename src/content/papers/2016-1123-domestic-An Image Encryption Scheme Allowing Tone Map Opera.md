@@ -1,7 +1,10 @@
 ---
 titleJa: "トーンマッピング処理を可能とする画像暗号化法とそのJPEG XTへの応用"
 titleEn: "An Image Encryption Scheme Allowing Tone Map Operations and Its Application to JPEG XT Standard"
-authors:
+authorsJa:
+  - "栗原 健太"
+  - "貴家 仁志"
+authorsEn:
   - "Kenta KURIHARA"
   - "Hitoshi KIYA"
 date: "2016-02-22"

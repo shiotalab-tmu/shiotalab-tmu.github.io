@@ -1,6 +1,11 @@
 ---
 titleEn: "N-white balancing: white balancing for multiple illuminants including non-uniform illumination"
-authors:
+authorsJa:
+  - "赤澤 輝昭"
+  - "木下 裕磨"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Teruaki AKAZAWA"
   - "Yuma KINOSHITA"
   - "Sayaka SHIOTA"

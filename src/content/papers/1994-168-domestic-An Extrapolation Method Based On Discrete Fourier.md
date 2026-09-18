@@ -1,7 +1,11 @@
 ---
 titleJa: "DFT表現に基づく外挿法"
 titleEn: "An Extrapolation Method Based On Discrete Fourier Transform"
-authors:
+authorsJa:
+  - "坂根 尚"
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Hisashi SAKANE"
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"

@@ -1,7 +1,11 @@
 ---
 titleJa: "少数の乗算器を持つ帯域通過ディジタルフィルタのための効果的なイコライザの設計法"
 titleEn: "Design Method of Efficient Equalizers for Bandpass FIR Digital Filters with Fewer Multipliers"
-authors:
+authorsJa:
+  - "本間 仁志"
+  - "相川 直幸"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi HONMA"
   - "Naoyuki AIKAWA"
   - "Masahiko SAGAWA"

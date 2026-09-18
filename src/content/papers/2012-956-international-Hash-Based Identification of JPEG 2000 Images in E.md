@@ -1,6 +1,11 @@
 ---
 titleEn: "Hash-Based Identification of JPEG 2000 Images in Encrypted Domain"
-authors:
+authorsJa:
+  - "土橋 俊之"
+  - "渡邊 修"
+  - "福原 隆浩"
+  - "貴家 仁志"
+authorsEn:
   - "Toshiyuki DOBASHI"
   - "Osamu WATANABE"
   - "Takahiro FUKUHARA"

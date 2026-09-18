@@ -1,6 +1,11 @@
 ---
 titleEn: "Image to Perturbation: An Image Transformation Network for Generating Visually Protected Images for Privacy-Preserving Deep Neural Networks"
-authors:
+authorsJa:
+  - "伊藤 広樹"
+  - "木下 裕磨"
+  - "エイプリルピョンマウンマウン"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroki ITO"
   - "Yuma KINOSHITA"
   - "April Pyone MAUNG MAUNG"

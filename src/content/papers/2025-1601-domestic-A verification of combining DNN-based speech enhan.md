@@ -1,7 +1,12 @@
 ---
 titleJa: "DNN音声強調フロントエンドを組み合わせたEnd-to-endニューラルダイアライゼーションモデルの検証"
 titleEn: "A verification of combining DNN-based speech enhancement front-end with end-to-end neural dialization model"
-authors:
+authorsJa:
+  - "山口 拓生"
+  - "俵 直弘"
+  - "佐藤 宏"
+  - "塩田 さやか"
+authorsEn:
   - "Takuo YAMAGUCHI"
   - "Naohiro TAWARA"
   - "Hiroshi SATO"

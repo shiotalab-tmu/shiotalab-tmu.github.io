@@ -1,6 +1,9 @@
 ---
 titleEn: "Improving the Accuracy of Polynomial Interpolation Using the FFT"
-authors:
+authorsJa:
+  - "本間 仁志"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi HONMA"
   - "Masahiko SAGAWA"
 date: "1987-01-01"

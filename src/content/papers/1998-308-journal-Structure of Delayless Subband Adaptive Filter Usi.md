@@ -1,6 +1,10 @@
 ---
 titleEn: "Structure of Delayless Subband Adaptive Filter Using Hadamard Transformation"
-authors:
+authorsJa:
+  - "西川 清史"
+  - "山内 拓也"
+  - "貴家 仁志"
+authorsEn:
   - "Kiyoshi NISHIKAWA"
   - "Takuya YAMAUCHI"
   - "Hitoshi KIYA"

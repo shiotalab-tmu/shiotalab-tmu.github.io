@@ -1,6 +1,9 @@
 ---
 titleEn: "An Efficient Error Correction Scheme Allowing Backward Compatibility with JPEG2000 Codestream"
-authors:
+authorsJa:
+  - "黒崎 正行"
+  - "貴家 仁志"
+authorsEn:
   - "Masayuki KUROSAKI"
   - "Hitoshi KIYA"
 date: "2004-04-01"

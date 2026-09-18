@@ -1,6 +1,10 @@
 ---
 titleEn: "A Method of Guaranteeing Image-Quality for Quantization-Based Watermarking Using a Nonorthogonal Transformation"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "渡邊 修"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Osamu WATANABE"
   - "Hitoshi KIYA"

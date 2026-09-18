@@ -1,7 +1,11 @@
 ---
 titleJa: "再帰型FIRディタルフィルタの設計法"
 titleEn: "Design method of recursive FIR digital filters"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "大沢 弘孝"
+  - "相川 直幸"
+authorsEn:
   - "Hitoshi KIYA"
   - "Hirotaka OHSAWA"
   - "Naoyuki AIKAWA"

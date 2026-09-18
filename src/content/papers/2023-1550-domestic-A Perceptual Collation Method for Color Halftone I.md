@@ -1,7 +1,11 @@
 ---
 titleJa: "Vision Transformerを用いたカラーハーフトーン画像に対する知覚照合手法"
 titleEn: "A Perceptual Collation Method for Color Halftone Images Using Vision Transformer"
-authors:
+authorsJa:
+  - "藤川 大貴"
+  - "今泉 祥子"
+  - "堀内 隆彦"
+authorsEn:
   - "Daiki FUJIKAWA"
   - "Shoko IMAIZUMI"
   - "Takahiko HORIUCHI"

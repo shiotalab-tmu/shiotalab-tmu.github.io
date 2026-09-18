@@ -1,6 +1,10 @@
 ---
 titleEn: "A privacy-preserving method using secret key for convolutional neural network-based speech classification"
-authors:
+authorsJa:
+  - "丹羽 祥子"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Shoko NIWA"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

@@ -1,7 +1,11 @@
 ---
 titleJa: "マルチレート繰り返し法によるサブバンド適応フィルタの収束速度の改善"
 titleEn: "Improvement of Convergence Speed for Subband Adaptive Digital Filter Using the Multirate Repeating Method"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "西川 清史"
+  - "芦原 浩司"
+authorsEn:
   - "Hitoshi KIYA"
   - "Kiyoshi NISHIKAWA"
   - "Kouji ASHIHARA"

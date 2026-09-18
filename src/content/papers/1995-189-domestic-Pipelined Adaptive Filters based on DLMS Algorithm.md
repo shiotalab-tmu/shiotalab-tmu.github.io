@@ -1,7 +1,11 @@
 ---
 titleJa: "DLMSに基づくパイプライン適応フィルタ"
 titleEn: "Pipelined Adaptive Filters based on DLMS Algorithm"
-authors:
+authorsJa:
+  - "松原 勝重"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Katsushige MATSUBARA"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

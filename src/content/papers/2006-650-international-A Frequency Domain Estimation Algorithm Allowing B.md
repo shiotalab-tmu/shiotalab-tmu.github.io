@@ -1,6 +1,10 @@
 ---
 titleEn: "A Frequency Domain Estimation Algorithm Allowing Broadband Feedforward Active Noise Control Systems"
-authors:
+authorsJa:
+  - "山田 洋士"
+  - "フランツ パトリック J."
+  - "貴家 仁志"
+authorsEn:
   - "Youji YAMADA"
   - "Patrick J. FRANTZ"
   - "Hitoshi KIYA"

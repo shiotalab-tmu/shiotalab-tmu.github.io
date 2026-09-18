@@ -1,6 +1,9 @@
 ---
 titleEn: "Two Layer Lossless Coding of HDR Images"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"
 date: "2013-05-28"

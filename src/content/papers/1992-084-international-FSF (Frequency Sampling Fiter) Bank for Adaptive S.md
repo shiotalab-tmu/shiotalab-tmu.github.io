@@ -1,6 +1,9 @@
 ---
 titleEn: "FSF (Frequency Sampling Fiter) Bank for Adaptive System Identification"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "山口 智史"
+authorsEn:
   - "Hitoshi KIYA"
   - "Satoshi YAMAGUCHI"
 date: "1992-03-01"

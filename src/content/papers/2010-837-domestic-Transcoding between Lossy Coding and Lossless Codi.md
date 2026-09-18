@@ -1,7 +1,10 @@
 ---
 titleJa: "ロッシー符号化とロスレス符号化を相互接続するカラー画像のためのトランスコーディング"
 titleEn: "Transcoding between Lossy Coding and Lossless Coding for Color Image"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"
 date: "2010-06-22"

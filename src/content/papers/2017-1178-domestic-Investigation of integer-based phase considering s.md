@@ -1,7 +1,11 @@
 ---
 titleJa: "話者照合のための発話長を考慮した位相整数化に関する検討"
 titleEn: "Investigation of integer-based phase considering short utterance for automatic speaker verification"
-authors:
+authorsJa:
+  - "仲野 詩織"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Shiori NAKANO"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

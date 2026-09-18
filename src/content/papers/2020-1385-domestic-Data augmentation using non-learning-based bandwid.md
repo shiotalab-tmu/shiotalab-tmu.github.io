@@ -1,7 +1,11 @@
 ---
 titleJa: "深層学習に基づく話者照合システムのための非学習型帯域拡張法を用いたデータ拡張"
 titleEn: "Data augmentation using non-learning-based bandwidth extension for automatic speaker verification based on deep-learning"
-authors:
+authorsJa:
+  - "宮本 春奈"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Haruna MIYAMOTO"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

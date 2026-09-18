@@ -1,7 +1,11 @@
 ---
 titleJa: "Encryption-then-CompressionシステムのためのSNSにおける画像加工解析"
 titleEn: "Image Manipulation Analysis on Social Networking Service for Encryption-then-Compression Systems"
-authors:
+authorsJa:
+  - "中満 達也"
+  - "飯田 健太"
+  - "貴家 仁志"
+authorsEn:
   - "Tatsuya CHUMAN"
   - "Kenta IIDA"
   - "Hitoshi KIYA"

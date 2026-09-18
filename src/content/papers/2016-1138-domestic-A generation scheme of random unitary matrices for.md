@@ -1,7 +1,11 @@
 ---
 titleJa: "テンプレート保護のためのランダム・ユニタリ行列の生成法"
 titleEn: "A generation scheme of random unitary matrices for template protection "
-authors:
+authorsJa:
+  - "斉藤 裕子"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Yuko SAITO"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

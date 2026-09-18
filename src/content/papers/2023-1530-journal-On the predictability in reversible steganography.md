@@ -1,6 +1,12 @@
 ---
 titleEn: "On the predictability in reversible steganography"
-authors:
+authorsJa:
+  - "Ching-Chun Chang"
+  - "Xu Wang"
+  - "Sisheng Chen"
+  - "貴家 仁志"
+  - "越前 功"
+authorsEn:
   - "Ching-Chun Chang"
   - "Xu Wang"
   - "Sisheng Chen"

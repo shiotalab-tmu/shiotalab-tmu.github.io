@@ -1,7 +1,11 @@
 ---
 titleJa: "複数の二次元コードを用いた原画像不要な画像幾何補正法"
 titleEn: "Oblivious Geometric Compensation Using Multiple 2-D Barcodes"
-authors:
+authorsJa:
+  - "清水 雅史"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Masashi SHIMIZU"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

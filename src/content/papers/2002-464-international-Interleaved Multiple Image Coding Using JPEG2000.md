@@ -1,6 +1,9 @@
 ---
 titleEn: "Interleaved Multiple Image Coding Using JPEG2000"
-authors:
+authorsJa:
+  - "高木 亜有子"
+  - "貴家 仁志"
+authorsEn:
   - "Ayuko TAKAGI"
   - "Hitoshi KIYA"
 date: "2002-07-01"

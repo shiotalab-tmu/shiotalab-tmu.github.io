@@ -1,6 +1,10 @@
 ---
 titleEn: "A Parallel AR Spectral Estimation Using a New Class of Filter Bank"
-authors:
+authorsJa:
+  - "西川 清史"
+  - "宮崎 恭子"
+  - "貴家 仁志"
+authorsEn:
   - "Kiyoshi NISHIKAWA"
   - "Kyoko MIYAZAKI"
   - "Hitoshi KIYA"

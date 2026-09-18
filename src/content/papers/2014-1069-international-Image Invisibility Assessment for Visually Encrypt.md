@@ -1,6 +1,11 @@
 ---
 titleEn: "Image Invisibility Assessment for Visually Encrypted Images"
-authors:
+authorsJa:
+  - "内田 輝"
+  - "藤吉 正明"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Akira UCHIDA"
   - "Masaaki FUJIYOSHI"
   - "Sayaka SHIOTA"

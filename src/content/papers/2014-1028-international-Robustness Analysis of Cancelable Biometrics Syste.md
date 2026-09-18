@@ -1,6 +1,11 @@
 ---
 titleEn: "Robustness Analysis of Cancelable Biometrics Systems in Terms of Visual Recognizability"
-authors:
+authorsJa:
+  - "村木 雄一"
+  - "古川 昌和"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Yuichi MURAKI"
   - "Masakazu FURUKAWA"
   - "Masaaki FUJIYOSHI"

@@ -1,6 +1,9 @@
 ---
 titleEn: "A Protection Method of Trained CNN Model Using Feature Maps Transformed With Secret Key From Unauthorized Access"
-authors:
+authorsJa:
+  - "エイプリルピョンマウンマウン"
+  - "貴家 仁志"
+authorsEn:
   - "April Pyone MAUNG MAUNG"
   - "Hitoshi KIYA"
 date: "2021-12-16"

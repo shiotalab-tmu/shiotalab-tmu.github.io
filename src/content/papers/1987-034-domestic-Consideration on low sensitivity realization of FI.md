@@ -1,7 +1,12 @@
 ---
 titleJa: "低感度FIRディジタルフィルタに関する一検討"
 titleEn: "Consideration on low sensitivity realization of FIR digital filters"
-authors:
+authorsJa:
+  - "森 幸男"
+  - "貴家 仁志"
+  - "鈴木 秀明"
+  - "佐川 雅彦"
+authorsEn:
   - "Yukio MORI"
   - "Hitoshi KIYA"
   - "Hideaki SUZUKI"

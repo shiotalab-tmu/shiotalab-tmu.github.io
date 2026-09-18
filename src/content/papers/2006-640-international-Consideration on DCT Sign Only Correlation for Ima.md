@@ -1,6 +1,11 @@
 ---
 titleEn: "Consideration on DCT Sign Only Correlation for Image Identification"
-authors:
+authorsJa:
+  - "飯塚 郁絵"
+  - "フィトリ アルニア"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Ikue IIZUKA"
   - "Fitri Arnia"
   - "Masaaki FUJIYOSHI"

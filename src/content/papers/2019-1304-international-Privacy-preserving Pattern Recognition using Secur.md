@@ -1,6 +1,9 @@
 ---
 titleEn: "Privacy-preserving Pattern Recognition using Secure Sparse Computation"
-authors:
+authorsJa:
+  - "仲地 孝之"
+  - "貴家 仁志"
+authorsEn:
   - "Takayuki NAKACHI"
   - "Hitoshi KIYA"
 date: "2019-03-17"

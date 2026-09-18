@@ -1,6 +1,9 @@
 ---
 titleEn: "A Visually-Lossless Data Hiding Method Based on Histogram Modification"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"
 date: "2012-05-22"

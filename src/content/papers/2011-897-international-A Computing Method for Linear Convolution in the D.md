@@ -1,6 +1,9 @@
 ---
 titleEn: "A Computing Method for Linear Convolution in the DCT Domain"
-authors:
+authorsJa:
+  - "伊藤 泉"
+  - "貴家 仁志"
+authorsEn:
   - "Izumi ITO"
   - "Hitoshi KIYA"
 date: "2011-08-30"

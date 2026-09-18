@@ -1,6 +1,9 @@
 ---
 titleEn: "Privacy-Preserving Content-based Image Retrieval Using Compressible Encrypted Images"
-authors:
+authorsJa:
+  - "飯田 健太"
+  - "貴家 仁志"
+authorsEn:
   - "Kenta IIDA"
   - "Hitoshi KIYA"
 date: "2020-11-03"

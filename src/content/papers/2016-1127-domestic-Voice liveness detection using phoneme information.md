@@ -1,7 +1,15 @@
 ---
 titleJa: "音素情報を考慮した話者照合のための声の生体検知の検討"
 titleEn: "Voice liveness detection using phoneme information for speaker verification"
-authors:
+authorsJa:
+  - "塩田 さやか"
+  - "フェルナンド ビリャビセンシオ"
+  - "山岸 順一"
+  - "小野 順貴"
+  - "越前 功"
+  - "松井 知子"
+  - "貴家 仁志"
+authorsEn:
   - "Sayaka SHIOTA"
   - "Fernando Villaviencio"
   - "Junichi YAMAGISHI"

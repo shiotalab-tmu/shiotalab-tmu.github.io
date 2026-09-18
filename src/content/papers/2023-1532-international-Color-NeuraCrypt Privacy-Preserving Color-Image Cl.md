@@ -1,6 +1,10 @@
 ---
 titleEn: "Color-NeuraCrypt: Privacy-Preserving Color-Image Classification Using Extended Random Neural Networks"
-authors:
+authorsJa:
+  - "祁 崢"
+  - "エイプリルピョンマウンマウン"
+  - "貴家 仁志"
+authorsEn:
   - "Zheng QI"
   - "April Pyone MAUNG MAUNG"
   - "Hitoshi KIYA"

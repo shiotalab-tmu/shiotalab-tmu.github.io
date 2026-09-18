@@ -1,7 +1,12 @@
 ---
 titleJa: "イコライザを用いたDFT-QMFバンクの設計"
 titleEn: "Design of DFT-quadrature mirror filter banks with equalizers"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "伊藤 一広"
+  - "西川 清史"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi KIYA"
   - "Kazuhiro ITOH"
   - "Kiyoshi NISHIKAWA"

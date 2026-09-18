@@ -1,6 +1,10 @@
 ---
 titleEn: "Hindering Adversarial Attacks with Multiple Encrypted Patch Embeddings"
-authors:
+authorsJa:
+  - "エイプリルピョンマウンマウン"
+  - "越前 功"
+  - "貴家 仁志"
+authorsEn:
   - "April Pyone MAUNG MAUNG"
   - "Isao ECHIZEN"
   - "Hitoshi KIYA"

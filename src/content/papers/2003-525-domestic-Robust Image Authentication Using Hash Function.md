@@ -1,7 +1,10 @@
 ---
 titleJa: "ハッシュ関数を用いた画像の真正性のロバストな判定法"
 titleEn: "Robust Image Authentication Using Hash Function"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"
 date: "2003-11-07"

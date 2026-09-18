@@ -1,7 +1,11 @@
 ---
 titleJa: "J-SpAW:話者照合となりすまし音声検出のための日本語音声コーパス"
 titleEn: "J-SpAW: Japanese corpus for speaker verification and spoofing attack detection, recorded in the wild"
-authors:
+authorsJa:
+  - "菅野 滉大"
+  - "高道 慎之介"
+  - "塩田 さやか"
+authorsEn:
   - "Kota KANNO"
   - "Shinnosuke Takamichi"
   - "Sayaka SHIOTA"

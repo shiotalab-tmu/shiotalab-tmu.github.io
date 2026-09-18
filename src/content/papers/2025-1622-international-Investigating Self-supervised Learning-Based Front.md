@@ -1,6 +1,10 @@
 ---
 titleEn: "Investigating Self-supervised Learning-Based Front-End for Multi-Channel Replay Attack Detection"
-authors:
+authorsJa:
+  - "山口 拓生"
+  - "塩田 さやか"
+  - "俵 直弘"
+authorsEn:
   - "Takuo YAMAGUCHI"
   - "Sayaka SHIOTA"
   - "Naohiro TAWARA"

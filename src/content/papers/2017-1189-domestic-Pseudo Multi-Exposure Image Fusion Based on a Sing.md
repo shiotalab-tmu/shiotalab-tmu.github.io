@@ -1,7 +1,12 @@
 ---
 titleJa: "単一画像に基づく擬似的多重露出画像合成法"
 titleEn: "Pseudo Multi-Exposure Image Fusion Based on a Single Image "
-authors:
+authorsJa:
+  - "木下 裕磨"
+  - "吉田 太一"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Yuma KINOSHITA"
   - "Taichi YOSHIDA"
   - "Sayaka SHIOTA"

@@ -1,7 +1,11 @@
 ---
 titleJa: "非定常入力信号に対する適応フィルタの追従性の改善法"
 titleEn: "Improving Track Performance of Adaptive Digital Filter for Nonstationary Input Signals"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "下山 正樹"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi KIYA"
   - "Masaki SHIMOYAMA"
   - "Masahiko SAGAWA"

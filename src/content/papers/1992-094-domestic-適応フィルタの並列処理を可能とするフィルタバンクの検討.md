@@ -1,6 +1,9 @@
 ---
 titleJa: "適応フィルタの並列処理を可能とするフィルタバンクの検討"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "山口 智史"
+authorsEn:
   - "Hitoshi KIYA"
   - "Satoshi YAMAGUCHI"
 date: "1992-04-01"

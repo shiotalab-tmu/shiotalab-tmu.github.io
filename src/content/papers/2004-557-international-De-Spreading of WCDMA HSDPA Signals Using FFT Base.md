@@ -1,6 +1,9 @@
 ---
 titleEn: "De-Spreading of WCDMA HSDPA Signals Using FFT Based on the Equivalent Representation of MC-MC CDMA and WCDMA"
-authors:
+authorsJa:
+  - "西川 清史"
+  - "中村 聡太"
+authorsEn:
   - "Kiyoshi NISHIKAWA"
   - "Souta NAKAMURA"
 date: "2004-07-13"

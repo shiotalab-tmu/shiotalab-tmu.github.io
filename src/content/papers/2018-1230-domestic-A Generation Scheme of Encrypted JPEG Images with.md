@@ -1,7 +1,10 @@
 ---
 titleJa: "JPEGビットストリーム領域でのファイルサイズ不変画像暗号化法"
 titleEn: "A Generation Scheme of Encrypted JPEG Images with Unchanged File Sizes in the Bitstream Domain "
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"
 date: "2018-03-06"

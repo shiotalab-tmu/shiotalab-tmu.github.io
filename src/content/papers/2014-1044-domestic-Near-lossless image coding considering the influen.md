@@ -1,7 +1,11 @@
 ---
 titleJa: "再符号化の影響を考慮した画像のニアロスレス符号化法"
 titleEn: "Near-lossless image coding considering the influence of re-encoding"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"

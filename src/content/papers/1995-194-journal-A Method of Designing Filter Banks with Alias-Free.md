@@ -1,6 +1,10 @@
 ---
 titleEn: "A Method of Designing Filter Banks with Alias-Free Characteristics at Equally Spaced Points"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "山崎 広達"
+  - "山田 洋士"
+authorsEn:
   - "Hitoshi KIYA"
   - "Hirotatsu YAMAZAKI"
   - "Youji YAMADA"

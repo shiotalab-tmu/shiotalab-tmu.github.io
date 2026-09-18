@@ -1,6 +1,10 @@
 ---
 titleEn: "High Quality Video Coding for Motion JPEG 20000 Based on Rate Control Method Maintaining Constant MSE"
-authors:
+authorsJa:
+  - "西川 清史"
+  - "桑原 翔"
+  - "貴家 仁志"
+authorsEn:
   - "Kiyoshi NISHIKAWA"
   - "Sho KUWABARA"
   - "Hitoshi KIYA"

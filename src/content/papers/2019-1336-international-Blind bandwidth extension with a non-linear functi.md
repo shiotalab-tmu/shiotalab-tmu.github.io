@@ -1,6 +1,11 @@
 ---
 titleEn: "Blind bandwidth extension with a non-linear function and its evaluation on x-vector-based speaker verification "
-authors:
+authorsJa:
+  - "上西 遼大"
+  - "宮本 春奈"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Ryota KAMINISHI"
   - "Haruna MIYAMOTO"
   - "Sayaka SHIOTA"

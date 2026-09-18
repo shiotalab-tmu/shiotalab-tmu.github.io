@@ -1,7 +1,10 @@
 ---
 titleJa: "Box構造を用いたMotion-JPEG2000ファイルのためのエラー訂正法"
 titleEn: "Error Correction Using a Box Structure for Motion-JPEG2000 Files"
-authors:
+authorsJa:
+  - "黒崎 正行"
+  - "貴家 仁志"
+authorsEn:
   - "Masayuki KUROSAKI"
   - "Hitoshi KIYA"
 date: "2003-11-06"

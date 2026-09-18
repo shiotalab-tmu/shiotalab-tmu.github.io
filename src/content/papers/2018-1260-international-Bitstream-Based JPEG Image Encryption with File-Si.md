@@ -1,6 +1,9 @@
 ---
 titleEn: "Bitstream-Based JPEG Image Encryption with File-Size Preserving"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"
 date: "2018-10-09"

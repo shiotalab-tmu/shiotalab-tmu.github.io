@@ -1,7 +1,11 @@
 ---
 titleJa: "不正収録音声から合成されたディープフェイク音声による なりすまし攻撃"
 titleEn: "Spoofing attacks using deepfake speech synthesized from non-consensual recording"
-authors:
+authorsJa:
+  - "古林 嵯羽仁"
+  - "高道 慎之介"
+  - "塩田 さやか"
+authorsEn:
   - "Sawato Furubayashi"
   - "Shinnosuke Takamichi"
   - "Sayaka SHIOTA"

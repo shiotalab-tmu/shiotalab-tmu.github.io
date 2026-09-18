@@ -1,6 +1,10 @@
 ---
 titleJa: "不定アドミッタンス行列を用いたSC回路の記号解析"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "神林 紀嘉"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi KIYA"
   - "Noriyoshi KAMBAYASHI"
   - "Masahiko SAGAWA"

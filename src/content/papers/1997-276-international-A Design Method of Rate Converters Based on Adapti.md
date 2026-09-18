@@ -1,6 +1,11 @@
 ---
 titleEn: "A Design Method of Rate Converters Based on Adaptive Filters"
-authors:
+authorsJa:
+  - "渡部 誠二"
+  - "貴家 仁志"
+  - "西川 清史"
+  - "藤井 信生"
+authorsEn:
   - "Seiji WATANABE"
   - "Hitoshi KIYA"
   - "Kiyoshi NISHIKAWA"

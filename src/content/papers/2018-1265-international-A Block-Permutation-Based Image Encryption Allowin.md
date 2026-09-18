@@ -1,6 +1,10 @@
 ---
 titleEn: "A Block-Permutation-Based Image Encryption Allowing Hierarchical Decryption"
-authors:
+authorsJa:
+  - "井澤 佑介"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Yusuke Izawa"
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"

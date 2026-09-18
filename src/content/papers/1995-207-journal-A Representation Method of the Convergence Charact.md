@@ -1,6 +1,9 @@
 ---
 titleEn: "A Representation Method of the Convergence Characteristic of the LMS Algorithms Using Tap-Input Vectors"
-authors:
+authorsJa:
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"
 date: "1995-10-01"

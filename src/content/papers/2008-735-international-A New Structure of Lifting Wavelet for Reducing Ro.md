@@ -1,6 +1,10 @@
 ---
 titleEn: "A New Structure of Lifting Wavelet for Reducing Rounding Error"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "岩橋 政宏"
+  - "渡邊 修"
+authorsEn:
   - "Hitoshi KIYA"
   - "Masahiro IWAHASHI"
   - "Osamu WATANABE"

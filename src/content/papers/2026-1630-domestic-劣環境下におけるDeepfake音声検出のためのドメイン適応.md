@@ -1,6 +1,12 @@
 ---
 titleJa: "劣環境下におけるDeepfake音声検出のためのドメイン適応"
-authors:
+authorsJa:
+  - "堤 歩斗"
+  - "後藤 晃"
+  - "斉藤 裕子"
+  - "松浦 廣樹"
+  - "塩田 さやか"
+authorsEn:
   - "Ayuto TSUTSUMI"
   - "Akira GOTOH"
   - "Yuko SAITO"

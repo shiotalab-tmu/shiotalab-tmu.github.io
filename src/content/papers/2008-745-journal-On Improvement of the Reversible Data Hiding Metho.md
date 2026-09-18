@@ -1,7 +1,11 @@
 ---
 titleJa: "統計量の適応的可逆修正法に基づく可逆情報埋込法の改善"
 titleEn: "On Improvement of the Reversible Data Hiding Method by Reversibly Adaptive Modulation of Statistics"
-authors:
+authorsJa:
+  - "金 弘林"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Hong Lin JIN"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

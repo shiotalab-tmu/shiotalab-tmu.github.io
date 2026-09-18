@@ -1,7 +1,10 @@
 ---
 titleJa: "サンプリングレート変換のための拡張重複加算法と拡張重複保持法"
 titleEn: "An Extended Overlap-Add Method and Save Method for Sampling Rate Conversion"
-authors:
+authorsJa:
+  - "村松 正吾"
+  - "貴家 仁志"
+authorsEn:
   - "Shogo MURAMATSU"
   - "Hitoshi KIYA"
 date: "1994-08-01"

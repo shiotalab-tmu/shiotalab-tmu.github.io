@@ -1,6 +1,11 @@
 ---
 titleEn: "Improving replay attack detection by combination of spatial and spectral features"
-authors:
+authorsJa:
+  - "矢口 凌也"
+  - "塩田 さやか"
+  - "小野 順貴"
+  - "貴家 仁志"
+authorsEn:
   - "Ryoya YAGUCHI"
   - "Sayaka SHIOTA"
   - "Nobutaka ONO"

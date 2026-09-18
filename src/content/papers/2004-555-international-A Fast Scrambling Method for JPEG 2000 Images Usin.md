@@ -1,6 +1,10 @@
 ---
 titleEn: "A Fast Scrambling Method for JPEG 2000 Images Using Public-Key Encryption"
-authors:
+authorsJa:
+  - "渡邊 修"
+  - "中崎 暁子"
+  - "貴家 仁志"
+authorsEn:
   - "Osamu WATANABE"
   - "Akiko NAKAZAKI"
   - "Hitoshi KIYA"

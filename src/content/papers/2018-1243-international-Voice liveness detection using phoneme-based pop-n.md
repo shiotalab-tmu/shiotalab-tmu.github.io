@@ -1,6 +1,10 @@
 ---
 titleEn: "Voice liveness detection using phoneme-based pop-noise detector for speaker verification"
-authors:
+authorsJa:
+  - "望月 紫穂野"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Shihono MOCHIZUKI"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

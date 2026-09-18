@@ -1,6 +1,9 @@
 ---
 titleEn: "Image Identification of Encrypted JPEG Images for Privacy-preserving Photo Sharing Services"
-authors:
+authorsJa:
+  - "飯田 健太"
+  - "貴家 仁志"
+authorsEn:
   - "Kenta IIDA"
   - "Hitoshi KIYA"
 date: "2020-01-01"

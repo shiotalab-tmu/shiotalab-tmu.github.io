@@ -1,6 +1,12 @@
 ---
 titleEn: "Design Methods for Oversampled DFT Filter Banks"
-authors:
+authorsJa:
+  - "梶田 邦之"
+  - "小林 弘幸"
+  - "村松 正吾"
+  - "山田 昭彦"
+  - "貴家 仁志"
+authorsEn:
   - "Kuniyuki KAJITA"
   - "Hiroyuki KOBAYASHI"
   - "Shogo MURAMATSU"

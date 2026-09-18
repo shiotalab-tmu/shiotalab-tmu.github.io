@@ -1,7 +1,11 @@
 ---
 titleJa: "低ビット画像のためのアレイ型動き検出器の構成とハードウェア規模の低減"
 titleEn: "Reducing Hardware Complexity of an Array Architecture for the Motion Estimation Algorithm Using Truncated Pixels"
-authors:
+authorsJa:
+  - "内田 健"
+  - "山田 昭彦"
+  - "貴家 仁志"
+authorsEn:
   - "Takeshi UCHIDA"
   - "Akihiko YAMADA"
   - "Hitoshi KIYA"

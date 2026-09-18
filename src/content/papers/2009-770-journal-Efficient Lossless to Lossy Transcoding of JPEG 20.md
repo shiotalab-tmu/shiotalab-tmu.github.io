@@ -1,6 +1,10 @@
 ---
 titleEn: "Efficient Lossless to Lossy Transcoding of JPEG 2000 Codestreams for D-Cinema"
-authors:
+authorsJa:
+  - "福原 隆浩"
+  - "安藤 勝俊"
+  - "貴家 仁志"
+authorsEn:
   - "Takahiro FUKUHARA"
   - "Katsutoshi ANDO"
   - "Hitoshi KIYA"

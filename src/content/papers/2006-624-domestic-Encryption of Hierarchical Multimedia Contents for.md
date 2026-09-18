@@ -1,7 +1,11 @@
 ---
 titleJa: "アクセス制限を考慮した階層的マルチメディアコンテンツの暗号化法"
 titleEn: "Encryption of Hierarchical Multimedia Contents for Access Control"
-authors:
+authorsJa:
+  - "齋藤 海有"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Wataru SAITOU"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

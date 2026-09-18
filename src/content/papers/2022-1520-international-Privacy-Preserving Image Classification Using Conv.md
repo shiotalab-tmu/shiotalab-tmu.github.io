@@ -1,6 +1,10 @@
 ---
 titleEn: "Privacy-Preserving Image Classification Using ConvMixer with Adaptive Permutation Matrix"
-authors:
+authorsJa:
+  - "祁 崢"
+  - "エイプリルピョンマウンマウン"
+  - "貴家 仁志"
+authorsEn:
   - "Zheng QI"
   - "April Pyone MAUNG MAUNG"
   - "Hitoshi KIYA"

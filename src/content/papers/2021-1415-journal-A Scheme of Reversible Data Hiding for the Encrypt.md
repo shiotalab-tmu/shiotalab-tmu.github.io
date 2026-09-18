@@ -1,6 +1,10 @@
 ---
 titleEn: "A Scheme of Reversible Data Hiding for the Encryption-then-Compression System"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "Ruifeng LI"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Ruifeng LI"
   - "Hitoshi KIYA"

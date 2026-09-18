@@ -1,6 +1,10 @@
 ---
 titleEn: "Evaluation Framework for Multi-Channel Spoofing Detection Through Redesign of the ReMASC Corpus"
-authors:
+authorsJa:
+  - "山口 拓生"
+  - "塩田 さやか"
+  - "俵 直弘"
+authorsEn:
   - "Takuo YAMAGUCHI"
   - "Sayaka SHIOTA"
   - "Naohiro TAWARA"

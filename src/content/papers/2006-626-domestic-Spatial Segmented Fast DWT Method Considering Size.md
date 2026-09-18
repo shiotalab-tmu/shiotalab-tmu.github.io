@@ -1,7 +1,12 @@
 ---
 titleJa: "キャッシュメモリを考慮した領域分割DWT法"
 titleEn: "Spatial Segmented Fast DWT Method Considering Size of Cache Memory"
-authors:
+authorsJa:
+  - "新保 翔吾"
+  - "吉田 邦明"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Syogo SHINBO"
   - "Kuniaki YOSHIDA"
   - "Kiyoshi NISHIKAWA"

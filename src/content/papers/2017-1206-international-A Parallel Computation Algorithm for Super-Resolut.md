@@ -1,6 +1,10 @@
 ---
 titleEn: "A Parallel Computation Algorithm for Super-Resolution Methods Using Convolutional Neural Networks"
-authors:
+authorsJa:
+  - "菅原 佑介"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Yusuke Sugawara"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

@@ -1,7 +1,11 @@
 ---
 titleJa: "量子化画像を用いた機械学習法とその影響"
 titleEn: "Machine learning algorithms with quantized images and their influence"
-authors:
+authorsJa:
+  - "長我部　恭行"
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Takayuki OSAKABE"
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"

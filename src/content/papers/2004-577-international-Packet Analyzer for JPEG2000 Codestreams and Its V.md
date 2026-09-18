@@ -1,6 +1,11 @@
 ---
 titleEn: "Packet Analyzer for JPEG2000 Codestreams and Its VHDL Model"
-authors:
+authorsJa:
+  - "黒崎 正行"
+  - "池田 暁美"
+  - "ハイルル ムナディ"
+  - "貴家 仁志"
+authorsEn:
   - "Masayuki KUROSAKI"
   - "Akemi IKEDA"
   - "Khairul Munadi"

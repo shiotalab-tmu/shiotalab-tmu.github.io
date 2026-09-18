@@ -1,6 +1,11 @@
 ---
 titleEn: "Privacy-Preserving Semantic Segmentation Using Vision Transformer"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "永森 輝"
+  - "今泉 祥子"
+  - "塩田 さやか"
+authorsEn:
   - "Hitoshi KIYA"
   - "Teru NAGAMORI"
   - "Shoko IMAIZUMI"

@@ -1,6 +1,10 @@
 ---
 titleEn: "Subband Coding of Images with Circular Convolution"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "貴家 仁志"
+  - "西川 清史"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"
   - "Kiyoshi NISHIKAWA"

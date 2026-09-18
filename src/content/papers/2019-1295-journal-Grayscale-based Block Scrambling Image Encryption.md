@@ -1,6 +1,9 @@
 ---
 titleEn: "Grayscale-based Block Scrambling Image Encryption using YCbCr Color Space for Encryption-then-Compression Systems"
-authors:
+authorsJa:
+  - "ワリット　シリチョットダムロン"
+  - "貴家 仁志"
+authorsEn:
   - "Warit SIRICHOTEDUMRONG"
   - "Hitoshi KIYA"
 date: "2019-02-01"

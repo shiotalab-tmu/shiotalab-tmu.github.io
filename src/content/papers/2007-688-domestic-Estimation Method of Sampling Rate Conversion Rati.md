@@ -1,7 +1,11 @@
 ---
 titleJa: "位相限定相関法に基づくオーディオ信号のサンプリングレート変換比の推定法"
 titleEn: "Estimation Method of Sampling Rate Conversion Ratio of Audio Signals Using Phase-Only Correlation"
-authors:
+authorsJa:
+  - "越山 朋洋"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Tomohiro KOSHIYAMA"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

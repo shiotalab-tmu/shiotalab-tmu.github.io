@@ -1,6 +1,8 @@
 ---
 titleEn: "A Dual Permutation-Based Separable Reversible Information Hiding Scheme in Encrypted Images"
-authors:
+authorsJa:
+  - "藤吉 正明"
+authorsEn:
   - "Masaaki FUJIYOSHI"
 date: "2013-06-06"
 type: "international"

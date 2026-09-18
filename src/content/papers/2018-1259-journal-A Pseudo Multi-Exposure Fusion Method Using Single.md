@@ -1,6 +1,10 @@
 ---
 titleEn: "A Pseudo Multi-Exposure Fusion Method Using Single Image"
-authors:
+authorsJa:
+  - "木下 裕磨"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Yuma KINOSHITA"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

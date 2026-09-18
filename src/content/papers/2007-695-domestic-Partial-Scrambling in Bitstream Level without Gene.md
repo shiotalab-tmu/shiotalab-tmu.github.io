@@ -1,7 +1,11 @@
 ---
 titleJa: "マーカコード発生の回避を考慮したJPEG 2000符号化画像のビットストリームレベル情報半開示法"
 titleEn: "Partial-Scrambling in Bitstream Level without Generating Marker Codes for JPEG 2000 Coded Images"
-authors:
+authorsJa:
+  - "飯田 知教"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Tomonori IIDA"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

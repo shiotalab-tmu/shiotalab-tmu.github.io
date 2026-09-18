@@ -1,7 +1,11 @@
 ---
 titleJa: "チェス盤歪みを伴わない多次元フィルタバンクについて"
 titleEn: "Multidimensional Filter Banks Without Checkerboard Effects"
-authors:
+authorsJa:
+  - "原田 康裕"
+  - "村松 正吾"
+  - "貴家 仁志"
+authorsEn:
   - "Yasuhiro HARADA"
   - "Shogo MURAMATSU"
   - "Hitoshi KIYA"

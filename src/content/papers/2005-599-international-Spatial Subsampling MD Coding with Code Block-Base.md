@@ -1,6 +1,11 @@
 ---
 titleEn: "Spatial Subsampling MD Coding with Code Block-Based Error Concealment for JPEG 2000 Coded Images"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "井澤 佳明"
+  - "長藁 真一"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Yoshiaki ISAWA"
   - "Shin'ichi NAGAWARA"

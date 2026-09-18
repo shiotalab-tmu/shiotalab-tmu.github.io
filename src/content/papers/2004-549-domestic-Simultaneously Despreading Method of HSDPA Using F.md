@@ -1,7 +1,10 @@
 ---
 titleJa: "MC-CDMAとW-CDMAの等価表現にもとづくFFTを用いたHSDPAの一括逆拡散法"
 titleEn: "Simultaneously Despreading Method of HSDPA Using FFT Based on Equivalent Representation of MC-CDMA and W-CDMA"
-authors:
+authorsJa:
+  - "中村 聡太"
+  - "西川 清史"
+authorsEn:
   - "Souta NAKAMURA"
   - "Kiyoshi NISHIKAWA"
 date: "2004-04-27"

@@ -1,7 +1,10 @@
 ---
 titleJa: "スパース性に基づくRLS型適応フィルタの追従特性改善法"
 titleEn: "Improvement of Tracking Performance of RLS-type Adaptive Filters Based on Sparsity"
-authors:
+authorsJa:
+  - "野田 祐一"
+  - "西川 清史"
+authorsEn:
   - "Yuichi NODA"
   - "Kiyoshi NISHIKAWA"
 date: "2011-11-18"

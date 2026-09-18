@@ -1,7 +1,10 @@
 ---
 titleJa: "NL-means雑音除去フレームワークのためのロバスト統計と方向性分散に基づく雑音判定精度の改善法"
 titleEn: "Improving Measures for Noise Decision Accuracy Based on The Robust Statistics and Directivity Distribution for a Denoising Framework"
-authors:
+authorsJa:
+  - "曲 棟梁"
+  - "西川 清史"
+authorsEn:
   - "Dongliang QU"
   - "Kiyoshi NISHIKAWA"
 date: "2013-12-10"

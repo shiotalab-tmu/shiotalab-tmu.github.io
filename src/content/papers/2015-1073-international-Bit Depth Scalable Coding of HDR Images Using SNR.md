@@ -1,6 +1,10 @@
 ---
 titleEn: "Bit Depth Scalable Coding of HDR Images Using SNR Scalability in JPEG 2000"
-authors:
+authorsJa:
+  - "室伏 辰耶"
+  - "鈴木 亮"
+  - "貴家 仁志"
+authorsEn:
   - "Tatsuya MUROFUSHI"
   - "Ryo SUZUKI"
   - "Hitoshi KIYA"

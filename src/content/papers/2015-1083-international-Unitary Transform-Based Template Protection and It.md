@@ -1,6 +1,10 @@
 ---
 titleEn: "Unitary Transform-Based Template Protection and Its Properties"
-authors:
+authorsJa:
+  - "中村 維吹"
+  - "外村 喜秀"
+  - "貴家 仁志"
+authorsEn:
   - "Ibuki NAKAMURA"
   - "Yoshihide TONOMURA"
   - "Hitoshi KIYA"

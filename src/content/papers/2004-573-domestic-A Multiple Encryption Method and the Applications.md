@@ -1,7 +1,12 @@
 ---
 titleJa: "多重暗号化法とそのJPEG 2000符号化画像への応用"
 titleEn: "A Multiple Encryption Method and the Applications for JPEG 2000 Images"
-authors:
+authorsJa:
+  - "中崎 暁子"
+  - "渡邊 修"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Akiko NAKAZAKI"
   - "Osamu WATANABE"
   - "Masaaki FUJIYOSHI"

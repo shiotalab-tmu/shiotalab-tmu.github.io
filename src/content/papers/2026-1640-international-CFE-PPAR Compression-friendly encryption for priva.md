@@ -1,6 +1,10 @@
 ---
 titleEn: "CFE-PPAR: Compression-friendly encryption for privacy-preserving action recognition leveraging video transformers"
-authors:
+authorsJa:
+  - "Lin Haiwei "
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Haiwei Lin "
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"

@@ -1,7 +1,11 @@
 ---
 titleJa: "複素係数を用いた低感度な直線位相FIR実係数フィルタの構成"
 titleEn: "Very low sensitivity realization of linear-phase real coefficient FIR digital filters using complex coefficient filters"
-authors:
+authorsJa:
+  - "尾知 博"
+  - "長田 透"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroshi OCHI"
   - "Tohru NAGATA"
   - "Hitoshi KIYA"

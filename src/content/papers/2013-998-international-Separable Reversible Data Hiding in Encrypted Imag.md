@@ -1,6 +1,8 @@
 ---
 titleEn: "Separable Reversible Data Hiding in Encrypted Images with Histogram Permutation"
-authors:
+authorsJa:
+  - "藤吉 正明"
+authorsEn:
   - "Masaaki FUJIYOSHI"
 date: "2013-07-18"
 type: "international"

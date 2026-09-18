@@ -1,7 +1,12 @@
 ---
 titleJa: "ディジタル動画像配信サービスにおけるアクセス制御方式"
 titleEn: "An Access Control Method for Digital Video Distribution"
-authors:
+authorsJa:
+  - "今泉 祥子"
+  - "阿部 淑人"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Shoko IMAIZUMI"
   - "Yoshito ABE"
   - "Masaaki FUJIYOSHI"

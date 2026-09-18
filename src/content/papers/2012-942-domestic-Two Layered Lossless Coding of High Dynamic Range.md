@@ -1,7 +1,10 @@
 ---
 titleJa: "ハイダイナミックレンジ画像のための二階層ロスレス符号化"
 titleEn: "Two Layered Lossless Coding of High Dynamic Range Images "
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"
 date: "2012-06-11"

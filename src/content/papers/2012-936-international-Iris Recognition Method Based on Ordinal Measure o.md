@@ -1,6 +1,11 @@
 ---
 titleEn: "Iris Recognition Method Based on Ordinal Measure of Discrete Cosine Transform Coefﬁcients"
-authors:
+authorsJa:
+  - "フィトリ アルニア"
+  - "ハイルル ムナディ"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Fitri Arnia"
   - "Khairul Munadi"
   - "Masaaki FUJIYOSHI"

@@ -1,6 +1,11 @@
 ---
 titleEn: "Lossless Bit Depth Scalable Coding for Floating Point Images"
-authors:
+authorsJa:
+  - "チュウ インピン"
+  - "柴田 拓也"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Yin Ping CHEW"
   - "Takuya SHIBATA"
   - "Masahiro IWAHASHI"

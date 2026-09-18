@@ -1,6 +1,11 @@
 ---
 titleEn: "Codeblock-Based Error Concealment for JPEG2000 Coded Image Transmission over RTP"
-authors:
+authorsJa:
+  - "ハイルル ムナディ"
+  - "藤吉 正明"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Khairul Munadi"
   - "Masaaki FUJIYOSHI"
   - "Kiyoshi NISHIKAWA"

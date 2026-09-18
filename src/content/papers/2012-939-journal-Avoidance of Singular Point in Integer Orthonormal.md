@@ -1,6 +1,10 @@
 ---
 titleEn: "Avoidance of Singular Point in Integer Orthonormal Transform for Lossless Coding"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "小川 公則"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Masanori OGAWA"
   - "Hitoshi KIYA"

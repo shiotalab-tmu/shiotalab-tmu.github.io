@@ -1,7 +1,13 @@
 ---
 titleJa: "固定小数点トーンマッピング処理のためのHDR画像フォーマット制約の緩和"
 titleEn: "Relaxation of Restriction on HDR Image Formats for A Fixed-Point Tone Mapping Operation"
-authors:
+authorsJa:
+  - "田代 敦"
+  - "室伏 辰耶"
+  - "土橋 俊之"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Atsushi TASHIRO"
   - "Tatsuya MUROFUSHI"
   - "Toshiyuki DOBASHI"

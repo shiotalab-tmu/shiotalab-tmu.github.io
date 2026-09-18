@@ -1,6 +1,10 @@
 ---
 titleEn: "An MSB Prediction-Based Method with Marker Bits for Reversible Data Hiding in Encrypted Images"
-authors:
+authorsJa:
+  - "平澤 凌一"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Ryoichi HIRASAWA"
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"

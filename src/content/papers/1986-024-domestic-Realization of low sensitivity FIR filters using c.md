@@ -1,7 +1,11 @@
 ---
 titleJa: "縦続形構成による低感度FIRフィルタの実現"
 titleEn: "Realization of low sensitivity FIR filters using cascade form"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "森 幸男"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi KIYA"
   - "Yukio MORI"
   - "Masahiko SAGAWA"

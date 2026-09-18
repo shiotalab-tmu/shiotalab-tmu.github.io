@@ -1,6 +1,10 @@
 ---
 titleEn: "Block-Permutation-Based Encryption Scheme with Enhanced Color Scrambling"
-authors:
+authorsJa:
+  - "今泉 祥子"
+  - "小笠原 剛史"
+  - "貴家 仁志"
+authorsEn:
   - "Shoko IMAIZUMI"
   - "Takeshi OGASAWARA"
   - "Hitoshi KIYA"

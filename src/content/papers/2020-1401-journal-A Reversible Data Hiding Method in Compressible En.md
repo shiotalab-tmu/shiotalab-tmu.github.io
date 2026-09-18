@@ -1,6 +1,11 @@
 ---
 titleEn: "A Reversible Data Hiding Method in Compressible Encrypted Images"
-authors:
+authorsJa:
+  - "今泉 祥子"
+  - "井澤 佑介"
+  - "平澤 凌一"
+  - "貴家 仁志"
+authorsEn:
   - "Shoko IMAIZUMI"
   - "Yusuke Izawa"
   - "Ryoichi HIRASAWA"

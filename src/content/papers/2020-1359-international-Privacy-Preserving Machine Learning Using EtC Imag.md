@@ -1,6 +1,10 @@
 ---
 titleEn: "Privacy-Preserving Machine Learning Using EtC Images"
-authors:
+authorsJa:
+  - "河村 綾菜"
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Ayana KAWAMURA"
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"

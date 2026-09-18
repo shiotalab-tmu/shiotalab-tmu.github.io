@@ -1,7 +1,12 @@
 ---
 titleJa: "複数チャネル間の相互相関関数を用いた話者照合のためのなりすまし検出"
 titleEn: "Spoofing detection method using generalized cross-correlation between multiple channels for speaker verification."
-authors:
+authorsJa:
+  - "矢口 凌也"
+  - "塩田 さやか"
+  - "小野 順貴"
+  - "貴家 仁志"
+authorsEn:
   - "Ryoya YAGUCHI"
   - "Sayaka SHIOTA"
   - "Nobutaka ONO"

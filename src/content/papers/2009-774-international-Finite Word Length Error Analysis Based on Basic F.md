@@ -1,6 +1,9 @@
 ---
 titleEn: "Finite Word Length Error Analysis Based on Basic Formula of Rounding Operation"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"
 date: "2009-02-09"

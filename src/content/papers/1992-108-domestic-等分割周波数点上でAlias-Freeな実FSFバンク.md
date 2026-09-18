@@ -1,6 +1,10 @@
 ---
 titleJa: "等分割周波数点上でAlias-Freeな実FSFバンク"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "山崎 広達"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi KIYA"
   - "Hirotatsu YAMAZAKI"
   - "Masahiko SAGAWA"

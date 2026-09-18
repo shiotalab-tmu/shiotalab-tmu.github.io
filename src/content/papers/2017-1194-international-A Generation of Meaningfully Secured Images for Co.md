@@ -1,6 +1,9 @@
 ---
 titleEn: "A Generation of Meaningfully Secured Images for Copyright- and Privacy- Protected Image Trading Systems Using Singular Component Interchange"
-authors:
+authorsJa:
+  - "セタン ワンニダー"
+  - "貴家 仁志"
+authorsEn:
   - "Wannida SAE-TANG"
   - "Hitoshi KIYA"
 date: "2017-08-26"

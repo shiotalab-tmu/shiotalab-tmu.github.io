@@ -1,7 +1,11 @@
 ---
 titleJa: "重複保持法に基づくFFT全探索ブロックマッチング"
 titleEn: "An FFT Based Full-Search Block-Matching Algorithm Using an Overlap-Save Method"
-authors:
+authorsJa:
+  - "佐々木 秀竹"
+  - "李 禎"
+  - "貴家 仁志"
+authorsEn:
   - "Hidetake SASAKI"
   - "Zhen LI"
   - "Hitoshi KIYA"

@@ -1,7 +1,10 @@
 ---
 titleJa: "色ずれを考慮したノンローカルミーンフィルタにおけるノイズ除去法"
 titleEn: "A NL-means for denoising scheme without undesirable color effects for color images"
-authors:
+authorsJa:
+  - "山口 貴之"
+  - "貴家 仁志"
+authorsEn:
   - "Takayuki YAMAGUCHI"
   - "Hitoshi KIYA"
 date: "2014-03-21"

@@ -1,7 +1,12 @@
 ---
 titleJa: "OpenEXRフォーマットのHDR画像に対するトーンマッピング処理の整数化"
 titleEn: "An Integerization of Tone Mapping for HDR Images in OpenEXR"
-authors:
+authorsJa:
+  - "室伏 辰耶"
+  - "土橋 俊之"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Tatsuya MUROFUSHI"
   - "Toshiyuki DOBASHI"
   - "Masahiro IWAHASHI"

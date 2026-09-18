@@ -1,7 +1,10 @@
 ---
 titleJa: "DCT符号位相相関による非整数サンプルシフト量推定のためのフィッティング関数"
 titleEn: "Fitting Functions for Noninteger Shift Value Estimation Using DCT Sign Phase Correlation"
-authors:
+authorsJa:
+  - "伊藤 泉"
+  - "貴家 仁志"
+authorsEn:
   - "Izumi ITO"
   - "Hitoshi KIYA"
 date: "2009-03-01"

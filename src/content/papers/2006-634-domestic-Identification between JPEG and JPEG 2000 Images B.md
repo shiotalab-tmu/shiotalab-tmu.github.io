@@ -1,7 +1,12 @@
 ---
 titleJa: "変換係数の正負符号を用いたJPEGとJPEG 2000符号化画像間の画像同定法"
 titleEn: "Identification between JPEG and JPEG 2000 Images Based on the Signs of Transformed Coefficients"
-authors:
+authorsJa:
+  - "飯塚 郁絵"
+  - "フィトリ アルニア"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Ikue IIZUKA"
   - "Fitri Arnia"
   - "Masaaki FUJIYOSHI"

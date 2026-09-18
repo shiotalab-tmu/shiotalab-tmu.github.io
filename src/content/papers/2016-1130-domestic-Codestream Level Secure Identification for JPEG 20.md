@@ -1,7 +1,10 @@
 ---
 titleJa: "コードストリームレベルにおけるJPEG 2000画像のセキュアな同定法"
 titleEn: "Codestream Level Secure Identification for JPEG 2000 Images"
-authors:
+authorsJa:
+  - "飯田 健太"
+  - "貴家 仁志"
+authorsEn:
   - "Kenta IIDA"
   - "Hitoshi KIYA"
 date: "2016-05-19"

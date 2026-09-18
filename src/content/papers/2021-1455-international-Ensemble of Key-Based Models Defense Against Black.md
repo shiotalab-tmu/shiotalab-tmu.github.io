@@ -1,6 +1,9 @@
 ---
 titleEn: "Ensemble of Key-Based Models: Defense Against Black-Box Adversarial Attacks"
-authors:
+authorsJa:
+  - "エイプリルピョンマウンマウン"
+  - "貴家 仁志"
+authorsEn:
   - "April Pyone MAUNG MAUNG"
   - "Hitoshi KIYA"
 date: "2021-10-14"

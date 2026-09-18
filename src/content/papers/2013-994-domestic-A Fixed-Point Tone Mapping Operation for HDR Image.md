@@ -1,7 +1,12 @@
 ---
 titleJa: "浮動小数点表現されたHDR画像のための固定小数点トーンマッピング処理"
 titleEn: "A Fixed-Point Tone Mapping Operation for HDR Images Expressd in Floating-Point Data"
-authors:
+authorsJa:
+  - "土橋 俊之"
+  - "室伏 辰耶"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Toshiyuki DOBASHI"
   - "Tatsuya MUROFUSHI"
   - "Masahiro IWAHASHI"

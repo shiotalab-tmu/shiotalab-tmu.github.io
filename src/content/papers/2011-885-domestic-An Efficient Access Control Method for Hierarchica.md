@@ -1,7 +1,11 @@
 ---
 titleJa: "階層性を有するマルチメディアコンテンツのための効率的アクセス制御方式"
 titleEn: "An Efficient Access Control Method for Hierarchical Multimedia Content"
-authors:
+authorsJa:
+  - "今泉 祥子"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Shoko IMAIZUMI"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

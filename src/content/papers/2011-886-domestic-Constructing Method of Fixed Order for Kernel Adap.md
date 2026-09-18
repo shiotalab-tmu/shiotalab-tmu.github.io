@@ -1,7 +1,11 @@
 ---
 titleJa: "次数固定での更新を可能とするカーネル適応アルゴリズムの構成法"
 titleEn: "Constructing Method of Fixed Order for Kernel Adaptive Algorithms"
-authors:
+authorsJa:
+  - "牧﨑 幸司"
+  - "野田 祐一"
+  - "西川 清史"
+authorsEn:
   - "Koji MAKIZAKI"
   - "Yuichi NODA"
   - "Kiyoshi NISHIKAWA"

@@ -1,7 +1,10 @@
 ---
 titleJa: "DCT領域での相関計算法と白色化信号の効果"
 titleEn: "Correlation in the DCT Domain and The Effect of Whitened Signals"
-authors:
+authorsJa:
+  - "伊藤 泉"
+  - "貴家 仁志"
+authorsEn:
   - "Izumi ITO"
   - "Hitoshi KIYA"
 date: "2010-11-25"

@@ -1,7 +1,10 @@
 ---
 titleJa: "浮動小数点FFTの精度改善と誤差評価"
 titleEn: "On Improving the Accuracy and Error Analysis in Floating Point FFT Computation"
-authors:
+authorsJa:
+  - "本間 仁志"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi HONMA"
   - "Masahiko SAGAWA"
 date: "1984-04-01"

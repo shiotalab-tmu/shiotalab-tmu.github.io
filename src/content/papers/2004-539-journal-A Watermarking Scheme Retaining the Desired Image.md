@@ -1,7 +1,11 @@
 ---
 titleJa: "種々の統計分布をもつ透かし系列に適用可能な画質保証型電子透かし法"
 titleEn: "A Watermarking Scheme Retaining the Desired Image Quality in Order to Be Applicable to Watermarks with Various Distributions"
-authors:
+authorsJa:
+  - "橘 高志"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Takashi TACHIBANA"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

@@ -1,6 +1,11 @@
 ---
 titleEn: "A fixed-point implementation of tone mapping operation for HDR images expressed in floating-point format"
-authors:
+authorsJa:
+  - "土橋 俊之"
+  - "田代 敦"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Toshiyuki DOBASHI"
   - "Atsushi TASHIRO"
   - "Masahiro IWAHASHI"

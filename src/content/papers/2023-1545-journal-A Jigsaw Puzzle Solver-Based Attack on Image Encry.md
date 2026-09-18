@@ -1,6 +1,9 @@
 ---
 titleEn: "A Jigsaw Puzzle Solver-Based Attack on Image Encryption Using Vision Transformer for Privacy-Preserving DNNs"
-authors:
+authorsJa:
+  - "中満 達也"
+  - "貴家 仁志"
+authorsEn:
   - "Tatsuya CHUMAN"
   - "Hitoshi KIYA"
 date: "2023-05-29"

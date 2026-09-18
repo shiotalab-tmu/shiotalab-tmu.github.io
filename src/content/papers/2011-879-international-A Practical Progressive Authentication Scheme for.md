@@ -1,6 +1,10 @@
 ---
 titleEn: "A Practical Progressive Authentication Scheme for JPEG 2000 Codestreams"
-authors:
+authorsJa:
+  - "パラシオスペレス マリエレーナ"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Marielena PALACIOS PEREZ"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

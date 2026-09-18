@@ -1,7 +1,13 @@
 ---
 titleJa: "JPEG/モーションJPEG画像のための知覚暗号化とその効率的鍵管理法"
 titleEn: "A method of perceptual encryption and its efficient key management for JPEG / Motion JPEG images"
-authors:
+authorsJa:
+  - "栗原 健太"
+  - "斉藤 裕子"
+  - "今泉 祥子"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Kenta KURIHARA"
   - "Yuko SAITO"
   - "Shoko IMAIZUMI"

@@ -1,7 +1,11 @@
 ---
 titleJa: "多重モルフォロジーに基づく画像改ざん検出"
 titleEn: "Image Tamper Detection Based on Multiple Mathematical Morphology Operations"
-authors:
+authorsJa:
+  - "万 頃涛"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Qing Tao WAN"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

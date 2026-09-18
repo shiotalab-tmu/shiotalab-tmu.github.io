@@ -1,6 +1,11 @@
 ---
 titleEn: "Privacy-Preserving Support Vector Machine Computing Using Random Unitary Transformation"
-authors:
+authorsJa:
+  - "前川 貴大"
+  - "河村 綾菜"
+  - "仲地 孝之"
+  - "貴家 仁志"
+authorsEn:
   - "Takahiro Maekawa"
   - "Ayana KAWAMURA"
   - "Takayuki NAKACHI"

@@ -1,6 +1,10 @@
 ---
 titleEn: "A Noise-aware Enhancement Method for Underexposed Images"
-authors:
+authorsJa:
+  - "簡 健丞"
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "CHIENCHENG CHIEN"
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"

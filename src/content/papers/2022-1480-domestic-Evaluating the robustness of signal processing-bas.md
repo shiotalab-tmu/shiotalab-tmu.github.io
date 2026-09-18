@@ -1,7 +1,12 @@
 ---
 titleJa: "パラメータ最適化を用いた信号処理による仮名化手法の復号攻撃に対するロバスト性評価"
 titleEn: "Evaluating the robustness of signal processing-based pseudonymization method using parameter optimization against decryption attack"
-authors:
+authorsJa:
+  - "甲斐 優人"
+  - "高道 慎之介"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroto KAI"
   - "Shinnosuke Takamichi"
   - "Sayaka SHIOTA"

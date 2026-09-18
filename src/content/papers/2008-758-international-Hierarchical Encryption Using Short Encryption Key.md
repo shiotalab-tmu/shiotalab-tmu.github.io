@@ -1,6 +1,11 @@
 ---
 titleEn: "Hierarchical Encryption Using Short Encryption Keys for Scalable Access Control of JPEG 2000 Coded Images"
-authors:
+authorsJa:
+  - "橋本 典明"
+  - "今泉 祥子"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Noriaki HASHIMOTO"
   - "Shoko IMAIZUMI"
   - "Masaaki FUJIYOSHI"

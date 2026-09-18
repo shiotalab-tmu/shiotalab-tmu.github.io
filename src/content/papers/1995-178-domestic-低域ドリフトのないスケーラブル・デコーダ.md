@@ -1,6 +1,10 @@
 ---
 titleJa: "低域ドリフトのないスケーラブル・デコーダ"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "神林 紀嘉"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Noriyoshi KAMBAYASHI"
   - "Hitoshi KIYA"

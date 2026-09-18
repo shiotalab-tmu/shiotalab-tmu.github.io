@@ -1,6 +1,9 @@
 ---
 titleEn: "StyleGAN Encoder-Based Attack for Block Scrambled Face Images"
-authors:
+authorsJa:
+  - "エイプリルピョンマウンマウン"
+  - "貴家 仁志"
+authorsEn:
   - "April Pyone MAUNG MAUNG"
   - "Hitoshi KIYA"
 date: "2022-11-09"

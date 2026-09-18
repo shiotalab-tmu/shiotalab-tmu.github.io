@@ -1,6 +1,10 @@
 ---
 titleEn: "Reduction of Lifting Steps of Non Separable 2D Quadruple Lifting DWT Compatible with Separable 2D DWT"
-authors:
+authorsJa:
+  - "ポームリチグン スヴィット"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Suvit POOMRITTIGUL"
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"

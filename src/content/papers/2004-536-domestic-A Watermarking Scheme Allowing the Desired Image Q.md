@@ -1,7 +1,12 @@
 ---
 titleJa: "非直交変換を用いた画質保証型電子透かし法"
 titleEn: "A Watermarking Scheme Allowing the Desired Image Quality Using an Unorthogonal Transformation"
-authors:
+authorsJa:
+  - "河西 元彦"
+  - "渡邊 修"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Motohiko KASAI"
   - "Osamu WATANABE"
   - "Masaaki FUJIYOSHI"

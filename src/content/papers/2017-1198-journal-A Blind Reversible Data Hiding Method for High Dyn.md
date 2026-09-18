@@ -1,6 +1,9 @@
 ---
 titleEn: "A Blind Reversible Data Hiding Method for High Dynamic Range Images Taking Advantage of Sparse Histogram,” Proc. International Workshop on Digital-Forensics and Watermarking"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"
 date: "2017-07-26"

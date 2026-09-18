@@ -1,6 +1,9 @@
 ---
 titleEn: "Conditions for Avoiding the Checkerboard Distortion in Continuous-Time Domain"
-authors:
+authorsJa:
+  - "村上 雅治"
+  - "貴家 仁志"
+authorsEn:
   - "Masaharu MURAKAMI"
   - "Hitoshi KIYA"
 date: "2001-12-01"

@@ -1,7 +1,12 @@
 ---
 titleJa: "拡張されたRTPを用いたJPEG 2000符号化画像の画質監視"
 titleEn: "Image Authentication of JPEG 2000 Coded Images Using Extended RTP Protocol"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "長藁 真一"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Shin'ichi NAGAWARA"
   - "Kiyoshi NISHIKAWA"

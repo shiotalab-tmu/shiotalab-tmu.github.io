@@ -1,6 +1,10 @@
 ---
 titleEn: "A Unified Tone Mapping Operation for HDR Images Expressed in Integer Data"
-authors:
+authorsJa:
+  - "土橋 俊之"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Toshiyuki DOBASHI"
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"

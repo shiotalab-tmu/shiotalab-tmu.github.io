@@ -1,6 +1,10 @@
 ---
 titleEn: "Sparse modeling on distributed encryption data"
-authors:
+authorsJa:
+  - "坂東 幸浩"
+  - "仲地 孝之"
+  - "貴家 仁志"
+authorsEn:
   - "Yukihiro Bandoh"
   - "Takayuki NAKACHI"
   - "Hitoshi KIYA"

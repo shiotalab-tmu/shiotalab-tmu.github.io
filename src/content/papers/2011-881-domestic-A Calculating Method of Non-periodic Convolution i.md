@@ -1,7 +1,10 @@
 ---
 titleJa: "DCT領域における非周期畳み込み計算法"
 titleEn: "A Calculating Method of Non-periodic Convolution in the DCT Domain"
-authors:
+authorsJa:
+  - "伊藤 泉"
+  - "貴家 仁志"
+authorsEn:
   - "Izumi ITO"
   - "Hitoshi KIYA"
 date: "2011-01-20"

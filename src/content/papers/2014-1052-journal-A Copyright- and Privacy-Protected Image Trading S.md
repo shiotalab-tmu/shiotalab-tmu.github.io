@@ -1,6 +1,11 @@
 ---
 titleEn: "A Copyright- and Privacy-Protected Image Trading System Using Fingerprinting in Discrete Wavelet Domain with JPEG 2000"
-authors:
+authorsJa:
+  - "セタン ワンニダー"
+  - "劉 審川"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Wannida SAE-TANG"
   - "Shen Chuan LIU"
   - "Masaaki FUJIYOSHI"

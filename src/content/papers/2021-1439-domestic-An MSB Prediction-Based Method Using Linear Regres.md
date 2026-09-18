@@ -1,7 +1,12 @@
 ---
 titleJa: "線形回帰を用いた暗号化画像に対するMSB予測型可逆情報埋込み法 "
 titleEn: "An MSB Prediction-Based Method Using Linear Regression for Reversible Data Hiding in Encrypted Images"
-authors:
+authorsJa:
+  - "山村 昴太郎"
+  - "平澤 凌一"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Kotaro YAMAMURA"
   - "Ryoichi HIRASAWA"
   - "Shoko IMAIZUMI"

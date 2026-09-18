@@ -1,7 +1,11 @@
 ---
 titleJa: "話者照合のための声道長摂動に基づく疑似話者生成によるデータ拡張"
 titleEn: "Vocal tract length perturbation-based pseudo-speaker augmentation for automatic speaker verification"
-authors:
+authorsJa:
+  - "若松 智花"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Tomoka WAKAMATSU"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

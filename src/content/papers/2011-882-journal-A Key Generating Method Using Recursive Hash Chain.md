@@ -1,7 +1,11 @@
 ---
 titleJa: "再帰型ハッシュ連鎖を用いた暗号鍵生成方式と多次元階層的アクセス制御への適用"
 titleEn: "A Key Generating Method Using Recursive Hash Chains and Its Applications for Multi-Dimensionally Hierarchical Access Control"
-authors:
+authorsJa:
+  - "今泉 祥子"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Shoko IMAIZUMI"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

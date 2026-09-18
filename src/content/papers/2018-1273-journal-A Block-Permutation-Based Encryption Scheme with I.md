@@ -1,6 +1,9 @@
 ---
 titleEn: "A Block-Permutation-Based Encryption Scheme with Independent Processing of RGB Components"
-authors:
+authorsJa:
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"
 date: "2018-12-01"

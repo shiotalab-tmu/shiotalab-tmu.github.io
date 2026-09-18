@@ -1,6 +1,12 @@
 ---
 titleEn: "A Secure Online Image Trading System for Untrusted Cloud Environments"
-authors:
+authorsJa:
+  - "ハイルル ムナディ"
+  - "バシルディン モハマドシャリャディ"
+  - "フィトリ アルニア"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Khairul Munadi"
   - "Mohammad Syaryadhi BASYIRUDDIN"
   - "Fitri Arnia"

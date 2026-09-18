@@ -1,7 +1,12 @@
 ---
 titleJa: "次元削減を考慮した暗号化領域でのSVM学習法"
 titleEn: "SVM Computing Comsidering Dimension Redution in the Encrypted Domain"
-authors:
+authorsJa:
+  - "河村 綾菜"
+  - "前川 貴大"
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Ayana KAWAMURA"
   - "Takahiro Maekawa"
   - "Yuma KINOSHITA"

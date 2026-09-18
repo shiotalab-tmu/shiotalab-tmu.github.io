@@ -1,7 +1,11 @@
 ---
 titleJa: "柔軟な予測値選択可能な暗号化画像に対するMSB予測型可逆情報埋込み法 "
 titleEn: "An MSB Prediction-Based Method with Less Prediction Errors for Reversible Data Hiding in Encrypted Images "
-authors:
+authorsJa:
+  - "山村 昴太郎"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Kotaro YAMAMURA"
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"

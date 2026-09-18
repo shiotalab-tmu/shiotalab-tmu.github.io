@@ -1,7 +1,12 @@
 ---
 titleJa: "複数の画像同定法を用いた同定画像のクラス分類"
 titleEn: "Classifying Identified Images Using Several Image Identification Methods"
-authors:
+authorsJa:
+  - "内田 輝"
+  - "岡田 将平"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Akira UCHIDA"
   - "Syohei OKADA"
   - "Kiyoshi NISHIKAWA"

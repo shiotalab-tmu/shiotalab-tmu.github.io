@@ -1,7 +1,12 @@
 ---
 titleJa: "可逆情報埋込法のための統計量算出領域の検討"
 titleEn: "On Area to Compute Statitstic for the Reversible Data Hiding Scheme"
-authors:
+authorsJa:
+  - "佐藤 修治"
+  - "金 弘林"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Shuji SATO"
   - "Hong Lin JIN"
   - "Masaaki FUJIYOSHI"

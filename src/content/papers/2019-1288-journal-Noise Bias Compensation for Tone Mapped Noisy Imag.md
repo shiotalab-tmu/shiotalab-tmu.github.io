@@ -1,6 +1,12 @@
 ---
 titleEn: "Noise Bias Compensation for Tone Mapped Noisy Image Using Prior Knowledge"
-authors:
+authorsJa:
+  - "峯脇 さやか"
+  - "吉田 太一"
+  - "武井 由智"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Sayaka MINEWAKI"
   - "Taichi YOSHIDA"
   - "Yoshinori TAKEI"

@@ -1,6 +1,12 @@
 ---
 titleEn: "Improved Iris Matching Technique Using Reduced Sized of Ordinal Measure of DCT Coefficients"
-authors:
+authorsJa:
+  - "フィトリ アルニア"
+  - "ハイルル ムナディ"
+  - "ロスリダー"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Fitri Arnia"
   - "Khairul Munadi"
   - "Roslidar"

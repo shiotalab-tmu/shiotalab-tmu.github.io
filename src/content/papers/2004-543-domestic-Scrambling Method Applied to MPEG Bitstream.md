@@ -1,7 +1,10 @@
 ---
 titleJa: "MPEG画像のビットストリーム型スクランブル手法"
 titleEn: "Scrambling Method Applied to MPEG Bitstream"
-authors:
+authorsJa:
+  - "高木 亜有子"
+  - "貴家 仁志"
+authorsEn:
   - "Ayuko TAKAGI"
   - "Hitoshi KIYA"
 date: "2004-03-22"

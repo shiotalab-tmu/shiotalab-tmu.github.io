@@ -1,7 +1,11 @@
 ---
 titleJa: "N-ホワイトバランス：複数の照明光環境下での色補正を可能とするホワイトバランス補正法"
 titleEn: "N-white balancing: white balance adjustment for adjusting multi-illuminant scenes"
-authors:
+authorsJa:
+  - "赤澤 輝昭"
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Teruaki AKAZAWA"
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"

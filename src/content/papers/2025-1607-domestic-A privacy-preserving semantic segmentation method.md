@@ -1,7 +1,12 @@
 ---
 titleJa: "クラウドサーバーでモデル学習を可能とするプライバシー保護セマンティックセグメンテーション法"
 titleEn: "A privacy-preserving semantic segmentation method that enables model training on cloud servers"
-authors:
+authorsJa:
+  - "末吉 保稀"
+  - "堀尾虹輝"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Homare SUEYOSHI"
   - "Koki HORIO"
   - "Kiyoshi NISHIKAWA"

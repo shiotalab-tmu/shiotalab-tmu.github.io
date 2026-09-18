@@ -1,7 +1,10 @@
 ---
 titleJa: "Motion-JPEG2000符号化画像のための低メモリトランジション法"
 titleEn: "A Low-Memory Transition Method for Motion-JPEG2000 Images"
-authors:
+authorsJa:
+  - "渡邊 修"
+  - "貴家 仁志"
+authorsEn:
   - "Osamu WATANABE"
   - "Hitoshi KIYA"
 date: "2003-11-20"

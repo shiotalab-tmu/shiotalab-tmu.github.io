@@ -1,6 +1,10 @@
 ---
 titleEn: "Subband Adaptive Filters Using FFT-Based Filter Bank"
-authors:
+authorsJa:
+  - "金城 繁徳"
+  - "貴家 仁志"
+  - "尾知 博"
+authorsEn:
   - "Shigenori KINJO"
   - "Hitoshi KIYA"
   - "Hiroshi OCHI"

@@ -1,6 +1,9 @@
 ---
 titleEn: "PRIVACY-PRESERVING PATTERN RECOGNITION WITH IMAGE COMPRESSION"
-authors:
+authorsJa:
+  - "仲地 孝之"
+  - "貴家 仁志"
+authorsEn:
   - "Takayuki NAKACHI"
   - "Hitoshi KIYA"
 date: "2020-03-21"

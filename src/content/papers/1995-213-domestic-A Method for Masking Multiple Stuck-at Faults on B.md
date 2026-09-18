@@ -1,7 +1,12 @@
 ---
 titleJa: "ADRによるバス上の多重縮退故障のマスク"
 titleEn: "A Method for Masking Multiple Stuck-at Faults on Bus by ADR"
-authors:
+authorsJa:
+  - "吉田 たけお"
+  - "大谷 知行"
+  - "三浦 幸也"
+  - "貴家 仁志"
+authorsEn:
   - "Takeo YOSHIDA"
   - "Tomoyuki OHTANI"
   - "Yukiya MIURA"

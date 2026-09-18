@@ -1,6 +1,9 @@
 ---
 titleJa: "Investigating Feature Characteristics of Pseudo-Speaker Data for Speaker Verification"
-authors:
+authorsJa:
+  - "鄒　恒毅"
+  - "塩田 さやか"
+authorsEn:
   - "Hengyi ZOU"
   - "Sayaka SHIOTA"
 date: "2025-09-12"

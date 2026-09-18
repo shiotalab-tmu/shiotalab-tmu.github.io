@@ -1,7 +1,11 @@
 ---
 titleJa: "幾何補正を用いた電子透かし法の耐性向上とその評価"
 titleEn: "Resistance Improvement of Image Watermarking by Geometric Compensation and Its Evaluation"
-authors:
+authorsJa:
+  - "上村 翔平"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Shouhei KAMIMURA"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

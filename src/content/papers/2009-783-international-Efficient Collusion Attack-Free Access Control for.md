@@ -1,6 +1,10 @@
 ---
 titleEn: "Efficient Collusion Attack-Free Access Control for Multidimensionally Hierarchical Scalability Content"
-authors:
+authorsJa:
+  - "今泉 祥子"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Shoko IMAIZUMI"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

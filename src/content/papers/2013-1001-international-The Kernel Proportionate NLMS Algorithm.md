@@ -1,6 +1,9 @@
 ---
 titleEn: "The Kernel Proportionate NLMS Algorithm"
-authors:
+authorsJa:
+  - "アルブ フェリックス"
+  - "西川 清史"
+authorsEn:
   - "Felix ALBU"
   - "Kiyoshi NISHIKAWA"
 date: "2013-09-10"

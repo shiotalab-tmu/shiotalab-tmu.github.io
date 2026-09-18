@@ -1,6 +1,9 @@
 ---
 titleEn: "Fast Implementation Technique for Improving Throughput of RLS Adaptive Filters"
-authors:
+authorsJa:
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"
 date: "2000-06-01"

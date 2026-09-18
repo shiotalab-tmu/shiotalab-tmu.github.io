@@ -1,7 +1,11 @@
 ---
 titleJa: "制限ランダム置換行列を用いたVision Transformerのためのプライバシー保護強化法"
 titleEn: "A method for enhancing privacy-preserving Vision Transformer using restricted random permutation matrices"
-authors:
+authorsJa:
+  - "堀尾虹輝"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Koki HORIO"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

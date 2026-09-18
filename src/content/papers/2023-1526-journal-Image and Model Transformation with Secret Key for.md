@@ -1,6 +1,11 @@
 ---
 titleEn: "Image and Model Transformation with Secret Key for Vision Transformer"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "飯島 諒太"
+  - "エイプリルピョンマウンマウン"
+  - "木下 裕磨"
+authorsEn:
   - "Hitoshi KIYA"
   - "Ryota IIJIMA"
   - "April Pyone MAUNG MAUNG"

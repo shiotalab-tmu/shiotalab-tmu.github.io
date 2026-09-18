@@ -1,6 +1,10 @@
 ---
 titleEn: "Deep Retinex Network for Estimating Illumination Colors with Self-Supervised Learning"
-authors:
+authorsJa:
+  - "瀬尾 光希"
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Kouki SEO"
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"

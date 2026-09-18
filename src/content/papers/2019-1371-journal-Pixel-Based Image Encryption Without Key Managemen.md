@@ -1,6 +1,10 @@
 ---
 titleEn: "Pixel-Based Image Encryption Without Key Management for Privacy-Preserving Deep Neural Networks"
-authors:
+authorsJa:
+  - "ワリット　シリチョットダムロン"
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Warit SIRICHOTEDUMRONG"
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"

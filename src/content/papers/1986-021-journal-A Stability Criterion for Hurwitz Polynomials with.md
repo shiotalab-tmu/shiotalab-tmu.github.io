@@ -1,7 +1,11 @@
 ---
 titleJa: "係数変動に対するフルビッツ多項式の安定限界"
 titleEn: "A Stability Criterion for Hurwitz Polynomials with Perturbed Coefficients"
-authors:
+authorsJa:
+  - "本間 仁志"
+  - "森 幸男"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi HONMA"
   - "Yukio MORI"
   - "Masahiko SAGAWA"

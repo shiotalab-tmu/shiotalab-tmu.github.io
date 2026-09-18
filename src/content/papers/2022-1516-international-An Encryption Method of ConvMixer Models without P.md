@@ -1,6 +1,9 @@
 ---
 titleEn: "An Encryption Method of ConvMixer Models without Performance Degradation"
-authors:
+authorsJa:
+  - "飯島 諒太"
+  - "貴家 仁志"
+authorsEn:
   - "Ryota IIJIMA"
   - "Hitoshi KIYA"
 date: "2022-09-10"

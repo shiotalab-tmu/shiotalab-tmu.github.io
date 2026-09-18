@@ -1,6 +1,10 @@
 ---
 titleEn: "No Reference Affine Compensation Using Three 2-D Barcodes"
-authors:
+authorsJa:
+  - "清水 雅史"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Masashi SHIMIZU"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

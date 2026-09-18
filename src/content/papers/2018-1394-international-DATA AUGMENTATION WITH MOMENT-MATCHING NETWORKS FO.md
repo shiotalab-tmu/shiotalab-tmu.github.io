@@ -1,6 +1,10 @@
 ---
 titleEn: "DATA AUGMENTATION WITH MOMENT-MATCHING NETWORKS FOR I-VECTOR BASED SPEAKER VERIFICATION"
-authors:
+authorsJa:
+  - "塩田 さやか"
+  - "高道 慎之介"
+  - "松井 知子"
+authorsEn:
   - "Sayaka SHIOTA"
   - "Shinnosuke Takamichi"
   - "Tomoko MATSUI"

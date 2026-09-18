@@ -1,6 +1,11 @@
 ---
 titleEn: "A Remapping Operation without Tone Mapping Parameters for HDR Images"
-authors:
+authorsJa:
+  - "木下 裕磨"
+  - "塩田 さやか"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Yuma KINOSHITA"
   - "Sayaka SHIOTA"
   - "Masahiro IWAHASHI"

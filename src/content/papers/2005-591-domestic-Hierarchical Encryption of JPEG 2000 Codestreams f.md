@@ -1,7 +1,12 @@
 ---
 titleJa: "JPEG2000の階層性を保持する拡張されたアクセス制限型暗号化法"
 titleEn: "Hierarchical Encryption of JPEG 2000 Codestreams for Extended Access Controllable Protection"
-authors:
+authorsJa:
+  - "渡邊 修"
+  - "今泉 祥子"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Osamu WATANABE"
   - "Shoko IMAIZUMI"
   - "Masaaki FUJIYOSHI"

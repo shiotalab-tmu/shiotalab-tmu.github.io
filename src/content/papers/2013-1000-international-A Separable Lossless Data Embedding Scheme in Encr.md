@@ -1,6 +1,8 @@
 ---
 titleEn: "A Separable Lossless Data Embedding Scheme in Encrypted Images Considering Hierarchical Privilege"
-authors:
+authorsJa:
+  - "藤吉 正明"
+authorsEn:
   - "Masaaki FUJIYOSHI"
 date: "2013-09-10"
 type: "international"

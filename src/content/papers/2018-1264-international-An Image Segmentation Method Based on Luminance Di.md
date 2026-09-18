@@ -1,6 +1,9 @@
 ---
 titleEn: "An Image Segmentation Method Based on Luminance Distribution and Its Application to Image Enhancement"
-authors:
+authorsJa:
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"
 date: "2018-11-13"

@@ -1,7 +1,10 @@
 ---
 titleJa: "コードブロックに基づくMotionJPEG2000画像の効果的なクロスフェード法"
 titleEn: " An Efficient Code-Block Based Method for Cross-Fading MotionJPEG2000 Images"
-authors:
+authorsJa:
+  - "渡邊 修"
+  - "貴家 仁志"
+authorsEn:
   - "Osamu WATANABE"
   - "Hitoshi KIYA"
 date: "2003-04-28"

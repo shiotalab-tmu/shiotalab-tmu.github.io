@@ -1,6 +1,10 @@
 ---
 titleEn: "A Method for Embedding Binary Data into JPEG2000 Bit Streams Based on the Layer Structure"
-authors:
+authorsJa:
+  - "安藤 勝俊"
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Katsutoshi ANDO"
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"

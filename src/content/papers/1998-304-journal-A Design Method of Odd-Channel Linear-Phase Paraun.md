@@ -1,6 +1,9 @@
 ---
 titleEn: "A Design Method of Odd-Channel Linear-Phase Paraunitary Filter Banks with a Lattice Structure"
-authors:
+authorsJa:
+  - "村松 正吾"
+  - "貴家 仁志"
+authorsEn:
   - "Shogo MURAMATSU"
   - "Hitoshi KIYA"
 date: "1998-05-01"

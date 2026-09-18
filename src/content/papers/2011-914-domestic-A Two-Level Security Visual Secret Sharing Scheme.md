@@ -1,7 +1,11 @@
 ---
 titleJa: "情報漏れを抑制した2段階セキュリティを有する視覚秘密分散法"
 titleEn: "A Two-Level Security Visual Secret Sharing Scheme with Leakage Reduction"
-authors:
+authorsJa:
+  - "劉 審川"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Shen Chuan LIU"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

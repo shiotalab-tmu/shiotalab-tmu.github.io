@@ -1,6 +1,12 @@
 ---
 titleEn: "Improvement of Children's Logical Thinking by a Digital Pen System Environment"
-authors:
+authorsJa:
+  - "松波 紀幸"
+  - "三浦 信也"
+  - "友田 早紀"
+  - "永井 正洋"
+  - "貴家 仁志"
+authorsEn:
   - "Noriyuki MATSUNAMI"
   - "Shinya MIURA"
   - "Saki TOMODA"

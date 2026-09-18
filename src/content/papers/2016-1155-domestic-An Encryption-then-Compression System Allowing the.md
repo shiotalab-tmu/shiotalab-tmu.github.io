@@ -1,7 +1,11 @@
 ---
 titleJa: "任意の色差補間法の使用を可能とするJPEG画像のためのEncryption-then-Compressionシステム"
 titleEn: "An Encryption-then-Compression System Allowing the Use of Arbitrary Chroma Interpolation Methods for JPEG Compression"
-authors:
+authorsJa:
+  - "栗原 健太"
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Kenta KURIHARA"
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"

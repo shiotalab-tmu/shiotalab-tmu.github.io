@@ -1,7 +1,11 @@
 ---
 titleJa: "DFTに基づく超解像法の実演算処理"
 titleEn: "Algorithm for the DFT-based Super-resolution Method using"
-authors:
+authorsJa:
+  - "鄒 暁霞"
+  - "坂根 尚"
+  - "貴家 仁志"
+authorsEn:
   - "XiaoXia ZOU"
   - "Hisashi SAKANE"
   - "Hitoshi KIYA"

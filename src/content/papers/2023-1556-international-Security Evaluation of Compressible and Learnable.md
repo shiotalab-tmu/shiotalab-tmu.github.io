@@ -1,6 +1,10 @@
 ---
 titleEn: "Security Evaluation of Compressible and Learnable Image Encryption Against Jigsaw Puzzle Solver Attacks "
-authors:
+authorsJa:
+  - "中満 達也"
+  - "小野 順貴"
+  - "貴家 仁志"
+authorsEn:
   - "Tatsuya CHUMAN"
   - "Nobutaka ONO"
   - "Hitoshi KIYA"

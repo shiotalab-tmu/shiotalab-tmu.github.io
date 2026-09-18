@@ -1,6 +1,11 @@
 ---
 titleEn: "A Fixed-Point Global Tone Mapping Operation for HDR Images in the RGBE Format"
-authors:
+authorsJa:
+  - "土橋 俊之"
+  - "室伏 辰耶"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Toshiyuki DOBASHI"
   - "Tatsuya MUROFUSHI"
   - "Masahiro IWAHASHI"

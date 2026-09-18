@@ -1,6 +1,11 @@
 ---
 titleEn: "Quantization-Based Image Steganography without Data Hiding Position Memorization"
-authors:
+authorsJa:
+  - "関 裕介"
+  - "小林 弘幸"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Yusuke SEKI"
   - "Hiroyuki KOBAYASHI"
   - "Masaaki FUJIYOSHI"

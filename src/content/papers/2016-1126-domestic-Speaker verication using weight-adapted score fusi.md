@@ -1,7 +1,11 @@
 ---
 titleJa: "残響環境下における話者照合のための 逐次適応を用いたスコア統合重みの推定"
 titleEn: "Speaker verication using weight-adapted score fusion in noisy reverberant environments"
-authors:
+authorsJa:
+  - "中西 亮介"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Ryosuke NAKANISHI"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

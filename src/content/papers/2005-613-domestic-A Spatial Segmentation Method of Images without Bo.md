@@ -1,7 +1,11 @@
 ---
 titleJa: "領域分割歪みを伴わない画像の領域分割とリフティングDWT法"
 titleEn: "A Spatial Segmentation Method of Images without Boundary Distortion for Lifting DWT"
-authors:
+authorsJa:
+  - "吉田 邦明"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Kuniaki YOSHIDA"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

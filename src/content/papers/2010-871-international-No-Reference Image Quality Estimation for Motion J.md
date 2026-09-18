@@ -1,6 +1,9 @@
 ---
 titleEn: "No-Reference Image Quality Estimation for Motion JPEG 2000 Enabling Precise Estimation of PSNR Values"
-authors:
+authorsJa:
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"
 date: "2010-12-15"

@@ -1,6 +1,9 @@
 ---
 titleEn: "Fake-image detection with Robust Hashing"
-authors:
+authorsJa:
+  - "田中 美貴"
+  - "貴家 仁志"
+authorsEn:
   - "Miki TANAKA"
   - "Hitoshi KIYA"
 date: "2021-03-09"

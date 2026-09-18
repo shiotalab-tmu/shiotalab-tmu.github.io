@@ -1,7 +1,10 @@
 ---
 titleJa: "DCT領域での画像解像度変換法の評価とその一般化処理"
 titleEn: "The Image Resolution Conversions in DCT-domain and Their Generalizations"
-authors:
+authorsJa:
+  - "鄒 暁霞"
+  - "貴家 仁志"
+authorsEn:
   - "XiaoXia ZOU"
   - "Hitoshi KIYA"
 date: "1997-03-01"

@@ -1,7 +1,13 @@
 ---
 titleJa: "アプリケーション要求に適したパケットレベルLDGM符号の構成と性能評価"
 titleEn: "Construction of Packet-Level LDGM Codes for Video Applications and Its Evaluation"
-authors:
+authorsJa:
+  - "外村 喜秀"
+  - "白井 大介"
+  - "仲地 孝之"
+  - "藤井 竜也"
+  - "貴家 仁志"
+authorsEn:
   - "Yoshihide TONOMURA"
   - "Daisuke SHIRAI"
   - "Takayuki NAKACHI"

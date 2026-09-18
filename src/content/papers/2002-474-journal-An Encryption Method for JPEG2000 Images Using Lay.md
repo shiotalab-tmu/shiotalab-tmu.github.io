@@ -1,7 +1,10 @@
 ---
 titleJa: "レイヤ構造を利用したJPEG2000符号化画像の暗号化法"
 titleEn: "An Encryption Method for JPEG2000 Images Using Layer Function"
-authors:
+authorsJa:
+  - "安藤 勝俊"
+  - "貴家 仁志"
+authorsEn:
   - "Katsutoshi ANDO"
   - "Hitoshi KIYA"
 date: "2002-10-01"

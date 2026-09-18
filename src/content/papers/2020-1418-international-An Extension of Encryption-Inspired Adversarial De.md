@@ -1,6 +1,9 @@
 ---
 titleEn: "An Extension of Encryption-Inspired Adversarial Defense with Secret Keys against Adversarial Examples"
-authors:
+authorsJa:
+  - "エイプリルピョンマウンマウン"
+  - "貴家 仁志"
+authorsEn:
   - "April Pyone MAUNG MAUNG"
   - "Hitoshi KIYA"
 date: "2020-12-07"

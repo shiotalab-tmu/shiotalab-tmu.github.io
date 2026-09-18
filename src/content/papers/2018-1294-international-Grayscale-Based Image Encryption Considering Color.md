@@ -1,6 +1,10 @@
 ---
 titleEn: "Grayscale-Based Image Encryption Considering Color Sub-sampling Operation for Encryption-then-Compression Systems"
-authors:
+authorsJa:
+  - "ワリット　シリチョットダムロン"
+  - "中満 達也"
+  - "貴家 仁志"
+authorsEn:
   - "Warit SIRICHOTEDUMRONG"
   - "Tatsuya CHUMAN"
   - "Hitoshi KIYA"

@@ -1,7 +1,12 @@
 ---
 titleJa: "距離に基づく音源分離を用いたシングルチャンネル環境音分類"
 titleEn: "Single-channel Environmental Sound Classification Using Distance-Based Sound Separation"
-authors:
+authorsJa:
+  - "小倉 稜也"
+  - "井本 桂右"
+  - "貴家 仁志"
+  - "塩田 さやか"
+authorsEn:
   - "Ryoya OGURA"
   - "Keisuke IMOTO"
   - "Hitoshi KIYA"

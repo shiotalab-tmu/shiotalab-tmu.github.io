@@ -1,6 +1,10 @@
 ---
 titleEn: "Partial-Scrambling of Still Images Based on JPEG2000"
-authors:
+authorsJa:
+  - "安藤 勝俊"
+  - "渡邊 修"
+  - "貴家 仁志"
+authorsEn:
   - "Katsutoshi ANDO"
   - "Osamu WATANABE"
   - "Hitoshi KIYA"

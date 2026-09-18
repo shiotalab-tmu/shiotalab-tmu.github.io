@@ -1,6 +1,9 @@
 ---
 titleEn: "A New Factorization Technique for the Generalized Linear-Phase LOT and Its Fast Implementation"
-authors:
+authorsJa:
+  - "村松 正吾"
+  - "貴家 仁志"
+authorsEn:
   - "Shogo MURAMATSU"
   - "Hitoshi KIYA"
 date: "1996-08-01"

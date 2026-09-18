@@ -1,6 +1,11 @@
 ---
 titleEn: "Error Protection for JPEG2000-Coded Images and Its Evaluation over OFDM Channel"
-authors:
+authorsJa:
+  - "ハイルル ムナディ"
+  - "黒崎 正行"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Khairul Munadi"
   - "Masayuki KUROSAKI"
   - "Kiyoshi NISHIKAWA"

@@ -1,6 +1,10 @@
 ---
 titleEn: "An Encryption-then-Compression System for JPEG XR Standard"
-authors:
+authorsJa:
+  - "栗原 健太"
+  - "渡邊 修"
+  - "貴家 仁志"
+authorsEn:
   - "Kenta KURIHARA"
   - "Osamu WATANABE"
   - "Hitoshi KIYA"

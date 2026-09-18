@@ -1,7 +1,10 @@
 ---
 titleJa: "画像特徴量としてのDCT正負符号とその評価"
 titleEn: "Signs of DCT Coefficients as Feature Index of Images and Its Evaluation "
-authors:
+authorsJa:
+  - "伊藤 泉"
+  - "貴家 仁志"
+authorsEn:
   - "Izumi ITO"
   - "Hitoshi KIYA"
 date: "2007-06-21"

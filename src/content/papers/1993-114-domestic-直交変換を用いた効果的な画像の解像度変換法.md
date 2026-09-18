@@ -1,6 +1,10 @@
 ---
 titleJa: "直交変換を用いた効果的な画像の解像度変換法"
-authors:
+authorsJa:
+  - "村松 正吾"
+  - "貴家 仁志"
+  - "佐川 雅彦"
+authorsEn:
   - "Shogo MURAMATSU"
   - "Hitoshi KIYA"
   - "Masahiko SAGAWA"

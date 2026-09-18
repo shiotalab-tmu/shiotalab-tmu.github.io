@@ -1,7 +1,12 @@
 ---
 titleJa: "ディープラーニングを用いたJPEG 2000コードストリームレベルでの類似画像検索法"
 titleEn: "Image retrieval in JPEG 2000 codestream domain by a deep learning approach "
-authors:
+authorsJa:
+  - "菅原 佑介"
+  - "渡邊 修"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Yusuke Sugawara"
   - "Osamu WATANABE"
   - "Sayaka SHIOTA"

@@ -1,7 +1,11 @@
 ---
 titleJa: "有理数間引き可能なフィルタバンクを用いたサブバンド適応フィルタ"
 titleEn: "A subband adaptive digital filter using filter bank with rational decimation ratio"
-authors:
+authorsJa:
+  - "芦原 浩司"
+  - "山崎 広達"
+  - "貴家 仁志"
+authorsEn:
   - "Kouji ASHIHARA"
   - "Hirotatsu YAMAZAKI"
   - "Hitoshi KIYA"

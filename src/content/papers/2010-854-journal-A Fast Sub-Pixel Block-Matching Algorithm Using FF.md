@@ -1,7 +1,11 @@
 ---
 titleJa: "FFT全探索ブロックマッチングに基づくサブピクセル精度高速ブロックマッチング法"
 titleEn: "A Fast Sub-Pixel Block-Matching Algorithm Using FFT-Based Full-Search Block-Matching"
-authors:
+authorsJa:
+  - "植村 淳志"
+  - "李 禎"
+  - "貴家 仁志"
+authorsEn:
   - "Atsushi UEMURA"
   - "Zhen LI"
   - "Hitoshi KIYA"

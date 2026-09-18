@@ -1,6 +1,11 @@
 ---
 titleEn: "Integrated Model of Image Protection Techniques"
-authors:
+authorsJa:
+  - "アヌ アーヤル"
+  - "今泉 祥子"
+  - "堀内 隆彦"
+  - "貴家 仁志"
+authorsEn:
   - "Anu Aryal"
   - "Shoko IMAIZUMI"
   - "Takahiko HORIUCHI"

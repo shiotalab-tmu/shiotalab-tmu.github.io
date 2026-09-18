@@ -1,7 +1,10 @@
 ---
 titleJa: "画像修復技術を用いたステレオ画像の生成"
 titleEn: "Generation of Stereo Images Using Image Inpainting Technique"
-authors:
+authorsJa:
+  - "岡田 祐樹"
+  - "貴家 仁志"
+authorsEn:
   - "Yuuki OKADA"
   - "Hitoshi KIYA"
 date: "2011-02-19"

@@ -1,7 +1,11 @@
 ---
 titleJa: "短鍵を用いたJPEG 2000符号化画像の効果的暗号化法"
 titleEn: "Effective Encryption Using Short Key for JPEG 2000 Codestreams"
-authors:
+authorsJa:
+  - "今泉 祥子"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Shoko IMAIZUMI"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

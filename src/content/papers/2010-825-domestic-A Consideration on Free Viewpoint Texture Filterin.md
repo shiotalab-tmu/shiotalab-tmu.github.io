@@ -1,7 +1,10 @@
 ---
 titleJa: "JPEG 2000の解像度スケーラビリティを利用した自由視点テクスチャフィルタリング法の一検討"
 titleEn: "A Consideration on Free Viewpoint Texture Filtering Using JPEG 2000 Spatial Scalability"
-authors:
+authorsJa:
+  - "小林 悠紀"
+  - "貴家 仁志"
+authorsEn:
   - "Yuki KOBAYASHI"
   - "Hitoshi KIYA"
 date: "2010-02-15"

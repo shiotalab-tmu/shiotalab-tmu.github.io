@@ -1,7 +1,11 @@
 ---
 titleJa: "レート変換を伴う適応システム同定の最適適応フィルタ係数"
 titleEn: "Optimum ADF Coefficients of Adaptive System Identification with Clock Rate Conversion"
-authors:
+authorsJa:
+  - "小野 芳浩"
+  - "山田 洋士"
+  - "貴家 仁志"
+authorsEn:
   - "Yoshihiro ONO"
   - "Youji YAMADA"
   - "Hitoshi KIYA"

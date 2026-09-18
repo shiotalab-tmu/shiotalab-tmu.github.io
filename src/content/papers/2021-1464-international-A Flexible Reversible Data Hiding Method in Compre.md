@@ -1,6 +1,10 @@
 ---
 titleEn: "A Flexible Reversible Data Hiding Method in Compressible Encrypted Images"
-authors:
+authorsJa:
+  - "本村 遼太"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Ryota MOTOMURA"
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"

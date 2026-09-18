@@ -1,7 +1,11 @@
 ---
 titleJa: "JPEG2000符号化画像のためのトレース変換を用いたロバストな画像検索法"
 titleEn: "A robust image retrieval method using the trace transform for JPEG 2000 Images"
-authors:
+authorsJa:
+  - "下山 真史"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Masafumi SHIMOYAMA"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

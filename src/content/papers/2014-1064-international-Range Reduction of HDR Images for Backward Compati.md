@@ -1,6 +1,10 @@
 ---
 titleEn: "Range Reduction of HDR Images for Backward Compatibility with LDR Image Processing"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "吉田 太一"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Taichi YOSHIDA"
   - "Hitoshi KIYA"

@@ -1,7 +1,11 @@
 ---
 titleJa: "画像の視覚情報保護を考慮した機械学習のための線形次元削減法の評価"
 titleEn: "Evaluation of linear dimensionality reduction methods considering visual information protection for privacy-preserving machine learning"
-authors:
+authorsJa:
+  - "北山　昌希"
+  - "小野 順貴"
+  - "貴家 仁志"
+authorsEn:
   - "Masaki KITAYAMA"
   - "Nobutaka ONO"
   - "Hitoshi KIYA"

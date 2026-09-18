@@ -1,7 +1,11 @@
 ---
 titleJa: "JPEG画像のEncryption-then-Compressionシステムに基づくソーシャルネットワーキングサービスにおけるプライバシー保護"
 titleEn: "Privacy Protection in Social Networking Services based on an Encryption-then-Compression System for the JPEG Standard"
-authors:
+authorsJa:
+  - "前川 貴大"
+  - "栗原 健太"
+  - "貴家 仁志"
+authorsEn:
   - "Takahiro Maekawa"
   - "Kenta KURIHARA"
   - "Hitoshi KIYA"

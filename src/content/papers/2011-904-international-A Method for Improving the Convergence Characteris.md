@@ -1,6 +1,10 @@
 ---
 titleEn: "A Method for Improving the Convergence Characteristics of the Kernel LMS Algorithm Based on the Repeating Method"
-authors:
+authorsJa:
+  - "西川 清史"
+  - "小川 芳樹"
+  - "牧﨑 幸司"
+authorsEn:
   - "Kiyoshi NISHIKAWA"
   - "Yoshiki OGAWA"
   - "Koji MAKIZAKI"

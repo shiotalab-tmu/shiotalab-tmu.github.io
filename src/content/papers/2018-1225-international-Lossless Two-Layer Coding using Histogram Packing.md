@@ -1,6 +1,10 @@
 ---
 titleEn: "Lossless Two-Layer Coding using Histogram Packing Technique for HDR Images"
-authors:
+authorsJa:
+  - "渡邊 修"
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Osamu WATANABE"
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"

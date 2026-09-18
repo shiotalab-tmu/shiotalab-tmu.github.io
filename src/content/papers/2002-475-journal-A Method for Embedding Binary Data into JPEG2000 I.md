@@ -1,7 +1,11 @@
 ---
 titleJa: "レイヤ構造を利用したJPEG2000符号化画像へのバイナリーデータ埋込み法"
 titleEn: "A Method for Embedding Binary Data into JPEG2000 Images Using Layer Function"
-authors:
+authorsJa:
+  - "安藤 勝俊"
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Katsutoshi ANDO"
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"

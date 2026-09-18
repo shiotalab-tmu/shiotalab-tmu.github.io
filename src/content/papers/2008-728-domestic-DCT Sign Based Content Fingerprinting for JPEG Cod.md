@@ -1,7 +1,10 @@
 ---
 titleJa: "DCT正負符号に基づくJPEG符号化画像のためのCoFIP"
 titleEn: "DCT Sign Based Content Fingerprinting for JPEG Coded Images"
-authors:
+authorsJa:
+  - "伊藤 泉"
+  - "貴家 仁志"
+authorsEn:
   - "Izumi ITO"
   - "Hitoshi KIYA"
 date: "2008-03-21"

@@ -1,7 +1,11 @@
 ---
 titleJa: "SVMを用いたEtC画像の画像分類における情報埋込みの影響"
 titleEn: "Influence of Data Hiding in Etc-Image Classification with SVM "
-authors:
+authorsJa:
+  - "阿部 晃佑"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Kosuke ABE"
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"

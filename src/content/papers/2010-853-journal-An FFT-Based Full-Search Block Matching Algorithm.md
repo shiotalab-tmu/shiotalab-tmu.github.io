@@ -1,6 +1,10 @@
 ---
 titleEn: "An FFT-Based Full-Search Block Matching Algorithm with Sum of Squared Differences Criterion"
-authors:
+authorsJa:
+  - "李 禎"
+  - "植村 淳志"
+  - "貴家 仁志"
+authorsEn:
   - "Zhen LI"
   - "Atsushi UEMURA"
   - "Hitoshi KIYA"

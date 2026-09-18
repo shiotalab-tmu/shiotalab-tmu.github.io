@@ -1,6 +1,10 @@
 ---
 titleEn: "Multidimensional Multirate Filter and Filter Bank without Checkerboard Effect"
-authors:
+authorsJa:
+  - "原田 康裕"
+  - "村松 正吾"
+  - "貴家 仁志"
+authorsEn:
   - "Yasuhiro HARADA"
   - "Shogo MURAMATSU"
   - "Hitoshi KIYA"

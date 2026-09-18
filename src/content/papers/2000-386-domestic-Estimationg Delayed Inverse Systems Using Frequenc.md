@@ -1,7 +1,11 @@
 ---
 titleJa: "周波数領域適応アルゴリズムを用いた近似逆システムの一推定法"
 titleEn: "Estimationg Delayed Inverse Systems Using Frequency Domain Adaptive Algorithm"
-authors:
+authorsJa:
+  - "山田 洋士"
+  - "貴家 仁志"
+  - "神林 紀嘉"
+authorsEn:
   - "Youji YAMADA"
   - "Hitoshi KIYA"
   - "Noriyoshi KAMBAYASHI"

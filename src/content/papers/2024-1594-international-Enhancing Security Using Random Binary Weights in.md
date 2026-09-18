@@ -1,6 +1,10 @@
 ---
 titleEn: "Enhancing Security Using Random Binary Weights in Privacy-Preserving Federated Learning"
-authors:
+authorsJa:
+  - "澤田寛人"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroto SAWADA"
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"

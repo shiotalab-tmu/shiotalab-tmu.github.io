@@ -1,7 +1,11 @@
 ---
 titleJa: "敵対的事例の検出器を用いた画像分類システムの防御性能の向上"
 titleEn: "Enhancing robustness of image classification system with Adversarial Example Detector "
-authors:
+authorsJa:
+  - "長我部　恭行"
+  - "エイプリルピョンマウンマウン"
+  - "貴家 仁志"
+authorsEn:
   - "Takayuki OSAKABE"
   - "April Pyone MAUNG MAUNG"
   - "Hitoshi KIYA"

@@ -1,7 +1,11 @@
 ---
 titleJa: "補助関数法に基づく相互相関関数最大化による相似変換画像の位置合わせ"
 titleEn: "Alignment of Similarity-Transformed Images via Cross-Correlation Maximization Based on Auxiliary Function Method"
-authors:
+authorsJa:
+  - "山下　真司"
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Shinji YAMASHITA"
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"

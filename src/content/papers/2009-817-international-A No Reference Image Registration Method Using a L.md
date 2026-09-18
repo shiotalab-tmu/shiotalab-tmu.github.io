@@ -1,6 +1,10 @@
 ---
 titleEn: "A No Reference Image Registration Method Using a LPM-Based Data Hiding Scheme"
-authors:
+authorsJa:
+  - "上村 翔平"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Shouhei KAMIMURA"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

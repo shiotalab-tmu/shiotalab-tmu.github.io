@@ -1,6 +1,10 @@
 ---
 titleEn: "A Geometric Compensation Method for Image Watermarking Schemes and Its Required Accuracy"
-authors:
+authorsJa:
+  - "上村 翔平"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Shouhei KAMIMURA"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

@@ -1,6 +1,9 @@
 ---
 titleEn: "Irreversible Privacy-Preserving Images Holding Spatial Information for HOG Feature Extraction"
-authors:
+authorsJa:
+  - "北山　昌希"
+  - "貴家 仁志"
+authorsEn:
   - "Masaki KITAYAMA"
   - "Hitoshi KIYA"
 date: "2019-12-05"

@@ -1,7 +1,11 @@
 ---
 titleJa: "スパース表現を用いたセキュアな顔認識システム"
 titleEn: "A Secure Face Recognition System Based on Sparse Representation"
-authors:
+authorsJa:
+  - "村木 雄一"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Yuichi MURAKI"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

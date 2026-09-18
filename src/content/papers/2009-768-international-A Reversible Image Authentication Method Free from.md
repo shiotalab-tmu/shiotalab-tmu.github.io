@@ -1,6 +1,10 @@
 ---
 titleEn: "A Reversible Image Authentication Method Free from Location Map and Parameter Memorization"
-authors:
+authorsJa:
+  - "韓 昇祐"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Seungwu HAN"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

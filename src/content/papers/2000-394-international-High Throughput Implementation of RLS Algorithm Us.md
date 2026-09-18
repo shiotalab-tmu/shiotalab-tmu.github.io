@@ -1,6 +1,11 @@
 ---
 titleEn: "High Throughput Implementation of RLS Algorithm Using Fewer Processing Units"
-authors:
+authorsJa:
+  - "仁木 健生"
+  - "山田 力太"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Takeo NIKI"
   - "Rikita YAMADA"
   - "Kiyoshi NISHIKAWA"

@@ -1,6 +1,10 @@
 ---
 titleEn: "Privacy-Preserving Deep Neural Networks Using Pixel-Based Image Encryption Without Common Security Keys"
-authors:
+authorsJa:
+  - "ワリット　シリチョットダムロン"
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Warit SIRICHOTEDUMRONG"
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"

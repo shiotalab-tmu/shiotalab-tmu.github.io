@@ -1,6 +1,11 @@
 ---
 titleEn: "Image Authentication Based on Invertible Data Hiding with Multi-Tiers"
-authors:
+authorsJa:
+  - "韓 昇祐"
+  - "金 弘林"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Seungwu HAN"
   - "Hong Lin JIN"
   - "Masaaki FUJIYOSHI"

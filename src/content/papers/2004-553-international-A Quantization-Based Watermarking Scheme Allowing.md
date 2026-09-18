@@ -1,6 +1,9 @@
 ---
 titleEn: "A Quantization-Based Watermarking Scheme Allowing a Desired Image-Quality Using a DWT"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"
 date: "2004-07-06"

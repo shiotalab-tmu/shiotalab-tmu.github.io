@@ -1,7 +1,11 @@
 ---
 titleJa: "JPEG符号化画像のためのストリームベース高速検索法"
 titleEn: "A Method of Stream Based Fast Image Retrieval for JPEG Coded Images"
-authors:
+authorsJa:
+  - "中野 雄資"
+  - "高木 亜有子"
+  - "貴家 仁志"
+authorsEn:
   - "Yuji NAKANO"
   - "Ayuko TAKAGI"
   - "Hitoshi KIYA"

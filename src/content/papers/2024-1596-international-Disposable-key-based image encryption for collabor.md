@@ -1,6 +1,10 @@
 ---
 titleEn: "Disposable-key-based image encryption for collaborative learning of Vision Transformer"
-authors:
+authorsJa:
+  - "麻生 伶"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Rei ASO"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

@@ -1,7 +1,11 @@
 ---
 titleJa: "JPEG2000のスケーラビリティを用いたHDR画像の効果的符号化"
 titleEn: "Effective encoding of HDR images using the SNR scalability of JPEG2000"
-authors:
+authorsJa:
+  - "鈴木 亮"
+  - "室伏 辰耶"
+  - "貴家 仁志"
+authorsEn:
   - "Ryo SUZUKI"
   - "Tatsuya MUROFUSHI"
   - "Hitoshi KIYA"

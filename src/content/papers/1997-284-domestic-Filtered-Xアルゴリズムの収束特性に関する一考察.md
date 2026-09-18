@@ -1,6 +1,10 @@
 ---
 titleJa: "Filtered-Xアルゴリズムの収束特性に関する一考察"
-authors:
+authorsJa:
+  - "西川 清史"
+  - "福島 廣"
+  - "貴家 仁志"
+authorsEn:
   - "Kiyoshi NISHIKAWA"
   - "Hiroshi FUKUSHIMA"
   - "Hitoshi KIYA"

@@ -1,7 +1,12 @@
 ---
 titleJa: "FFTに基づくマルチレートシステムの構成"
 titleEn: "Structure of multi-rate systems based on the FFT"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "山口 智史"
+  - "西川 清史"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi KIYA"
   - "Satoshi YAMAGUCHI"
   - "Kiyoshi NISHIKAWA"

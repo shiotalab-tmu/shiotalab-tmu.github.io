@@ -1,7 +1,11 @@
 ---
 titleJa: "有理数の間引き率を持つサブバンド適応フィルタ"
 titleEn: "Filter Banks Allowing Rational Decimation Ratios"
-authors:
+authorsJa:
+  - "芦原 浩司"
+  - "山崎 広達"
+  - "貴家 仁志"
+authorsEn:
   - "Kouji ASHIHARA"
   - "Hirotatsu YAMAZAKI"
   - "Hitoshi KIYA"

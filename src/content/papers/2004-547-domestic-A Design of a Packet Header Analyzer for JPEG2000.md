@@ -1,7 +1,11 @@
 ---
 titleJa: "JPEG2000符号列のためのパケットへッダ解析器の設計"
 titleEn: "A Design of a Packet Header Analyzer for JPEG2000 Codestreams"
-authors:
+authorsJa:
+  - "黒崎 正行"
+  - "池田 暁美"
+  - "貴家 仁志"
+authorsEn:
   - "Masayuki KUROSAKI"
   - "Akemi IKEDA"
   - "Hitoshi KIYA"

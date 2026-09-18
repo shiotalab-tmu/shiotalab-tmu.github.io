@@ -1,7 +1,10 @@
 ---
 titleJa: "順序置換と符号置換による可逆KLTの係数特異点の回避"
 titleEn: "Avoidance of Singular Point in Reversible KLT Using Permutation of Signal's Order and Sign"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"
 date: "2010-04-26"

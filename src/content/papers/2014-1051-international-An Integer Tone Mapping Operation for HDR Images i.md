@@ -1,6 +1,11 @@
 ---
 titleEn: "An Integer Tone Mapping Operation for HDR Images in OpenEXR with Denormalized Numbers"
-authors:
+authorsJa:
+  - "室伏 辰耶"
+  - "土橋 俊之"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Tatsuya MUROFUSHI"
   - "Toshiyuki DOBASHI"
   - "Masahiro IWAHASHI"

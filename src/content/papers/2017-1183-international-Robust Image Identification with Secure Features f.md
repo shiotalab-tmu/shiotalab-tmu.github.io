@@ -1,6 +1,9 @@
 ---
 titleEn: "Robust Image Identification with Secure Features for JPEG Images"
-authors:
+authorsJa:
+  - "飯田 健太"
+  - "貴家 仁志"
+authorsEn:
   - "Kenta IIDA"
   - "Hitoshi KIYA"
 date: "2017-09-20"

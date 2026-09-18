@@ -1,7 +1,10 @@
 ---
 titleJa: "MPEG4のための高速フルサーチブロックマッチングアルゴリズム"
 titleEn: "Fast Full Search Block Matching Algorithm for MPEG4"
-authors:
+authorsJa:
+  - "古川 潤"
+  - "貴家 仁志"
+authorsEn:
   - "Jun FURUKAWA"
   - "Hitoshi KIYA"
 date: "1999-02-01"

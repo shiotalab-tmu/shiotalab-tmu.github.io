@@ -1,6 +1,11 @@
 ---
 titleEn: "An Image Tamper Detection Using Mathematical Morphology and Its Application"
-authors:
+authorsJa:
+  - "木原 美怜"
+  - "万 頃涛"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Mirei KIHARA"
   - "Qing Tao WAN"
   - "Masaaki FUJIYOSHI"

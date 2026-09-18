@@ -1,7 +1,11 @@
 ---
 titleJa: "アクセス制御を可能とするブロックスクランブル暗号化法"
 titleEn: "A Block-Permutation-Based Encryption Scheme with Access Control"
-authors:
+authorsJa:
+  - "菊池 敦史"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Tsutoshi KIKUCHI"
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"

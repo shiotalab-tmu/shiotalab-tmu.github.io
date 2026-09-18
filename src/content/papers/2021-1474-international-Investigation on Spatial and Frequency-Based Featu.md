@@ -1,6 +1,12 @@
 ---
 titleEn: "Investigation on Spatial and Frequency-Based Features for Asynchronous Acoustic Scene Analysis"
-authors:
+authorsJa:
+  - "城間 佑樹"
+  - "井本 桂右"
+  - "塩田 さやか"
+  - "小野 順貴"
+  - "貴家 仁志"
+authorsEn:
   - "Yuki Shiroma"
   - "Keisuke IMOTO"
   - "Sayaka SHIOTA"

@@ -1,7 +1,11 @@
 ---
 titleJa: "画像のサブバンド符号化のための周期入力生成法"
 titleEn: "Periodic Sequence for Subband Image Coding"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "八重 光男"
+  - "岩橋 政宏"
+authorsEn:
   - "Hitoshi KIYA"
   - "Mitsuo YAE"
   - "Masahiro IWAHASHI"

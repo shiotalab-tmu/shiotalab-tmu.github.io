@@ -1,7 +1,11 @@
 ---
 titleJa: "なりすまし音声検出システムに対する音声合成攻撃手法の検討"
 titleEn: " A study of speech synthesis attack methods against spoofed speech detection systems."
-authors:
+authorsJa:
+  - "古林 嵯羽仁"
+  - "高道 慎之介"
+  - "塩田 さやか"
+authorsEn:
   - "Sawato Furubayashi"
   - "Shinnosuke Takamichi"
   - "Sayaka SHIOTA"

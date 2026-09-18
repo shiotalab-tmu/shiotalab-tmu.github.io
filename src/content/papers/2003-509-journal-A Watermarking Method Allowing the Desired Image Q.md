@@ -1,7 +1,12 @@
 ---
 titleJa: "2値透かし系列のための画質保証型電子透かし法"
 titleEn: "A Watermarking Method Allowing the Desired Image Quality for Binary Sequences"
-authors:
+authorsJa:
+  - "松井 勝之"
+  - "橘 高志"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Katsuyuki MATSUI"
   - "Takashi TACHIBANA"
   - "Masaaki FUJIYOSHI"

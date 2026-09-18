@@ -1,7 +1,13 @@
 ---
 titleJa: "色相保存を考慮したトーンマッピング法"
 titleEn: "A hue-preserving tone mapping scheme"
-authors:
+authorsJa:
+  - "瀬尾 光希"
+  - "アーティット ビサワキットチャロエン"
+  - "木下 裕磨"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Kouki SEO"
   - "Artit VISAVAKITCHAROEN"
   - "Yuma KINOSHITA"
