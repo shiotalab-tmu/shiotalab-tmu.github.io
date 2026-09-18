@@ -17,5 +17,6 @@ authorsEn:
   - "Keiichi IWAMURA"
 date: "2012-02-01"
 type: "domestic"
-venue: "IEICE Symposium on Cryptography and Information Security, pp. 3F2-4, 石川県金沢市, 2012-02-01."
+venueJa: "電子情報通信学会 暗号と情報セキュリティシンポジウム, pp. 3F2-4, 石川県金沢市, 2012-02-01."
+venueEn: "IEICE Symposium on Cryptography and Information Security, pp. 3F2-4, 石川県金沢市, 2012-02-01."
 ---

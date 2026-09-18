@@ -7,5 +7,6 @@ authorsEn:
   - "Hiroyuki KOBAYASHI"
 date: "1995-06-01"
 type: "domestic"
-venue: "Technical Report of IEICE, pp. DSP95-46, 1995-06-01."
+venueJa: "電子情報通信学会 ディジタル信号処理研究会, pp. DSP95-46, 1995-06-01."
+venueEn: "Technical Report of IEICE, pp. DSP95-46, 1995-06-01."
 ---

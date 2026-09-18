@@ -9,7 +9,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1994-08-01"
 type: "journal"
-venue: "IEICE Trans., Vol. J77-A, No. 8, pp. 1046-1055, 1994-08-01."
+venueJa: "電子情報通信学会 論文誌, Vol. J77-A, No. 8, pp. 1046-1055, 1994-08-01."
+venueEn: "IEICE Trans., Vol. J77-A, No. 8, pp. 1046-1055, 1994-08-01."
 url: "http://search.ieice.org/bin/summary.php?id=j77-a_8_1046&category=A&year=1994&lang=E&abst=j"
 webpage: "http://search.ieice.org/bin/summary.php?id=j77-a_8_1046&category=A&year=1994&lang=E&abst=j"
 ---

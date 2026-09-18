@@ -11,5 +11,6 @@ authorsEn:
   - "Masahiko SAGAWA"
 date: "1986-05-01"
 type: "domestic"
-venue: "Technical Report of IECE, pp. CAS86-8, 1986-05-01."
+venueJa: "電子通信学会 回路とシステム研究会, pp. CAS86-8, 1986-05-01."
+venueEn: "Technical Report of IECE, pp. CAS86-8, 1986-05-01."
 ---

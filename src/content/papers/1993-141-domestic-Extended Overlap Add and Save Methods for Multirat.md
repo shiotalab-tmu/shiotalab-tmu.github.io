@@ -8,5 +8,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1993-10-01"
 type: "domestic"
-venue: "IEICE Digital Signal Processing Symposium, pp. J3.3, 1993-10-01."
+venueJa: "電子情報通信学会 ディジタル信号処理シンポジウム, pp. J3.3, 1993-10-01."
+venueEn: "IEICE Digital Signal Processing Symposium, pp. J3.3, 1993-10-01."
 ---

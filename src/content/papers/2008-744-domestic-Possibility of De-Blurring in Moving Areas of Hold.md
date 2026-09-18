@@ -9,5 +9,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2008-07-24"
 type: "domestic"
-venue: "ITE Technical Report, Vol. 32, No. 31, pp. IDY2008-72, 港区, 2008-07-24."
+venueJa: "映像情報メディア学会 情報ディスプレイ研究会, Vol. 32, No. 31, pp. IDY2008-72, 港区, 2008-07-24."
+venueEn: "ITE Technical Report, Vol. 32, No. 31, pp. IDY2008-72, 港区, 2008-07-24."
 ---

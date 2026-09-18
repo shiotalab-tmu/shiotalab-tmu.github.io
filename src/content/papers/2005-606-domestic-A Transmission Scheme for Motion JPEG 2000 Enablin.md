@@ -11,5 +11,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2005-08-30"
 type: "domestic"
-venue: "ITE Technical Report, Vol. 29, No. 47, pp. 125, 北海道, 2005-08-30."
+venueJa: "映像情報メディア学会 メディア工学研究会, Vol. 29, No. 47, pp. 125, 北海道, 2005-08-30."
+venueEn: "ITE Technical Report, Vol. 29, No. 47, pp. 125, 北海道, 2005-08-30."
 ---

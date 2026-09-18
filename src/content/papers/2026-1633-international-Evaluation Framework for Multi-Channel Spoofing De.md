@@ -10,5 +10,6 @@ authorsEn:
   - "Naohiro TAWARA"
 date: "2026-06-09"
 type: "international"
-venue: "IFIP Information Security & Privacy Conference, Perth, Australia, 2026-06-09."
+venueJa: "IFIP Information Security & Privacy Conference, Perth, Australia, 2026-06-09."
+venueEn: "IFIP Information Security & Privacy Conference, Perth, Australia, 2026-06-09."
 ---

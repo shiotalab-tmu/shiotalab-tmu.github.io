@@ -8,5 +8,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2016-01-07"
 type: "international"
-venue: "International Workshop on Advanced Image Technology, Vol. 3C, No. 5, Busan, Korea, 2016-01-07."
+venueJa: "International Workshop on Advanced Image Technology, Vol. 3C, No. 5, Busan, Korea, 2016-01-07."
+venueEn: "International Workshop on Advanced Image Technology, Vol. 3C, No. 5, Busan, Korea, 2016-01-07."
 ---

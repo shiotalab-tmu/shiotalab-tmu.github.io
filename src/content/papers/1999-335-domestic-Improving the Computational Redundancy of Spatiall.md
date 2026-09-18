@@ -14,5 +14,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1999-02-01"
 type: "domestic"
-venue: "Technical Report of IEICE, pp. EID98-150, 1999-02-01."
+venueJa: "電子情報通信学会 画像工学研究会, pp. EID98-150, 1999-02-01."
+venueEn: "Technical Report of IEICE, pp. EID98-150, 1999-02-01."
 ---

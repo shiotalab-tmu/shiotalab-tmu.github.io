@@ -8,5 +8,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2004-11-24"
 type: "international"
-venue: "IEEE Region 10 Conference, pp. 1135, Chiang Mai, Thailand, 2004-11-24."
+venueJa: "IEEE Region 10 Conference, pp. 1135, Chiang Mai, Thailand, 2004-11-24."
+venueEn: "IEEE Region 10 Conference, pp. 1135, Chiang Mai, Thailand, 2004-11-24."
 ---

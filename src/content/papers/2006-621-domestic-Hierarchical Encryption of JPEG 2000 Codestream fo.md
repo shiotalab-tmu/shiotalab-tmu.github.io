@@ -13,5 +13,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2006-01-20"
 type: "domestic"
-venue: "IEICE Symposium on Cryptography and Information Security, pp. 4F1-5, 広島市南区, 2006-01-20."
+venueJa: "電子情報通信学会 暗号と情報セキュリティシンポジウム, pp. 4F1-5, 広島市南区, 2006-01-20."
+venueEn: "IEICE Symposium on Cryptography and Information Security, pp. 4F1-5, 広島市南区, 2006-01-20."
 ---

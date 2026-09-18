@@ -8,5 +8,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-12-01"
 type: "journal"
-venue: "IEICE Trans. Fundamentals, Vol. E101-A, No. 12, pp. 2405-2408, 2018-12-01."
+venueJa: "IEICE Trans. Fundamentals, Vol. E101-A, No. 12, pp. 2405-2408, 2018-12-01."
+venueEn: "IEICE Trans. Fundamentals, Vol. E101-A, No. 12, pp. 2405-2408, 2018-12-01."
 ---

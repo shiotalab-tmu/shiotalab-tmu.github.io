@@ -12,5 +12,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2003-05-26"
 type: "international"
-venue: "IEEE International Symposium on Circuits and Systems, Vol. II, pp. 432-435, Bangkok, Thailand, 2003-05-26."
+venueJa: "IEEE International Symposium on Circuits and Systems, Vol. II, pp. 432-435, Bangkok, Thailand, 2003-05-26."
+venueEn: "IEEE International Symposium on Circuits and Systems, Vol. II, pp. 432-435, Bangkok, Thailand, 2003-05-26."
 ---

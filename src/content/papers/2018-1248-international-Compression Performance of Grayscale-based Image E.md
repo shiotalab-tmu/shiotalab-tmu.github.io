@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-07-06"
 type: "international"
-venue: "International Technical Conference on Circuits/Systems, Computers and Communications, Bangkok, Thailand, 2018-07-06."
+venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, Bangkok, Thailand, 2018-07-06."
+venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, Bangkok, Thailand, 2018-07-06."
 ---

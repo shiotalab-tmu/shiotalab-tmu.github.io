@@ -10,5 +10,6 @@ authorsEn:
   - "Noriyoshi KAMBAYASHI"
 date: "1980-10-01"
 type: "domestic"
-venue: "IECE Shin'etsu Branch Conference, pp. 62, 1980-10-01."
+venueJa: "電子通信学会 信越支部大会, pp. 62, 1980-10-01."
+venueEn: "IECE Shin'etsu Branch Conference, pp. 62, 1980-10-01."
 ---

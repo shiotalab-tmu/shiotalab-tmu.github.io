@@ -11,7 +11,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2017-08-30"
 type: "domestic"
-venue: "Speech Committee, Vol. 117, No. 189, pp. 29-32, 京都市左京区, 2017-08-30."
+venueJa: "電子情報通信学会 音声研究会, Vol. 117, No. 189, pp. 29-32, 京都市左京区, 2017-08-30."
+venueEn: "Speech Committee, Vol. 117, No. 189, pp. 29-32, 京都市左京区, 2017-08-30."
 url: "http://www.ieice.org/ken/paper/20170830TbwF/eng/"
 webpage: "http://www.ieice.org/ken/paper/20170830TbwF/eng/"
 ---

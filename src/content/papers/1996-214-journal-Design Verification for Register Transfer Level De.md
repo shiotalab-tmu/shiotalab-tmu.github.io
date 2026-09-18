@@ -11,7 +11,8 @@ authorsEn:
   - "Sachio NAITO"
 date: "1996-01-01"
 type: "journal"
-venue: "IEICE Trans., Vol. J79-D, No. 1, pp. 28-40, 1996-01-01."
+venueJa: "電子情報通信学会 論文誌, Vol. J79-D, No. 1, pp. 28-40, 1996-01-01."
+venueEn: "IEICE Trans., Vol. J79-D, No. 1, pp. 28-40, 1996-01-01."
 url: "http://search.ieice.org/bin/summary.php?id=j79-d1_1_28&category=D&year=1996&lang=E&abst=j"
 webpage: "http://search.ieice.org/bin/summary.php?id=j79-d1_1_28&category=D&year=1996&lang=E&abst=j"
 ---

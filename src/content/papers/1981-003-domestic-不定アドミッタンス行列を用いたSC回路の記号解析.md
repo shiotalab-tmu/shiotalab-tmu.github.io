@@ -10,5 +10,6 @@ authorsEn:
   - "Masahiko SAGAWA"
 date: "1981-08-01"
 type: "domestic"
-venue: "Technical Report of IECE, pp. CAS81-45, 1981-08-01."
+venueJa: "電子通信学会 回路とシステム研究会, pp. CAS81-45, 1981-08-01."
+venueEn: "Technical Report of IECE, pp. CAS81-45, 1981-08-01."
 ---

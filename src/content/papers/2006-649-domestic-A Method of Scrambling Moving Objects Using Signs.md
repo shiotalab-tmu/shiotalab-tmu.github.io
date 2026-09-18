@@ -11,5 +11,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2006-09-20"
 type: "domestic"
-venue: "Society Conference of IEICE, pp. A-4-9, 石川県金沢市, 2006-09-20."
+venueJa: "電子情報通信学会 ソサイエティ大会, pp. A-4-9, 石川県金沢市, 2006-09-20."
+venueEn: "Society Conference of IEICE, pp. A-4-9, 石川県金沢市, 2006-09-20."
 ---

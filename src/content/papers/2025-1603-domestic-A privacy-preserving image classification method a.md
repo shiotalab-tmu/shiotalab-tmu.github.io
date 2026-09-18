@@ -11,7 +11,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2025-03-05"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. 124, No. 414, pp. EMM2024-118, 沖縄県青年会館, 2025-03-05."
+venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, Vol. 124, No. 414, pp. EMM2024-118, 沖縄県青年会館, 2025-03-05."
+venueEn: "Technical Report of IEICE, Vol. 124, No. 414, pp. EMM2024-118, 沖縄県青年会館, 2025-03-05."
 url: "https://ken.ieice.org/ken/paper/20250305scIQ/"
 webpage: "https://ken.ieice.org/ken/paper/20250305scIQ/"
 ---

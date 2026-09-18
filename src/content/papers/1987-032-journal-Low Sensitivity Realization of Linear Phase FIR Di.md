@@ -11,7 +11,8 @@ authorsEn:
   - "Masahiko SAGAWA"
 date: "1987-05-01"
 type: "journal"
-venue: "IEICE Trans., Vol. J70-A, No. 5, pp. 766-774, 1987-05-01."
+venueJa: "電子情報通信学会 論文誌, Vol. J70-A, No. 5, pp. 766-774, 1987-05-01."
+venueEn: "IEICE Trans., Vol. J70-A, No. 5, pp. 766-774, 1987-05-01."
 url: "http://search.ieice.org/bin/summary.php?id=j70-a_5_766&category=A&year=1987&lang=E&abst=j"
 webpage: "http://search.ieice.org/bin/summary.php?id=j70-a_5_766&category=A&year=1987&lang=E&abst=j"
 ---

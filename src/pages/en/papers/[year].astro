@@ -3,7 +3,7 @@ import Layout from '../../../layouts/Layout.astro';
 import PageHero from '../../../components/PageHero.astro';
 import PaperLinks from '../../../components/PaperLinks.astro';
 import { getCollection } from 'astro:content';
-import { paperTitle, paperAuthors } from '../../../utils/paperTitle';
+import { paperTitle, paperAuthors, paperVenue } from '../../../utils/paperTitle';
 import { paperYear } from '../../../utils/paperDate';
 
 export async function getStaticPaths() {
@@ -72,7 +72,7 @@ const domestic = yearPapers.filter(p => p.data.type === 'domestic');
                 <li>
                   {paperAuthors(paper.data, 'en').join(', ')},<br/>
                   "{paperTitle(paper.data, 'en')}",<br/>
-                  {paper.data.venue}
+                  {paperVenue(paper.data, 'en')}
                   <PaperLinks paper={paper.data} />
                 </li>
               ))}
@@ -88,7 +88,7 @@ const domestic = yearPapers.filter(p => p.data.type === 'domestic');
                 <li>
                   {paperAuthors(paper.data, 'en').join(', ')},<br/>
                   "{paperTitle(paper.data, 'en')}",<br/>
-                  {paper.data.venue}
+                  {paperVenue(paper.data, 'en')}
                   <PaperLinks paper={paper.data} />
                 </li>
               ))}
@@ -104,7 +104,7 @@ const domestic = yearPapers.filter(p => p.data.type === 'domestic');
                 <li>
                   {paperAuthors(paper.data, 'en').join(', ')},<br/>
                   "{paperTitle(paper.data, 'en')}",<br/>
-                  {paper.data.venue}
+                  {paperVenue(paper.data, 'en')}
                   <PaperLinks paper={paper.data} />
                 </li>
               ))}

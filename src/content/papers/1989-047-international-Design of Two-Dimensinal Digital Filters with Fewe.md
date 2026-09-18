@@ -10,5 +10,6 @@ authorsEn:
   - "Masahiko SAGAWA"
 date: "1989-07-01"
 type: "international"
-venue: "China International Conference on Circuits and Systems, pp. .TP7-1, 1989-07-01."
+venueJa: "China International Conference on Circuits and Systems, pp. .TP7-1, 1989-07-01."
+venueEn: "China International Conference on Circuits and Systems, pp. .TP7-1, 1989-07-01."
 ---

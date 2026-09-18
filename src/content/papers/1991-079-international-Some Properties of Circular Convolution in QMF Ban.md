@@ -10,5 +10,6 @@ authorsEn:
   - "Masahiko SAGAWA"
 date: "1991-10-01"
 type: "international"
-venue: "International Conference on DSP Applications , 1991-10-01."
+venueJa: "International Conference on DSP Applications , 1991-10-01."
+venueEn: "International Conference on DSP Applications , 1991-10-01."
 ---

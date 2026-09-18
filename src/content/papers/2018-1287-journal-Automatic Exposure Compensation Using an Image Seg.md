@@ -8,7 +8,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-12-01"
 type: "journal"
-venue: "APSIPA Trans. Signal and Information Processing, Vol. 7, pp. E22, 2018-12-01."
+venueJa: "APSIPA Trans. Signal and Information Processing, Vol. 7, pp. E22, 2018-12-01."
+venueEn: "APSIPA Trans. Signal and Information Processing, Vol. 7, pp. E22, 2018-12-01."
 url: "https://doi.org/10.1017/ATSIP.2018.26"
 doi: "https://doi.org/10.1017/ATSIP.2018.26"
 ---

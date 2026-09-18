@@ -10,5 +10,6 @@ authorsEn:
   - "Akihiko YAMADA"
 date: "1999-09-01"
 type: "international"
-venue: "European Conference on Circuit Theory and Design, Vol. 1, 1999-09-01."
+venueJa: "European Conference on Circuit Theory and Design, Vol. 1, 1999-09-01."
+venueEn: "European Conference on Circuit Theory and Design, Vol. 1, 1999-09-01."
 ---

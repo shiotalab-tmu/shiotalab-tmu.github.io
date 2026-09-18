@@ -15,7 +15,8 @@ authorsEn:
   - "Noriyoshi KAMBAYASHI"
 date: "1993-06-01"
 type: "journal"
-venue: "IEICE Trans., Vol. J76-A, No. 6, pp. 810-817, 1993-06-01."
+venueJa: "電子情報通信学会 論文誌, Vol. J76-A, No. 6, pp. 810-817, 1993-06-01."
+venueEn: "IEICE Trans., Vol. J76-A, No. 6, pp. 810-817, 1993-06-01."
 url: "http://search.ieice.org/bin/summary.php?id=j76-a_6_810&category=A&year=1993&lang=E&abst=j"
 webpage: "http://search.ieice.org/bin/summary.php?id=j76-a_6_810&category=A&year=1993&lang=E&abst=j"
 ---

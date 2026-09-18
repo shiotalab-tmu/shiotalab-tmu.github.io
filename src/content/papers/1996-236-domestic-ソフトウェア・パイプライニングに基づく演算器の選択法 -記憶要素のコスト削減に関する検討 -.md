@@ -12,5 +12,6 @@ authorsEn:
   - "Akihiko YAMADA"
 date: "1996-08-01"
 type: "domestic"
-venue: "IPSJ Design Automation Symposium, 1996-08-01."
+venueJa: "情報処理学会 DAシンポジウム, 1996-08-01."
+venueEn: "IPSJ Design Automation Symposium, 1996-08-01."
 ---

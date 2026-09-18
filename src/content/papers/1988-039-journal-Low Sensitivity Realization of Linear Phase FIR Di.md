@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi HONMA"
 date: "1988-11-01"
 type: "journal"
-venue: "Electronics and Communications in Japan, Part I, Vol. 71, No. 11, 1988-11-01."
+venueJa: "Electronics and Communications in Japan, Part I, Vol. 71, No. 11, 1988-11-01."
+venueEn: "Electronics and Communications in Japan, Part I, Vol. 71, No. 11, 1988-11-01."
 ---

@@ -12,5 +12,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-04-19"
 type: "international"
-venue: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. 1388-1392, Calgary, Alberta, Canada, 2018-04-19."
+venueJa: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. 1388-1392, Calgary, Alberta, Canada, 2018-04-19."
+venueEn: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. 1388-1392, Calgary, Alberta, Canada, 2018-04-19."
 ---

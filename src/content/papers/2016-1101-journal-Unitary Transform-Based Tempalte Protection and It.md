@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2016-01-02"
 type: "journal"
-venue: "IEICE Trans. Inf. & Sys., Vol. E99-D, No. 1, pp. 60-68, 2016-01-02."
+venueJa: "IEICE Trans. Inf. & Sys., Vol. E99-D, No. 1, pp. 60-68, 2016-01-02."
+venueEn: "IEICE Trans. Inf. & Sys., Vol. E99-D, No. 1, pp. 60-68, 2016-01-02."
 ---

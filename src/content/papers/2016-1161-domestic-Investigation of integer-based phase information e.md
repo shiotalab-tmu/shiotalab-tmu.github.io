@@ -11,5 +11,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2016-12-20"
 type: "domestic"
-venue: "Speech Committee, Vol. 2016-SLP-114, No. 16, pp. 65-70, NTT武蔵野研究開発センタ, 2016-12-20."
+venueJa: "電子情報通信学会 音声研究会, Vol. 2016-SLP-114, No. 16, pp. 65-70, NTT武蔵野研究開発センタ, 2016-12-20."
+venueEn: "Speech Committee, Vol. 2016-SLP-114, No. 16, pp. 65-70, NTT武蔵野研究開発センタ, 2016-12-20."
 ---

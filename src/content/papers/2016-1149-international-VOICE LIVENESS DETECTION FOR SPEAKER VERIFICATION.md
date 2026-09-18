@@ -16,7 +16,8 @@ authorsEn:
   - "Tomoko MATSUI"
 date: "2016-06-22"
 type: "international"
-venue: "The Speaker and Language Recognition Workshop Odyssey, pp. 259-263, Spain, Bilbao, 2016-06-22."
+venueJa: "The Speaker and Language Recognition Workshop Odyssey, pp. 259-263, Spain, Bilbao, 2016-06-22."
+venueEn: "The Speaker and Language Recognition Workshop Odyssey, pp. 259-263, Spain, Bilbao, 2016-06-22."
 url: "http://www.odyssey2016.org/papers/abstracts.html#abs80"
 webpage: "http://www.odyssey2016.org/papers/abstracts.html#abs80"
 ---

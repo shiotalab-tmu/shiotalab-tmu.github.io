@@ -154,13 +154,16 @@ function generateFilename(paper: Paper): string {
 
 /**
  * venueフィールドの文字列を構築
+ * (学会名のみ lang に応じて優先言語を切り替える。巻号・ページ・開催地・日付は言語を切り替えない)
  */
-function buildVenueString(paper: Paper): string {
+function buildVenueString(paper: Paper, lang: 'ja' | 'en'): string {
   const parts: string[] = [];
 
   // ジャーナル/学会名
   if (paper.journal) {
-    const journalName = paper.journal.name.english || paper.journal.name.japanese;
+    const journalName = lang === 'ja'
+      ? (paper.journal.name.japanese || paper.journal.name.english)
+      : (paper.journal.name.english || paper.journal.name.japanese);
     if (journalName) {
       parts.push(journalName);
     }
@@ -229,8 +232,9 @@ function generateMarkdown(paper: Paper): string {
     ? mapPtypeToType(paper.journal.type)
     : 'domestic';
 
-  // venue
-  const venue = cleanString(buildVenueString(paper));
+  // venue (学会名のみ日本語・英語を切り替える。それ以外の部分は共通)
+  const venueJa = cleanString(buildVenueString(paper, 'ja'));
+  const venueEn = cleanString(buildVenueString(paper, 'en'));
 
   // リンク各種(旧サイト準拠: DOI / webpage / Publish / Local)
   const doi = paper.doi ? `https://doi.org/${paper.doi}` : null;
@@ -260,7 +264,8 @@ function generateMarkdown(paper: Paper): string {
     authorsEn,
     date: paper.date,
     type: paperType,
-    venue,
+    venueJa,
+    venueEn,
   });
 
   if (url) {

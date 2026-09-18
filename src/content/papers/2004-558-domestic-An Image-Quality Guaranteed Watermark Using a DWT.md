@@ -11,5 +11,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2004-07-23"
 type: "domestic"
-venue: "ITE Technical Report, pp. ME2004-101, 岩手県岩手郡滝沢村, 2004-07-23."
+venueJa: "映像情報メディア学会 メディア工学研究会, pp. ME2004-101, 岩手県岩手郡滝沢村, 2004-07-23."
+venueEn: "ITE Technical Report, pp. ME2004-101, 岩手県岩手郡滝沢村, 2004-07-23."
 ---

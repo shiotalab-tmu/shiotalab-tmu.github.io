@@ -8,5 +8,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2019-01-01"
 type: "journal"
-venue: "IEICE Trans. Inf. & Sys., Vol. E102-D, No. 1, pp. 2-10, 2019-01-01."
+venueJa: "IEICE Trans. Inf. & Sys., Vol. E102-D, No. 1, pp. 2-10, 2019-01-01."
+venueEn: "IEICE Trans. Inf. & Sys., Vol. E102-D, No. 1, pp. 2-10, 2019-01-01."
 ---

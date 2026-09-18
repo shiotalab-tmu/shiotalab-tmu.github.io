@@ -13,5 +13,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2008-10-07"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. 108, No. 228, pp. SIP2008-121, 岩手県盛岡市, 2008-10-07."
+venueJa: "電子情報通信学会 信号処理研究会, Vol. 108, No. 228, pp. SIP2008-121, 岩手県盛岡市, 2008-10-07."
+venueEn: "Technical Report of IEICE, Vol. 108, No. 228, pp. SIP2008-121, 岩手県盛岡市, 2008-10-07."
 ---

@@ -9,7 +9,8 @@ authorsEn:
   - "Kiyoshi NISHIKAWA"
 date: "2013-12-10"
 type: "domestic"
-venue: "ITE Technical Report, Vol. 37, No. 56, pp. ME2013-128, 福井県あわら市, 2013-12-10."
+venueJa: "映像情報メディア学会 メディア工学研究会, Vol. 37, No. 56, pp. ME2013-128, 福井県あわら市, 2013-12-10."
+venueEn: "ITE Technical Report, Vol. 37, No. 56, pp. ME2013-128, 福井県あわら市, 2013-12-10."
 url: "http://www.ite.or.jp/ken/paper/201312101A3A/eng/"
 webpage: "http://www.ite.or.jp/ken/paper/201312101A3A/eng/"
 ---

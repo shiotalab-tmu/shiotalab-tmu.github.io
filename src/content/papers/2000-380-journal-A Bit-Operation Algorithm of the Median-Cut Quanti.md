@@ -10,7 +10,8 @@ authorsEn:
   - "Youji YAMADA"
 date: "2000-02-20"
 type: "journal"
-venue: "IEICE Trans. Fundamentals, Vol. E83-A, No. 2, 2000-02-20."
+venueJa: "IEICE Trans. Fundamentals, Vol. E83-A, No. 2, 2000-02-20."
+venueEn: "IEICE Trans. Fundamentals, Vol. E83-A, No. 2, 2000-02-20."
 url: "http://search.ieice.org/bin/summary.php?id=e83-a_2_320&category=A&year=2000&lang=E&abst="
 webpage: "http://search.ieice.org/bin/summary.php?id=e83-a_2_320&category=A&year=2000&lang=E&abst="
 ---

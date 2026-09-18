@@ -9,5 +9,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2016-05-19"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. 116, No. 33, pp. IT2016-2, 2016-05-19."
+venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, Vol. 116, No. 33, pp. IT2016-2, 2016-05-19."
+venueEn: "Technical Report of IEICE, Vol. 116, No. 33, pp. IT2016-2, 2016-05-19."
 ---

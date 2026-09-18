@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2008-10-29"
 type: "international"
-venue: "SMPTE Annual Technical Conference and Exhibition, Hollywood, CA, the U.S., 2008-10-29."
+venueJa: "SMPTE Annual Technical Conference and Exhibition, Hollywood, CA, the U.S., 2008-10-29."
+venueEn: "SMPTE Annual Technical Conference and Exhibition, Hollywood, CA, the U.S., 2008-10-29."
 ---

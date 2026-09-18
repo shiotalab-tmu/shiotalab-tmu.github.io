@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2009-01-12"
 type: "international"
-venue: "International Workshop on Advanced Image Technology, Seoul, Korea, 2009-01-12."
+venueJa: "International Workshop on Advanced Image Technology, Seoul, Korea, 2009-01-12."
+venueEn: "International Workshop on Advanced Image Technology, Seoul, Korea, 2009-01-12."
 ---

@@ -8,5 +8,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2015-12-03"
 type: "domestic"
-venue: "2015-12-03."
+venueJa: "2015-12-03."
+venueEn: "2015-12-03."
 ---

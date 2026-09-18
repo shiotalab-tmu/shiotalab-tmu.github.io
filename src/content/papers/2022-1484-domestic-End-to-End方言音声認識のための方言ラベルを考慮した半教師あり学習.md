@@ -12,5 +12,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2022-03-01"
 type: "domestic"
-venue: "Speech Committee, 沖縄, 2022-03-01."
+venueJa: "電子情報通信学会 音声研究会, 沖縄, 2022-03-01."
+venueEn: "Speech Committee, 沖縄, 2022-03-01."
 ---

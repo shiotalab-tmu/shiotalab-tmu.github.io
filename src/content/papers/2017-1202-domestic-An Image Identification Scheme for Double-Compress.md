@@ -11,5 +11,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2017-09-04"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. IEICE-117 , No. 201, pp. 7-12, 2017-09-04."
+venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, Vol. IEICE-117 , No. 201, pp. 7-12, 2017-09-04."
+venueEn: "Technical Report of IEICE, Vol. IEICE-117 , No. 201, pp. 7-12, 2017-09-04."
 ---

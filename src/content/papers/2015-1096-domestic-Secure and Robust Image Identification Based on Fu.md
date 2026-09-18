@@ -11,5 +11,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2015-09-02"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. 115, No. 208, pp. SIS2015-17, 関西大学　千里山キャンパス, 2015-09-02."
+venueJa: "電子情報通信学会 スマートインフォメディアシステム研究会, Vol. 115, No. 208, pp. SIS2015-17, 関西大学　千里山キャンパス, 2015-09-02."
+venueEn: "Technical Report of IEICE, Vol. 115, No. 208, pp. SIS2015-17, 関西大学　千里山キャンパス, 2015-09-02."
 ---

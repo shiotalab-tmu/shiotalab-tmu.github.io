@@ -11,7 +11,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2017-01-31"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. 116, No. 449, pp. EMM2016-82, 東北大学 電気通信研究所, 2017-01-31."
+venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, Vol. 116, No. 449, pp. EMM2016-82, 東北大学 電気通信研究所, 2017-01-31."
+venueEn: "Technical Report of IEICE, Vol. 116, No. 449, pp. EMM2016-82, 東北大学 電気通信研究所, 2017-01-31."
 url: "http://www.ieice.org/ken/paper/20170131hbPz/eng/"
 webpage: "http://www.ieice.org/ken/paper/20170131hbPz/eng/"
 ---

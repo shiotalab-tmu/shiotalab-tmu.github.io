@@ -14,5 +14,6 @@ authorsEn:
   - "Hiroyuki KOBAYASHI"
 date: "2012-01-10"
 type: "international"
-venue: "International Workshop on Advanced Image Technology, pp. F-4, Ho Chi Minh City, Vietnam, 2012-01-10."
+venueJa: "International Workshop on Advanced Image Technology, pp. F-4, Ho Chi Minh City, Vietnam, 2012-01-10."
+venueEn: "International Workshop on Advanced Image Technology, pp. F-4, Ho Chi Minh City, Vietnam, 2012-01-10."
 ---

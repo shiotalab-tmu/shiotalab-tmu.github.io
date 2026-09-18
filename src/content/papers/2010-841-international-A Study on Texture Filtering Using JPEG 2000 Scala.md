@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2010-07-06"
 type: "international"
-venue: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. 0270, Pattaya, Thailand, 2010-07-06."
+venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. 0270, Pattaya, Thailand, 2010-07-06."
+venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. 0270, Pattaya, Thailand, 2010-07-06."
 ---

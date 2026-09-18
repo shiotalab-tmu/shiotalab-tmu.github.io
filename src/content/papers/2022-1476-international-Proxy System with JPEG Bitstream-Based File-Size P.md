@@ -8,7 +8,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2022-01-05"
 type: "international"
-venue: "International Workshop on Advanced Image Technology, pp. 54, Hong Kong, 2022-01-05."
+venueJa: "International Workshop on Advanced Image Technology, pp. 54, Hong Kong, 2022-01-05."
+venueEn: "International Workshop on Advanced Image Technology, pp. 54, Hong Kong, 2022-01-05."
 url: "https://arxiv.org/abs/2201.03469"
 publish: "https://arxiv.org/abs/2201.03469"
 ---

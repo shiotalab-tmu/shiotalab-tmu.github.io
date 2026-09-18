@@ -9,7 +9,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1995-03-01"
 type: "journal"
-venue: "IEICE Trans., Vol. J78-A, No. 3, 1995-03-01."
+venueJa: "電子情報通信学会 論文誌, Vol. J78-A, No. 3, 1995-03-01."
+venueEn: "IEICE Trans., Vol. J78-A, No. 3, 1995-03-01."
 url: "http://search.ieice.org/bin/summary.php?id=j78-a_3_440&category=A&year=1995&lang=E&abst=j"
 webpage: "http://search.ieice.org/bin/summary.php?id=j78-a_3_440&category=A&year=1995&lang=E&abst=j"
 ---

@@ -11,7 +11,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2014-07-10"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. 114, No. 124, pp. SIP2014-43, 札幌市北区, 2014-07-10."
+venueJa: "電子情報通信学会 信号処理研究会, Vol. 114, No. 124, pp. SIP2014-43, 札幌市北区, 2014-07-10."
+venueEn: "Technical Report of IEICE, Vol. 114, No. 124, pp. SIP2014-43, 札幌市北区, 2014-07-10."
 url: "http://www.ieice.org/ken/paper/20140710EBPr/eng/"
 webpage: "http://www.ieice.org/ken/paper/20140710EBPr/eng/"
 ---

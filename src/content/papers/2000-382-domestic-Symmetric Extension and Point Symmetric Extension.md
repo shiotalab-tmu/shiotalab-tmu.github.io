@@ -9,5 +9,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2000-03-01"
 type: "domestic"
-venue: "Technical Report of IEICE, 仙台, 2000-03-01."
+venueJa: "電子情報通信学会 ディジタル信号処理研究会, 仙台, 2000-03-01."
+venueEn: "Technical Report of IEICE, 仙台, 2000-03-01."
 ---

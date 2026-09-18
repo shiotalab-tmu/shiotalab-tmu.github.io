@@ -8,5 +8,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1994-01-01"
 type: "journal"
-venue: "Memoirs of Faculty of Engineering, Tokyo Metropolitan University, 1994-01-01."
+venueJa: "Memoirs of Faculty of Engineering, Tokyo Metropolitan University, 1994-01-01."
+venueEn: "Memoirs of Faculty of Engineering, Tokyo Metropolitan University, 1994-01-01."
 ---

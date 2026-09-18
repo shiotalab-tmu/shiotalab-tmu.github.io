@@ -8,5 +8,6 @@ authorsEn:
   - "Koji MAKIZAKI"
 date: "2011-10-20"
 type: "international"
-venue: "APSIPA Annual Summit and Conference, pp. Thu-PM.PS03.4, Xi'an, P.R.C., 2011-10-20."
+venueJa: "APSIPA Annual Summit and Conference, pp. Thu-PM.PS03.4, Xi'an, P.R.C., 2011-10-20."
+venueEn: "APSIPA Annual Summit and Conference, pp. Thu-PM.PS03.4, Xi'an, P.R.C., 2011-10-20."
 ---

@@ -11,5 +11,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2005-03-24"
 type: "domestic"
-venue: "General Conference of IEICE, Vol. 情報・システム, pp. D-11-66, 大阪府豊中市, 2005-03-24."
+venueJa: "電子情報通信学会 総合大会, Vol. 情報・システム, pp. D-11-66, 大阪府豊中市, 2005-03-24."
+venueEn: "General Conference of IEICE, Vol. 情報・システム, pp. D-11-66, 大阪府豊中市, 2005-03-24."
 ---

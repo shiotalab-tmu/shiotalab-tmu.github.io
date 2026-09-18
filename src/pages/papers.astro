@@ -3,7 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import PageHero from '../components/PageHero.astro';
 import PaperLinks from '../components/PaperLinks.astro';
 import { getCollection } from 'astro:content';
-import { paperTitle, paperAuthors } from '../utils/paperTitle';
+import { paperTitle, paperAuthors, paperVenue } from '../utils/paperTitle';
 import { paperYear } from '../utils/paperDate';
 
 // /papers（デフォルトルート）で表示する年度（手動で書き換える）
@@ -78,7 +78,7 @@ if (latestYear >= 2019) {
                 <li>
                   {paperAuthors(paper.data, 'ja').join(', ')},<br/>
                   "{paperTitle(paper.data, 'ja')}",<br/>
-                  {paper.data.venue}
+                  {paperVenue(paper.data, 'ja')}
                   <PaperLinks paper={paper.data} />
                 </li>
               ))}
@@ -94,7 +94,7 @@ if (latestYear >= 2019) {
                 <li>
                   {paperAuthors(paper.data, 'ja').join(', ')},<br/>
                   "{paperTitle(paper.data, 'ja')}",<br/>
-                  {paper.data.venue}
+                  {paperVenue(paper.data, 'ja')}
                   <PaperLinks paper={paper.data} />
                 </li>
               ))}
@@ -110,7 +110,7 @@ if (latestYear >= 2019) {
                 <li>
                   {paperAuthors(paper.data, 'ja').join(', ')},<br/>
                   "{paperTitle(paper.data, 'ja')}",<br/>
-                  {paper.data.venue}
+                  {paperVenue(paper.data, 'ja')}
                   <PaperLinks paper={paper.data} />
                 </li>
               ))}

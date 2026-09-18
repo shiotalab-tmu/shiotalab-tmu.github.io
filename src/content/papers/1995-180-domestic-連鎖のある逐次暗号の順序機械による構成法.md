@@ -12,5 +12,6 @@ authorsEn:
   - "Sachio NAITO"
 date: "1995-01-01"
 type: "domestic"
-venue: "FTC研究会, 1995-01-01."
+venueJa: "FTC研究会, 1995-01-01."
+venueEn: "FTC研究会, 1995-01-01."
 ---

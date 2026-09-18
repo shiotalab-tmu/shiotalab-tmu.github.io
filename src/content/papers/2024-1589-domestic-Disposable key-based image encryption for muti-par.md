@@ -11,7 +11,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2024-08-26"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. 124, No. 162, pp. SIP2024-47, 福井大学文京キャンパス, 2024-08-26."
+venueJa: "電子情報通信学会 信号処理研究会, Vol. 124, No. 162, pp. SIP2024-47, 福井大学文京キャンパス, 2024-08-26."
+venueEn: "Technical Report of IEICE, Vol. 124, No. 162, pp. SIP2024-47, 福井大学文京キャンパス, 2024-08-26."
 url: "https://ken.ieice.org/ken/paper/20240826kceH/"
 webpage: "https://ken.ieice.org/ken/paper/20240826kceH/"
 ---

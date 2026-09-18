@@ -9,5 +9,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2001-03-01"
 type: "domestic"
-venue: "General Conference of IEICE, 草津(琵琶湖), 2001-03-01."
+venueJa: "電子情報通信学会 総合大会, 草津(琵琶湖), 2001-03-01."
+venueEn: "General Conference of IEICE, 草津(琵琶湖), 2001-03-01."
 ---

@@ -11,7 +11,8 @@ authorsEn:
   - "Takahiko HORIUCHI"
 date: "2023-07-31"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. 123, No. 152, pp. 7-12, 大阪大学吹田キャンパス コンベンションセンター , 2023-07-31."
+venueJa: "電子情報通信学会 信号処理研究会, Vol. 123, No. 152, pp. 7-12, 大阪大学吹田キャンパス コンベンションセンター , 2023-07-31."
+venueEn: "Technical Report of IEICE, Vol. 123, No. 152, pp. 7-12, 大阪大学吹田キャンパス コンベンションセンター , 2023-07-31."
 url: "https://ken.ieice.org/ken/paper/20230807YCWg/eng/"
 webpage: "https://ken.ieice.org/ken/paper/20230807YCWg/eng/"
 ---

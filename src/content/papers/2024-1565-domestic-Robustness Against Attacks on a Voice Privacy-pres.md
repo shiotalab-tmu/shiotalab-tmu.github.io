@@ -11,5 +11,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2024-01-24"
 type: "domestic"
-venue: "IEICE Symposium on Cryptography and Information Security, 出島メッセ長崎, 2024-01-24."
+venueJa: "電子情報通信学会 暗号と情報セキュリティシンポジウム, 出島メッセ長崎, 2024-01-24."
+venueEn: "IEICE Symposium on Cryptography and Information Security, 出島メッセ長崎, 2024-01-24."
 ---

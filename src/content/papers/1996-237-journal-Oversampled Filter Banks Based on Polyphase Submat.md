@@ -9,7 +9,8 @@ authorsEn:
   - "Hiroyuki KOBAYASHI"
 date: "1996-09-01"
 type: "journal"
-venue: "IEICE Trans., Vol. J79-A, No. 9, pp. 1525-1534, 1996-09-01."
+venueJa: "電子情報通信学会 論文誌, Vol. J79-A, No. 9, pp. 1525-1534, 1996-09-01."
+venueEn: "IEICE Trans., Vol. J79-A, No. 9, pp. 1525-1534, 1996-09-01."
 url: "http://search.ieice.org/bin/summary.php?id=j79-a_9_1525&category=A&year=1996&lang=E&abst=j"
 webpage: "http://search.ieice.org/bin/summary.php?id=j79-a_9_1525&category=A&year=1996&lang=E&abst=j"
 ---

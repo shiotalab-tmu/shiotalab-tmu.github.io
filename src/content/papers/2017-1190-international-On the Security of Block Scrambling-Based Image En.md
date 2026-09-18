@@ -8,5 +8,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2017-09-25"
 type: "international"
-venue: "International Workshop on Signal Design and its Applications in Communications, Sapporo, Hokkaido, Japan, 2017-09-25."
+venueJa: "International Workshop on Signal Design and its Applications in Communications, Sapporo, Hokkaido, Japan, 2017-09-25."
+venueEn: "International Workshop on Signal Design and its Applications in Communications, Sapporo, Hokkaido, Japan, 2017-09-25."
 ---

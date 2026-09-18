@@ -9,5 +9,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2010-11-25"
 type: "domestic"
-venue: "IEICE Signal Processing Symposium, pp. C5-1, 奈良県奈良市, 2010-11-25."
+venueJa: "電子情報通信学会 信号処理シンポジウム, pp. C5-1, 奈良県奈良市, 2010-11-25."
+venueEn: "IEICE Signal Processing Symposium, pp. C5-1, 奈良県奈良市, 2010-11-25."
 ---

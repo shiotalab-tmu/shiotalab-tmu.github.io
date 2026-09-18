@@ -11,7 +11,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2024-06-06"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. 124, No. 58, pp. 1, 新潟大学（駅南キャンパスときめいと）, 2024-06-06."
+venueJa: "電子情報通信学会 信号処理研究会, Vol. 124, No. 58, pp. 1, 新潟大学（駅南キャンパスときめいと）, 2024-06-06."
+venueEn: "Technical Report of IEICE, Vol. 124, No. 58, pp. 1, 新潟大学（駅南キャンパスときめいと）, 2024-06-06."
 url: "https://ken.ieice.org/ken/paper/20240606dc2E/"
 webpage: "https://ken.ieice.org/ken/paper/20240606dc2E/"
 ---

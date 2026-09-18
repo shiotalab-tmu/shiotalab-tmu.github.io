@@ -8,5 +8,6 @@ authorsEn:
   - "Kiyoshi NISHIKAWA"
 date: "2013-09-10"
 type: "international"
-venue: "EURASIP European Signal Processing Conference, pp. TU-P6.1, Marrakech, Morocco, 2013-09-10."
+venueJa: "EURASIP European Signal Processing Conference, pp. TU-P6.1, Marrakech, Morocco, 2013-09-10."
+venueEn: "EURASIP European Signal Processing Conference, pp. TU-P6.1, Marrakech, Morocco, 2013-09-10."
 ---

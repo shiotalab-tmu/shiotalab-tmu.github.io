@@ -12,5 +12,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2005-03-03"
 type: "domestic"
-venue: "Technical Report of IEICE, pp. NS2004-223, 沖縄県中頭郡読谷村, 2005-03-03."
+venueJa: "電子情報通信学会 ネットワークシステム研究会, pp. NS2004-223, 沖縄県中頭郡読谷村, 2005-03-03."
+venueEn: "Technical Report of IEICE, pp. NS2004-223, 沖縄県中頭郡読谷村, 2005-03-03."
 ---

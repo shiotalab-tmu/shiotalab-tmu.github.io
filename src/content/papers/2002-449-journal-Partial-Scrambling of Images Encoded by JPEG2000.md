@@ -11,7 +11,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2002-02-01"
 type: "journal"
-venue: "IEICE Trans., Vol. J85-D-II, No. 2, pp. 282-290, 2002-02-01."
+venueJa: "電子情報通信学会 論文誌, Vol. J85-D-II, No. 2, pp. 282-290, 2002-02-01."
+venueEn: "IEICE Trans., Vol. J85-D-II, No. 2, pp. 282-290, 2002-02-01."
 url: "http://search.ieice.org/bin/summary.php?id=j85-d2_2_282&category=D&year=2002&lang=E&abst=j"
 webpage: "http://search.ieice.org/bin/summary.php?id=j85-d2_2_282&category=D&year=2002&lang=E&abst=j"
 ---

@@ -11,7 +11,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-06-13"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. IEICE-118, pp. 80, 沖縄県国頭郡, 2018-06-13."
+venueJa: "電子情報通信学会 ニューロコンピューティング研究会, Vol. IEICE-118, pp. 80, 沖縄県国頭郡, 2018-06-13."
+venueEn: "Technical Report of IEICE, Vol. IEICE-118, pp. 80, 沖縄県国頭郡, 2018-06-13."
 url: "https://www.ieice.org/ken/paper/20180613L14O/eng/"
 webpage: "https://www.ieice.org/ken/paper/20180613L14O/eng/"
 ---

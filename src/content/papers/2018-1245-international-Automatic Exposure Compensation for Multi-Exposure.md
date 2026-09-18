@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-10-08"
 type: "international"
-venue: "IEEE International Conference on Image Processing, Athens, Greece, 2018-10-08."
+venueJa: "IEEE International Conference on Image Processing, Athens, Greece, 2018-10-08."
+venueEn: "IEEE International Conference on Image Processing, Athens, Greece, 2018-10-08."
 ---

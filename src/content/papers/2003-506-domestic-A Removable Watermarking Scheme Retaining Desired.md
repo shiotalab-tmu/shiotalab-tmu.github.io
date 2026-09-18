@@ -13,5 +13,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2003-06-16"
 type: "domestic"
-venue: "ITE Technical Report, pp. ME2003-96, 新潟県新潟市, 2003-06-16."
+venueJa: "映像情報メディア学会 メディア工学研究会, pp. ME2003-96, 新潟県新潟市, 2003-06-16."
+venueEn: "ITE Technical Report, pp. ME2003-96, 新潟県新潟市, 2003-06-16."
 ---

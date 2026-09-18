@@ -9,5 +9,6 @@ authorsEn:
   - "Kiyoshi NISHIKAWA"
 date: "2007-03-06"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. 106, No. 570, pp. SIP2006-206, 鳥取県東伯郡三朝町, 2007-03-06."
+venueJa: "電子情報通信学会 信号処理研究会, Vol. 106, No. 570, pp. SIP2006-206, 鳥取県東伯郡三朝町, 2007-03-06."
+venueEn: "Technical Report of IEICE, Vol. 106, No. 570, pp. SIP2006-206, 鳥取県東伯郡三朝町, 2007-03-06."
 ---

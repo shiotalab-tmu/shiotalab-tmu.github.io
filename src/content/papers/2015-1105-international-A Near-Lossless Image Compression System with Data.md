@@ -8,5 +8,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2015-12-19"
 type: "international"
-venue: "APSIPA Annual Summit and Conference, pp. 1280-1286, Hong Kong, China, 2015-12-19."
+venueJa: "APSIPA Annual Summit and Conference, pp. 1280-1286, Hong Kong, China, 2015-12-19."
+venueEn: "APSIPA Annual Summit and Conference, pp. 1280-1286, Hong Kong, China, 2015-12-19."
 ---

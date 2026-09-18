@@ -12,5 +12,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-05-19"
 type: "international"
-venue: "IEEE International Conference on Consumer Electronics - Taiwan, pp. 185-186, Taichung, Taiwan, 2018-05-19."
+venueJa: "IEEE International Conference on Consumer Electronics - Taiwan, pp. 185-186, Taichung, Taiwan, 2018-05-19."
+venueEn: "IEEE International Conference on Consumer Electronics - Taiwan, pp. 185-186, Taichung, Taiwan, 2018-05-19."
 ---

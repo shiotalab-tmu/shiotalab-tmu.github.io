@@ -11,5 +11,6 @@ authorsEn:
   - "Akihiko YAMADA"
 date: "1995-06-01"
 type: "domestic"
-venue: "Technical Report of IEICE, pp. VLD95-39, 1995-06-01."
+venueJa: "電子情報通信学会 VLSI設計技術研究会, pp. VLD95-39, 1995-06-01."
+venueEn: "Technical Report of IEICE, pp. VLD95-39, 1995-06-01."
 ---

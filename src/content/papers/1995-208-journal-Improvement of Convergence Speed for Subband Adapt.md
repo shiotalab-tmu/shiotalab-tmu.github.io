@@ -10,5 +10,6 @@ authorsEn:
   - "Kouji ASHIHARA"
 date: "1995-10-01"
 type: "journal"
-venue: "Electronics and Communications in Japan, Part III, Vol. 78, No. 10, pp. 37-45, 1995-10-01."
+venueJa: "Electronics and Communications in Japan, Part III, Vol. 78, No. 10, pp. 37-45, 1995-10-01."
+venueEn: "Electronics and Communications in Japan, Part III, Vol. 78, No. 10, pp. 37-45, 1995-10-01."
 ---

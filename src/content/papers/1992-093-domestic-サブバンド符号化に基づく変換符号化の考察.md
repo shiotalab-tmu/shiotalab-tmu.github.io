@@ -8,5 +8,6 @@ authorsEn:
   - "Mitsuo YAE"
 date: "1992-04-01"
 type: "domestic"
-venue: "Technical Report of IEICE, pp. IE92-2, 1992-04-01."
+venueJa: "電子情報通信学会 画像工学研究会, pp. IE92-2, 1992-04-01."
+venueEn: "Technical Report of IEICE, pp. IE92-2, 1992-04-01."
 ---

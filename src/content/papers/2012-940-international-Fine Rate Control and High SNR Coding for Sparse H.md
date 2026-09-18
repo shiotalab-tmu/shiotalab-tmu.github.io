@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2012-05-08"
 type: "international"
-venue: "Picture Coding Symposium, pp. P2a-9, Krakow, Poland, 2012-05-08."
+venueJa: "Picture Coding Symposium, pp. P2a-9, Krakow, Poland, 2012-05-08."
+venueEn: "Picture Coding Symposium, pp. P2a-9, Krakow, Poland, 2012-05-08."
 ---

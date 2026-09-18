@@ -10,7 +10,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1998-06-01"
 type: "journal"
-venue: "IEICE Trans. Fundamentals, Vol. E81-A, No. 6, pp. 1013-1020, 1998-06-01."
+venueJa: "IEICE Trans. Fundamentals, Vol. E81-A, No. 6, pp. 1013-1020, 1998-06-01."
+venueEn: "IEICE Trans. Fundamentals, Vol. E81-A, No. 6, pp. 1013-1020, 1998-06-01."
 url: "http://search.ieice.org/bin/summary.php?id=e81-a_6_1013&category=A&year=1998&lang=E&abst="
 webpage: "http://search.ieice.org/bin/summary.php?id=e81-a_6_1013&category=A&year=1998&lang=E&abst="
 ---

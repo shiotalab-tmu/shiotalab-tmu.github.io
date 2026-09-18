@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2002-01-01"
 type: "international"
-venue: "International Workshop on Advanced Image Technology, pp. 6月2日, Hualien, Taiwan, R.O.C., 2002-01-01."
+venueJa: "International Workshop on Advanced Image Technology, pp. 6月2日, Hualien, Taiwan, R.O.C., 2002-01-01."
+venueEn: "International Workshop on Advanced Image Technology, pp. 6月2日, Hualien, Taiwan, R.O.C., 2002-01-01."
 ---

@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-06-26"
 type: "international"
-venue: "The Speaker and Language Recognition Workshop Odyssey, Les Sables d’Olonne, France, 2018-06-26."
+venueJa: "The Speaker and Language Recognition Workshop Odyssey, Les Sables d’Olonne, France, 2018-06-26."
+venueEn: "The Speaker and Language Recognition Workshop Odyssey, Les Sables d’Olonne, France, 2018-06-26."
 ---

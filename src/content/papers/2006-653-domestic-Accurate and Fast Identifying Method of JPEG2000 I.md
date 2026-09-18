@@ -11,5 +11,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2006-11-10"
 type: "domestic"
-venue: "IEICE Image Media Processing Symposium, pp. I-3.04, 静岡県伊豆市, 2006-11-10."
+venueJa: "電子情報通信学会 映像メディア処理シンポジウム, pp. I-3.04, 静岡県伊豆市, 2006-11-10."
+venueEn: "IEICE Image Media Processing Symposium, pp. I-3.04, 静岡県伊豆市, 2006-11-10."
 ---

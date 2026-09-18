@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2013-10-31"
 type: "international"
-venue: "APSIPA Annual Summit and Conference, pp. OS.26-IVM.11-4, Kaohsiung, Taiwan, R.O.C., 2013-10-31."
+venueJa: "APSIPA Annual Summit and Conference, pp. OS.26-IVM.11-4, Kaohsiung, Taiwan, R.O.C., 2013-10-31."
+venueEn: "APSIPA Annual Summit and Conference, pp. OS.26-IVM.11-4, Kaohsiung, Taiwan, R.O.C., 2013-10-31."
 ---

@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2017-08-26"
 type: "international"
-venue: "International Conference on Advances in Image Processing, pp. 66-71, Bangkok, Thailand, 2017-08-26."
+venueJa: "International Conference on Advances in Image Processing, pp. 66-71, Bangkok, Thailand, 2017-08-26."
+venueEn: "International Conference on Advances in Image Processing, pp. 66-71, Bangkok, Thailand, 2017-08-26."
 ---

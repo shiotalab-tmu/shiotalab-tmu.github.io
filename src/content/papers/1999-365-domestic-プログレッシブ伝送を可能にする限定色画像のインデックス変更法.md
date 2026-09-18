@@ -8,5 +8,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1999-09-01"
 type: "domestic"
-venue: "IEICE Picture Coding Symposium of Japan, 1999-09-01."
+venueJa: "電子情報通信学会 画像符号化シンポジウム, 1999-09-01."
+venueEn: "IEICE Picture Coding Symposium of Japan, 1999-09-01."
 ---

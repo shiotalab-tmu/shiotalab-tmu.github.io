@@ -7,7 +7,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2023-03-02"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. 122, No. 412, pp. EMM2022-87 , 福江文化会館 , 2023-03-02."
+venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, Vol. 122, No. 412, pp. EMM2022-87 , 福江文化会館 , 2023-03-02."
+venueEn: "Technical Report of IEICE, Vol. 122, No. 412, pp. EMM2022-87 , 福江文化会館 , 2023-03-02."
 url: "https://ken.ieice.org/ken/paper/20230302wCRv/eng/"
 webpage: "https://ken.ieice.org/ken/paper/20230302wCRv/eng/"
 ---

@@ -11,7 +11,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2022-01-27"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. IEICE-121, No. 362, pp. IEICE-EMM2021-85, オンライン, 2022-01-27."
+venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, Vol. IEICE-121, No. 362, pp. IEICE-EMM2021-85, オンライン, 2022-01-27."
+venueEn: "Technical Report of IEICE, Vol. IEICE-121, No. 362, pp. IEICE-EMM2021-85, オンライン, 2022-01-27."
 url: "https://www.ieice.org/ken/paper/20220127VC7F/eng/"
 webpage: "https://www.ieice.org/ken/paper/20220127VC7F/eng/"
 ---

@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1998-11-01"
 type: "international"
-venue: "IEEE Asia-Pacific Conference on Circuits and Systems, 1998-11-01."
+venueJa: "IEEE Asia-Pacific Conference on Circuits and Systems, 1998-11-01."
+venueEn: "IEEE Asia-Pacific Conference on Circuits and Systems, 1998-11-01."
 ---

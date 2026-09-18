@@ -10,5 +10,6 @@ authorsEn:
   - "Hiroshi OCHI"
 date: "1992-08-01"
 type: "international"
-venue: "IEEE Midwest Symposium on Circuits and Systems, pp. Tal2-4, 1992-08-01."
+venueJa: "IEEE Midwest Symposium on Circuits and Systems, pp. Tal2-4, 1992-08-01."
+venueEn: "IEEE Midwest Symposium on Circuits and Systems, pp. Tal2-4, 1992-08-01."
 ---

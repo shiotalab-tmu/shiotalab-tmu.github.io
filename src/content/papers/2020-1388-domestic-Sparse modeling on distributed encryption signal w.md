@@ -11,5 +11,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2020-03-03"
 type: "domestic"
-venue: "Forum on Data Engineering and Information Management, 2020-03-03."
+venueJa: "データ工学と情報マネジメントに関するフォーラム, 2020-03-03."
+venueEn: "Forum on Data Engineering and Information Management, 2020-03-03."
 ---

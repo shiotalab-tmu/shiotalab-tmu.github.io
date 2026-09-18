@@ -13,7 +13,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2022-03-02"
 type: "domestic"
-venue: "Speech Committee, Vol. IEICE-121 , No. 384, pp. 144-199, 沖縄県立博物館・美術館, 2022-03-02."
+venueJa: "電子情報通信学会 音声研究会, Vol. IEICE-121 , No. 384, pp. 144-199, 沖縄県立博物館・美術館, 2022-03-02."
+venueEn: "Speech Committee, Vol. IEICE-121 , No. 384, pp. 144-199, 沖縄県立博物館・美術館, 2022-03-02."
 url: "https://www.ieice.org/ken/paper/20220302ECJ1/eng/"
 webpage: "https://www.ieice.org/ken/paper/20220302ECJ1/eng/"
 ---

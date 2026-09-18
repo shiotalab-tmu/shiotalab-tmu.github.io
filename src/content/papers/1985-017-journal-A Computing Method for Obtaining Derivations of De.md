@@ -11,7 +11,8 @@ authorsEn:
   - "Masahiko SAGAWA"
 date: "1985-08-01"
 type: "journal"
-venue: "IECE Trans., Vol. J68-A, No. 8, pp. 725-732, 1985-08-01."
+venueJa: "電子通信学会 論文誌, Vol. J68-A, No. 8, pp. 725-732, 1985-08-01."
+venueEn: "IECE Trans., Vol. J68-A, No. 8, pp. 725-732, 1985-08-01."
 url: "http://search.ieice.org/bin/summary.php?id=j68-a_8_725&category=A&year=1985&lang=E&abst=j"
 webpage: "http://search.ieice.org/bin/summary.php?id=j68-a_8_725&category=A&year=1985&lang=E&abst=j"
 ---

@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2002-11-01"
 type: "international"
-venue: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, pp. C6-3, Kaohsiung, Taiwan, R.O.C., 2002-11-01."
+venueJa: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, pp. C6-3, Kaohsiung, Taiwan, R.O.C., 2002-11-01."
+venueEn: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, pp. C6-3, Kaohsiung, Taiwan, R.O.C., 2002-11-01."
 ---

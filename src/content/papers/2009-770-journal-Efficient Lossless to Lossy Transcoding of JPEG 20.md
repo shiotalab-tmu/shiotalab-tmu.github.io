@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2009-02-01"
 type: "journal"
-venue: "SMPTE Motion Imaging J., Vol. 2009, pp. 50-56, 2009-02-01."
+venueJa: "SMPTE Motion Imaging J., Vol. 2009, pp. 50-56, 2009-02-01."
+venueEn: "SMPTE Motion Imaging J., Vol. 2009, pp. 50-56, 2009-02-01."
 ---

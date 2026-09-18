@@ -10,5 +10,6 @@ authorsEn:
   - "Osamu WATANABE"
 date: "1999-12-01"
 type: "international"
-venue: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, pp. 1-Feb, Phuket, Thailand, 1999-12-01."
+venueJa: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, pp. 1-Feb, Phuket, Thailand, 1999-12-01."
+venueEn: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, pp. 1-Feb, Phuket, Thailand, 1999-12-01."
 ---

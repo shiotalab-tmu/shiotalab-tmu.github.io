@@ -11,7 +11,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2013-02-18"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. 112, No. 434, pp. IE2012-118, 北海道札幌市, 2013-02-18."
+venueJa: "電子情報通信学会 画像工学研究会, Vol. 112, No. 434, pp. IE2012-118, 北海道札幌市, 2013-02-18."
+venueEn: "Technical Report of IEICE, Vol. 112, No. 434, pp. IE2012-118, 北海道札幌市, 2013-02-18."
 url: "http://www.ieice.org/ken/paper/20130218xBbb/eng/"
 webpage: "http://www.ieice.org/ken/paper/20130218xBbb/eng/"
 ---

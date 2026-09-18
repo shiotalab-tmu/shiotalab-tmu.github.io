@@ -11,5 +11,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2017-11-13"
 type: "domestic"
-venue: "IEICE-BIOX Symposium on Biometrics, Recognition and Authentication, pp. S2-16, 東京都江東区, 2017-11-13."
+venueJa: "電子情報通信学会 バイオメトリクスと認識・認証シンポジウム, pp. S2-16, 東京都江東区, 2017-11-13."
+venueEn: "IEICE-BIOX Symposium on Biometrics, Recognition and Authentication, pp. S2-16, 東京都江東区, 2017-11-13."
 ---

@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1997-06-01"
 type: "international"
-venue: "IEEE International Symposium on Circuits and Systems, 1997-06-01."
+venueJa: "IEEE International Symposium on Circuits and Systems, 1997-06-01."
+venueEn: "IEEE International Symposium on Circuits and Systems, 1997-06-01."
 ---

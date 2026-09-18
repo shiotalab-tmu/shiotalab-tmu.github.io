@@ -12,5 +12,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2012-07-20"
 type: "international"
-venue: "IEEE International Conference on Intelligent Information Hiding and Multimedia Signal Processing, pp. CM-2.1, Piraeus, Greece, 2012-07-20."
+venueJa: "IEEE International Conference on Intelligent Information Hiding and Multimedia Signal Processing, pp. CM-2.1, Piraeus, Greece, 2012-07-20."
+venueEn: "IEEE International Conference on Intelligent Information Hiding and Multimedia Signal Processing, pp. CM-2.1, Piraeus, Greece, 2012-07-20."
 ---

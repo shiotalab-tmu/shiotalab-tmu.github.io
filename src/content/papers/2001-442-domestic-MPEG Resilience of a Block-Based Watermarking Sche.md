@@ -9,5 +9,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2001-11-01"
 type: "domestic"
-venue: "IEICE Picture Coding Symposium of Japan, pp. P-2.17, 長野県北佐久郡軽井沢町, 2001-11-01."
+venueJa: "電子情報通信学会 画像符号化シンポジウム, pp. P-2.17, 長野県北佐久郡軽井沢町, 2001-11-01."
+venueEn: "IEICE Picture Coding Symposium of Japan, pp. P-2.17, 長野県北佐久郡軽井沢町, 2001-11-01."
 ---

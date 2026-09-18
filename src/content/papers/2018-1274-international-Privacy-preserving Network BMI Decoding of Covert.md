@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-12-17"
 type: "international"
-venue: "International Conference on Signal Processing and Communication Systems,  Cairns, Queensland, Australia, 2018-12-17."
+venueJa: "International Conference on Signal Processing and Communication Systems,  Cairns, Queensland, Australia, 2018-12-17."
+venueEn: "International Conference on Signal Processing and Communication Systems,  Cairns, Queensland, Australia, 2018-12-17."
 ---

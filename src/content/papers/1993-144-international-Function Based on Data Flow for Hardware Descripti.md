@@ -10,5 +10,6 @@ authorsEn:
   - "Sachio NAITO"
 date: "1993-12-01"
 type: "international"
-venue: "IEEE International Symposium on Fault-Tolerant Computing, 1993-12-01."
+venueJa: "IEEE International Symposium on Fault-Tolerant Computing, 1993-12-01."
+venueEn: "IEEE International Symposium on Fault-Tolerant Computing, 1993-12-01."
 ---

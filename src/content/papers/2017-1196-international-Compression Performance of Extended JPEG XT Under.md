@@ -12,5 +12,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2017-10-24"
 type: "international"
-venue: "IEEE Global Conference on Consumer Electronics, Nagoya, Japan, 2017-10-24."
+venueJa: "IEEE Global Conference on Consumer Electronics, Nagoya, Japan, 2017-10-24."
+venueEn: "IEEE Global Conference on Consumer Electronics, Nagoya, Japan, 2017-10-24."
 ---

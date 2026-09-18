@@ -8,5 +8,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2017-06-14"
 type: "international"
-venue: "IEEE International Conference on Consumer Electronics - Taiwan, Taipei, Taiwan, 2017-06-14."
+venueJa: "IEEE International Conference on Consumer Electronics - Taiwan, Taipei, Taiwan, 2017-06-14."
+venueEn: "IEEE International Conference on Consumer Electronics - Taiwan, Taipei, Taiwan, 2017-06-14."
 ---

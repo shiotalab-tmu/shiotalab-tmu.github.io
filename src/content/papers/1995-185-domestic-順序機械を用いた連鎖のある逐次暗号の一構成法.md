@@ -12,5 +12,6 @@ authorsEn:
   - "Sachio NAITO"
 date: "1995-03-01"
 type: "domestic"
-venue: "Technical Report of IEICE, pp. ISEC94-53, 1995-03-01."
+venueJa: "電子情報通信学会 情報セキュリティ研究会, pp. ISEC94-53, 1995-03-01."
+venueEn: "Technical Report of IEICE, pp. ISEC94-53, 1995-03-01."
 ---

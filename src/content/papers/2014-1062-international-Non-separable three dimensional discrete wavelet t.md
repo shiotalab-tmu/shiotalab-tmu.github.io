@@ -14,7 +14,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2014-12-10"
 type: "international"
-venue: "APSIPA Annual Summit and Conference, pp. WA2-4-1157, Siem Reap, city of Angkor Wat, Cambodia, 2014-12-10."
+venueJa: "APSIPA Annual Summit and Conference, pp. WA2-4-1157, Siem Reap, city of Angkor Wat, Cambodia, 2014-12-10."
+venueEn: "APSIPA Annual Summit and Conference, pp. WA2-4-1157, Siem Reap, city of Angkor Wat, Cambodia, 2014-12-10."
 url: "http://www.apsipa2014.org/home/"
 webpage: "http://www.apsipa2014.org/home/"
 ---

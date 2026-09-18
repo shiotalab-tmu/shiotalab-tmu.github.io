@@ -10,7 +10,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2015-09-16"
 type: "international"
-venue: "Pacific-Rim Conference on Multimedia, Vol. Part I, pp. LNCS 9314, Gwangju, Korea, 2015-09-16."
+venueJa: "Pacific-Rim Conference on Multimedia, Vol. Part I, pp. LNCS 9314, Gwangju, Korea, 2015-09-16."
+venueEn: "Pacific-Rim Conference on Multimedia, Vol. Part I, pp. LNCS 9314, Gwangju, Korea, 2015-09-16."
 url: "https://doi.org/10.1007/978-3-319-24075-6_31"
 doi: "https://doi.org/10.1007/978-3-319-24075-6_31"
 ---
