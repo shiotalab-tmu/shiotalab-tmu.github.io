@@ -12,5 +12,4 @@ authorsEn:
 date: "2020-03-06"
 type: "domestic"
 venue: "Technical Report of IEICE, 沖縄県石垣市, 2020-03-06."
-local: "https://www.notion.so/3c7d54c353c881b4968de51ffef05ce7"
 ---

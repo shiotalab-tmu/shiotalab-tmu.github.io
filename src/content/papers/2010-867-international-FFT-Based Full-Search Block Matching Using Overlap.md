@@ -11,5 +11,4 @@ authorsEn:
 date: "2010-12-10"
 type: "international"
 venue: "Picture Coding Symposium, pp. P4-28, Nagoya, Japan, 2010-12-10."
-local: "https://www.notion.so/3c7d54c353c8814f9eaade1269a2816b"
 ---

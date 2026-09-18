@@ -12,5 +12,4 @@ authorsEn:
 date: "2023-11-08"
 type: "domestic"
 venue: "IEICE Signal Processing Symposium, 京都テルサ, 2023-11-08."
-local: "https://www.notion.so/3c7d54c353c8819fb20ac66ae397b596"
 ---

@@ -14,5 +14,4 @@ authorsEn:
 date: "2013-11-21"
 type: "domestic"
 venue: "IEICE Signal Processing Symposium, pp. P2-16, 山口県下関市, 2013-11-21."
-local: "https://www.notion.so/3c7d54c353c88183b96ce0336e918645"
 ---

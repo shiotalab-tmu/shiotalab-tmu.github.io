@@ -13,5 +13,4 @@ authorsEn:
 date: "2022-03-09"
 type: "domestic"
 venue: "Acoustical Society of Japan Spring Meeting, オンライン, 2022-03-09."
-local: "https://www.notion.so/3c7d54c353c881a0ac55d0c4354a6503"
 ---

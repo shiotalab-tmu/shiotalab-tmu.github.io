@@ -12,5 +12,4 @@ authorsEn:
 date: "2020-03-03"
 type: "domestic"
 venue: "Forum on Data Engineering and Information Management, 2020-03-03."
-local: "https://www.notion.so/3c7d54c353c8816fa253dc9e2e563541"
 ---

@@ -14,5 +14,4 @@ authorsEn:
 date: "2010-01-21"
 type: "domestic"
 venue: "IEICE Symposium on Cryptography and Information Security, pp. 3F4-1, 香川県高松市, 2010-01-21."
-local: "https://www.notion.so/3c7d54c353c881b497fdeb4355f77ab4"
 ---

@@ -11,5 +11,4 @@ authorsEn:
 date: "2014-08-27"
 type: "international"
 venue: "IEEE International Conference on Intelligent Information Hiding and Multimedia Signal Processing, pp. A3-05, Kitakyushu, Japan, 2014-08-27."
-local: "https://www.notion.so/3c7d54c353c881be8b2ecadd647e2a46"
 ---

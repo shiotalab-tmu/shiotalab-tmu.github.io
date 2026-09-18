@@ -12,5 +12,4 @@ authorsEn:
 date: "2016-02-20"
 type: "domestic"
 venue: "ITE Technical Report, Vol. 40, No. 5, pp. ME2016-23, 横浜市中区, 2016-02-20."
-local: "https://www.notion.so/3c7d54c353c881be926ac8392351ebe5"
 ---

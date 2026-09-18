@@ -12,5 +12,4 @@ authorsEn:
 date: "2010-10-08"
 type: "domestic"
 venue: "Technical Report of IEICE, pp. 25-30, 長崎県長崎市, 2010-10-08."
-local: "https://www.notion.so/3c7d54c353c8811cb93ee9355fd9faa1"
 ---

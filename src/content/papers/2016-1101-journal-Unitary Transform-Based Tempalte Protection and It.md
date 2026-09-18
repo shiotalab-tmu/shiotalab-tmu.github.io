@@ -11,5 +11,4 @@ authorsEn:
 date: "2016-01-02"
 type: "journal"
 venue: "IEICE Trans. Inf. & Sys., Vol. E99-D, No. 1, pp. 60-68, 2016-01-02."
-local: "https://www.notion.so/3c7d54c353c88127a154ff00b039099e"
 ---

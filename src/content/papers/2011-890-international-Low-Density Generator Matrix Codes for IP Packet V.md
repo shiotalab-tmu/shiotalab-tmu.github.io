@@ -17,5 +17,4 @@ authorsEn:
 date: "2011-06-06"
 type: "international"
 venue: "IEEE International Conference on Communications, pp. CSMA-02.5, Kyoto, Japan, 2011-06-06."
-local: "https://www.notion.so/3c7d54c353c881ff88cdd9f264ee9125"
 ---

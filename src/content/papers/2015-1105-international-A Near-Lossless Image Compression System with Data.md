@@ -9,5 +9,4 @@ authorsEn:
 date: "2015-12-19"
 type: "international"
 venue: "APSIPA Annual Summit and Conference, pp. 1280-1286, Hong Kong, China, 2015-12-19."
-local: "https://www.notion.so/3c7d54c353c881aea11cc9643c29a099"
 ---

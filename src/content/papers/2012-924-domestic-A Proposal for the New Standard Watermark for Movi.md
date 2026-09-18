@@ -18,5 +18,4 @@ authorsEn:
 date: "2012-02-01"
 type: "domestic"
 venue: "IEICE Symposium on Cryptography and Information Security, pp. 3F2-4, 石川県金沢市, 2012-02-01."
-local: "https://www.notion.so/3c7d54c353c881db92fdd60dcb31271d"
 ---

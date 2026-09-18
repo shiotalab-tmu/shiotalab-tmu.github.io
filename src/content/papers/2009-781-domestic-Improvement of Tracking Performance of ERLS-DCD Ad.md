@@ -10,5 +10,4 @@ authorsEn:
 date: "2009-03-17"
 type: "domestic"
 venue: "General Conference of IEICE, Vol. ESS, pp. A-4-17, 愛媛県松山市, 2009-03-17."
-local: "https://www.notion.so/3c7d54c353c88190be31edb74741eed8"
 ---

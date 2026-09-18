@@ -11,5 +11,4 @@ authorsEn:
 date: "2011-05-25"
 type: "international"
 venue: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. IVMSP-L4.6, Prague, Czech, 2011-05-25."
-local: "https://www.notion.so/3c7d54c353c88131b7fdd78844bf2b7f"
 ---

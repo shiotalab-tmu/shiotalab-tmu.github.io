@@ -9,5 +9,4 @@ authorsEn:
 date: "2017-08-26"
 type: "international"
 venue: "International Conference on Advances in Image Processing, pp. 72-77, Bangkok, Thailand, 2017-08-26."
-local: "https://www.notion.so/3c7d54c353c881fd8e86cb2d51f16d96"
 ---

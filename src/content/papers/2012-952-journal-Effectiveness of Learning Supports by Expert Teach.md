@@ -12,5 +12,4 @@ authorsEn:
 date: "2012-10-10"
 type: "journal"
 venue: "JSET Japan Journal of Educational Technology, Vol. 36, No. 2, pp. 111-123, 2012-10-10."
-local: "https://www.notion.so/3c7d54c353c88127b7bdc585403875f4"
 ---

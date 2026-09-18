@@ -11,5 +11,4 @@ authorsEn:
 date: "2016-03-01"
 type: "journal"
 venue: "IEICE Trans. Fundamentals, Vol. E.99-A, No. 3, pp. 774-776, 2016-03-01."
-local: "https://www.notion.so/3c7d54c353c8815d865adb76456419c8"
 ---
