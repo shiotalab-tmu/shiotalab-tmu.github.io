@@ -1,6 +1,9 @@
 ---
 titleEn: "A Jigsaw Puzzle Solver-based Attack on Block-wise Image Encryption for Privacy-preserving DNNs"
-authors:
+authorsJa:
+  - "中満 達也"
+  - "貴家 仁志"
+authorsEn:
   - "Tatsuya CHUMAN"
   - "Hitoshi KIYA"
 date: "2023-01-09"

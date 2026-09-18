@@ -1,7 +1,12 @@
 ---
 titleJa: "マイク間到来時間差のばらつきを用いたなりすまし音声検出の検討"
 titleEn: "Spoofing Detection Method using Time Difference Of Arrival To Microphones"
-authors:
+authorsJa:
+  - "矢口 凌也"
+  - "塩田 さやか"
+  - "小野 順貴"
+  - "貴家 仁志"
+authorsEn:
   - "Ryoya YAGUCHI"
   - "Sayaka SHIOTA"
   - "Nobutaka ONO"

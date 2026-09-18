@@ -1,6 +1,12 @@
 ---
 titleEn: "Compressed Domain Based Image Authentication for JPEG Coded Images"
-authors:
+authorsJa:
+  - "フィトリ アルニア"
+  - "飯塚 郁絵"
+  - "中野 雄資"
+  - "高木 亜有子"
+  - "貴家 仁志"
+authorsEn:
   - "Fitri Arnia"
   - "Ikue IIZUKA"
   - "Yuji NAKANO"

@@ -1,6 +1,11 @@
 ---
 titleEn: "Collusion Attack-Resilient Hierarchical Encryption of JPEG 2000 Codestreams with Scalable Access Control"
-authors:
+authorsJa:
+  - "今泉 祥子"
+  - "藤吉 正明"
+  - "阿部 淑人"
+  - "貴家 仁志"
+authorsEn:
   - "Shoko IMAIZUMI"
   - "Masaaki FUJIYOSHI"
   - "Yoshito ABE"

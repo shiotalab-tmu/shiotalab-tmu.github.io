@@ -1,6 +1,9 @@
 ---
 titleEn: "Scene Segmentation-Based Luminance Adjustment for Multi-Exposure Image Fusion"
-authors:
+authorsJa:
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"
 date: "2019-08-01"

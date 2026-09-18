@@ -1,7 +1,10 @@
 ---
 titleJa: "等価回路を用いたエイリアスフリーサブバンド適応フィルタの収束速度の解析"
 titleEn: "Analysis of Convergence Speed of Alias Free Subband Adaptive Filter Using Equivalent Structure"
-authors:
+authorsJa:
+  - "田口 泰透"
+  - "西川 清史"
+authorsEn:
   - "Yasuyuki TAGUCHI"
   - "Kiyoshi NISHIKAWA"
 date: "2005-09-22"

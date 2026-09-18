@@ -1,6 +1,9 @@
 ---
 titleEn: "Codestream Level Secure Identification for JPEG 2000 Images under Various Compression Ratios"
-authors:
+authorsJa:
+  - "飯田 健太"
+  - "貴家 仁志"
+authorsEn:
   - "Kenta IIDA"
   - "Hitoshi KIYA"
 date: "2016-12-15"

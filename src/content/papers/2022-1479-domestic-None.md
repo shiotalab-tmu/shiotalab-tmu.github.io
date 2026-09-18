@@ -1,7 +1,13 @@
 ---
 titleJa: "JTubeSpeech：音声認識と話者照合のためにYouTubeから構築される日本語音声コーパス"
 titleEn: "None"
-authors:
+authorsJa:
+  - "高道 慎之介"
+  - "Kurzinger Ludwig"
+  - "佐伯 高明"
+  - "塩田 さやか"
+  - "渡部 晋治"
+authorsEn:
   - "Shinnosuke Takamichi"
   - "Kurzinger Ludwig"
   - "Takaaki SAEKI"

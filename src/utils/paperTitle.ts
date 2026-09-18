@@ -1,14 +1,25 @@
-interface PaperTitleData {
+type PaperType = 'journal' | 'international' | 'domestic';
+type SiteLang = 'ja' | 'en';
+
+interface PaperDisplayData {
+  type: PaperType;
   titleJa?: string;
   titleEn?: string;
+  authorsJa: string[];
+  authorsEn: string[];
 }
 
-/** 日本語ページ用: 日本語タイトル優先、なければ英語 */
-export function paperTitleJa(paper: PaperTitleData): string {
-  return paper.titleJa ?? paper.titleEn ?? '';
+// journal/international は常に英語表記、domestic はサイト言語に追従（旧サイト www-isys.sd.tmu.ac.jp 準拠）
+function resolveLang(type: PaperType, siteLang: SiteLang): SiteLang {
+  return type === 'domestic' ? siteLang : 'en';
 }
 
-/** 英語ページ用: 英語タイトル優先、なければ日本語 */
-export function paperTitleEn(paper: PaperTitleData): string {
-  return paper.titleEn ?? paper.titleJa ?? '';
+export function paperTitle(paper: PaperDisplayData, siteLang: SiteLang): string {
+  const lang = resolveLang(paper.type, siteLang);
+  return lang === 'ja' ? (paper.titleJa ?? paper.titleEn ?? '') : (paper.titleEn ?? paper.titleJa ?? '');
+}
+
+export function paperAuthors(paper: PaperDisplayData, siteLang: SiteLang): string[] {
+  const lang = resolveLang(paper.type, siteLang);
+  return lang === 'ja' ? paper.authorsJa : paper.authorsEn;
 }

@@ -1,6 +1,9 @@
 ---
 titleEn: "A Multidimensional Block Operation for Arbitrary Sampling Lattice Alteration"
-authors:
+authorsJa:
+  - "村松 正吾"
+  - "貴家 仁志"
+authorsEn:
   - "Shogo MURAMATSU"
   - "Hitoshi KIYA"
 date: "1994-11-01"

@@ -1,6 +1,9 @@
 ---
 titleJa: "DCTに基づく超解像法の適用限界"
-authors:
+authorsJa:
+  - "坂根 尚"
+  - "貴家 仁志"
+authorsEn:
   - "Hisashi SAKANE"
   - "Hitoshi KIYA"
 date: "1995-11-01"

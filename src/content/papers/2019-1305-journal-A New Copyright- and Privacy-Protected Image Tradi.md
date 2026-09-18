@@ -1,6 +1,10 @@
 ---
 titleEn: "A New Copyright- and Privacy-Protected Image Trading System Using a Novel Steganography-Based Visual Encryption Scheme"
-authors:
+authorsJa:
+  - "セタン ワンニダー"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Wannida SAE-TANG"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

@@ -1,6 +1,11 @@
 ---
 titleEn: "Parallel Processing of Distributed Video Coding to Reduce Decoding Time"
-authors:
+authorsJa:
+  - "外村 喜秀"
+  - "仲地 孝之"
+  - "藤井 竜也"
+  - "貴家 仁志"
+authorsEn:
   - "Yoshihide TONOMURA"
   - "Takayuki NAKACHI"
   - "Tatsuya FUJII"

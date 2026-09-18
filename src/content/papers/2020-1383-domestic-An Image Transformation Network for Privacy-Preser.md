@@ -1,7 +1,11 @@
 ---
 titleJa: "プライバシー保護を考慮したDNNのための画像変換ネットワーク"
 titleEn: "An Image Transformation Network for Privacy-Preserving Deep Neural Networks"
-authors:
+authorsJa:
+  - "伊藤 広樹"
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroki ITO"
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"

@@ -1,7 +1,10 @@
 ---
 titleJa: "ポリフェーズ部分行列に基づくオーバサンプル・フィルタバンク"
 titleEn: "Oversampled Filter Banks Based on Polyphase Submatrices"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "小林 弘幸"
+authorsEn:
   - "Hitoshi KIYA"
   - "Hiroyuki KOBAYASHI"
 date: "1996-09-01"

@@ -1,7 +1,11 @@
 ---
 titleJa: "デジタルシネマ向けJPEG 2000符号化画像のためのビットストリームレベル画像検索法"
 titleEn: "A Bitstream Level Image Retrieving Method for JPEG 2000 Images"
-authors:
+authorsJa:
+  - "渡邊 修"
+  - "福原 隆浩"
+  - "貴家 仁志"
+authorsEn:
   - "Osamu WATANABE"
   - "Takahiro FUKUHARA"
   - "Hitoshi KIYA"

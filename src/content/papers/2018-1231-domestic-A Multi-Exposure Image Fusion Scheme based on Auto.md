@@ -1,7 +1,11 @@
 ---
 titleJa: "自動露出補正に基づく多重露出画像合成法"
 titleEn: "A Multi-Exposure Image Fusion Scheme based on Automatic Exposure Compensation "
-authors:
+authorsJa:
+  - "木下 裕磨"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Yuma KINOSHITA"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

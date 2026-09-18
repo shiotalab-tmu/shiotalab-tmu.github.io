@@ -1,6 +1,8 @@
 ---
 titleEn: "A Blind Lossless Information Embedding Scheme Based on Generalized Histogram Shifting"
-authors:
+authorsJa:
+  - "藤吉 正明"
+authorsEn:
   - "Masaaki FUJIYOSHI"
 date: "2013-10-30"
 type: "international"

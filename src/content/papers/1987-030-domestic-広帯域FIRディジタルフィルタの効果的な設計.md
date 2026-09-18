@@ -1,6 +1,10 @@
 ---
 titleJa: "広帯域FIRディジタルフィルタの効果的な設計"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "山田 正一"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi KIYA"
   - "Masakazu YAMADA"
   - "Masahiko SAGAWA"

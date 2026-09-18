@@ -1,6 +1,9 @@
 ---
 titleJa: "プログレッシブ伝送のための限定色画像のインデックス変更法"
-authors:
+authorsJa:
+  - "麻野 啓成"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroshige ASANO"
   - "Hitoshi KIYA"
 date: "1999-11-01"

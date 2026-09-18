@@ -1,7 +1,11 @@
 ---
 titleJa: "有限語長によるFIRフィルタの特性劣化と零点配置の関係について"
 titleEn: "Relation between Effects of Coefficient Quantization and Zero Locations in FIR Digital Filters"
-authors:
+authorsJa:
+  - "本間 仁志"
+  - "森 幸男"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi HONMA"
   - "Yukio MORI"
   - "Masahiko SAGAWA"

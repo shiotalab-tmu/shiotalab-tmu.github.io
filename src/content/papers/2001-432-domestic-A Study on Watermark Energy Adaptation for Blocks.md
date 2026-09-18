@@ -1,7 +1,10 @@
 ---
 titleJa: "透かしエネルギーのブロック適応に関する検討"
 titleEn: "A Study on Watermark Energy Adaptation for Blocks"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"
 date: "2001-09-01"

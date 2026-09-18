@@ -1,6 +1,10 @@
 ---
 titleEn: "2-D Pipelined Adaptive Filters Based on 2-D Delayed LMS Algorithm"
-authors:
+authorsJa:
+  - "松原 勝重"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Katsushige MATSUBARA"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

@@ -1,6 +1,9 @@
 ---
 titleEn: "A Frequency Domain Estimation Algorithm for Impulse Response"
-authors:
+authorsJa:
+  - "山田 洋士"
+  - "貴家 仁志"
+authorsEn:
   - "Youji YAMADA"
   - "Hitoshi KIYA"
 date: "1998-07-01"

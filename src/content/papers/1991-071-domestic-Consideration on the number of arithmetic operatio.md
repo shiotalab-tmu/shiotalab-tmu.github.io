@@ -1,7 +1,11 @@
 ---
 titleJa: "2次元フィルタバンクに要する演算量"
 titleEn: "Consideration on the number of arithmetic operations for two-dimensional filter banks"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "八重 光男"
+  - "岩橋 政宏"
+authorsEn:
   - "Hitoshi KIYA"
   - "Mitsuo YAE"
   - "Masahiro IWAHASHI"

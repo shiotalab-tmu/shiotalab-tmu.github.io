@@ -1,6 +1,9 @@
 ---
 titleEn: "Multirate Repeating Method for Alias Free Subband Adaptive Filters"
-authors:
+authorsJa:
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"
 date: "2002-04-01"

@@ -1,7 +1,11 @@
 ---
 titleJa: "準結託攻撃耐性を有するJPEG 2000符号化画像のための階層的暗号化法"
 titleEn: "A Hierarchical Encryption Method for JPEG 2000 Coded Images with Sub-Resistance to Collusion Attack"
-authors:
+authorsJa:
+  - "橋本 典明"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Noriaki HASHIMOTO"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

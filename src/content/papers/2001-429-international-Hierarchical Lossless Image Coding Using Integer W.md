@@ -1,6 +1,9 @@
 ---
 titleEn: "Hierarchical Lossless Image Coding Using Integer Wavelet Transform"
-authors:
+authorsJa:
+  - "渡邊 修"
+  - "貴家 仁志"
+authorsEn:
   - "Osamu WATANABE"
   - "Hitoshi KIYA"
 date: "2001-07-01"

@@ -1,7 +1,11 @@
 ---
 titleJa: "放送監視のための画質保証可能な電子透かし法"
 titleEn: "A Watermarking Scheme Allowing Desired Picture Quality for Broadcast Monitoring"
-authors:
+authorsJa:
+  - "橘 高志"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Takashi TACHIBANA"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

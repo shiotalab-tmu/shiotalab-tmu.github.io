@@ -1,6 +1,8 @@
 ---
 titleEn: "Blind Scheme with Histogram Peak Estimation for Histogram Modification-Based Lossless Information Embedding"
-authors:
+authorsJa:
+  - "藤吉 正明"
+authorsEn:
   - "Masaaki FUJIYOSHI"
 date: "2013-11-01"
 type: "journal"

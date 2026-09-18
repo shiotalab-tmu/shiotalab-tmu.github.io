@@ -1,7 +1,11 @@
 ---
 titleJa: "再帰形FIRフィルタの並列処理法"
 titleEn: "A Parallel Processing Method for Recursive FIR Filters"
-authors:
+authorsJa:
+  - "伊藤 一広"
+  - "本間 仁志"
+  - "佐川 雅彦"
+authorsEn:
   - "Kazuhiro ITOH"
   - "Hitoshi HONMA"
   - "Masahiko SAGAWA"

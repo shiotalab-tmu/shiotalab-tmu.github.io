@@ -1,7 +1,10 @@
 ---
 titleJa: "変換符号化された画像に対する任意の有理数倍率の解像度変換法"
 titleEn: "Resolution Conversion Method with Arbitrary Rational Values for Transform-Coded Images"
-authors:
+authorsJa:
+  - "村松 正吾"
+  - "貴家 仁志"
+authorsEn:
   - "Shogo MURAMATSU"
   - "Hitoshi KIYA"
 date: "1994-03-01"

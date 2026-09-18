@@ -1,6 +1,10 @@
 ---
 titleEn: "Efficient Fine-Tuning with Domain Adaptation for Privacy-Preserving Vision Transformer"
-authors:
+authorsJa:
+  - "永森 輝"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Teru NAGAMORI"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

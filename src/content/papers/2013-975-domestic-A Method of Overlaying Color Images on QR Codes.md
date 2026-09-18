@@ -1,7 +1,12 @@
 ---
 titleJa: "QRコードへのカラー画像多重化法"
 titleEn: "A Method of Overlaying Color Images on QR Codes"
-authors:
+authorsJa:
+  - "菊池 真徳"
+  - "暴 満粟"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Masanori KIKUCHI"
   - "Mansu BAO"
   - "Masaaki FUJIYOSHI"

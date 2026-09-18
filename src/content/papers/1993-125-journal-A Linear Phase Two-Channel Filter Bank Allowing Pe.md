@@ -1,6 +1,10 @@
 ---
 titleEn: "A Linear Phase Two-Channel Filter Bank Allowing Perfect Reconstruction"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "八重 光男"
+  - "岩橋 政宏"
+authorsEn:
   - "Hitoshi KIYA"
   - "Mitsuo YAE"
   - "Masahiro IWAHASHI"

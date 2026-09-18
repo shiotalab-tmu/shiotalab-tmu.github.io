@@ -1,6 +1,9 @@
 ---
 titleEn: "Parallel Processing Techniques for Multidimensional Sampling Lattice Alteration Based on Overlap-Add and Overlap-Save Methods"
-authors:
+authorsJa:
+  - "村松 正吾"
+  - "貴家 仁志"
+authorsEn:
   - "Shogo MURAMATSU"
   - "Hitoshi KIYA"
 date: "1995-08-01"

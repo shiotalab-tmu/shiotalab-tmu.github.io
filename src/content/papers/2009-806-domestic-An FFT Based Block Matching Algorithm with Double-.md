@@ -1,7 +1,10 @@
 ---
 titleJa: "FFTを用いた二重探索領域ブロックマッチング"
 titleEn: "An FFT Based Block Matching Algorithm with Double-Search-Window"
-authors:
+authorsJa:
+  - "李 禎"
+  - "貴家 仁志"
+authorsEn:
   - "Zhen LI"
   - "Hitoshi KIYA"
 date: "2009-10-15"

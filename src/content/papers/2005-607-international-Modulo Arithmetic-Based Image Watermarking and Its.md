@@ -1,6 +1,11 @@
 ---
 titleEn: "Modulo Arithmetic-Based Image Watermarking and Its Theoretical Analysis of Image-Quality"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "関 裕介"
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Yusuke SEKI"
   - "Hiroyuki KOBAYASHI"

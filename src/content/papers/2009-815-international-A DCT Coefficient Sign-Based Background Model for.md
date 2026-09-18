@@ -1,6 +1,10 @@
 ---
 titleEn: "A DCT Coefficient Sign-Based Background Model for Moving Objects Detection from Motion JPEG Coded Movies"
-authors:
+authorsJa:
+  - "立崎 祐司"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Yuji TACHIZAKI"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

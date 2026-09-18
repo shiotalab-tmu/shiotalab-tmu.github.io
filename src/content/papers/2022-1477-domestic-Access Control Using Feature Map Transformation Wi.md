@@ -1,7 +1,12 @@
 ---
 titleJa: "物体検出モデルのための秘密鍵を用いた特徴マップ変換法によるアクセス制御手法"
 titleEn: "Access Control Using Feature Map Transformation With Secret Key for Object Detection Models"
-authors:
+authorsJa:
+  - "永森 輝"
+  - "伊藤 広樹"
+  - "エイプリルピョンマウンマウン"
+  - "貴家 仁志"
+authorsEn:
   - "Teru NAGAMORI"
   - "Hiroki ITO"
   - "April Pyone MAUNG MAUNG"

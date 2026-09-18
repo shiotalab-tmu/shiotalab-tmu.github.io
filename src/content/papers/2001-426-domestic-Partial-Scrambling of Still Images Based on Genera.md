@@ -1,7 +1,11 @@
 ---
 titleJa: "汎用JPEG2000エンコーダに基づく画像の情報半開示法"
 titleEn: "Partial-Scrambling of Still Images Based on General JPEG2000 Encoder"
-authors:
+authorsJa:
+  - "安藤 勝俊"
+  - "渡邊 修"
+  - "貴家 仁志"
+authorsEn:
   - "Katsutoshi ANDO"
   - "Osamu WATANABE"
   - "Hitoshi KIYA"

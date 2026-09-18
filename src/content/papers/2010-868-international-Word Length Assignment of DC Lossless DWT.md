@@ -1,6 +1,9 @@
 ---
 titleEn: "Word Length Assignment of DC Lossless DWT"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"
 date: "2010-12-16"

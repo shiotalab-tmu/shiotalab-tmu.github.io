@@ -1,6 +1,10 @@
 ---
 titleEn: "Morphological Image Tamper Detecting Method Considering Robustness against Compression"
-authors:
+authorsJa:
+  - "木原 美怜"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Mirei KIHARA"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

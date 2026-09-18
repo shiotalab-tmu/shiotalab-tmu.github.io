@@ -1,6 +1,10 @@
 ---
 titleEn: "Pipelined Architecture of the LMS Adaptive Digital Filter with the Minimum Output Latency"
-authors:
+authorsJa:
+  - "原田 昭男"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Akio HARADA"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

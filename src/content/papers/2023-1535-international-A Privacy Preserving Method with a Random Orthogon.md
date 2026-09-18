@@ -1,6 +1,10 @@
 ---
 titleEn: "A Privacy Preserving Method with a Random Orthogonal Matrix for ConvMixer Models"
-authors:
+authorsJa:
+  - "麻生 伶"
+  - "中満 達也"
+  - "貴家 仁志"
+authorsEn:
   - "Rei ASO"
   - "Tatsuya CHUMAN"
   - "Hitoshi KIYA"

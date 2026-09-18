@@ -1,7 +1,10 @@
 ---
 titleJa: "プライバシー保護を考慮したスパースコーディングの秘匿演算"
 titleEn: "Secure Computation of Sparse Coding for Privacy Protection "
-authors:
+authorsJa:
+  - "仲地 孝之"
+  - "貴家 仁志"
+authorsEn:
   - "Takayuki NAKACHI"
   - "Hitoshi KIYA"
 date: "2018-06-07"

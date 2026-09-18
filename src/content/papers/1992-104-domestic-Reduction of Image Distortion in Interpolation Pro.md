@@ -1,7 +1,12 @@
 ---
 titleJa: "画像の補間処理におけるひずみの除去"
 titleEn: "Reduction of Image Distortion in Interpolation Processing"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "八重 光男"
+  - "小林 弘幸"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi KIYA"
   - "Mitsuo YAE"
   - "Hiroyuki KOBAYASHI"

@@ -1,6 +1,11 @@
 ---
 titleEn: "Grayscale-based Block Scrambling Image Encryption for Social Networking Services"
-authors:
+authorsJa:
+  - "ワリット　シリチョットダムロン"
+  - "中満 達也"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Warit SIRICHOTEDUMRONG"
   - "Tatsuya CHUMAN"
   - "Shoko IMAIZUMI"

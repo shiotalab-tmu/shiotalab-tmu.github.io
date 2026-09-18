@@ -1,6 +1,10 @@
 ---
 titleEn: "Three Dimensional Discrete Wavelet Transform with Deduced Number of Lifting Steps"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "オラチョン テラポン"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Teerapong ORACHON"
   - "Hitoshi KIYA"

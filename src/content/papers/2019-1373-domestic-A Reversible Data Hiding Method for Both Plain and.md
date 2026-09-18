@@ -1,7 +1,12 @@
 ---
 titleJa: "埋込み領域選択可能な暗号化画像のための可逆情報埋込み法"
 titleEn: "A Reversible Data Hiding Method for Both Plain and Encrypted Images"
-authors:
+authorsJa:
+  - "井澤 佑介"
+  - "平澤 凌一"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Yusuke Izawa"
   - "Ryoichi HIRASAWA"
   - "Shoko IMAIZUMI"

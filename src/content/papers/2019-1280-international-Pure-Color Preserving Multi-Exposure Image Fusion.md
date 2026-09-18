@@ -1,6 +1,10 @@
 ---
 titleEn: "Pure-Color Preserving Multi-Exposure Image Fusion"
-authors:
+authorsJa:
+  - "アーティット ビサワキットチャロエン"
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Artit VISAVAKITCHAROEN"
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"

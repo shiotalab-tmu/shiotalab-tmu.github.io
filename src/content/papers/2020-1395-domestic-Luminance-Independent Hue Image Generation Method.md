@@ -1,7 +1,10 @@
 ---
 titleJa: "CIELAB色空間に基づく輝度を排除した色相画像の生成法"
 titleEn: "Luminance-Independent Hue Image Generation Method Based on CIELAB Color Space"
-authors:
+authorsJa:
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"
 date: "2020-06-03"

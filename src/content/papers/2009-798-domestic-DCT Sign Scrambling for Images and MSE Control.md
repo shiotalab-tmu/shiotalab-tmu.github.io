@@ -1,7 +1,10 @@
 ---
 titleJa: "画像のDCT符号スクランブルとMSE制御"
 titleEn: "DCT Sign Scrambling for Images and MSE Control"
-authors:
+authorsJa:
+  - "伊藤 泉"
+  - "貴家 仁志"
+authorsEn:
   - "Izumi ITO"
   - "Hitoshi KIYA"
 date: "2009-09-16"

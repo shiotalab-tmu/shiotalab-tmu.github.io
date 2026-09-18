@@ -1,6 +1,9 @@
 ---
 titleEn: "Block-wise Image Transformation with Secret Key for Adversarially Robust Defense"
-authors:
+authorsJa:
+  - "エイプリルピョンマウンマウン"
+  - "貴家 仁志"
+authorsEn:
   - "April Pyone MAUNG MAUNG"
   - "Hitoshi KIYA"
 date: "2021-03-01"

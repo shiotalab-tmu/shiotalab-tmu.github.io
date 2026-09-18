@@ -1,7 +1,11 @@
 ---
 titleJa: "領域再分割のためのJPEG画像へのデータ埋め込み法"
 titleEn: "A Method of Inserting Information for Object Segmentation into JPEG Bitstreams"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "野口 祥宏"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Yoshihiro NOGUCHI"
   - "Hitoshi KIYA"

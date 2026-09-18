@@ -1,6 +1,10 @@
 ---
 titleEn: "No-Reference PSNR Estimation for Quality Monitoring of Motion JPEG2000 Video over Lossy Packet Networks"
-authors:
+authorsJa:
+  - "西川 清史"
+  - "ハイルル ムナディ"
+  - "貴家 仁志"
+authorsEn:
   - "Kiyoshi NISHIKAWA"
   - "Khairul Munadi"
   - "Hitoshi KIYA"

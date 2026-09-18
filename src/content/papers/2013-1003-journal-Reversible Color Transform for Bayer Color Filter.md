@@ -1,6 +1,11 @@
 ---
 titleEn: "Reversible Color Transform for Bayer Color Filter Array Images"
-authors:
+authorsJa:
+  - "ポームリチグン スヴィット"
+  - "小川 公則"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Suvit POOMRITTIGUL"
   - "Masanori OGAWA"
   - "Masahiro IWAHASHI"

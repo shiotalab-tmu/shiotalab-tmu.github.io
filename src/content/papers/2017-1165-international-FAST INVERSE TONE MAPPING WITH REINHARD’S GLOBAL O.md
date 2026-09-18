@@ -1,6 +1,10 @@
 ---
 titleEn: "FAST INVERSE TONE MAPPING WITH REINHARD’S GLOBAL OPERATOR"
-authors:
+authorsJa:
+  - "木下 裕磨"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Yuma KINOSHITA"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

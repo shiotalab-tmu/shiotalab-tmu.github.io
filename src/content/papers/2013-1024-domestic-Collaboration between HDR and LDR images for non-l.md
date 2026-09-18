@@ -1,7 +1,11 @@
 ---
 titleJa: "ノンローカルミーンフィルタのためのHDR画像とLDR画像の協調法"
 titleEn: "Collaboration between HDR and LDR images for non-local means filtering"
-authors:
+authorsJa:
+  - "葉山 書緯"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Shoi HAYAMA"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

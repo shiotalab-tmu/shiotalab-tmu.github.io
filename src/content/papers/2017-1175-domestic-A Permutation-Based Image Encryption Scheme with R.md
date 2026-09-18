@@ -1,7 +1,11 @@
 ---
 titleJa: "攻撃耐性向上のためのブロックスクランブル暗号化法とその鍵管理 "
 titleEn: "A Permutation-Based Image Encryption Scheme with Resistance against Some Attacks and Its Key Management"
-authors:
+authorsJa:
+  - "小笠原 剛史"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Takeshi OGASAWARA"
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"

@@ -1,6 +1,11 @@
 ---
 titleEn: "Phase representation based on HSV color model for acoustic classification with convolutional neural networks"
-authors:
+authorsJa:
+  - "城間 佑樹"
+  - "木下 裕磨"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Yuki Shiroma"
   - "Yuma KINOSHITA"
   - "Sayaka SHIOTA"

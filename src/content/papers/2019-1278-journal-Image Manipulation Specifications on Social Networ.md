@@ -1,6 +1,11 @@
 ---
 titleEn: "Image Manipulation Specifications on Social Networking Services for Encryption-then-Compression Systems"
-authors:
+authorsJa:
+  - "中満 達也"
+  - "飯田 健太"
+  - "ワリット　シリチョットダムロン"
+  - "貴家 仁志"
+authorsEn:
   - "Tatsuya CHUMAN"
   - "Kenta IIDA"
   - "Warit SIRICHOTEDUMRONG"

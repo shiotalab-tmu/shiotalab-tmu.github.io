@@ -1,7 +1,12 @@
 ---
 titleJa: "カーネル法を用いたスパース表現に基づくセキュアな顔識別法"
 titleEn: "A Secure Face Recognition Method Using Kernel Sparse Representation"
-authors:
+authorsJa:
+  - "古川 昌和"
+  - "村木 雄一"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Masakazu FURUKAWA"
   - "Yuichi MURAKI"
   - "Masaaki FUJIYOSHI"

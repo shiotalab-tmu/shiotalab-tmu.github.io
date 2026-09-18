@@ -1,6 +1,10 @@
 ---
 titleJa: "信号の多重解像度変換に伴うエリアシングエネルギの評価"
-authors:
+authorsJa:
+  - "安久津 幸絵"
+  - "貴家 仁志"
+  - "佐川 雅彦"
+authorsEn:
   - "Yukie AKUTSU"
   - "Hitoshi KIYA"
   - "Masahiko SAGAWA"

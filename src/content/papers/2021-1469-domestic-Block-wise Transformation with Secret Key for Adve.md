@@ -1,7 +1,11 @@
 ---
 titleJa: "敵対的サンプル攻撃にロバストなSVMモデルのための秘密鍵を用いたブロック変換法"
 titleEn: "Block-wise Transformation with Secret Key for Adversary Robust Defence of SVM model"
-authors:
+authorsJa:
+  - "飯島 諒太"
+  - "エイプリルピョンマウンマウン"
+  - "貴家 仁志"
+authorsEn:
   - "Ryota IIJIMA"
   - "April Pyone MAUNG MAUNG"
   - "Hitoshi KIYA"

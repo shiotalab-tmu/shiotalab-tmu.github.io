@@ -1,7 +1,11 @@
 ---
 titleJa: "二重JPEG画像の同定法とSNSへの応用"
 titleEn: "An Image Identification Scheme for Double-Compressed JPEG Images and Its Application to SNSs "
-authors:
+authorsJa:
+  - "飯田 健太"
+  - "中満 達也"
+  - "貴家 仁志"
+authorsEn:
   - "Kenta IIDA"
   - "Tatsuya CHUMAN"
   - "Hitoshi KIYA"

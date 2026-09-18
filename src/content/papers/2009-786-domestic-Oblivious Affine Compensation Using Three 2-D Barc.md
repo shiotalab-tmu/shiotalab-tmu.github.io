@@ -1,7 +1,11 @@
 ---
 titleJa: "3つの二次元コードを用いた原画像不要な画像アフィン歪み補正法"
 titleEn: "Oblivious Affine Compensation Using Three 2-D Barcodes"
-authors:
+authorsJa:
+  - "清水 雅史"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Masashi SHIMIZU"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

@@ -1,6 +1,10 @@
 ---
 titleEn: "Two-layer lossless coding for high dynamic range images based on range compression and adaptive inverse tone-mapping"
-authors:
+authorsJa:
+  - "吉田 太一"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Taichi YOSHIDA"
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"

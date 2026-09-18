@@ -1,6 +1,10 @@
 ---
 titleEn: "Scale Factor of Resolution Conversion Based on Orthogonal Transforms"
-authors:
+authorsJa:
+  - "村松 正吾"
+  - "貴家 仁志"
+  - "佐川 雅彦"
+authorsEn:
   - "Shogo MURAMATSU"
   - "Hitoshi KIYA"
   - "Masahiko SAGAWA"

@@ -1,7 +1,10 @@
 ---
 titleJa: "DCT-SPCによる非整数サンプルシフト量推定のための双峰性モデルフィッティング関数"
 titleEn: "Multiple-Peak Model Fitting Function for Estimating Noninteger Shifted Values Using DCT-SPC"
-authors:
+authorsJa:
+  - "伊藤 泉"
+  - "貴家 仁志"
+authorsEn:
   - "Izumi ITO"
   - "Hitoshi KIYA"
 date: "2008-11-12"

@@ -1,6 +1,9 @@
 ---
 titleEn: "SEPARATED-SPECTRAL-DISTRIBUTION ESTIMATION BASED ON BAYESIAN INFERENCE WITH SINGLE RGB CAMERA"
-authors:
+authorsJa:
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"
 date: "2021-09-21"

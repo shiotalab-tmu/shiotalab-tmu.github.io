@@ -1,6 +1,10 @@
 ---
 titleEn: "Partial-Scrambling of Image Encoded Using JPEG2000 without Generating Marker Codes"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "今泉 祥子"
+  - "渡邊 修"
+authorsEn:
   - "Hitoshi KIYA"
   - "Shoko IMAIZUMI"
   - "Osamu WATANABE"

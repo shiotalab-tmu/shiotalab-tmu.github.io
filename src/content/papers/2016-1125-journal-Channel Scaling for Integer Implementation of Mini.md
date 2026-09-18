@@ -1,6 +1,11 @@
 ---
 titleEn: "Channel Scaling for Integer Implementation of Minimum Lifting 2D Wavelet Transform"
-authors:
+authorsJa:
+  - "オラチョン テラポン"
+  - "吉田 太一"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Teerapong ORACHON"
   - "Taichi YOSHIDA"
   - "Masahiro IWAHASHI"

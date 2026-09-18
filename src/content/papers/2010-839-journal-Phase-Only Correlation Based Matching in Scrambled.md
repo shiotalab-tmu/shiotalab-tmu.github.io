@@ -1,6 +1,9 @@
 ---
 titleEn: "Phase-Only Correlation Based Matching in Scrambled Domain for Preventing Illegal Matching"
-authors:
+authorsJa:
+  - "伊藤 泉"
+  - "貴家 仁志"
+authorsEn:
   - "Izumi ITO"
   - "Hitoshi KIYA"
 date: "2010-06-27"

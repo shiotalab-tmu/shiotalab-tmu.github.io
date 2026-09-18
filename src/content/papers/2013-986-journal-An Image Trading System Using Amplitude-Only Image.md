@@ -1,6 +1,10 @@
 ---
 titleEn: "An Image Trading System Using Amplitude-Only Images for Privacy- and Copyright-Protection"
-authors:
+authorsJa:
+  - "劉 審川"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Shen Chuan LIU"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

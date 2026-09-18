@@ -1,6 +1,11 @@
 ---
 titleEn: "A Content-Based Image Retrieval for Visually-Protected Images Database"
-authors:
+authorsJa:
+  - "ハイルル ムナディ"
+  - "フィトリ アルニア"
+  - "バシルディン モハマドシャリャディ"
+  - "貴家 仁志"
+authorsEn:
   - "Khairul Munadi"
   - "Fitri Arnia"
   - "Mohammad Syaryadhi BASYIRUDDIN"

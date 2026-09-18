@@ -1,6 +1,11 @@
 ---
 titleJa: "Pパラメ-タによる線形回路網の解析"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "石原 武志"
+  - "神林 紀嘉"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi KIYA"
   - "Takeshi ISHIHARA"
   - "Noriyoshi KAMBAYASHI"

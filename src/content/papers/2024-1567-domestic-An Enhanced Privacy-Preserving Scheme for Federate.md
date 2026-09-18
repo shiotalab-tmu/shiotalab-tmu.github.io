@@ -1,7 +1,11 @@
 ---
 titleJa: "Vision Transformer の連合学習のためのモデル精度の劣化を生じないプライバシー保護強化法"
 titleEn: "An Enhanced Privacy-Preserving Scheme for Federated Learning of Vision Transformer without Model Performance Degradation "
-authors:
+authorsJa:
+  - "麻生 伶"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Rei ASO"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

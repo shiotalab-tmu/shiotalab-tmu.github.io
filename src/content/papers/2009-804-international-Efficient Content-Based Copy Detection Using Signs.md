@@ -1,6 +1,11 @@
 ---
 titleEn: "Efficient Content-Based Copy Detection Using Signs of DCT Coefficient"
-authors:
+authorsJa:
+  - "フィトリ アルニア"
+  - "ハイルル ムナディ"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Fitri Arnia"
   - "Khairul Munadi"
   - "Masaaki FUJIYOSHI"

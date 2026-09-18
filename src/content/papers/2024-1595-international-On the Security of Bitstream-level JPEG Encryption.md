@@ -1,6 +1,10 @@
 ---
 titleEn: "On the Security of Bitstream-level JPEG Encryption with Restart Markers"
-authors:
+authorsJa:
+  - "廣瀬万玲"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Mare Hirose"
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"

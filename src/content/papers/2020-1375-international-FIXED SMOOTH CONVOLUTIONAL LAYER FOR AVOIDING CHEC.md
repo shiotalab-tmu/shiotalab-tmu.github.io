@@ -1,6 +1,9 @@
 ---
 titleEn: "FIXED SMOOTH CONVOLUTIONAL LAYER FOR AVOIDING CHECKERBOARD ARTIFACTS IN CNNS"
-authors:
+authorsJa:
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"
 date: "2020-05-06"

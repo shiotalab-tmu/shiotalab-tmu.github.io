@@ -1,7 +1,11 @@
 ---
 titleJa: "合成音検出を用いた話者照合のためのデータクレンジングの検討"
 titleEn: "Data cleansing using synthetic speech detection for speaker verification "
-authors:
+authorsJa:
+  - "和田　賢造"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Kenzo WADA"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

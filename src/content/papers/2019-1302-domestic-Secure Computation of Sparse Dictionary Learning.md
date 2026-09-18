@@ -1,7 +1,11 @@
 ---
 titleJa: "スパース辞書学習の秘匿演算"
 titleEn: "Secure Computation of Sparse Dictionary Learning"
-authors:
+authorsJa:
+  - "仲地 孝之"
+  - "坂東 幸浩"
+  - "貴家 仁志"
+authorsEn:
   - "Takayuki NAKACHI"
   - "Yukihiro Bandoh"
   - "Hitoshi KIYA"

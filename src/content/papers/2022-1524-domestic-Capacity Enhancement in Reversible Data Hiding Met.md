@@ -1,7 +1,11 @@
 ---
 titleJa: "EtC画像に対する可逆情報埋込み法における埋込み容量の拡張"
 titleEn: "Capacity Enhancement in Reversible Data Hiding Method for EtC Images"
-authors:
+authorsJa:
+  - "本村 遼太"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Ryota MOTOMURA"
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"

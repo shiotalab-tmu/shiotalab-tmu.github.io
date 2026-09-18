@@ -1,6 +1,9 @@
 ---
 titleEn: "A protection method of trained CNN model with a secret key from unauthorized access"
-authors:
+authorsJa:
+  - "エイプリルピョンマウンマウン"
+  - "貴家 仁志"
+authorsEn:
   - "April Pyone MAUNG MAUNG"
   - "Hitoshi KIYA"
 date: "2021-07-09"

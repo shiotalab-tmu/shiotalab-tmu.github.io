@@ -1,7 +1,14 @@
 ---
 titleJa: "動画像配信のための下位互換性を考慮したパケットレベルLDGM符号の構成と理論解析"
 titleEn: "Construction Method and Theoretical Analysis of Packet-Level Low-Density Generator Matrix Codes to Allow Backward Compatibility for Video Streaming"
-authors:
+authorsJa:
+  - "外村 喜秀"
+  - "白井 大介"
+  - "北村 匡彦"
+  - "仲地 孝之"
+  - "藤井 竜也"
+  - "貴家 仁志"
+authorsEn:
   - "Yoshihide TONOMURA"
   - "Daisuke SHIRAI"
   - "Masahiko KITAMURA"

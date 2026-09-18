@@ -1,7 +1,11 @@
 ---
 titleJa: "Reinhardのトーンマッピング関数に基づく逆トーンマッピング法"
 titleEn: "Inverse Tone Mapping Based on Reinhard's Tone Mapping Operator "
-authors:
+authorsJa:
+  - "木下 裕磨"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Yuma KINOSHITA"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

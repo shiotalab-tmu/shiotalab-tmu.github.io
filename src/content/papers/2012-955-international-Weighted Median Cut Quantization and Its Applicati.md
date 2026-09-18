@@ -1,6 +1,10 @@
 ---
 titleEn: "Weighted Median Cut Quantization and Its Applications"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"

@@ -1,6 +1,11 @@
 ---
 titleJa: "複素係数フィルタを用いた直線位相完全再構成FIRフィルタバンク"
-authors:
+authorsJa:
+  - "尾知 博"
+  - "大野 孝"
+  - "金城 繁徳"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroshi OCHI"
   - "Takashi OHNO"
   - "Shigenori KINJO"

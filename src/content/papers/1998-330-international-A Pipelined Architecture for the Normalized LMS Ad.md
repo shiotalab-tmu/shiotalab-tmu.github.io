@@ -1,6 +1,10 @@
 ---
 titleEn: "A Pipelined Architecture for the Normalized LMS Adaptive Digital Filters"
-authors:
+authorsJa:
+  - "原田 昭男"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Akio HARADA"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

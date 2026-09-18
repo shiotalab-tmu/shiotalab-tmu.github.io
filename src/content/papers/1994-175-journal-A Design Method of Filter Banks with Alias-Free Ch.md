@@ -1,7 +1,11 @@
 ---
 titleJa: "等分割周波数点でAlias-Freeな新しいクラスのフィルタバンクの設計法"
 titleEn: "A Design Method of Filter Banks with Alias-Free Characteristics at Equally Spaced Frequency Points"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "山崎 広達"
+  - "山田 洋士"
+authorsEn:
   - "Hitoshi KIYA"
   - "Hirotatsu YAMAZAKI"
   - "Youji YAMADA"

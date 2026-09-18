@@ -1,6 +1,13 @@
 ---
 titleEn: "Voice liveness detection algorithms based on pop noise caused by human breath for automatic speaker verification"
-authors:
+authorsJa:
+  - "塩田 さやか"
+  - "フェルナンド ビリャビセンシオ"
+  - "山岸 順一"
+  - "小野 順貴"
+  - "越前 功"
+  - "松井 知子"
+authorsEn:
   - "Sayaka SHIOTA"
   - "Fernando Villaviencio"
   - "Junichi YAMAGISHI"

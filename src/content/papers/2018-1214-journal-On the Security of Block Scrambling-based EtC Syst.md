@@ -1,6 +1,10 @@
 ---
 titleEn: "On the Security of Block Scrambling-based EtC Systems against Extended Jigsaw Puzzle Solver Attacks"
-authors:
+authorsJa:
+  - "中満 達也"
+  - "栗原 健太"
+  - "貴家 仁志"
+authorsEn:
   - "Tatsuya CHUMAN"
   - "Kenta KURIHARA"
   - "Hitoshi KIYA"

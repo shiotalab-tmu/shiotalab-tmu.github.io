@@ -1,7 +1,10 @@
 ---
 titleJa: "カーネル適応アルゴリズムにおける固定次数での辞書の生成法"
 titleEn: "An Implementation Method of Kernel Adaptive Filters with Fixed Order Dictionary"
-authors:
+authorsJa:
+  - "小川 芳樹"
+  - "西川 清史"
+authorsEn:
   - "Yoshiki OGAWA"
   - "Kiyoshi NISHIKAWA"
 date: "2012-03-23"

@@ -1,7 +1,12 @@
 ---
 titleJa: "DWTを用いる画質保証型電子透かし法の一拡張"
 titleEn: "A Generalized DWT-Based Watermarking Method Allowing a Desired Image Quality"
-authors:
+authorsJa:
+  - "近野 俊"
+  - "河西 元彦"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Shun KONNO"
   - "Motohiko KASAI"
   - "Masaaki FUJIYOSHI"

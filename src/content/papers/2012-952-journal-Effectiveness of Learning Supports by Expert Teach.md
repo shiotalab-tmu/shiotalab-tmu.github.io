@@ -1,7 +1,11 @@
 ---
 titleJa: "デジタルペンを活用した授業でのエキスパート等による学習支援の有効性"
 titleEn: "Effectiveness of Learning Supports by Expert Teachers in Lessons Using a Digital Pen"
-authors:
+authorsJa:
+  - "松波 紀幸"
+  - "永井 正洋"
+  - "貴家 仁志"
+authorsEn:
   - "Noriyuki MATSUNAMI"
   - "Masahiro NAGAI"
   - "Hitoshi KIYA"

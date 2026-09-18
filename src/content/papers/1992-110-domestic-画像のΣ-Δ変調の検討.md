@@ -1,6 +1,9 @@
 ---
 titleJa: "画像のΣ-Δ変調の検討"
-authors:
+authorsJa:
+  - "八重 光男"
+  - "貴家 仁志"
+authorsEn:
   - "Mitsuo YAE"
   - "Hitoshi KIYA"
 date: "1992-11-01"

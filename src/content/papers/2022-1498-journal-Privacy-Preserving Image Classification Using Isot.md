@@ -1,6 +1,9 @@
 ---
 titleEn: "Privacy-Preserving Image Classification Using Isotropic Network"
-authors:
+authorsJa:
+  - "エイプリルピョンマウンマウン"
+  - "貴家 仁志"
+authorsEn:
   - "April Pyone MAUNG MAUNG"
   - "Hitoshi KIYA"
 date: "2022-04-19"

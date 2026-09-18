@@ -1,6 +1,9 @@
 ---
 titleEn: "Training DNN Model with Secret Key for Model Protection"
-authors:
+authorsJa:
+  - "エイプリルピョンマウンマウン"
+  - "貴家 仁志"
+authorsEn:
   - "April Pyone MAUNG MAUNG"
   - "Hitoshi KIYA"
 date: "2020-10-16"

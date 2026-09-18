@@ -1,7 +1,11 @@
 ---
 titleJa: "ディジタルコンテンツのアクセス制御のための再帰ハッシュ連鎖を用いた暗号鍵生成方式"
 titleEn: "A Key Generating Method with Recursive Hash Chain for Access Control of Digital Content"
-authors:
+authorsJa:
+  - "今泉 祥子"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Shoko IMAIZUMI"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

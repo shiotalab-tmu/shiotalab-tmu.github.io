@@ -1,6 +1,9 @@
 ---
 titleEn: "Noise Bias Compensation of Tone Mapped Noisy Image"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"
 date: "2014-10-29"

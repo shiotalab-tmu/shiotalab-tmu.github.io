@@ -1,6 +1,10 @@
 ---
 titleEn: "An Inverse Tone Mapping Operation with Two Integer Data for HDR images"
-authors:
+authorsJa:
+  - "土橋 俊之"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Toshiyuki DOBASHI"
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"

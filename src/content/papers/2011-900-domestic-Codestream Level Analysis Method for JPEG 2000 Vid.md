@@ -1,7 +1,11 @@
 ---
 titleJa: "コードストリームレベルにおけるJPEG 2000符号化ビデオの一解析法"
 titleEn: "Codestream Level Analysis Method for JPEG 2000 Video"
-authors:
+authorsJa:
+  - "渡邊 修"
+  - "福原 隆浩"
+  - "貴家 仁志"
+authorsEn:
   - "Osamu WATANABE"
   - "Takahiro FUKUHARA"
   - "Hitoshi KIYA"

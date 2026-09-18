@@ -1,6 +1,10 @@
 ---
 titleEn: "Classification of Identified Images Using Several Image Identification Methods"
-authors:
+authorsJa:
+  - "内田 輝"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Akira UCHIDA"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

@@ -1,6 +1,9 @@
 ---
 titleEn: "Two Layer Coding Based on JPEG 2000 for HDR Images"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"
 date: "2017-01-08"

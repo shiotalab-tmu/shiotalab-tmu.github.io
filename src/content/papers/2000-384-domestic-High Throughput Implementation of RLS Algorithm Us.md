@@ -1,7 +1,11 @@
 ---
 titleJa: "少数の演算ユニットでのRLSアルゴリズムの高スループット実現"
 titleEn: "High Throughput Implementation of RLS Algorithm Using Number of Processing Units"
-authors:
+authorsJa:
+  - "山田 力太"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Rikita YAMADA"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

@@ -1,7 +1,11 @@
 ---
 titleJa: "アップスケーリング処理を含む畳み込みニューラルネットワークのためのチェス盤ひずみ回避法"
 titleEn: "Avoiding checkerboard artifact in convolutional neural networks including upsampling layers"
-authors:
+authorsJa:
+  - "菅原 佑介"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Yusuke Sugawara"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

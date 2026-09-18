@@ -1,6 +1,10 @@
 ---
 titleEn: "Enhanced Security With Encrypted Vision Transformer in Federated Learning"
-authors:
+authorsJa:
+  - "麻生 伶"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Rei ASO"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

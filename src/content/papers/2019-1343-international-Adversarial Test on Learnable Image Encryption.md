@@ -1,6 +1,10 @@
 ---
 titleEn: "Adversarial Test on Learnable Image Encryption"
-authors:
+authorsJa:
+  - "エイプリルピョンマウンマウン"
+  - "ワリット　シリチョットダムロン"
+  - "貴家 仁志"
+authorsEn:
   - "April Pyone MAUNG MAUNG"
   - "Warit SIRICHOTEDUMRONG"
   - "Hitoshi KIYA"

@@ -1,7 +1,11 @@
 ---
 titleJa: "変換符号化法における基底係数のビット数低減法"
 titleEn: "Bit Reduction of DCT Basis for Transform Coding"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "神林 紀嘉"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Noriyoshi KAMBAYASHI"
   - "Hitoshi KIYA"

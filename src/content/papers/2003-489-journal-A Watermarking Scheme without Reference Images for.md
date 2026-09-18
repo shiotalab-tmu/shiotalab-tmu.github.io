@@ -1,7 +1,11 @@
 ---
 titleJa: "放送監視のための非参照型画像電子透かし法"
 titleEn: "A Watermarking Scheme without Reference Images for Broadcast Monitoring"
-authors:
+authorsJa:
+  - "橘 高志"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Takashi TACHIBANA"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

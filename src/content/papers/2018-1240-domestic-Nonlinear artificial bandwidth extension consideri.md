@@ -1,7 +1,11 @@
 ---
 titleJa: "話者照合のための回り込みを考慮した非線形帯域拡張法と通信音声による評価"
 titleEn: "Nonlinear artificial bandwidth extension considering aliasing artifacts for speaker verification and its evaluation to communication signals"
-authors:
+authorsJa:
+  - "上西 遼大"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Ryota KAMINISHI"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

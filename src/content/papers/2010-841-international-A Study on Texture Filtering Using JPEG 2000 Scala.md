@@ -1,6 +1,10 @@
 ---
 titleEn: "A Study on Texture Filtering Using JPEG 2000 Scalabilities"
-authors:
+authorsJa:
+  - "小林 悠紀"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Yuki KOBAYASHI"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

@@ -1,6 +1,10 @@
 ---
 titleEn: "A Structure of JPEG XT Encoder considering Effect of Quantization Error"
-authors:
+authorsJa:
+  - "渡邊 修"
+  - "鈴木 亮"
+  - "貴家 仁志"
+authorsEn:
   - "Osamu WATANABE"
   - "Ryo SUZUKI"
   - "Hitoshi KIYA"

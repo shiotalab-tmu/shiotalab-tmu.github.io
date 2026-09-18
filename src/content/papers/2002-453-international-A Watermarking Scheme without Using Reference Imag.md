@@ -1,6 +1,10 @@
 ---
 titleEn: "A Watermarking Scheme without Using Reference Images for Monitoring On-Air Video Images"
-authors:
+authorsJa:
+  - "橘 高志"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Takashi TACHIBANA"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

@@ -1,7 +1,11 @@
 ---
 titleJa: "i-vectorを用いた話者照合のための非線形帯域拡張法及びフィルタ設計に関する検討"
 titleEn: "Nonlinear artifical bandwidth extension and filter design for i-vector based speaker verification"
-authors:
+authorsJa:
+  - "上西 遼大"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Ryota KAMINISHI"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

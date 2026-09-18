@@ -1,7 +1,12 @@
 ---
 titleJa: "埋込位置の特定を必要としないJPEG画像へのデータ埋込法"
 titleEn: "A Data Hiding Method without Specifying Embedded Positions for JPEG Images"
-authors:
+authorsJa:
+  - "関 裕介"
+  - "小林 弘幸"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Yusuke SEKI"
   - "Hiroyuki KOBAYASHI"
   - "Masaaki FUJIYOSHI"

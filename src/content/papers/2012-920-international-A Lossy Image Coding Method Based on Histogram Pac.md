@@ -1,6 +1,10 @@
 ---
 titleEn: "A Lossy Image Coding Method Based on Histogram Packing"
-authors:
+authorsJa:
+  - "小林 悠紀"
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Yuki KOBAYASHI"
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"

@@ -1,7 +1,9 @@
 ---
 titleJa: "画像のためのスクランブル可能な可逆情報埋込法に関する一検討"
 titleEn: "A Study on Scrambling by Reversible Data Hiding for Images"
-authors:
+authorsJa:
+  - "藤吉 正明"
+authorsEn:
   - "Masaaki FUJIYOSHI"
 date: "2010-09-15"
 type: "domestic"

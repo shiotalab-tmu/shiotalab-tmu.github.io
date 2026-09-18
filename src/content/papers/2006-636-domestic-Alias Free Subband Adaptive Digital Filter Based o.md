@@ -1,7 +1,11 @@
 ---
 titleJa: "固定小数点のためのAFSAFによるRLS適応フィルタの構成法"
 titleEn: "Alias Free Subband Adaptive Digital Filter Based on Recursive Least Squares Algorithm for Fixed Point Arithmetic"
-authors:
+authorsJa:
+  - "遠藤 耕太"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Kota ENDO"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

@@ -1,7 +1,10 @@
 ---
 titleJa: "非線形帯域拡張法に基づく音声認識の改善"
 titleEn: "Non-linear artificial bandwidth extension of narrowband speech for speech recognition"
-authors:
+authorsJa:
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"
 date: "2017-03-16"

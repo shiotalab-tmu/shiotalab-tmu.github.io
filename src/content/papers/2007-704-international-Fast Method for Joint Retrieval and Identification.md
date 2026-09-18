@@ -1,6 +1,11 @@
 ---
 titleEn: "Fast Method for Joint Retrieval and Identification of JPEG Coded Images Based on DCT Sign"
-authors:
+authorsJa:
+  - "フィトリ アルニア"
+  - "飯塚 郁絵"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Fitri Arnia"
   - "Ikue IIZUKA"
   - "Masaaki FUJIYOSHI"

@@ -1,6 +1,10 @@
 ---
 titleEn: "A Reversible Data Hiding Method Free from Location Map and Parameter Memorization"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "常吉 高弘"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Takahiro TSUNEYOSHI"
   - "Hitoshi KIYA"

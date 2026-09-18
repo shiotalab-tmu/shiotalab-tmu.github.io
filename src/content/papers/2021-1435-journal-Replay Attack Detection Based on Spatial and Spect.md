@@ -1,6 +1,11 @@
 ---
 titleEn: "Replay Attack Detection Based on Spatial and Spectral Features of Stereo Signal"
-authors:
+authorsJa:
+  - "矢口 凌也"
+  - "塩田 さやか"
+  - "小野 順貴"
+  - "貴家 仁志"
+authorsEn:
   - "Ryoya YAGUCHI"
   - "Sayaka SHIOTA"
   - "Nobutaka ONO"

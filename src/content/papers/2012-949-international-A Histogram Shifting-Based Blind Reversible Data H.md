@@ -1,6 +1,8 @@
 ---
 titleEn: "A Histogram Shifting-Based Blind Reversible Data Hiding Method with a Histogram Peak Estimator"
-authors:
+authorsJa:
+  - "藤吉 正明"
+authorsEn:
   - "Masaaki FUJIYOSHI"
 date: "2012-10-03"
 type: "international"

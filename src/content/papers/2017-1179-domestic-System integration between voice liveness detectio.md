@@ -1,7 +1,11 @@
 ---
 titleJa: "ポップノイズに含まれる音素情報を用いた声の生体検知と話者照合システムの統合"
 titleEn: "System integration between voice liveness detection based on pop-noise detector considering phoneme information and automatic speaker verification"
-authors:
+authorsJa:
+  - "望月 紫穂野"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Shihono MOCHIZUKI"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

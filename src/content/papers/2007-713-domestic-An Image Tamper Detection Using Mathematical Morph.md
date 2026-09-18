@@ -1,7 +1,11 @@
 ---
 titleJa: "モルフォロジーを用いた画像改ざん検出法における圧縮耐性の検討"
 titleEn: "An Image Tamper Detection Using Mathematical Morphology with Compression Tolerance"
-authors:
+authorsJa:
+  - "木原 美怜"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Mirei KIHARA"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

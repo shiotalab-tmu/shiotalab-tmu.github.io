@@ -1,7 +1,10 @@
 ---
 titleJa: "EtC画像からのHOG特徴量抽出とその機械学習による画像分類への応用"
 titleEn: "HOG feature extraction from EtC images, and its application to image classification with machine learning"
-authors:
+authorsJa:
+  - "北山　昌希"
+  - "貴家 仁志"
+authorsEn:
   - "Masaki KITAYAMA"
   - "Hitoshi KIYA"
 date: "2018-10-25"

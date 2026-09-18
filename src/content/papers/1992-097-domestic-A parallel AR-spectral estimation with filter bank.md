@@ -1,7 +1,12 @@
 ---
 titleJa: "フィルタバンクを用いた並列ARスペクトル推定"
 titleEn: "A parallel AR-spectral estimation with filter banks"
-authors:
+authorsJa:
+  - "宮崎 恭子"
+  - "西川 清史"
+  - "貴家 仁志"
+  - "佐川 雅彦"
+authorsEn:
   - "Kyoko MIYAZAKI"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

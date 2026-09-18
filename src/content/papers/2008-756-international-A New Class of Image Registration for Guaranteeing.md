@@ -1,6 +1,9 @@
 ---
 titleEn: "A New Class of Image Registration for Guaranteeing Secure Data Management"
-authors:
+authorsJa:
+  - "伊藤 泉"
+  - "貴家 仁志"
+authorsEn:
   - "Izumi ITO"
   - "Hitoshi KIYA"
 date: "2008-10-13"

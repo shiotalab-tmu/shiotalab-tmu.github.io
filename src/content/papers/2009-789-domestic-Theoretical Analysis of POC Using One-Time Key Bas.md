@@ -1,7 +1,10 @@
 ---
 titleJa: "ワンタイムキーを用いた位相スクランブル信号のためのPOCの理論解析"
 titleEn: "Theoretical Analysis of POC Using One-Time Key Based Phase Scrambling"
-authors:
+authorsJa:
+  - "伊藤 泉"
+  - "貴家 仁志"
+authorsEn:
   - "Izumi ITO"
   - "Hitoshi KIYA"
 date: "2009-07-01"

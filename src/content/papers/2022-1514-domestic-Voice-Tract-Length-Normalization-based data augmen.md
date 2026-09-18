@@ -1,7 +1,11 @@
 ---
 titleJa: "多言語音声データベースを用いた話者照合のための声道長正規化によるデータ拡張"
 titleEn: "Voice-Tract-Length-Normalization-based data augmentation for speaker verification with mixed language speech database"
-authors:
+authorsJa:
+  - "若松 智花"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Tomoka WAKAMATSU"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

@@ -1,6 +1,10 @@
 ---
 titleEn: "Privacy-Preserving ConvMixer Without Any Accuracy Degradation Using Compressible Encrypted Images"
-authors:
+authorsJa:
+  - "Lin Haiwei "
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Haiwei Lin "
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"

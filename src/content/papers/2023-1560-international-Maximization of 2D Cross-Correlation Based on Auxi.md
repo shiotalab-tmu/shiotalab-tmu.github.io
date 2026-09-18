@@ -1,6 +1,10 @@
 ---
 titleEn: "Maximization of 2D Cross-Correlation Based on Auxiliary Function Method for Image Alignment"
-authors:
+authorsJa:
+  - "木下 裕磨"
+  - "山岡 洸瑛 "
+  - "貴家 仁志"
+authorsEn:
   - "Yuma KINOSHITA"
   - "Kouei YAMAOKA"
   - "Hitoshi KIYA"

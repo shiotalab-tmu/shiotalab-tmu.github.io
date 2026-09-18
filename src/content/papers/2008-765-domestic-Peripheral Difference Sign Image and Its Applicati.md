@@ -1,7 +1,10 @@
 ---
 titleJa: "周辺差分符号画像とロバスト画像マッチングへの応用"
 titleEn: "Peripheral Difference Sign Image and Its Application to Robust Image Matching"
-authors:
+authorsJa:
+  - "植村 淳志"
+  - "貴家 仁志"
+authorsEn:
   - "Atsushi UEMURA"
   - "Hitoshi KIYA"
 date: "2008-11-14"

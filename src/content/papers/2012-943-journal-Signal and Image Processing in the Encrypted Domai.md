@@ -1,6 +1,9 @@
 ---
 titleEn: "Signal and Image Processing in the Encrypted Domain"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "藤吉 正明"
+authorsEn:
   - "Hitoshi KIYA"
   - "Masaaki FUJIYOSHI"
 date: "2012-05-31"

@@ -1,7 +1,11 @@
 ---
 titleJa: "可逆情報埋込の高速化のための埋込パラメータ決定法"
 titleEn: "An Embedding Parameter Decision for Speeding Up the Reversible Data Hiding Method"
-authors:
+authorsJa:
+  - "葉山 書緯"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Shoi HAYAMA"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

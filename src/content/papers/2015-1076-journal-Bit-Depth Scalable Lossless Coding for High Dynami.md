@@ -1,6 +1,11 @@
 ---
 titleEn: "Bit-Depth Scalable Lossless Coding for High Dynamic Range Images"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "吉田 太一"
+  - "モ"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Taichi YOSHIDA"
   - "Norrima Binti Mokhtar"

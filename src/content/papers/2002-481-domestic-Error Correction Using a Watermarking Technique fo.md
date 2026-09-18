@@ -1,7 +1,10 @@
 ---
 titleJa: "電子透かし技術を用いたJPEG2000符号化画像のエラー訂正法"
 titleEn: "Error Correction Using a Watermarking Technique for JPEG2000 Images"
-authors:
+authorsJa:
+  - "黒崎 正行"
+  - "貴家 仁志"
+authorsEn:
   - "Masayuki KUROSAKI"
   - "Hitoshi KIYA"
 date: "2002-11-01"

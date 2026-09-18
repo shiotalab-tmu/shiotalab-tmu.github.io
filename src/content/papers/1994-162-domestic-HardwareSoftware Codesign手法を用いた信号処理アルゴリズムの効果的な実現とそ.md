@@ -1,6 +1,10 @@
 ---
 titleJa: "Hardware/Software Codesign手法を用いた信号処理アルゴリズムの効果的な実現とその評価"
-authors:
+authorsJa:
+  - "内田 健"
+  - "貴家 仁志"
+  - "山田 昭彦"
+authorsEn:
   - "Takeshi UCHIDA"
   - "Hitoshi KIYA"
   - "Akihiko YAMADA"

@@ -1,6 +1,10 @@
 ---
 titleEn: "Seam Carving Using Weighted Luminance Gradient and Color Saliency"
-authors:
+authorsJa:
+  - "暴 満粟"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Mansu BAO"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

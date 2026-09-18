@@ -1,7 +1,11 @@
 ---
 titleJa: "ロバストハッシュ法を用いたビデオ信号の改ざん検出"
 titleEn: "Video Forgery Detection Using a Robust Hashing Algorithm "
-authors:
+authorsJa:
+  - "丹羽 祥子"
+  - "田中 美貴"
+  - "貴家 仁志"
+authorsEn:
   - "Shoko NIWA"
   - "Miki TANAKA"
   - "Hitoshi KIYA"

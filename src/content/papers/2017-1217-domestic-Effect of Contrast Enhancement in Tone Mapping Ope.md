@@ -1,7 +1,12 @@
 ---
 titleJa: "HDR画像のトーンマッピング処理におけるコントラスト強調の効果"
 titleEn: "Effect of Contrast Enhancement in Tone Mapping Operation for HDR images "
-authors:
+authorsJa:
+  - "佐田 歩美"
+  - "木下 裕磨"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Ayumi SADA"
   - "Yuma KINOSHITA"
   - "Sayaka SHIOTA"

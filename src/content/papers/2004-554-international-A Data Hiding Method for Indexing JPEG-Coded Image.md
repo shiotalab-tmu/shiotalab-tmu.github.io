@@ -1,6 +1,9 @@
 ---
 titleEn: "A Data Hiding Method for Indexing JPEG-Coded Images and Theoretical Analyses of Image-Quality"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"
 date: "2004-07-07"

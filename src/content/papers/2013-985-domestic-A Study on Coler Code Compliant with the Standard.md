@@ -1,7 +1,11 @@
 ---
 titleJa: "標準QRコードと互換性を有するカラーコードの検討"
 titleEn: "A Study on Coler Code Compliant with the Standard QR Code"
-authors:
+authorsJa:
+  - "菊池 真徳"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Masanori KIKUCHI"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

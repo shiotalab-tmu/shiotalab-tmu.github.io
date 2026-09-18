@@ -1,6 +1,10 @@
 ---
 titleEn: "A Method of Extracting Embedded Binary Data from JPEG Bitstreams Using Standard JPEG Decoder"
-authors:
+authorsJa:
+  - "野口 祥宏"
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Yoshihiro NOGUCHI"
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"

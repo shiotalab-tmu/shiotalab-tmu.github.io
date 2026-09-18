@@ -1,6 +1,9 @@
 ---
 titleEn: "Avoidance of Singular Point in Reversible KLT"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"
 date: "2010-12-08"

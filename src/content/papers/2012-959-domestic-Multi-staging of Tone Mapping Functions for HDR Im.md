@@ -1,7 +1,11 @@
 ---
 titleJa: "HDR画像におけるトーンマッピング関数の多段表現"
 titleEn: "Multi-staging of Tone Mapping Functions for HDR Images"
-authors:
+authorsJa:
+  - "室伏 辰耶"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Tatsuya MUROFUSHI"
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"

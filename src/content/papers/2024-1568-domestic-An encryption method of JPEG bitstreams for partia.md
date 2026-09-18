@@ -1,7 +1,11 @@
 ---
 titleJa: "情報半開示可能なJPEGビットストリームレベルの暗号化法"
 titleEn: "An encryption method of JPEG bitstreams for partially disclosing visual information "
-authors:
+authorsJa:
+  - "廣瀬万玲"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Mare Hirose"
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"

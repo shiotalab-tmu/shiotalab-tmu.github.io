@@ -1,6 +1,9 @@
 ---
 titleEn: "Fuzzy Commitment Scheme-Based Secure Identification for JPEG XR Images under Various Compression Ratios"
-authors:
+authorsJa:
+  - "飯田 健太"
+  - "貴家 仁志"
+authorsEn:
   - "Kenta IIDA"
   - "Hitoshi KIYA"
 date: "2017-04-01"

@@ -1,7 +1,12 @@
 ---
 titleJa: "検索機能を有するJPEG符号化画像のスクランブル法"
 titleEn: "Image Retrieval-Friendly Scrambling Method for JPEG Coded Image Database"
-authors:
+authorsJa:
+  - "穂坂 諒"
+  - "フィトリ アルニア"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Ryo HOSAKA"
   - "Fitri Arnia"
   - "Masaaki FUJIYOSHI"

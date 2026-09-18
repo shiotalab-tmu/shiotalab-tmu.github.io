@@ -1,7 +1,11 @@
 ---
 titleJa: "ヒストグラムの疎性を利用したHDR画像のためのパラメタ記憶不要な可逆情報埋込法"
 titleEn: "Parameter Memorization-Free Reversible Data Hiding for HDR Images"
-authors:
+authorsJa:
+  - "大石　涼"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Ryo OISHI"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

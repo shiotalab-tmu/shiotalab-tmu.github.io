@@ -1,6 +1,11 @@
 ---
 titleJa: "連鎖のある逐次暗号の順序機械による構成法"
-authors:
+authorsJa:
+  - "高野 正治"
+  - "三浦 幸也"
+  - "貴家 仁志"
+  - "内藤 祥雄"
+authorsEn:
   - "Masaharu TAKANO"
   - "Yukiya MIURA"
   - "Hitoshi KIYA"

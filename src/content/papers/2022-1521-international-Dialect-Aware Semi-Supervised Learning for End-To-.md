@@ -1,6 +1,11 @@
 ---
 titleEn: "Dialect-Aware Semi-Supervised Learning for End-To-End Multi-Dialect Speech Recognition"
-authors:
+authorsJa:
+  - "塩田 さやか"
+  - "今泉　遼"
+  - "増村　亮"
+  - "貴家 仁志"
+authorsEn:
   - "Sayaka SHIOTA"
   - "Ryo IMAIZUMI"
   - "Ryo MASUMURA"

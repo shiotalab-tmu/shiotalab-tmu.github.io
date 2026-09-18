@@ -1,7 +1,11 @@
 ---
 titleJa: "JPEG/MPEGと互換性のあるサブバンド符号化システム"
 titleEn: "A JPEG/MPEG-Compatible Subband Coding System"
-authors:
+authorsJa:
+  - "村松 正吾"
+  - "山田 昭彦"
+  - "貴家 仁志"
+authorsEn:
   - "Shogo MURAMATSU"
   - "Akihiko YAMADA"
   - "Hitoshi KIYA"

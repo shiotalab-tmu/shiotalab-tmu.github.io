@@ -1,6 +1,9 @@
 ---
 titleEn: "Consideration on Adaptive System Identification Based on Filter Banks"
-authors:
+authorsJa:
+  - "本間 仁志"
+  - "山口 智史"
+authorsEn:
   - "Hitoshi HONMA"
   - "Satoshi YAMAGUCHI"
 date: "1991-12-01"

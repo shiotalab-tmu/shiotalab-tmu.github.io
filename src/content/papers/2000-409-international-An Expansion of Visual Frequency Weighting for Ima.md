@@ -1,6 +1,10 @@
 ---
 titleEn: "An Expansion of Visual Frequency Weighting for Image Coding with Wavelet Transform"
-authors:
+authorsJa:
+  - "安藤 勝俊"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Katsutoshi ANDO"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

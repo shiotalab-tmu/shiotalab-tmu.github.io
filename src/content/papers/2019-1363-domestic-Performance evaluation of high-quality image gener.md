@@ -1,7 +1,11 @@
 ---
 titleJa: "多重露出画像を用いた高品質画像生成法の性能評価"
 titleEn: "Performance evaluation of high-quality image generation methods using multi-exposure images"
-authors:
+authorsJa:
+  - "瀬尾 光希"
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Kouki SEO"
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"

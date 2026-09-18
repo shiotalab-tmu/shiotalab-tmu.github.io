@@ -1,6 +1,10 @@
 ---
 titleEn: "A Scrambling Method for Motion JPEG Videos Enabling Moving Objects Detection from Scrambled Videos"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "黒岩 圭二朗"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Keijiro KUROIWA"
   - "Hitoshi KIYA"

@@ -1,6 +1,10 @@
 ---
 titleEn: "A Subband Adaptive Filter Allowing Maximally Decimation"
-authors:
+authorsJa:
+  - "山田 洋士"
+  - "尾知 博"
+  - "貴家 仁志"
+authorsEn:
   - "Youji YAMADA"
   - "Hiroshi OCHI"
   - "Hitoshi KIYA"

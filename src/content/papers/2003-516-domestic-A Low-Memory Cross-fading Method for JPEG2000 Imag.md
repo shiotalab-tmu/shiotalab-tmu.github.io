@@ -1,7 +1,10 @@
 ---
 titleJa: "JPEG2000符号化画像のための低メモリクロスフェード法"
 titleEn: "A Low-Memory Cross-fading Method for JPEG2000 Images"
-authors:
+authorsJa:
+  - "渡邊 修"
+  - "貴家 仁志"
+authorsEn:
   - "Osamu WATANABE"
   - "Hitoshi KIYA"
 date: "2003-08-29"

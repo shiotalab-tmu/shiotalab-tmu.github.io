@@ -1,6 +1,11 @@
 ---
 titleEn: "J-SPAW: Japanese speaker verification and spoofing attacks recorded in-the-wild dataset"
-authors:
+authorsJa:
+  - "塩田 さやか"
+  - "堀江 涼花"
+  - "菅野 滉大"
+  - "高道 慎之介"
+authorsEn:
   - "Sayaka SHIOTA"
   - "Suzuka HORIE"
   - "Kota KANNO"

@@ -1,7 +1,12 @@
 ---
 titleJa: "オ-バサンプリング信号を用いた高分解能スペクトル推定法"
 titleEn: "High-Resolution Spectrum Estimator with Over-Sampled Signal"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "宮崎 恭子"
+  - "西川 清史"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi KIYA"
   - "Kyoko MIYAZAKI"
   - "Kiyoshi NISHIKAWA"

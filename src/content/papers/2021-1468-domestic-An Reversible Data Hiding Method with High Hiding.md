@@ -1,7 +1,11 @@
 ---
 titleJa: "高い埋込み容量を実現する圧縮可能暗号化画像のための可逆情報埋込み法"
 titleEn: "An Reversible Data Hiding Method with High Hiding Capacity for Compressive Encrypted Images"
-authors:
+authorsJa:
+  - "本村 遼太"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Ryota MOTOMURA"
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"

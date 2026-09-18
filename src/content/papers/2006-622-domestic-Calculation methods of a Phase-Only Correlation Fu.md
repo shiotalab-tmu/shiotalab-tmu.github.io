@@ -1,7 +1,10 @@
 ---
 titleJa: "DCT変換に基づく画像の位相限定相関法"
 titleEn: "Calculation methods of a Phase-Only Correlation Function for Images Based on Discrete Cosine Transform"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"
 date: "2006-02-21"

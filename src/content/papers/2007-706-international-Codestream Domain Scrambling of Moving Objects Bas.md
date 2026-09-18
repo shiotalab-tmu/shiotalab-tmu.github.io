@@ -1,6 +1,10 @@
 ---
 titleEn: "Codestream Domain Scrambling of Moving Objects Based on DCT Sign-Only Correlation for Motion JPEG Movies"
-authors:
+authorsJa:
+  - "黒岩 圭二朗"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Keijiro KUROIWA"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

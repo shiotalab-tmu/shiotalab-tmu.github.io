@@ -1,6 +1,11 @@
 ---
 titleEn: "A Location-Map Free Reversible Data Hiding Method Using Block-Based Single Parameter"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "佐藤 修治"
+  - "金 弘林"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Shuji SATO"
   - "Hong Lin JIN"

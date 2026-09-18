@@ -1,6 +1,10 @@
 ---
 titleEn: "An Efficient Access Control Scheme for Multimedia Content Using Modified Hash Chain"
-authors:
+authorsJa:
+  - "今泉 祥子"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Shoko IMAIZUMI"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

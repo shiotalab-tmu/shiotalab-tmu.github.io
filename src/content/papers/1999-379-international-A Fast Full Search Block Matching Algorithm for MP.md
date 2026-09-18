@@ -1,6 +1,10 @@
 ---
 titleEn: "A Fast Full Search Block Matching Algorithm for MPEG-4 Video"
-authors:
+authorsJa:
+  - "野口 祥宏"
+  - "古川 潤"
+  - "貴家 仁志"
+authorsEn:
   - "Yoshihiro NOGUCHI"
   - "Jun FURUKAWA"
   - "Hitoshi KIYA"

@@ -1,6 +1,9 @@
 ---
 titleEn: "Combined Use of Federated Learning and Image Encryption for Privacy-Preserving Image Classification with Vision Transformer"
-authors:
+authorsJa:
+  - "永森 輝"
+  - "貴家 仁志"
+authorsEn:
   - "Teru NAGAMORI"
   - "Hitoshi KIYA"
 date: "2023-03-01"

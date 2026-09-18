@@ -1,6 +1,10 @@
 ---
 titleEn: "A No Reference Geometrical Compensation Method Using Simple Correlation-Based Data Hiding"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "上村 翔平"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Shouhei KAMIMURA"
   - "Hitoshi KIYA"

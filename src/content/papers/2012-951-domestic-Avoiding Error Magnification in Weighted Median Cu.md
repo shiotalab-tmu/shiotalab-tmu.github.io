@@ -1,7 +1,11 @@
 ---
 titleJa: "復号時の誤差増幅を回避する重み付きメディアンカット量子化～疎ヒストグラム画像の高画質なデータ圧縮～"
 titleEn: "Avoiding Error Magnification in Weighted Median Cut Quantization in Decoding Process -High Quality Data Compression of Sparse Histogram Images-"
-authors:
+authorsJa:
+  - "五十嵐 徹"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Toru IKARASHI"
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"

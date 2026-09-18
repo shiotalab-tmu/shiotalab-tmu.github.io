@@ -1,6 +1,9 @@
 ---
 titleEn: "Optimization of Lifting Structure of Reversible KLT Based on Permutation of Signal's Order and Sign"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"
 date: "2010-09-27"

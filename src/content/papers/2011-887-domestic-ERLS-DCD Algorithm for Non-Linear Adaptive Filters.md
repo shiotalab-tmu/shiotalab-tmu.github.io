@@ -1,7 +1,10 @@
 ---
 titleJa: "ERLS-DCDに基づくカーネル適応アルゴリズムの提案"
 titleEn: "ERLS-DCD Algorithm for Non-Linear Adaptive Filters"
-authors:
+authorsJa:
+  - "小川 芳樹"
+  - "西川 清史"
+authorsEn:
   - "Yoshiki OGAWA"
   - "Kiyoshi NISHIKAWA"
 date: "2011-03-15"

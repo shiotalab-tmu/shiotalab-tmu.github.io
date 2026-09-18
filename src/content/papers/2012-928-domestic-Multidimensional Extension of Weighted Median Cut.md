@@ -1,7 +1,12 @@
 ---
 titleJa: "カラー画像のための重み付きメディアンカット量子化の多次元化"
 titleEn: "Multidimensional Extension of Weighted Median Cut Quantization for Color Images"
-authors:
+authorsJa:
+  - "杉山 実花"
+  - "藤吉 正明"
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Mika SUGIYAMA"
   - "Masaaki FUJIYOSHI"
   - "Hiroyuki KOBAYASHI"

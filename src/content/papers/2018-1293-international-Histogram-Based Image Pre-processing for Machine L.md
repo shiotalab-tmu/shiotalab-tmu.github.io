@@ -1,6 +1,11 @@
 ---
 titleEn: "Histogram-Based Image Pre-processing for Machine Learning"
-authors:
+authorsJa:
+  - "佐田 歩美"
+  - "木下 裕磨"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Ayumi SADA"
   - "Yuma KINOSHITA"
   - "Sayaka SHIOTA"

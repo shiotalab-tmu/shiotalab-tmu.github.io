@@ -1,6 +1,10 @@
 ---
 titleEn: "Low Sensitivity Realization of Linear Phase FIR Digital Filters Using Cascade Form"
-authors:
+authorsJa:
+  - "森 幸男"
+  - "佐川 雅彦"
+  - "本間 仁志"
+authorsEn:
   - "Yukio MORI"
   - "Masahiko SAGAWA"
   - "Hitoshi HONMA"

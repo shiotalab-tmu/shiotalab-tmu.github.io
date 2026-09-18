@@ -1,6 +1,10 @@
 ---
 titleEn: "A Moving Object Detection Scheme in Codestream Domain for Motion JPEG Encoded Movies"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "立崎 祐司"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Yuji TACHIZAKI"
   - "Hitoshi KIYA"

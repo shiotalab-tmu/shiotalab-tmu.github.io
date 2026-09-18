@@ -1,6 +1,10 @@
 ---
 titleEn: "A Location Map-Free Reversible Data Hiding Method Inserting Data to Image Edges"
-authors:
+authorsJa:
+  - "小野 倫彦"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Michihiko ONO"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

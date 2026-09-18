@@ -1,7 +1,10 @@
 ---
 titleJa: "対称畳み込みに基づく直線位相パラユニタリフィルタバンク"
 titleEn: "Linear-Phase Paraunitary Filter Banks Based on Symmetric Convolution"
-authors:
+authorsJa:
+  - "村松 正吾"
+  - "貴家 仁志"
+authorsEn:
   - "Shogo MURAMATSU"
   - "Hitoshi KIYA"
 date: "1995-11-01"

@@ -1,7 +1,12 @@
 ---
 titleJa: "法演算を用いるJPEG 2000符号化画像への情報埋込法"
 titleEn: "A Data Hiding Method for JPEG 2000 Coded Images Using Modulo Arithmetic"
-authors:
+authorsJa:
+  - "金 弘林"
+  - "藤吉 正明"
+  - "関 裕介"
+  - "貴家 仁志"
+authorsEn:
   - "Hong Lin JIN"
   - "Masaaki FUJIYOSHI"
   - "Yusuke SEKI"

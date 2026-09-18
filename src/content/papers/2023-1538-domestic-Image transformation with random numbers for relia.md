@@ -1,7 +1,9 @@
 ---
 titleJa: "信頼できるAIのための乱数を用いた画像変換"
 titleEn: "Image transformation with random numbers for reliable AI "
-authors:
+authorsJa:
+  - "貴家 仁志"
+authorsEn:
   - "Hitoshi KIYA"
 date: "2023-03-02"
 type: "domestic"

@@ -1,6 +1,11 @@
 ---
 titleEn: "Codeblock-Based Concealment Scheme for JPEG2000 Images in Lossy Packet Networks"
-authors:
+authorsJa:
+  - "ハイルル ムナディ"
+  - "藤吉 正明"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Khairul Munadi"
   - "Masaaki FUJIYOSHI"
   - "Kiyoshi NISHIKAWA"

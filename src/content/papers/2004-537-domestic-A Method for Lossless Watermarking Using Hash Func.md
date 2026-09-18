@@ -1,7 +1,12 @@
 ---
 titleJa: "ハッシュ関数を用いたロスレス電子透かし法とその放送監視への応用"
 titleEn: "A Method for Lossless Watermarking Using Hash Function and Its Application for Broadcast Monitoring"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "橘 高志"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Takashi TACHIBANA"
   - "Masaaki FUJIYOSHI"

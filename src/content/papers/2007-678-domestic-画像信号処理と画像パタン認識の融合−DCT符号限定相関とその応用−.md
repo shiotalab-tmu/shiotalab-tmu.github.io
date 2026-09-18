@@ -1,6 +1,8 @@
 ---
 titleJa: "画像信号処理と画像パタン認識の融合−DCT符号限定相関とその応用−"
-authors:
+authorsJa:
+  - "貴家 仁志"
+authorsEn:
   - "Hitoshi KIYA"
 date: "2007-03-08"
 type: "domestic"

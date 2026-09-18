@@ -1,7 +1,10 @@
 ---
 titleJa: "データ埋め込みによる音響チャネルでのデータ伝送のビット誤り率低減手法"
 titleEn: "Low Bit Error Rate Data Transmission through Acoustic Channel Using Data Hiding Technique"
-authors:
+authorsJa:
+  - "山田 耕平"
+  - "西川 清史"
+authorsEn:
   - "Kohei YAMADA"
   - "Kiyoshi NISHIKAWA"
 date: "2007-03-06"

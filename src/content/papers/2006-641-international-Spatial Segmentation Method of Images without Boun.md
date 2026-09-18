@@ -1,6 +1,10 @@
 ---
 titleEn: "Spatial Segmentation Method of Images without Boundary Distortion for DWT"
-authors:
+authorsJa:
+  - "吉田 邦明"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Kuniaki YOSHIDA"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

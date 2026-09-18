@@ -1,6 +1,9 @@
 ---
 titleEn: "A GAN-Based Image Transformation Scheme for Privacy-Preserving Deep Neural Networks"
-authors:
+authorsJa:
+  - "ワリット　シリチョットダムロン"
+  - "貴家 仁志"
+authorsEn:
   - "Warit SIRICHOTEDUMRONG"
   - "Hitoshi KIYA"
 date: "2020-08-24"

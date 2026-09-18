@@ -1,7 +1,11 @@
 ---
 titleJa: "レート変換を伴う適応システム同定の等価モデル"
 titleEn: "A Equivalent Model for Adaptive System Identification with Clock Rate Conversion"
-authors:
+authorsJa:
+  - "小野 芳浩"
+  - "貴家 仁志"
+  - "佐川 雅彦"
+authorsEn:
   - "Yoshihiro ONO"
   - "Hitoshi KIYA"
   - "Masahiko SAGAWA"

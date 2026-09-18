@@ -1,6 +1,9 @@
 ---
 titleEn: "Fixed Order Implementation Method of Kernel Adaptive Filters with Lower Computational Complexity"
-authors:
+authorsJa:
+  - "西川 清史"
+  - "牧﨑 幸司"
+authorsEn:
   - "Kiyoshi NISHIKAWA"
   - "Koji MAKIZAKI"
 date: "2011-10-20"

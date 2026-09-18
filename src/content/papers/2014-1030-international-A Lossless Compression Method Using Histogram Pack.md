@@ -1,6 +1,13 @@
 ---
 titleEn: "A Lossless Compression Method Using Histogram Packing for HDR Images in OpenEXR Format"
-authors:
+authorsJa:
+  - "小髙 拓"
+  - "セタン ワンニダー"
+  - "藤吉 正明"
+  - "小林 弘幸"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Taku ODAKA"
   - "Wannida SAE-TANG"
   - "Masaaki FUJIYOSHI"

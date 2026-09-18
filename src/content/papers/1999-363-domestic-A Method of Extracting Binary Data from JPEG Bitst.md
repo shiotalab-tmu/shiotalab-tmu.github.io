@@ -1,7 +1,11 @@
 ---
 titleJa: "標準JPEGデコーダを利用した埋め込みバイナリ・データの取り出し方法"
 titleEn: "A Method of Extracting Binary Data from JPEG Bitstreams Using Standard JPEG Decoder"
-authors:
+authorsJa:
+  - "野口 祥宏"
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Yoshihiro NOGUCHI"
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"

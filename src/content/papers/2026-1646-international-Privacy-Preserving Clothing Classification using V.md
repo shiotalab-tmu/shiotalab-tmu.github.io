@@ -1,6 +1,10 @@
 ---
 titleEn: "Privacy-Preserving Clothing Classification using Vision Transformer for Thermal Comfort Estimation"
-authors:
+authorsJa:
+  - "中満 達也"
+  - "宇田川 陽介"
+  - "貴家 仁志"
+authorsEn:
   - "Tatsuya CHUMAN"
   - "Yousuke UDAGAWA"
   - "Hitoshi KIYA"

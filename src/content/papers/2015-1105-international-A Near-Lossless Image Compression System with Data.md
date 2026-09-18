@@ -1,6 +1,9 @@
 ---
 titleEn: "A Near-Lossless Image Compression System with Data Hiding Capability"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"
 date: "2015-12-19"

@@ -1,7 +1,12 @@
 ---
 titleJa: "一方向性ハッシュ関数を用いたディジタル動画像の効果的アクセス制御方式"
 titleEn: "An Efficient Access Control Method Based on One-Way Hash Functions for Digital Videos"
-authors:
+authorsJa:
+  - "今泉 祥子"
+  - "阿部 淑人"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Shoko IMAIZUMI"
   - "Yoshito ABE"
   - "Masaaki FUJIYOSHI"

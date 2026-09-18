@@ -1,6 +1,9 @@
 ---
 titleEn: "A Filter Bank with Ratinal Decimation Ratio and Its Application"
-authors:
+authorsJa:
+  - "山崎 広達"
+  - "貴家 仁志"
+authorsEn:
   - "Hirotatsu YAMAZAKI"
   - "Hitoshi KIYA"
 date: "1993-10-01"

@@ -1,7 +1,11 @@
 ---
 titleJa: "新しいルックアヘッド変換を用いたパイプライン適応フィルタのアーキテクチャ"
 titleEn: "An Architecture of Pipelined Adaptive Filters Using A New Look-ahead transformation"
-authors:
+authorsJa:
+  - "松原 勝重"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Katsushige MATSUBARA"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

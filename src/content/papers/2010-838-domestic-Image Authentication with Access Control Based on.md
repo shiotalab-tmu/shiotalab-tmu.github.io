@@ -1,7 +1,11 @@
 ---
 titleJa: "可逆情報埋込に基づくアクセス制限型画像改ざん検出"
 titleEn: "Image Authentication with Access Control Based on Reversible Data Hiding"
-authors:
+authorsJa:
+  - "渡辺 健太"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Kenta WATANABE"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

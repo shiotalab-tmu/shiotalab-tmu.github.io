@@ -1,6 +1,10 @@
 ---
 titleEn: "An Extrapolation Algorithm with DFT Matrix for Discrete Time Signals"
-authors:
+authorsJa:
+  - "坂根 尚"
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Hisashi SAKANE"
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"

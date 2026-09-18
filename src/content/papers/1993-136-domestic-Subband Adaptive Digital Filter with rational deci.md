@@ -1,7 +1,10 @@
 ---
 titleJa: "有理数の間引き率を可能とするフィルタバンク"
 titleEn: "Subband Adaptive Digital Filter with rational decimation ratios"
-authors:
+authorsJa:
+  - "山崎 広達"
+  - "貴家 仁志"
+authorsEn:
   - "Hirotatsu YAMAZAKI"
   - "Hitoshi KIYA"
 date: "1993-09-01"

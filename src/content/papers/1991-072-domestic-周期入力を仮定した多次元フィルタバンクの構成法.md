@@ -1,6 +1,11 @@
 ---
 titleJa: "周期入力を仮定した多次元フィルタバンクの構成法"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "八重 光男"
+  - "岩橋 政宏"
+  - "加藤 誠冶"
+authorsEn:
   - "Hitoshi KIYA"
   - "Mitsuo YAE"
   - "Masahiro IWAHASHI"

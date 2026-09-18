@@ -1,7 +1,12 @@
 ---
 titleJa: "量子化誤差を考慮したJPEG XTエンコーダー"
 titleEn: "A JPEG XT encoder considering effects of quantization error"
-authors:
+authorsJa:
+  - "鈴木 亮"
+  - "土橋 俊之"
+  - "渡邊 修"
+  - "貴家 仁志"
+authorsEn:
   - "Ryo SUZUKI"
   - "Toshiyuki DOBASHI"
   - "Osamu WATANABE"

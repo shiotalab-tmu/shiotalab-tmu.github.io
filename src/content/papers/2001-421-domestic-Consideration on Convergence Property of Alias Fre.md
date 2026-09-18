@@ -1,6 +1,9 @@
 ---
 titleEn: "Consideration on Convergence Property of Alias Free Subband Adaptive System Using the Multirate Repeating Method"
-authors:
+authorsJa:
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"
 date: "2001-04-01"

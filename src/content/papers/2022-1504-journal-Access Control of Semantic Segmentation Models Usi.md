@@ -1,6 +1,11 @@
 ---
 titleEn: "Access Control of Semantic Segmentation Models Using Encrypted Feature Maps"
-authors:
+authorsJa:
+  - "伊藤 広樹"
+  - "エイプリルピョンマウンマウン"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroki ITO"
   - "April Pyone MAUNG MAUNG"
   - "Sayaka SHIOTA"

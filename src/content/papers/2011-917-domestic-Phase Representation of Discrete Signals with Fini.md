@@ -1,7 +1,9 @@
 ---
 titleJa: "有限長離散信号の位相表現とその性質"
 titleEn: "Phase Representation of Discrete Signals with Finite Length and Its Properties"
-authors:
+authorsJa:
+  - "貴家 仁志"
+authorsEn:
   - "Hitoshi KIYA"
 date: "2011-12-12"
 type: "domestic"

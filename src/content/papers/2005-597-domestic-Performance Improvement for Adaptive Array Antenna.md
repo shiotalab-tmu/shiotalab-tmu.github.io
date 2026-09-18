@@ -1,7 +1,11 @@
 ---
 titleJa: "エイリアスフリーサブバンド型適応フィルタによるアダプティブアレーアンテナの特性改善"
 titleEn: "Performance Improvement for Adaptive Array Antenna Using Alias Free Subband Adaptive Filters "
-authors:
+authorsJa:
+  - "遠藤 耕太"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Kota ENDO"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

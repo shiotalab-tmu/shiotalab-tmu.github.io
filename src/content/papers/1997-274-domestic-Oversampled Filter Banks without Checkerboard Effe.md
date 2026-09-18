@@ -1,7 +1,10 @@
 ---
 titleJa: "チェス盤歪みが発生しないオーバーサンプルフィルタバンクについて"
 titleEn: "Oversampled Filter Banks without Checkerboard Effects"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"
 date: "1997-09-01"

@@ -1,6 +1,9 @@
 ---
 titleEn: "An Efficient Unified-Tone-Mapping Operation for HDR Images with Various Formats"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "土橋 俊之"
+authorsEn:
   - "Hitoshi KIYA"
   - "Toshiyuki DOBASHI"
 date: "2016-01-01"

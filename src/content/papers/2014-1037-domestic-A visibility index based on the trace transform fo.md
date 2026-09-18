@@ -1,7 +1,11 @@
 ---
 titleJa: "トレース変換に基づく視覚的暗号化画像のための視認性の評価指標"
 titleEn: "A visibility index based on the trace transform for visually encrypted images"
-authors:
+authorsJa:
+  - "内田 輝"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Akira UCHIDA"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

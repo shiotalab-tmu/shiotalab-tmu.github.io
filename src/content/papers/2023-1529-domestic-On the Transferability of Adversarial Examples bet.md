@@ -1,7 +1,11 @@
 ---
 titleJa: "Isotropic NetworkとCNNモデル間における敵対的事例の転移性について"
 titleEn: "On the Transferability of Adversarial Examples between Isotropic Network and CNN models "
-authors:
+authorsJa:
+  - "田中 美貴"
+  - "越前 功"
+  - "貴家 仁志"
+authorsEn:
   - "Miki TANAKA"
   - "Isao ECHIZEN"
   - "Hitoshi KIYA"

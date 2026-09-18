@@ -1,7 +1,12 @@
 ---
 titleJa: "暗号化領域における敵対的摂動を用いた改ざん画像の検出法"
 titleEn: "A Detection Method of Tampered Images Using Adversarial Perturbations in The Encrypted Domain"
-authors:
+authorsJa:
+  - "オリモブ　ムハマドオリム"
+  - "堀尾虹輝"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Mukhammadolim Olimov"
   - "Koki HORIO"
   - "Sayaka SHIOTA"

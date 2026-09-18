@@ -1,6 +1,11 @@
 ---
 titleEn: "Adaptive Directional Lifting Structure of Three Dimensional Non-separable Discrete Wavelet Transform for High Resolution Volumetric Data Compression"
-authors:
+authorsJa:
+  - "ハムザー ファイロザアミラビンディ"
+  - "岩橋 政宏"
+  - "吉田 太一"
+  - "貴家 仁志"
+authorsEn:
   - "Fairoza Amira Binti HAMZAH"
   - "Masahiro IWAHASHI"
   - "Taichi YOSHIDA"

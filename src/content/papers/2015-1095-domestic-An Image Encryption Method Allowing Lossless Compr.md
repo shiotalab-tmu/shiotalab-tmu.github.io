@@ -1,7 +1,11 @@
 ---
 titleJa: "ロスレス圧縮を可能とする画像の暗号化法"
 titleEn: "An Image Encryption Method Allowing Lossless Compression"
-authors:
+authorsJa:
+  - "栗原 健太"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Kenta KURIHARA"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

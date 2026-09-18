@@ -1,7 +1,12 @@
 ---
 titleJa: "線形たたみ込みを可能とする周波数領域適応フィルタ"
 titleEn: "A Frequency-Domain Adaptive Filter realizing the Linear Convolution"
-authors:
+authorsJa:
+  - "尾知 博"
+  - "金城 繁徳"
+  - "高良 良立"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroshi OCHI"
   - "Shigenori KINJO"
   - "Yoshitati TAKARA"

@@ -1,7 +1,10 @@
 ---
 titleJa: "低ダイナミックレンジを持つDCT振幅限定画像の生成法"
 titleEn: "A Generation Method of DCT Amplitude-Only Images with Low Dynamic Ranges"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"
 date: "2012-10-25"

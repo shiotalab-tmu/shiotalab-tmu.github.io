@@ -1,7 +1,11 @@
 ---
 titleJa: "ViTを用いた圧縮可能暗号化画像の分類におけるJPEG圧縮の影響"
 titleEn: "Influence of JPEG Compression on Vision Transformer for Compressible Encrypted Images"
-authors:
+authorsJa:
+  - "濱野 元輝"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Genki HAMANO"
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"

@@ -1,6 +1,11 @@
 ---
 titleEn: "Hue-Correction Scheme Considering Non-Linear Camera Response for Multi-Exposure Image Fusion"
-authors:
+authorsJa:
+  - "瀬尾 光希"
+  - "郷　地洋"
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Kouki SEO"
   - "Chihiro GO"
   - "Yuma KINOSHITA"

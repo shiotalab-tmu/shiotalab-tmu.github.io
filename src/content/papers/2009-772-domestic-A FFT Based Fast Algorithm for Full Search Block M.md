@@ -1,7 +1,11 @@
 ---
 titleJa: "FFTを用いた全探索SSDブロックマッチングの高速化"
 titleEn: "A FFT Based Fast Algorithm for Full Search Block Matching with SSD Criterion"
-authors:
+authorsJa:
+  - "李 禎"
+  - "植村 淳志"
+  - "貴家 仁志"
+authorsEn:
   - "Zhen LI"
   - "Atsushi UEMURA"
   - "Hitoshi KIYA"

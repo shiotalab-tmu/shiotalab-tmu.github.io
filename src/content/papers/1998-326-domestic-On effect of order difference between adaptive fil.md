@@ -1,7 +1,11 @@
 ---
 titleJa: "適応フィルタと未知システムの次数差が適応特性に与える影響についての一考察"
 titleEn: "On effect of order difference between adaptive filter and unknown system"
-authors:
+authorsJa:
+  - "西川 清史"
+  - "岡田 泰礼"
+  - "貴家 仁志"
+authorsEn:
   - "Kiyoshi NISHIKAWA"
   - "Yasuhiro OKADA"
   - "Hitoshi KIYA"

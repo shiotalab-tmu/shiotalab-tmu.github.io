@@ -1,6 +1,10 @@
 ---
 titleEn: "A New Color QR Code Forward Compatible with the Standard QR Code Decoder"
-authors:
+authorsJa:
+  - "菊池 真徳"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Masanori KIKUCHI"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

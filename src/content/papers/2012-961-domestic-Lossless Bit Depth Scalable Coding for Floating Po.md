@@ -1,7 +1,11 @@
 ---
 titleJa: "浮動小数点画像に対するロスレスなビット深度スケーラブル符号化"
 titleEn: "Lossless Bit Depth Scalable Coding for Floating Point Images"
-authors:
+authorsJa:
+  - "伊藤 麗良"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Reira ITO"
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"

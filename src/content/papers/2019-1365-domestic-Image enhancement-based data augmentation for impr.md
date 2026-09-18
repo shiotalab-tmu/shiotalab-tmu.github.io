@@ -1,7 +1,11 @@
 ---
 titleJa: "DNN を用いた画像分類のための画像強調型データ拡張法"
 titleEn: "Image enhancement-based data augmentation for improving deep learning in image classification problem"
-authors:
+authorsJa:
+  - "張 偉航"
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Weihang ZHANG"
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"

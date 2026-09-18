@@ -1,7 +1,11 @@
 ---
 titleJa: "適応フィルタのためのスクランブル処理を用いた信号の白色化"
 titleEn: "A Pre-Whitening Technique for Adaptive Filters Utlizing Scrambling Method by PN Sequence"
-authors:
+authorsJa:
+  - "山田 洋士"
+  - "貴家 仁志"
+  - "神林 紀嘉"
+authorsEn:
   - "Youji YAMADA"
   - "Hitoshi KIYA"
   - "Noriyoshi KAMBAYASHI"

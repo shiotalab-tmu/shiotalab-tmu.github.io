@@ -1,7 +1,12 @@
 ---
 titleJa: "ジグソーパズル解法の拡張とそのブロックスクランブル画像暗号化法の攻撃"
 titleEn: "Extension of Jigsaw Puzzle Solvers and Its Attack on Permutation-Based Image Encryption Schemes"
-authors:
+authorsJa:
+  - "中満 達也"
+  - "栗原 健太"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Tatsuya CHUMAN"
   - "Kenta KURIHARA"
   - "Sayaka SHIOTA"

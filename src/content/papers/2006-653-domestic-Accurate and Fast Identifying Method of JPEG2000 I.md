@@ -1,7 +1,11 @@
 ---
 titleJa: "JPEG2000画像の高精度・高速同定法"
 titleEn: "Accurate and Fast Identifying Method of JPEG2000 Images"
-authors:
+authorsJa:
+  - "福原 隆浩"
+  - "保坂 和寿"
+  - "貴家 仁志"
+authorsEn:
   - "Takahiro FUKUHARA"
   - "Kazuhisa HOSAKA"
   - "Hitoshi KIYA"

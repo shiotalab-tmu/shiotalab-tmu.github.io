@@ -1,7 +1,11 @@
 ---
 titleJa: "QCIF動画像符号化へのJPEG2000の効果的適用法"
 titleEn: "The Effective Method for Applying JPEG2000 to QCIF Video Coding"
-authors:
+authorsJa:
+  - "高木 亜有子"
+  - "黒崎 正行"
+  - "貴家 仁志"
+authorsEn:
   - "Ayuko TAKAGI"
   - "Masayuki KUROSAKI"
   - "Hitoshi KIYA"

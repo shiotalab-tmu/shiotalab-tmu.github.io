@@ -1,6 +1,12 @@
 ---
 titleEn: "An Encryption-then-Compression System for JPEG / Motion JPEG Standard"
-authors:
+authorsJa:
+  - "栗原 健太"
+  - "菊池 真徳"
+  - "今泉 祥子"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Kenta KURIHARA"
   - "Masanori KIKUCHI"
   - "Shoko IMAIZUMI"

@@ -1,6 +1,10 @@
 ---
 titleEn: "Compression Performance of Grayscale-based Image Encryption for Encryption-then-Compression Systems"
-authors:
+authorsJa:
+  - "ワリット　シリチョットダムロン"
+  - "中満 達也"
+  - "貴家 仁志"
+authorsEn:
   - "Warit SIRICHOTEDUMRONG"
   - "Tatsuya CHUMAN"
   - "Hitoshi KIYA"

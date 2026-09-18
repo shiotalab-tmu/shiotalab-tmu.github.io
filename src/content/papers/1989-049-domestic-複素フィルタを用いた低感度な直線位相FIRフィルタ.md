@@ -1,6 +1,10 @@
 ---
 titleJa: "複素フィルタを用いた低感度な直線位相FIRフィルタ"
-authors:
+authorsJa:
+  - "尾知 博"
+  - "長田 透"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroshi OCHI"
   - "Tohru NAGATA"
   - "Hitoshi KIYA"

@@ -1,7 +1,11 @@
 ---
 titleJa: "再符号化の影響を回 避可能なニアロスレス符号化法"
 titleEn: "A near-lossless coding scheme without influence of re-encoding"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"

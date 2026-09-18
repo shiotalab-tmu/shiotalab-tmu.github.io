@@ -1,6 +1,10 @@
 ---
 titleEn: "Optimum Block Size of Discrete Sine and Cosine Transforms for Symmetric Convolution"
-authors:
+authorsJa:
+  - "鄒 暁霞"
+  - "村松 正吾"
+  - "貴家 仁志"
+authorsEn:
   - "XiaoXia ZOU"
   - "Shogo MURAMATSU"
   - "Hitoshi KIYA"

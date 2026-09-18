@@ -1,7 +1,11 @@
 ---
 titleJa: "HDR画像の効果的なロスレス圧縮法"
 titleEn: "An Effective Lossless Compression Method of HDR Images"
-authors:
+authorsJa:
+  - "小髙 拓"
+  - "渡辺 健太"
+  - "貴家 仁志"
+authorsEn:
   - "Taku ODAKA"
   - "Kenta WATANABE"
   - "Hitoshi KIYA"

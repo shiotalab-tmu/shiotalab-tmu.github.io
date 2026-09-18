@@ -1,6 +1,10 @@
 ---
 titleEn: "A New Class of Lifting Wavelet Transform for Guaranteeing Losslessness of Specific Signals"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "岩橋 政宏"
+  - "渡邊 修"
+authorsEn:
   - "Hitoshi KIYA"
   - "Masahiro IWAHASHI"
   - "Osamu WATANABE"

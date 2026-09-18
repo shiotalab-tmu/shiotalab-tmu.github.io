@@ -1,7 +1,12 @@
 ---
 titleJa: "複数チャネル間の相互相関関数を用いた なりすまし検出法の雑音環境下における評価"
 titleEn: "Evaluation of spoofing countermeasure using generalized cross-correlation between multiple channels under noise environment"
-authors:
+authorsJa:
+  - "矢口 凌也"
+  - "塩田 さやか"
+  - "小野 順貴"
+  - "貴家 仁志"
+authorsEn:
   - "Ryoya YAGUCHI"
   - "Sayaka SHIOTA"
   - "Nobutaka ONO"

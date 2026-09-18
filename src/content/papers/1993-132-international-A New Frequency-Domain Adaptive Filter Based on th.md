@@ -1,6 +1,10 @@
 ---
 titleEn: "A New Frequency-Domain Adaptive Filter Based on the Frequency-Domain Sampling Theorem"
-authors:
+authorsJa:
+  - "尾知 博"
+  - "金城 繁徳"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroshi OCHI"
   - "Shigenori KINJO"
   - "Hitoshi KIYA"

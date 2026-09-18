@@ -1,7 +1,11 @@
 ---
 titleJa: "適応アルゴリズムを用いた2次元ブラインドシステム同定"
 titleEn: "2D Blind System Identification Using Adaptive Algorithms"
-authors:
+authorsJa:
+  - "増井 剛"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Go MASUI"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

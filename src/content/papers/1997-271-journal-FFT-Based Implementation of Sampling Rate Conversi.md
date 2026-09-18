@@ -1,6 +1,10 @@
 ---
 titleEn: "FFT-Based Implementation of Sampling Rate Conversion with a Small Number of Delays"
-authors:
+authorsJa:
+  - "鄒 暁霞"
+  - "村松 正吾"
+  - "貴家 仁志"
+authorsEn:
   - "XiaoXia ZOU"
   - "Shogo MURAMATSU"
   - "Hitoshi KIYA"

@@ -1,7 +1,9 @@
 ---
 titleJa: "信号の対称周期拡張とその応用"
 titleEn: "Periodic Symmetric Extension of a Signal and Its Applications"
-authors:
+authorsJa:
+  - "貴家 仁志"
+authorsEn:
   - "Hitoshi KIYA"
 date: "2010-03-01"
 type: "domestic"

@@ -1,7 +1,11 @@
 ---
 titleJa: "MP3オーディオデータの部分スクランブル法"
 titleEn: "A Partial-Scrambling of MP3 Encoded Audio-Music Contents"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "古宮 弘智"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Hironori FURUMIYA"
   - "Hitoshi KIYA"

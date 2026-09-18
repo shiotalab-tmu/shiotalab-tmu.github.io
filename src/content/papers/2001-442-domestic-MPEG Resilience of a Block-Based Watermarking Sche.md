@@ -1,7 +1,10 @@
 ---
 titleJa: "ブロック分割に基づく画質レベル一定電子透かし法のMPEG耐性"
 titleEn: "MPEG Resilience of a Block-Based Watermarking Scheme Allowing Desired Image Quality"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"
 date: "2001-11-01"

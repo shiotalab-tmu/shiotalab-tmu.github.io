@@ -1,7 +1,12 @@
 ---
 titleJa: "誤り処理要素を特定可能なFFTの効果的構成法"
 titleEn: "An Effective Construction Method of FFT Which Can Specify an Error Processing Element"
-authors:
+authorsJa:
+  - "鈴木 晋"
+  - "吉田 たけお"
+  - "三浦 幸也"
+  - "貴家 仁志"
+authorsEn:
   - "Shin SUZUKI"
   - "Takeo YOSHIDA"
   - "Yukiya MIURA"

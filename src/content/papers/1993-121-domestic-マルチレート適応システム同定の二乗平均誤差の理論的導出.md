@@ -1,6 +1,11 @@
 ---
 titleJa: "マルチレート適応システム同定の二乗平均誤差の理論的導出"
-authors:
+authorsJa:
+  - "芦原 浩司"
+  - "小野 芳浩"
+  - "貴家 仁志"
+  - "佐川 雅彦"
+authorsEn:
   - "Kouji ASHIHARA"
   - "Yoshihiro ONO"
   - "Hitoshi KIYA"

@@ -1,6 +1,10 @@
 ---
 titleEn: "A Collaborative Scheme for Lossless Data Hiding and Image Scrambling"
-authors:
+authorsJa:
+  - "劉 審川"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Shen Chuan LIU"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

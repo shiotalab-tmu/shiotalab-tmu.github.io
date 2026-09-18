@@ -1,7 +1,13 @@
 ---
 titleJa: "画像復元攻撃に対する耐性強化のための連合学習における二重秘匿化手法"
 titleEn: "A Dual Obfuscation Method for Federated Learning to Enhance Robustness against Image Restoration Attacks"
-authors:
+authorsJa:
+  - "板橋 悠伎"
+  - "澤田寛人"
+  - "廣瀬万玲"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Yuki ITABASHI"
   - "Hiroto SAWADA"
   - "Mare Hirose"

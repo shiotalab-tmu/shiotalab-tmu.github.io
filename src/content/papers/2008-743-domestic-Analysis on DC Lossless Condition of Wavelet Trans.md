@@ -1,7 +1,10 @@
 ---
 titleJa: "ウェーブレット変換のDCロスレス条件に関する理論解析"
 titleEn: "Analysis on DC Lossless Condition of Wavelet Transform"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"
 date: "2008-07-15"

@@ -1,6 +1,11 @@
 ---
 titleEn: "Channel Scaling for Rounding Noise Reduction in Minimum"
-authors:
+authorsJa:
+  - "ハムザー ファイロザアミラビンディ"
+  - "吉田 太一"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Fairoza Amira Binti HAMZAH"
   - "Taichi YOSHIDA"
   - "Masahiro IWAHASHI"

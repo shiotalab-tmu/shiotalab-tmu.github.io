@@ -1,7 +1,10 @@
 ---
 titleJa: "DCT正負符号をオブジェクトとするCoFIP法の提案"
 titleEn: "Proposal of Method of Contents Fingerprint (CoFIP) Based on Signs of DCT Coefficients"
-authors:
+authorsJa:
+  - "伊藤 泉"
+  - "貴家 仁志"
+authorsEn:
   - "Izumi ITO"
   - "Hitoshi KIYA"
 date: "2007-11-01"

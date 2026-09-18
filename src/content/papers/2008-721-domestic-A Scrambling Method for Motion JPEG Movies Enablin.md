@@ -1,7 +1,11 @@
 ---
 titleJa: "動物体検出機能を有するMotion JPEG画像のスクランブルとその解除"
 titleEn: "A Scrambling Method for Motion JPEG Movies Enabling Detection of Moving Objects from Scrambled Movies"
-authors:
+authorsJa:
+  - "黒岩 圭二朗"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Keijiro KUROIWA"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

@@ -1,7 +1,11 @@
 ---
 titleJa: "拡張されたRTPヘッダの情報に基づく画質劣化の改善を可能とするMotion JPEG 2000の伝送法"
 titleEn: "A Transmission Scheme for Motion JPEG 2000 Enabling Improvement of Quality-of-Image Degradation Based on Extended RTP Header Information"
-authors:
+authorsJa:
+  - "長藁 真一"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Shin'ichi NAGAWARA"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

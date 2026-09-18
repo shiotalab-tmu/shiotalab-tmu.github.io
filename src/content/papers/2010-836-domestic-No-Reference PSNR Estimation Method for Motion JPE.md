@@ -1,7 +1,11 @@
 ---
 titleJa: "パケットロス環境下でのMotion JPEG 2000ビデオ画質の非参照型PSNR推定法"
 titleEn: "No-Reference PSNR Estimation Method for Motion JPEG 2000 Videos under Lossy Packet-Switched Networks"
-authors:
+authorsJa:
+  - "菱沼 淳哉"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Jun'ya HISHINUMA"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

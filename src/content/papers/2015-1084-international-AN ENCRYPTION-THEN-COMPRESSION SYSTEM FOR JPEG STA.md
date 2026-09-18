@@ -1,6 +1,10 @@
 ---
 titleEn: "AN ENCRYPTION-THEN-COMPRESSION SYSTEM FOR JPEG STANDARD"
-authors:
+authorsJa:
+  - "栗原 健太"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Kenta KURIHARA"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

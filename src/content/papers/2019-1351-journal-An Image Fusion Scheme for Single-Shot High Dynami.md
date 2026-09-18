@@ -1,6 +1,11 @@
 ---
 titleEn: "An Image Fusion Scheme for Single-Shot High Dynamic Range Imaging with Spatially Varying Exposures"
-authors:
+authorsJa:
+  - "郷　地洋"
+  - "木下 裕磨"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Chihiro GO"
   - "Yuma KINOSHITA"
   - "Sayaka SHIOTA"

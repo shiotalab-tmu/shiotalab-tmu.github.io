@@ -1,6 +1,11 @@
 ---
 titleEn: "Adversarial Detector with Robust Classifier"
-authors:
+authorsJa:
+  - "長我部　恭行"
+  - "エイプリルピョンマウンマウン"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Takayuki OSAKABE"
   - "April Pyone MAUNG MAUNG"
   - "Sayaka SHIOTA"

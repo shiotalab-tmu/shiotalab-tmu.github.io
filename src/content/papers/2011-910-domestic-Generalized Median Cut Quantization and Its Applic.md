@@ -1,7 +1,11 @@
 ---
 titleJa: "一般化メディアンカット量子化とその応用"
 titleEn: "Generalized Median Cut Quantization and Its Applications"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "小林 弘幸"
+  - "岩橋 政宏"
+authorsEn:
   - "Hitoshi KIYA"
   - "Hiroyuki KOBAYASHI"
   - "Masahiro IWAHASHI"

@@ -1,6 +1,10 @@
 ---
 titleEn: "A Bit-Operation Algorithm of the Median-Cut Quantization and Its Hardware Architecture"
-authors:
+authorsJa:
+  - "村松 正吾"
+  - "貴家 仁志"
+  - "山田 洋士"
+authorsEn:
   - "Shogo MURAMATSU"
   - "Hitoshi KIYA"
   - "Youji YAMADA"

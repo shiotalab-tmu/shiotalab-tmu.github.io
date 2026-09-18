@@ -1,7 +1,11 @@
 ---
 titleJa: "高い柔軟性を有する圧縮可能暗号化画像への可逆情報埋込み法"
 titleEn: "A reversible data hiding method with high flexibility in compressive encrypted images "
-authors:
+authorsJa:
+  - "本村 遼太"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Ryota MOTOMURA"
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"

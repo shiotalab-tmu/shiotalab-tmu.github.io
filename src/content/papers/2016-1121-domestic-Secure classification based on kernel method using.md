@@ -1,7 +1,12 @@
 ---
 titleJa: "ユニタリ変換を用いたセキュアなカーネル法に基づくクラス分類"
 titleEn: "Secure classification based on kernel method using unitary transformation"
-authors:
+authorsJa:
+  - "中村 維吹"
+  - "斉藤 裕子"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Ibuki NAKAMURA"
   - "Yuko SAITO"
   - "Sayaka SHIOTA"

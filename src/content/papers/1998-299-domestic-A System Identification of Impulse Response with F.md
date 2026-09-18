@@ -1,7 +1,10 @@
 ---
 titleJa: "DFT-FSF法による時間領域で局在するインパスル応答の同定"
 titleEn: "A System Identification of Impulse Response with Flat Delay Utilizing the DFT-FSF Bank"
-authors:
+authorsJa:
+  - "山田 洋士"
+  - "貴家 仁志"
+authorsEn:
   - "Youji YAMADA"
   - "Hitoshi KIYA"
 date: "1998-03-01"

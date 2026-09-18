@@ -1,7 +1,10 @@
 ---
 titleJa: "線形成分の分離学習によるKNLMSアルゴリズムの収束特性の改善法"
 titleEn: "Improvement of Convergence Performance of KNLMS Algorithm by Learning with Separating Linear Component"
-authors:
+authorsJa:
+  - "中里 裕哉"
+  - "西川 清史"
+authorsEn:
   - "Hiroya NAKAZATO"
   - "Kiyoshi NISHIKAWA"
 date: "2011-09-15"

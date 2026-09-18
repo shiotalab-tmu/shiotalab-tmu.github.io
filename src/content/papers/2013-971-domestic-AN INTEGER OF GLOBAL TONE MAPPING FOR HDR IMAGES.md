@@ -1,7 +1,11 @@
 ---
 titleJa: "浮動小数点数表現されたHDR画像のための整数化トーンマッピング処理"
 titleEn: "AN INTEGER OF GLOBAL TONE MAPPING FOR HDR IMAGES"
-authors:
+authorsJa:
+  - "室伏 辰耶"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Tatsuya MUROFUSHI"
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"

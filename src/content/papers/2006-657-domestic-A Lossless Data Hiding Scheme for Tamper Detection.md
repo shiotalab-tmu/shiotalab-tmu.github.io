@@ -1,6 +1,11 @@
 ---
 titleEn: "A Lossless Data Hiding Scheme for Tamper Detection of Digital Images"
-authors:
+authorsJa:
+  - "韓 昇祐"
+  - "金 弘林"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Seungwu HAN"
   - "Hong Lin JIN"
   - "Masaaki FUJIYOSHI"

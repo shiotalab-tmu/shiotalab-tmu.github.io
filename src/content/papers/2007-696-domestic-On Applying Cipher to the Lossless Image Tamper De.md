@@ -1,7 +1,12 @@
 ---
 titleJa: "無歪画像改ざん検出法への暗号の適用法"
 titleEn: "On Applying Cipher to the Lossless Image Tamper Detection Method"
-authors:
+authorsJa:
+  - "穂坂 諒"
+  - "韓 昇祐"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Ryo HOSAKA"
   - "Seungwu HAN"
   - "Masaaki FUJIYOSHI"

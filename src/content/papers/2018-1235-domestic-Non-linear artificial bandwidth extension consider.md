@@ -1,7 +1,11 @@
 ---
 titleJa: "話者照合のための低周波成分への影響を考慮した非線形帯域拡張とその客観評価"
 titleEn: "Non-linear artificial bandwidth extension considering aliasing artifacts for speaker verification and its objective evaluation."
-authors:
+authorsJa:
+  - "宮本 春奈"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Haruna MIYAMOTO"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

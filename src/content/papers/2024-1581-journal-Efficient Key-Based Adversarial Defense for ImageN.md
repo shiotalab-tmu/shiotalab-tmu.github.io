@@ -1,6 +1,10 @@
 ---
 titleEn: "Efficient Key-Based Adversarial Defense for ImageNet by Using Pre-trained Model"
-authors:
+authorsJa:
+  - "エイプリルピョンマウンマウン"
+  - "越前 功"
+  - "貴家 仁志"
+authorsEn:
   - "April Pyone MAUNG MAUNG"
   - "Isao ECHIZEN"
   - "Hitoshi KIYA"

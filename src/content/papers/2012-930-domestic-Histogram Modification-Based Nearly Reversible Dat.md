@@ -1,7 +1,10 @@
 ---
 titleJa: "ヒストグラム操作に基づく準可逆画像情報埋込法"
 titleEn: "Histogram Modification-Based Nearly Reversible Data Hiding"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"
 date: "2012-03-20"

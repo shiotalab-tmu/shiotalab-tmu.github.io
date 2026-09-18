@@ -1,6 +1,9 @@
 ---
 titleEn: "Multi-Scrambling Code System for Improving BER Performance of Multirate DS/CDMA"
-authors:
+authorsJa:
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"
 date: "2002-11-01"

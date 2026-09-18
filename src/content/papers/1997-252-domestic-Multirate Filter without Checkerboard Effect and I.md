@@ -1,7 +1,10 @@
 ---
 titleJa: "チェス盤歪みを伴わないマルチレートフィルタとその零点配置について"
 titleEn: "Multirate Filter without Checkerboard Effect and Its Zero Point Location"
-authors:
+authorsJa:
+  - "原田 康裕"
+  - "貴家 仁志"
+authorsEn:
   - "Yasuhiro HARADA"
   - "Hitoshi KIYA"
 date: "1997-01-01"

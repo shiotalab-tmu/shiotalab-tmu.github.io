@@ -1,7 +1,11 @@
 ---
 titleJa: "JPEG画像へのデータ埋込み法の画質劣化について"
 titleEn: "On Image Degradation of Data Embedding Schemes for JPEG Coded Images"
-authors:
+authorsJa:
+  - "河西 元彦"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Motohiko KASAI"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

@@ -1,6 +1,11 @@
 ---
 titleEn: "Fine-Tuning Text-To-Image Diffusion Models for Class-Wise Spurious Feature Generation"
-authors:
+authorsJa:
+  - "エイプリルピョンマウンマウン"
+  - "Hong Huy Nguyen"
+  - "貴家 仁志"
+  - "越前 功"
+authorsEn:
   - "April Pyone MAUNG MAUNG"
   - "Huy H. Nguyen"
   - "Hitoshi KIYA"

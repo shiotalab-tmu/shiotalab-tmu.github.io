@@ -1,6 +1,10 @@
 ---
 titleEn: "A Codestream Domain Authentication and tamper Localization Scheme for JPEG 2000"
-authors:
+authorsJa:
+  - "パラシオスペレス マリエレーナ"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Marielena PALACIOS PEREZ"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

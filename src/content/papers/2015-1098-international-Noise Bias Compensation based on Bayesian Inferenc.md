@@ -1,6 +1,11 @@
 ---
 titleEn: "Noise Bias Compensation based on Bayesian Inference for Tone Mapped Noisy Image"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "ハムザー ファイロザアミラビンディ"
+  - "吉田 太一"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Fairoza Amira Binti HAMZAH"
   - "Taichi YOSHIDA"

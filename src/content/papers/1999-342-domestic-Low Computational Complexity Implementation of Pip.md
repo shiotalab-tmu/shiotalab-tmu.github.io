@@ -1,7 +1,11 @@
 ---
 titleJa: "演算量の少ないパイプラインRLSアルゴリズム"
 titleEn: "Low Computational Complexity Implementation of Pipelined RLS Filters"
-authors:
+authorsJa:
+  - "仁木 健生"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Takeo NIKI"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

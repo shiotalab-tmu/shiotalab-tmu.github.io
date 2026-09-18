@@ -1,6 +1,9 @@
 ---
 titleEn: "An FFT-Based Block Matching Algorithm Using Asymmetric Search Window"
-authors:
+authorsJa:
+  - "佐々木 秀竹"
+  - "貴家 仁志"
+authorsEn:
   - "Hidetake SASAKI"
   - "Hitoshi KIYA"
 date: "2012-01-10"

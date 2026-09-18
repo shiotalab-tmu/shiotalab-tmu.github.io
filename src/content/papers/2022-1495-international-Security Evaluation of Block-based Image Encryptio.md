@@ -1,6 +1,9 @@
 ---
 titleEn: "Security Evaluation of Block-based Image Encryption for Vision Transformer against Jigsaw Puzzle Solver Attack"
-authors:
+authorsJa:
+  - "中満 達也"
+  - "貴家 仁志"
+authorsEn:
   - "Tatsuya CHUMAN"
   - "Hitoshi KIYA"
 date: "2022-03-08"

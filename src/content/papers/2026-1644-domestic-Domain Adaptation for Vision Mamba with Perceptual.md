@@ -1,6 +1,10 @@
 ---
 titleEn: "Domain Adaptation for Vision Mamba with Perceptual Image Encryption"
-authors:
+authorsJa:
+  - "Jiachen Zhou"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Jiachen Zhou"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

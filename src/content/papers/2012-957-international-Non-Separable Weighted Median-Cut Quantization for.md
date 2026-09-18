@@ -1,6 +1,11 @@
 ---
 titleEn: "Non-Separable Weighted Median-Cut Quantization for Images with Sparse Color Histogram"
-authors:
+authorsJa:
+  - "セタン ワンニダー"
+  - "杉山 実花"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Wannida SAE-TANG"
   - "Mika SUGIYAMA"
   - "Masaaki FUJIYOSHI"

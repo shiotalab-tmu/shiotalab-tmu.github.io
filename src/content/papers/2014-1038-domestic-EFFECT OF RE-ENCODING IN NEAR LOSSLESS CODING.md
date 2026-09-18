@@ -1,7 +1,11 @@
 ---
 titleJa: "ニアロスレス符号化における再符号化の影響"
 titleEn: "EFFECT OF RE-ENCODING IN NEAR LOSSLESS CODING"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"

@@ -1,7 +1,12 @@
 ---
 titleJa: "法演算を用いる高画質電子透かし"
 titleEn: "A High Image-Quality Watermarking Method Using a Modulo Arithmetic"
-authors:
+authorsJa:
+  - "金 弘林"
+  - "藤吉 正明"
+  - "関 裕介"
+  - "貴家 仁志"
+authorsEn:
   - "Hong Lin JIN"
   - "Masaaki FUJIYOSHI"
   - "Yusuke SEKI"

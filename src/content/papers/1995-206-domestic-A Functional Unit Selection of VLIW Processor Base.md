@@ -1,7 +1,12 @@
 ---
 titleJa: "ソフトウェア・パイプライニングに基づくVLIWプロセッサの演算器の一構成法"
 titleEn: "A Functional Unit Selection of VLIW Processor Based on Software Pipelining"
-authors:
+authorsJa:
+  - "武内 直也"
+  - "内田 健"
+  - "貴家 仁志"
+  - "山田 昭彦"
+authorsEn:
   - "Naoya TAKEUCHI"
   - "Takeshi UCHIDA"
   - "Hitoshi KIYA"

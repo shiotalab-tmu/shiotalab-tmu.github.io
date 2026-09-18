@@ -1,7 +1,10 @@
 ---
 titleJa: "スパースコーディングを用いた暗号化領域での画像モデリング"
 titleEn: "Image Modeling in Encrypted Domain using Sparse Coding"
-authors:
+authorsJa:
+  - "仲地 孝之"
+  - "貴家 仁志"
+authorsEn:
   - "Takayuki NAKACHI"
   - "Hitoshi KIYA"
 date: "2018-09-27"

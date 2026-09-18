@@ -1,6 +1,10 @@
 ---
 titleEn: "A Unified Module Architecture for Forward and Inverse Discrete Wavelet Transforms"
-authors:
+authorsJa:
+  - "村松 正吾"
+  - "貴家 仁志"
+  - "山田 昭彦"
+authorsEn:
   - "Shogo MURAMATSU"
   - "Hitoshi KIYA"
   - "Akihiko YAMADA"

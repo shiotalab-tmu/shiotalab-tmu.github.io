@@ -1,6 +1,11 @@
 ---
 titleEn: "Hierarchical Encryption of Multimedia Contents for Access Control"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "齋藤 海有"
+  - "渡邊 修"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Wataru SAITOU"
   - "Osamu WATANABE"

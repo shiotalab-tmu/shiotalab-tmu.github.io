@@ -1,7 +1,12 @@
 ---
 titleJa: "SVE画像のための露出補正を用いた多重露出画像合成法"
 titleEn: "A Multi-Exposure Image Fusion Scheme with Exposure Compensation for Spatially Varying Exposures Image"
-authors:
+authorsJa:
+  - "郷　地洋"
+  - "木下 裕磨"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Chihiro GO"
   - "Yuma KINOSHITA"
   - "Sayaka SHIOTA"

@@ -1,7 +1,11 @@
 ---
 titleJa: "Motion JPEGのためのDCT係数正負符号に基づく動物体スクランブル法"
 titleEn: "A Moving Objects Scrambler Based on Signs of DCT Coefficients for Motion JPEG Movies"
-authors:
+authorsJa:
+  - "黒岩 圭二朗"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Keijiro KUROIWA"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

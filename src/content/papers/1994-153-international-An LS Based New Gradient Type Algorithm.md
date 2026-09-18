@@ -1,6 +1,9 @@
 ---
 titleEn: "An LS Based New Gradient Type Algorithm"
-authors:
+authorsJa:
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"
 date: "1994-04-01"

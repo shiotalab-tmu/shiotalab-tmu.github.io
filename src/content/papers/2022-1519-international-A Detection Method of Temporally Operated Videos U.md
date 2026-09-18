@@ -1,6 +1,10 @@
 ---
 titleEn: "A Detection Method of Temporally Operated Videos Using Robust Hashing"
-authors:
+authorsJa:
+  - "丹羽 祥子"
+  - "田中 美貴"
+  - "貴家 仁志"
+authorsEn:
   - "Shoko NIWA"
   - "Miki TANAKA"
   - "Hitoshi KIYA"

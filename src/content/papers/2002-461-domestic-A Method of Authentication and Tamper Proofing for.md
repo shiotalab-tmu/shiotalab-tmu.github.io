@@ -1,7 +1,10 @@
 ---
 titleJa: "JPEG2000を用いた画像の改ざん防止法"
 titleEn: "A Method of Authentication and Tamper Proofing for JPEG2000 Images"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "松井 勝之"
+authorsEn:
   - "Hitoshi KIYA"
   - "Katsuyuki MATSUI"
 date: "2002-06-01"

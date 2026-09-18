@@ -1,7 +1,10 @@
 ---
 titleJa: "DCT相関とその一般化"
 titleEn: "DCT Correlation and Its Generalization"
-authors:
+authorsJa:
+  - "伊藤 泉"
+  - "貴家 仁志"
+authorsEn:
   - "Izumi ITO"
   - "Hitoshi KIYA"
 date: "2009-10-08"

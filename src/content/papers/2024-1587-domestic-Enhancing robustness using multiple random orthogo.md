@@ -1,7 +1,11 @@
 ---
 titleJa: "音声プライバシー保護のための複数のランダム直交行列を用いた 秘密鍵による攻撃耐性の向上"
 titleEn: "Enhancing robustness using multiple random orthogonal matrices for voice privacy-preserving"
-authors:
+authorsJa:
+  - "田中 康平"
+  - "貴家 仁志"
+  - "塩田 さやか"
+authorsEn:
   - "Kohei TANAKA"
   - "Hitoshi KIYA"
   - "Sayaka SHIOTA"

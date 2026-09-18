@@ -1,7 +1,10 @@
 ---
 titleJa: "DCT符号相関と対称畳み込みの関係について"
 titleEn: "Relationship between DCT Sign Correlation and Symmetric Convolution"
-authors:
+authorsJa:
+  - "伊藤 泉"
+  - "貴家 仁志"
+authorsEn:
   - "Izumi ITO"
   - "Hitoshi KIYA"
 date: "2009-11-25"

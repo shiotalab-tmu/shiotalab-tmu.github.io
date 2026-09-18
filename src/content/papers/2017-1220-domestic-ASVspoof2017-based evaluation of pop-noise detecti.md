@@ -1,7 +1,11 @@
 ---
 titleJa: "声の生体検知のためのポップノイズ検出法のASVspoof2017に基づく評価"
 titleEn: "ASVspoof2017-based evaluation of pop-noise detection method for voice liveness detection"
-authors:
+authorsJa:
+  - "矢口 凌也"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Ryoya YAGUCHI"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

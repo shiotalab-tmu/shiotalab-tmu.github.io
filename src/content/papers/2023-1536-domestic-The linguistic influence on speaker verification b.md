@@ -1,7 +1,13 @@
 ---
 titleJa: "自己教師あり学習に基づく話者照合における言語性の影響"
 titleEn: "The linguistic influence on speaker verification based on Self-Supervised Learning"
-authors:
+authorsJa:
+  - "若松 智花"
+  - "安藤 厚志"
+  - "塩田 さやか"
+  - "増村　亮"
+  - "貴家 仁志"
+authorsEn:
   - "Tomoka WAKAMATSU"
   - "Atsushi ANDO"
   - "Sayaka SHIOTA"

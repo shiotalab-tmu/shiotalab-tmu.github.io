@@ -1,6 +1,9 @@
 ---
 titleEn: "Lossless JPEG2000 Coding for Lossy Images and Its Applications"
-authors:
+authorsJa:
+  - "渡邊 修"
+  - "貴家 仁志"
+authorsEn:
   - "Osamu WATANABE"
   - "Hitoshi KIYA"
 date: "2002-09-01"

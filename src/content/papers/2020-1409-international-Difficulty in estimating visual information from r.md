@@ -1,6 +1,10 @@
 ---
 titleEn: "Difficulty in estimating visual information from randomly sampled images"
-authors:
+authorsJa:
+  - "北山　昌希"
+  - "貴家 仁志"
+  - "小野 順貴"
+authorsEn:
   - "Masaki KITAYAMA"
   - "Hitoshi KIYA"
   - "Nobutaka ONO"

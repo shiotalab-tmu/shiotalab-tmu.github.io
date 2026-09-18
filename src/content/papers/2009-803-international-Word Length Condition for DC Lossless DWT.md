@@ -1,6 +1,9 @@
 ---
 titleEn: "Word Length Condition for DC Lossless DWT"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"
 date: "2009-10-06"

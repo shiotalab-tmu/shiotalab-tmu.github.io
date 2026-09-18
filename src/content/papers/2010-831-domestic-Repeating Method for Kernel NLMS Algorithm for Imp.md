@@ -1,7 +1,10 @@
 ---
 titleJa: "繰り返し法によるカーネルNLMSアルゴリズムの収束特性改善"
 titleEn: "Repeating Method for Kernel NLMS Algorithm for Improving Convergence Characteristics"
-authors:
+authorsJa:
+  - "牧﨑 幸司"
+  - "西川 清史"
+authorsEn:
   - "Koji MAKIZAKI"
   - "Kiyoshi NISHIKAWA"
 date: "2010-03-16"

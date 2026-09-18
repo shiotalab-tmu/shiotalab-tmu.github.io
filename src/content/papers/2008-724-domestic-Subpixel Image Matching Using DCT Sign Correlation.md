@@ -1,7 +1,11 @@
 ---
 titleJa: "DCT符号相関を用いたサブピクセル精度画像マッチング"
 titleEn: "Subpixel Image Matching Using DCT Sign Correlation"
-authors:
+authorsJa:
+  - "植村 淳志"
+  - "伊藤 泉"
+  - "貴家 仁志"
+authorsEn:
   - "Atsushi UEMURA"
   - "Izumi ITO"
   - "Hitoshi KIYA"

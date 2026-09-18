@@ -1,6 +1,9 @@
 ---
 titleEn: "A New Technique of Non-Iterative Super-Resolution without Boundary Distortion"
-authors:
+authorsJa:
+  - "伊藤 泉"
+  - "貴家 仁志"
+authorsEn:
   - "Izumi ITO"
   - "Hitoshi KIYA"
 date: "2012-03-29"

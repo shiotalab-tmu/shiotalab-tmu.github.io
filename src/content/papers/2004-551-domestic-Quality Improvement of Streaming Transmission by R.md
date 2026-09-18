@@ -1,7 +1,12 @@
 ---
 titleJa: "JPEG2000符号ストリーム構造を考慮したRTPパケット分割によるストリーミング伝送の高品質化"
 titleEn: "Quality Improvement of Streaming Transmission by RTP Packetization in Consideration of JPEG2000 Codestream"
-authors:
+authorsJa:
+  - "長藁 真一"
+  - "佐藤 賢治"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Shin'ichi NAGAWARA"
   - "Kenji SATO"
   - "Kiyoshi NISHIKAWA"

@@ -1,6 +1,10 @@
 ---
 titleEn: "Secure Dictionary Learning for Sparse Representation"
-authors:
+authorsJa:
+  - "仲地 孝之"
+  - "坂東 幸浩"
+  - "貴家 仁志"
+authorsEn:
   - "Takayuki NAKACHI"
   - "Yukihiro Bandoh"
   - "Hitoshi KIYA"

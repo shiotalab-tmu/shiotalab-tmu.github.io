@@ -1,6 +1,9 @@
 ---
 titleEn: "Scrambling of MPEG Video by Exchanging Motion Vectors"
-authors:
+authorsJa:
+  - "高木 亜有子"
+  - "貴家 仁志"
+authorsEn:
   - "Ayuko TAKAGI"
   - "Hitoshi KIYA"
 date: "2004-08-01"

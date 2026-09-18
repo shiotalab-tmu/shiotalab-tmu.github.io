@@ -1,6 +1,10 @@
 ---
 titleEn: "Privacy-preserving Network BMI Decoding of Covert Spatial Attention"
-authors:
+authorsJa:
+  - "仲地 孝之"
+  - "石原 裕之"
+  - "貴家 仁志"
+authorsEn:
   - "Takayuki NAKACHI"
   - "Hiroyuki ISHIHARA"
   - "Hitoshi KIYA"

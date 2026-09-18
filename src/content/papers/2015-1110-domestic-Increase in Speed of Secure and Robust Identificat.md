@@ -1,7 +1,10 @@
 ---
 titleJa: "圧縮画像のためのセキュアかつロバストな画像同定の高速化"
 titleEn: "Increase in Speed of Secure and Robust Identification for Compressed Images"
-authors:
+authorsJa:
+  - "飯田 健太"
+  - "貴家 仁志"
+authorsEn:
   - "Kenta IIDA"
   - "Hitoshi KIYA"
 date: "2015-12-03"

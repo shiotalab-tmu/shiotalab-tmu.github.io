@@ -1,7 +1,10 @@
 ---
 titleJa: "ヒストグラムROI量子化とその応用"
 titleEn: "A Histogram ROI Quantization Method and its Applications"
-authors:
+authorsJa:
+  - "渡辺 健太"
+  - "貴家 仁志"
+authorsEn:
   - "Kenta WATANABE"
   - "Hitoshi KIYA"
 date: "2012-03-08"

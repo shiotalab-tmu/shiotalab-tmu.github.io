@@ -1,6 +1,12 @@
 ---
 titleEn: "DCT Sign Only Correlation and Its Application to Image Registration"
-authors:
+authorsJa:
+  - "フィトリ アルニア"
+  - "飯塚 郁絵"
+  - "小林 弘幸"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Fitri Arnia"
   - "Ikue IIZUKA"
   - "Hiroyuki KOBAYASHI"

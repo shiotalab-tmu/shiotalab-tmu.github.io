@@ -1,6 +1,10 @@
 ---
 titleEn: "Lossy Compression of Sparse Histogram Image"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"

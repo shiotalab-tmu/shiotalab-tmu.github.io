@@ -1,6 +1,10 @@
 ---
 titleEn: "Color Image Denosing by NL-means Filtering with a constraint among color components"
-authors:
+authorsJa:
+  - "山口 貴之"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Takayuki YAMAGUCHI"
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"

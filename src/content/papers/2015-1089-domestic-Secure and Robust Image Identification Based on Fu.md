@@ -1,7 +1,11 @@
 ---
 titleJa: "Fuzzy Commitment Schemeに基づくセキュアかつロバストなJPEG画像の同定"
 titleEn: "Secure and Robust Image Identification Based on Fuzzy Commitment Scheme for JPEG Images"
-authors:
+authorsJa:
+  - "飯田 健太"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Kenta IIDA"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

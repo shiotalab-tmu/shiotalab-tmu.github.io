@@ -1,7 +1,11 @@
 ---
 titleJa: "多次元データの埋め込みによる画像の幾何補正法"
 titleEn: "Image Registration Using Embedded Multidimensional Data"
-authors:
+authorsJa:
+  - "神藤 英輔"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Eisuke JINDO"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

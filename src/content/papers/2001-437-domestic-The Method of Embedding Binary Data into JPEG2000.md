@@ -1,7 +1,11 @@
 ---
 titleJa: "Layer構造に基づくJPEG2000符号化画像へのバイナリデータ埋め込み法"
 titleEn: "The Method of Embedding Binary Data into JPEG2000 Bitstreams Based on the Layer Structure"
-authors:
+authorsJa:
+  - "安藤 勝俊"
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Katsutoshi ANDO"
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"

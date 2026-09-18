@@ -1,7 +1,11 @@
 ---
 titleJa: "エイリアスフリーサブバンド適応フィルタのための学習同定法"
 titleEn: "Normalized LMS Algorithm for Alias-Free Subband Adaptive Filtering"
-authors:
+authorsJa:
+  - "増井 剛"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Go MASUI"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

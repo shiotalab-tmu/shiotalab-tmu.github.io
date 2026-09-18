@@ -1,7 +1,10 @@
 ---
 titleJa: "Kernel RLS-DCD適応フィルタの収束特性に関する検討"
 titleEn: "A Study on Convergence Properties of Kernel RLS-DCD Adaptive Filters"
-authors:
+authorsJa:
+  - "小川 芳樹"
+  - "西川 清史"
+authorsEn:
   - "Yoshiki OGAWA"
   - "Kiyoshi NISHIKAWA"
 date: "2012-11-28"

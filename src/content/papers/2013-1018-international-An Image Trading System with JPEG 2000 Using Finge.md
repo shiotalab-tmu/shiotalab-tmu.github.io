@@ -1,6 +1,10 @@
 ---
 titleEn: "An Image Trading System with JPEG 2000 Using Fingerprinting in Visually Protected Domain"
-authors:
+authorsJa:
+  - "セタン ワンニダー"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Wannida SAE-TANG"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

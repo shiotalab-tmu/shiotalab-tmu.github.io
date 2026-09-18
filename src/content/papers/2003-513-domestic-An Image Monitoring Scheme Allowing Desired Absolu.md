@@ -1,7 +1,10 @@
 ---
 titleJa: "絶対誤差基準パラメータを持つ画像監視法"
 titleEn: "An Image Monitoring Scheme Allowing Desired Absolute Error"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"
 date: "2003-07-17"

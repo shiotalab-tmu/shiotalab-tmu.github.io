@@ -1,7 +1,10 @@
 ---
 titleJa: "カラー静止画像への領域再分割情報の埋め込み法"
 titleEn: "A Method of Inserting Object Segmentation Information into Color Still Images"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"
 date: "1998-09-01"

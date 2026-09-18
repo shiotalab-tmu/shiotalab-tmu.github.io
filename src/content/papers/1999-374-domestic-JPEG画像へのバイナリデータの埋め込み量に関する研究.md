@@ -1,6 +1,9 @@
 ---
 titleJa: "JPEG画像へのバイナリデータの埋め込み量に関する研究"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"
 date: "1999-11-01"

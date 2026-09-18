@@ -1,6 +1,9 @@
 ---
 titleEn: "Scrambling of MPEG Video Suitable for Image Search"
-authors:
+authorsJa:
+  - "高木 亜有子"
+  - "貴家 仁志"
+authorsEn:
   - "Ayuko TAKAGI"
   - "Hitoshi KIYA"
 date: "2004-01-12"

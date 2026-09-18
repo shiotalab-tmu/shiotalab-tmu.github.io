@@ -1,6 +1,10 @@
 ---
 titleEn: "Low-Bit Motion Estimation with Edge Enhanced Images for Lowpower MPEG Encoder"
-authors:
+authorsJa:
+  - "高木 亜有子"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Ayuko TAKAGI"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

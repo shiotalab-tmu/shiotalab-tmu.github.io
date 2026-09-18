@@ -1,6 +1,10 @@
 ---
 titleEn: "A Digital Watermarking Scheme That Preserves Image Quality and is Applicable to Watermark Sequences from a Variety of Distributions"
-authors:
+authorsJa:
+  - "橘 高志"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Takashi TACHIBANA"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

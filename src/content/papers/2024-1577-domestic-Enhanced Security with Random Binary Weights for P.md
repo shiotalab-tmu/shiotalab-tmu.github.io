@@ -1,7 +1,11 @@
 ---
 titleJa: "ランダム二値重みを用いたプライバシー保護連合学習における安全性の強化 "
 titleEn: "Enhanced Security with Random Binary Weights for Privacy-Preserving Federated Learning "
-authors:
+authorsJa:
+  - "澤田寛人"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroto SAWADA"
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"

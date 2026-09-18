@@ -1,7 +1,11 @@
 ---
 titleJa: "複数の検査鍵を設定可能な可逆情報埋込に基づく画像改ざん検出法"
 titleEn: "A Reversible Data Hiding-Based Image Authentication Method Using Multiple Keys"
-authors:
+authorsJa:
+  - "渡辺 健太"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Kenta WATANABE"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

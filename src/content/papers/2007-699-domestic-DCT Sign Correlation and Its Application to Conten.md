@@ -1,7 +1,10 @@
 ---
 titleJa: "DCT符号相関のContents Fingerprint (CoFIP)への応用"
 titleEn: "DCT Sign Correlation and Its Application to Contents Fingerprint (CoFIP)"
-authors:
+authorsJa:
+  - "伊藤 泉"
+  - "貴家 仁志"
+authorsEn:
   - "Izumi ITO"
   - "Hitoshi KIYA"
 date: "2007-09-12"

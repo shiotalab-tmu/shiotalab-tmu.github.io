@@ -1,6 +1,10 @@
 ---
 titleEn: "A Random Ensemble of Encrypted Vision Transformers for Adversarially Robust Defense"
-authors:
+authorsJa:
+  - "飯島 諒太"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Ryota IIJIMA"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

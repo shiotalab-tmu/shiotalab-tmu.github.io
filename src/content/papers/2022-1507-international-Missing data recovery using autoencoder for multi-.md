@@ -1,6 +1,13 @@
 ---
 titleEn: "Missing data recovery using autoencoder for multi-channel acoustic scene classification"
-authors:
+authorsJa:
+  - "城間 佑樹"
+  - "木下 裕磨"
+  - "井本 桂右"
+  - "塩田 さやか"
+  - "小野 順貴"
+  - "貴家 仁志"
+authorsEn:
   - "Yuki Shiroma"
   - "Yuma KINOSHITA"
   - "Keisuke IMOTO"

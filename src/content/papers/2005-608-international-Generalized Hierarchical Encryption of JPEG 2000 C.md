@@ -1,6 +1,11 @@
 ---
 titleEn: "Generalized Hierarchical Encryption of JPEG 2000 Codestreams for Access Control"
-authors:
+authorsJa:
+  - "今泉 祥子"
+  - "渡邊 修"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Shoko IMAIZUMI"
   - "Osamu WATANABE"
   - "Masaaki FUJIYOSHI"

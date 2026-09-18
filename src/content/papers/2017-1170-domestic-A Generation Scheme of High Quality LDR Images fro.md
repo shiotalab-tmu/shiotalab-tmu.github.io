@@ -1,7 +1,12 @@
 ---
 titleJa: "構造的適合度を用いたJPEG XT圧縮HDR画像から高品質なLDR画像の生成法"
 titleEn: "A Generation Scheme of High Quality LDR Images from JPEG XT HDR Images Using Structural Fidelity"
-authors:
+authorsJa:
+  - "アーティット ビサワキットチャロエン"
+  - "木下 裕磨"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Artit VISAVAKITCHAROEN"
   - "Yuma KINOSHITA"
   - "Sayaka SHIOTA"

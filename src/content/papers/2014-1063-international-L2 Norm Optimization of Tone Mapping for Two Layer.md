@@ -1,6 +1,10 @@
 ---
 titleEn: "L2 Norm Optimization of Tone Mapping for Two Layer Lossless Coding of HDR Images"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "吉田 太一"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Taichi YOSHIDA"
   - "Hitoshi KIYA"

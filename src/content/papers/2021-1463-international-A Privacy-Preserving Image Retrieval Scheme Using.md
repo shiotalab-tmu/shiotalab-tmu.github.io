@@ -1,6 +1,9 @@
 ---
 titleEn: "A Privacy-Preserving Image Retrieval Scheme Using a Codebook Generated From Independent Plain-Image Dataset"
-authors:
+authorsJa:
+  - "飯田 健太"
+  - "貴家 仁志"
+authorsEn:
   - "Kenta IIDA"
   - "Hitoshi KIYA"
 date: "2021-12-14"

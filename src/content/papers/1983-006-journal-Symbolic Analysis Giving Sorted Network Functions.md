@@ -1,7 +1,10 @@
 ---
 titleJa: "複数個の同種記号について整理された回路関数を与える記号解析"
 titleEn: "Symbolic Analysis Giving Sorted Network Functions with Respect to Some Kinds of Identical Symbolic Elements"
-authors:
+authorsJa:
+  - "本間 仁志"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi HONMA"
   - "Masahiko SAGAWA"
 date: "1983-05-01"

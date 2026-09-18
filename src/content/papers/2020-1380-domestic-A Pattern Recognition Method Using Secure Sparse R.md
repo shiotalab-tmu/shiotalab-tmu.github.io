@@ -1,7 +1,11 @@
 ---
 titleJa: "L0ノルム最小化における秘匿スパース表現を用いたパターン認識法"
 titleEn: "A Pattern Recognition Method Using Secure Sparse Representations in L0 Norm Minimization "
-authors:
+authorsJa:
+  - "仲地 孝之"
+  - "Yitu WANG"
+  - "貴家 仁志"
+authorsEn:
   - "Takayuki NAKACHI"
   - "Yitu WANG"
   - "Hitoshi KIYA"

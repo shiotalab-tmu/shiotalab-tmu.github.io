@@ -1,6 +1,13 @@
 ---
 titleEn: "VOICE LIVENESS DETECTION FOR SPEAKER VERIFICATION BASED ON A TANDEM SINGLE/DOUBLE-CHANNEL POP NOISE DETECTOR"
-authors:
+authorsJa:
+  - "塩田 さやか"
+  - "フェルナンド ビリャビセンシオ"
+  - "山岸 順一"
+  - "小野 順貴"
+  - "越前 功"
+  - "松井 知子"
+authorsEn:
   - "Sayaka SHIOTA"
   - "Fernando Villaviencio"
   - "Junichi YAMAGISHI"

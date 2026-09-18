@@ -1,7 +1,10 @@
 ---
 titleJa: "FFT高速ブロックマッチングの消失領域復元への応用"
 titleEn: "FFT based Fast Block Matching Algorithm for Image Completion"
-authors:
+authorsJa:
+  - "李 禎"
+  - "貴家 仁志"
+authorsEn:
   - "Zhen LI"
   - "Hitoshi KIYA"
 date: "2010-09-14"

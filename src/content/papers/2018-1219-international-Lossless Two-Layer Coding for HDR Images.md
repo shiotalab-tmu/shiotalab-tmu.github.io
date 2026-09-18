@@ -1,6 +1,10 @@
 ---
 titleEn: "Lossless Two-Layer Coding for HDR Images"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "石川 博"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Hiroshi ISHIKAWA"
   - "Hitoshi KIYA"

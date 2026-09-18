@@ -1,7 +1,10 @@
 ---
 titleJa: "多地点間でのJPEG2000伝送のSCTPによる伝送特性の改善に関する研究"
 titleEn: "Improvement of Quality of Transmition of JPEG 2000 Based Video Streams between Multiple Points Using SCTP"
-authors:
+authorsJa:
+  - "宇都宮 康雄"
+  - "西川 清史"
+authorsEn:
   - "Yasuo UTSUNOMIYA"
   - "Kiyoshi NISHIKAWA"
 date: "2006-11-15"

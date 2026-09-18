@@ -1,6 +1,10 @@
 ---
 titleEn: "A Cheat-Prevention Visual Secret Sharing Scheme with Efficient Pixel Expansion"
-authors:
+authorsJa:
+  - "劉 審川"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Shen Chuan LIU"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

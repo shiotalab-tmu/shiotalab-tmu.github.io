@@ -1,6 +1,10 @@
 ---
 titleEn: "A Perceptual Encryption Scheme for Motion JPEG 2000 Standard"
-authors:
+authorsJa:
+  - "渡邊 修"
+  - "福原 隆浩"
+  - "貴家 仁志"
+authorsEn:
   - "Osamu WATANABE"
   - "Takahiro FUKUHARA"
   - "Hitoshi KIYA"

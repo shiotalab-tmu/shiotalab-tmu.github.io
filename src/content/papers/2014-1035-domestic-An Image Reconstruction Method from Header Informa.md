@@ -1,7 +1,11 @@
 ---
 titleJa: "JPEG2000のヘッダ情報を用いた画像推定法"
 titleEn: "An Image Reconstruction Method from Header Information in JPEG2000 Codestreams"
-authors:
+authorsJa:
+  - "瀧本 克真"
+  - "土橋 俊之"
+  - "貴家 仁志"
+authorsEn:
   - "Katsuma TAKIMOTO "
   - "Toshiyuki DOBASHI"
   - "Hitoshi KIYA"

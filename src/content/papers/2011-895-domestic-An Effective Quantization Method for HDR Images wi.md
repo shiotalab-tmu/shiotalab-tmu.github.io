@@ -1,7 +1,11 @@
 ---
 titleJa: "ヒストグラムの疎性を考慮したHDR画像の効果的量子化法"
 titleEn: "An Effective Quantization Method for HDR Images with Histogram Sparsity"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "小林 弘幸"
+  - "岩橋 政宏"
+authorsEn:
   - "Hitoshi KIYA"
   - "Hiroyuki KOBAYASHI"
   - "Masahiro IWAHASHI"

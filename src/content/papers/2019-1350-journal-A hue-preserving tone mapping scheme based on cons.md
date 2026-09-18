@@ -1,6 +1,11 @@
 ---
 titleEn: "A hue-preserving tone mapping scheme based on constant-hue plane without gamut problem"
-authors:
+authorsJa:
+  - "木下 裕磨"
+  - "瀬尾 光希"
+  - "アーティット ビサワキットチャロエン"
+  - "貴家 仁志"
+authorsEn:
   - "Yuma KINOSHITA"
   - "Kouki SEO"
   - "Artit VISAVAKITCHAROEN"

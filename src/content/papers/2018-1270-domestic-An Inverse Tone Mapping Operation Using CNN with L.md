@@ -1,7 +1,10 @@
 ---
 titleJa: "LDR画像の学習に基づくCNNを用いた逆トーンマッピング法"
 titleEn: "An Inverse Tone Mapping Operation Using CNN with LDR Based Learning "
-authors:
+authorsJa:
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"
 date: "2018-09-27"

@@ -1,7 +1,11 @@
 ---
 titleJa: "ポリフェーズDFTを用いた新しい適応フィルタ、Part II"
 titleEn: "New Class of Adaptive Filters Using The Polyphase DFT-bank. Part II: Non-decimated version"
-authors:
+authorsJa:
+  - "尾知 博"
+  - "山田 洋士"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroshi OCHI"
   - "Youji YAMADA"
   - "Hitoshi KIYA"

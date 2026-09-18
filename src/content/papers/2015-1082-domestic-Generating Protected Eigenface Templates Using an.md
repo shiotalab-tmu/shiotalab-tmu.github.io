@@ -1,7 +1,11 @@
 ---
 titleJa: "ユニタリ変換を用いたセキュアな固有顔特徴量の生成法"
 titleEn: "Generating Protected Eigenface Templates Using an Unitary Transformation"
-authors:
+authorsJa:
+  - "中村 維吹"
+  - "外村 喜秀"
+  - "貴家 仁志"
+authorsEn:
   - "Ibuki NAKAMURA"
   - "Yoshihide TONOMURA"
   - "Hitoshi KIYA"

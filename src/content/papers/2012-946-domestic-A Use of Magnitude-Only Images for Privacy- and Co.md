@@ -1,6 +1,10 @@
 ---
 titleEn: "A Use of Magnitude-Only Images for Privacy- and Copyright-Protected Image Trading Systems"
-authors:
+authorsJa:
+  - "劉 審川"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Shen Chuan LIU"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

@@ -1,6 +1,10 @@
 ---
 titleEn: "Design of Two-Dimensinal Digital Filters with Fewer Multipliers and Adders"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "本間 仁志"
+  - "佐川 雅彦"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Hitoshi HONMA"
   - "Masahiko SAGAWA"

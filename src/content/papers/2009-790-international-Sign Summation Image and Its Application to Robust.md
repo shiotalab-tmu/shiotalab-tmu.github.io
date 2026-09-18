@@ -1,6 +1,11 @@
 ---
 titleEn: "Sign Summation Image and Its Application to Robust Image Registration"
-authors:
+authorsJa:
+  - "植村 淳志"
+  - "藤吉 正明"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Atsushi UEMURA"
   - "Masaaki FUJIYOSHI"
   - "Kiyoshi NISHIKAWA"

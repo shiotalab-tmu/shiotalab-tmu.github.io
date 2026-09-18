@@ -1,6 +1,9 @@
 ---
 titleJa: "カラーJPEG画像へのバイナリデータの埋め込み法"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"
 date: "1998-11-01"

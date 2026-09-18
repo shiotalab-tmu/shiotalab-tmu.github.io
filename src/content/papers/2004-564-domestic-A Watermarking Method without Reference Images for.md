@@ -1,7 +1,12 @@
 ---
 titleJa: "符号化画像のための新しい非参照型電子透かし法の提案"
 titleEn: "A Watermarking Method without Reference Images for Coded Images"
-authors:
+authorsJa:
+  - "関 裕介"
+  - "小林 弘幸"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Yusuke SEKI"
   - "Hiroyuki KOBAYASHI"
   - "Masaaki FUJIYOSHI"

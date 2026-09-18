@@ -1,7 +1,11 @@
 ---
 titleJa: "話者照合のための音素情報を考慮したポップノイズ検出法による声の生体検知"
 titleEn: "Voice liveness detection based on phoneme information-based pop-noise detector"
-authors:
+authorsJa:
+  - "望月 紫穂野"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Shihono MOCHIZUKI"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

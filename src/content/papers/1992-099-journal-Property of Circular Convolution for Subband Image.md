@@ -1,6 +1,10 @@
 ---
 titleEn: "Property of Circular Convolution for Subband Image Coding"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "西川 清史"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi KIYA"
   - "Kiyoshi NISHIKAWA"
   - "Masahiko SAGAWA"

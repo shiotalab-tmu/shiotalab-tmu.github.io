@@ -1,6 +1,9 @@
 ---
 titleEn: "Low Sensitivity Realization of Linear Phase FIR Digital Filters Using Complex Arithmethic"
-authors:
+authorsJa:
+  - "尾知 博"
+  - "本間 仁志"
+authorsEn:
   - "Hiroshi OCHI"
   - "Hitoshi HONMA"
 date: "1991-06-01"

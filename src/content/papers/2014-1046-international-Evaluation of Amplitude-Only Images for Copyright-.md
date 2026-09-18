@@ -1,6 +1,10 @@
 ---
 titleEn: "Evaluation of Amplitude-Only Images for Copyright- and Privacy-Protected Image Trading Systems"
-authors:
+authorsJa:
+  - "セタン ワンニダー"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Wannida SAE-TANG"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

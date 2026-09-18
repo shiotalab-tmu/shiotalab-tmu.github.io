@@ -1,6 +1,10 @@
 ---
 titleEn: "A study of sentence design based on pop-noise balance for voice liveness detection"
-authors:
+authorsJa:
+  - "望月 紫穂野"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Shihono MOCHIZUKI"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

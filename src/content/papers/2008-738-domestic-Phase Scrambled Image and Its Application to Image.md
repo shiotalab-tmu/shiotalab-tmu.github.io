@@ -1,7 +1,10 @@
 ---
 titleJa: "位相スクランブル画像と画像マッチングへの応用"
 titleEn: "Phase Scrambled Image and Its Application to Image Matching"
-authors:
+authorsJa:
+  - "伊藤 泉"
+  - "貴家 仁志"
+authorsEn:
   - "Izumi ITO"
   - "Hitoshi KIYA"
 date: "2008-06-26"

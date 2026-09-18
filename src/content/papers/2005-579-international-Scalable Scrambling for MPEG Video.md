@@ -1,6 +1,10 @@
 ---
 titleEn: "Scalable Scrambling for MPEG Video"
-authors:
+authorsJa:
+  - "高木 亜有子"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Ayuko TAKAGI"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

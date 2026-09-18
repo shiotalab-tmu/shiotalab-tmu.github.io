@@ -1,6 +1,10 @@
 ---
 titleEn: "Speech Privacy-preserving Methods Using Secret Key for Convolutional Neural Network Models and Their Robustness Evaluation"
-authors:
+authorsJa:
+  - "丹羽 祥子"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Shoko NIWA"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

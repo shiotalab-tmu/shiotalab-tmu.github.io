@@ -1,7 +1,11 @@
 ---
 titleJa: "i-vector/PLDAに基づく話者照合による 非線形帯域拡張法の評価"
 titleEn: "EVALUATION OF NON-LINEAR ARTIFICIAL BANDWIDTH EXTENSION USING PLDA BASED SPEAKER VERIFICATION"
-authors:
+authorsJa:
+  - "上西 遼大"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Ryota KAMINISHI"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

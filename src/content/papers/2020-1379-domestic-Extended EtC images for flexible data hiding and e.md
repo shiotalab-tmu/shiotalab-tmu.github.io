@@ -1,7 +1,11 @@
 ---
 titleJa: "柔軟な情報埋込みと抽出を可能とする拡張されたEtC画像"
 titleEn: "Extended EtC images for flexible data hiding and extracting "
-authors:
+authorsJa:
+  - "平澤 凌一"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Ryoichi HIRASAWA"
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"

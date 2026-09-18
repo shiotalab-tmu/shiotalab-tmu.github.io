@@ -1,7 +1,11 @@
 ---
 titleJa: "複数参加型 DNN モデル学習のための使い捨て鍵を用いた画像暗号化法"
 titleEn: "Disposable key-based image encryption for muti-participant DNN learning"
-authors:
+authorsJa:
+  - "麻生 伶"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Rei ASO"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

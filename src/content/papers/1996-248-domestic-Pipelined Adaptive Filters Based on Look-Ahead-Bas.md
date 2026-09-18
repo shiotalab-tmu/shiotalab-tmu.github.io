@@ -1,7 +1,11 @@
 ---
 titleJa: "新しいルックアヘッド変換を用いたパイプライン適応フィルタ"
 titleEn: "Pipelined Adaptive Filters Based on Look-Ahead-Based Delayed LMS Algorithm"
-authors:
+authorsJa:
+  - "松原 勝重"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Katsushige MATSUBARA"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

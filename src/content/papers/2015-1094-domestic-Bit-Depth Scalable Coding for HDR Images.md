@@ -1,7 +1,12 @@
 ---
 titleJa: "HDR画像のビット深度スケーラブル符号化"
 titleEn: "Bit-Depth Scalable Coding for HDR Images "
-authors:
+authorsJa:
+  - "木下 裕磨"
+  - "鈴木 亮"
+  - "土橋 俊之"
+  - "貴家 仁志"
+authorsEn:
   - "Yuma KINOSHITA"
   - "Ryo SUZUKI"
   - "Toshiyuki DOBASHI"

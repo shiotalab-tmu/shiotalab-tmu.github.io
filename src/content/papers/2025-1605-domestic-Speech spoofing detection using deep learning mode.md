@@ -1,7 +1,10 @@
 ---
 titleJa: "複数の音声特徴量を用いた深層学習モデルによるなりすまし音声検出の検討"
 titleEn: "Speech spoofing detection using deep learning model with multiple acoustic features"
-authors:
+authorsJa:
+  - "難波 栄輝"
+  - "塩田 さやか"
+authorsEn:
   - "Haruto NAMBA"
   - "Sayaka SHIOTA"
 date: "2025-03-04"

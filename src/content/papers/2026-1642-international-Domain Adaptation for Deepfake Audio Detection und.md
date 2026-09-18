@@ -1,6 +1,12 @@
 ---
 titleEn: "Domain Adaptation for Deepfake Audio Detection under Degraded Channel Conditions"
-authors:
+authorsJa:
+  - "堤 歩斗"
+  - "後藤 晃"
+  - "斉藤 裕子"
+  - "松浦 廣樹"
+  - "塩田 さやか"
+authorsEn:
   - "Ayuto TSUTSUMI"
   - "Akira GOTOH"
   - "Yuko SAITO"

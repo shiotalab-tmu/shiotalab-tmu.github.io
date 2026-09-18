@@ -1,6 +1,9 @@
 ---
 titleEn: "Generalizations of Image Resolution Conversions Using 8-Point Inverse DCT"
-authors:
+authorsJa:
+  - "小島 一浩"
+  - "貴家 仁志"
+authorsEn:
   - "Kazuhiro KOJIMA"
   - "Hitoshi KIYA"
 date: "2002-09-01"

@@ -1,6 +1,10 @@
 ---
 titleEn: "A Robust Identification Scheme for JPEG XR Images with Various Compression Ratios"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"

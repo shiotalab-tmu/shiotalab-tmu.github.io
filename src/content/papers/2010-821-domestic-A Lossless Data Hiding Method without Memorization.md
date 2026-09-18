@@ -1,7 +1,11 @@
 ---
 titleJa: "パラメタを記憶しない可逆情報埋込法とその画像・音への適用"
 titleEn: "A Lossless Data Hiding Method without Memorization of Hiding Parameter and Its Application to Image and Sound"
-authors:
+authorsJa:
+  - "常吉 高弘"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Takahiro TSUNEYOSHI"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

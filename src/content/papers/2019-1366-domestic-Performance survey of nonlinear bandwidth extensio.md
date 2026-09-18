@@ -1,7 +1,11 @@
 ---
 titleJa: "HMMおよびEnd-to-End音声認識における非線形帯域拡張法の性能調査"
 titleEn: "Performance survey of nonlinear bandwidth extension method in HMM and end-to-end speech recognition"
-authors:
+authorsJa:
+  - "今泉　遼"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Ryo IMAIZUMI"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

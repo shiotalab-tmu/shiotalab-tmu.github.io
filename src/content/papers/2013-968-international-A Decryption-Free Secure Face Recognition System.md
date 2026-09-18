@@ -1,6 +1,10 @@
 ---
 titleEn: "A Decryption-Free Secure Face Recognition System"
-authors:
+authorsJa:
+  - "村木 雄一"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Yuichi MURAKI"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

@@ -1,6 +1,11 @@
 ---
 titleEn: "A Location Map-Free Reversible Data Hiding Method for Specific Area Embedding"
-authors:
+authorsJa:
+  - "小野 倫彦"
+  - "韓 昇祐"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Michihiko ONO"
   - "Seungwu HAN"
   - "Masaaki FUJIYOSHI"

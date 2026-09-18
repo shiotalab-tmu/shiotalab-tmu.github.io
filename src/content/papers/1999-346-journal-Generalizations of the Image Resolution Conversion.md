@@ -1,7 +1,10 @@
 ---
 titleJa: "8点逆DCTを用いる画像解像度変換法の一般化"
 titleEn: "Generalizations of the Image Resolution Conversions Using 8 Points Inversed DCT"
-authors:
+authorsJa:
+  - "小島 一浩"
+  - "貴家 仁志"
+authorsEn:
   - "Kazuhiro KOJIMA"
   - "Hitoshi KIYA"
 date: "1999-05-01"

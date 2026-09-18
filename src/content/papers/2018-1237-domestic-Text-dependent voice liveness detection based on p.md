@@ -1,7 +1,11 @@
 ---
 titleJa: "話者照合のための話者性を考慮した音素情報に基づくポップノイズ検出法を用いたテキスト依存型声の生体検知"
 titleEn: "Text-dependent voice liveness detection based on pop-noise detector considering speaker-dependent phoneme information for speaker verification"
-authors:
+authorsJa:
+  - "望月 紫穂野"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Shihono MOCHIZUKI"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

@@ -1,7 +1,11 @@
 ---
 titleJa: "非音響ノイズを用いた話者照合の検討"
 titleEn: "Non-acoustical noise for speaker verification"
-authors:
+authorsJa:
+  - "塩田 さやか"
+  - "松井 知子"
+  - "貴家 仁志"
+authorsEn:
   - "Sayaka SHIOTA"
   - "Tomoko MATSUI"
   - "Hitoshi KIYA"

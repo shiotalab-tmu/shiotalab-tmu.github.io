@@ -1,7 +1,10 @@
 ---
 titleJa: "スパースな系に対するERLS-DCD適応フィルタの追従特性改善法"
 titleEn: "Improvement of Tracking Performance of ERLS-DCD Adaptive Algorithm for Sparse Systems"
-authors:
+authorsJa:
+  - "長谷川 絢也"
+  - "西川 清史"
+authorsEn:
   - "Jun'ya HASEGAWA"
   - "Kiyoshi NISHIKAWA"
 date: "2009-03-17"

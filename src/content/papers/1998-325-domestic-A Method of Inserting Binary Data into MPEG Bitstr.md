@@ -1,7 +1,12 @@
 ---
 titleJa: "MPEG画像へのバイナリデータの埋め込み法"
 titleEn: "A Method of Inserting Binary Data into MPEG Bitstreams"
-authors:
+authorsJa:
+  - "高木 亜有子"
+  - "小林 弘幸"
+  - "野口 祥宏"
+  - "貴家 仁志"
+authorsEn:
   - "Ayuko TAKAGI"
   - "Hiroyuki KOBAYASHI"
   - "Yoshihiro NOGUCHI"

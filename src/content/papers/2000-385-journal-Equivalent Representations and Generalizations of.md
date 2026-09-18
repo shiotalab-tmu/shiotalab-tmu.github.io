@@ -1,6 +1,9 @@
 ---
 titleEn: "Equivalent Representations and Generalizations of the Image Resolution Conversions in DCT Domain"
-authors:
+authorsJa:
+  - "鄒 暁霞"
+  - "貴家 仁志"
+authorsEn:
   - "XiaoXia ZOU"
   - "Hitoshi KIYA"
 date: "2000-03-01"

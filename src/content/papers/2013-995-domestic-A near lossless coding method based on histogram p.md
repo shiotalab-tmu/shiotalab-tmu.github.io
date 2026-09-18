@@ -1,7 +1,11 @@
 ---
 titleJa: "ヒストグラムパッキングと空間領域量子化に基づくニアロスレス符号化法"
 titleEn: "A near lossless coding method based on histogram packing and quantization in the spatial domain"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"

@@ -1,6 +1,10 @@
 ---
 titleEn: "A Data Hiding Method Automatically Considering Image Degradation for JPEG Coded Images"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "河西 元彦"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Motohiko KASAI"
   - "Hitoshi KIYA"

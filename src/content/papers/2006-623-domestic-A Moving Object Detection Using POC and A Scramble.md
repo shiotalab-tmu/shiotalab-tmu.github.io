@@ -1,7 +1,11 @@
 ---
 titleJa: "POCに基づく動物体検出とMotion JPEG画像のスクランブル処理"
 titleEn: "A Moving Object Detection Using POC and A Scramble for Motion JPEG"
-authors:
+authorsJa:
+  - "黒岩 圭二朗"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Keijiro KUROIWA"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

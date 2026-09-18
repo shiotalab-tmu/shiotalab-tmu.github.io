@@ -1,7 +1,12 @@
 ---
 titleJa: "秘密分散法と属性ベース暗号を用いたコンテンツ保護法"
 titleEn: "A Content Protection Method Using Secret Sharing and Attribute-Based Encryption "
-authors:
+authorsJa:
+  - "瀧本 克真"
+  - "藤吉 正明"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Katsuma TAKIMOTO "
   - "Masaaki FUJIYOSHI"
   - "Shoko IMAIZUMI"

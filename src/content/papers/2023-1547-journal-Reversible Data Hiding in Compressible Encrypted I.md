@@ -1,6 +1,10 @@
 ---
 titleEn: "Reversible Data Hiding in Compressible Encrypted Images with Capacity Enhancement"
-authors:
+authorsJa:
+  - "本村 遼太"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Ryota MOTOMURA"
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"

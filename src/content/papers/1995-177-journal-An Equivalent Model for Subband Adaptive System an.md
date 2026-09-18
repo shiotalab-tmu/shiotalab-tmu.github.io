@@ -1,7 +1,11 @@
 ---
 titleJa: "サブバンド適応システムの等価モデルとその理論解析"
 titleEn: "An Equivalent Model for Subband Adaptive System and Its Performance Analysis"
-authors:
+authorsJa:
+  - "小野 芳浩"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Yoshihiro ONO"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

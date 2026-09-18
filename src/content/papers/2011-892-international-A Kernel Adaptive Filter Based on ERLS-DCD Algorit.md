@@ -1,6 +1,9 @@
 ---
 titleEn: "A Kernel Adaptive Filter Based on ERLS-DCD Algorithm"
-authors:
+authorsJa:
+  - "小川 芳樹"
+  - "西川 清史"
+authorsEn:
   - "Yoshiki OGAWA"
   - "Kiyoshi NISHIKAWA"
 date: "2011-06-21"

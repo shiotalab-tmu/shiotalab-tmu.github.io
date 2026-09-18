@@ -1,7 +1,13 @@
 ---
 titleJa: "セキュアな生体認証のためのランダム・ユニタリ行列の検討"
 titleEn: "A study of rondom unitary matrices for secure biometric authentication"
-authors:
+authorsJa:
+  - "斉藤 裕子"
+  - "中村 維吹"
+  - "塩田 さやか"
+  - "外村 喜秀"
+  - "貴家 仁志"
+authorsEn:
   - "Yuko SAITO"
   - "Ibuki NAKAMURA"
   - "Sayaka SHIOTA"

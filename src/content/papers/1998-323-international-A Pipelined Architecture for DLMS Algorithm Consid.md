@@ -1,6 +1,10 @@
 ---
 titleEn: "A Pipelined Architecture for DLMS Algorithm Considering Both Hardware Complexity and Output Latency"
-authors:
+authorsJa:
+  - "君島 匡朗"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Tadaaki KIMIJIMA"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

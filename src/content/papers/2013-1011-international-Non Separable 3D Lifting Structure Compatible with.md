@@ -1,6 +1,10 @@
 ---
 titleEn: "Non Separable 3D Lifting Structure Compatible with Separable Quadruple Lifting DWT"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "オラチョン テラポン"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Teerapong ORACHON"
   - "Hitoshi KIYA"

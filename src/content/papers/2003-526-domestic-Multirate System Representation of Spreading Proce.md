@@ -1,7 +1,11 @@
 ---
 titleJa: "W-CDMA方式における拡散処理のマルチレートシステム表現とその応用"
 titleEn: "Multirate System Representation of Spreading Process of W-CDMA and Its Application"
-authors:
+authorsJa:
+  - "福田 亮"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Ryo FUKUDA"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

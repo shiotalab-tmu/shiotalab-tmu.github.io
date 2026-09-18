@@ -1,6 +1,9 @@
 ---
 titleEn: "Generation of Gradient-Preserving Images allowing HOG Feature Extraction"
-authors:
+authorsJa:
+  - "北山　昌希"
+  - "貴家 仁志"
+authorsEn:
   - "Masaki KITAYAMA"
   - "Hitoshi KIYA"
 date: "2021-06-16"

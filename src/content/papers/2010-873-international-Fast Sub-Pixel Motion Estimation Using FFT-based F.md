@@ -1,6 +1,10 @@
 ---
 titleEn: "Fast Sub-Pixel Motion Estimation Using FFT-based Full Search Block Matching"
-authors:
+authorsJa:
+  - "植村 淳志"
+  - "李 禎"
+  - "貴家 仁志"
+authorsEn:
   - "Atsushi UEMURA"
   - "Zhen LI"
   - "Hitoshi KIYA"

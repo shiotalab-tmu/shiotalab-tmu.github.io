@@ -1,7 +1,11 @@
 ---
 titleJa: "JPEG2000符号化画像の情報半開示法"
 titleEn: "Partial-Scrambling of Images Encoded by JPEG2000"
-authors:
+authorsJa:
+  - "安藤 勝俊"
+  - "渡邊 修"
+  - "貴家 仁志"
+authorsEn:
   - "Katsutoshi ANDO"
   - "Osamu WATANABE"
   - "Hitoshi KIYA"

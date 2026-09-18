@@ -1,7 +1,11 @@
 ---
 titleJa: "特性劣化を生じさせない Vision Transformer モデルのアクセス制御"
 titleEn: "Access Control of Vision Transformer Models without Performance Degradation"
-authors:
+authorsJa:
+  - "飯島 諒太"
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Ryota IIJIMA"
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"

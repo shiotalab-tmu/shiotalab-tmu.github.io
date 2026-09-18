@@ -1,7 +1,12 @@
 ---
 titleJa: "ヒストグラム・パッキングを用いたHDR画像のロスレスビット深度スケーラブル符号化"
 titleEn: "Lossless Bit Depth Scalable Coding for HDR Images Using Histogram Packing"
-authors:
+authorsJa:
+  - "長谷川 治郎"
+  - "伊藤 麗良"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Jirou HASEGAWA"
   - "Reira ITO"
   - "Masahiro IWAHASHI"

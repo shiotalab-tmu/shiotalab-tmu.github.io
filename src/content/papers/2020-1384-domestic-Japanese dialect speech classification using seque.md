@@ -1,7 +1,12 @@
 ---
 titleJa: "系列分類型ニューラルネットワークを用いた日本語方言識別の検討"
 titleEn: "Japanese dialect speech classification using sequence-to-one neural networks"
-authors:
+authorsJa:
+  - "今泉　遼"
+  - "増村　亮"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Ryo IMAIZUMI"
   - "Ryo MASUMURA"
   - "Sayaka SHIOTA"

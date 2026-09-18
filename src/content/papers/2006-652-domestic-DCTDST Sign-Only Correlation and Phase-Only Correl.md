@@ -1,7 +1,10 @@
 ---
 titleJa: "DCT/DST符号限定相関と位相限定相関の関係について"
 titleEn: "DCT/DST Sign-Only Correlation and Phase-Only Correlation"
-authors:
+authorsJa:
+  - "伊藤 泉"
+  - "貴家 仁志"
+authorsEn:
   - "Izumi ITO"
   - "Hitoshi KIYA"
 date: "2006-11-10"

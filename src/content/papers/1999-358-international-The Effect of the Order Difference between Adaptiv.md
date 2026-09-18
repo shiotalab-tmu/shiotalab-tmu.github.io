@@ -1,6 +1,10 @@
 ---
 titleEn: "The Effect of the Order Difference between Adaptive Filter and Unknown System on Adaptive Characteristic under Colored Signal"
-authors:
+authorsJa:
+  - "西川 清史"
+  - "岡田 泰礼"
+  - "貴家 仁志"
+authorsEn:
   - "Kiyoshi NISHIKAWA"
   - "Yasuhiro OKADA"
   - "Hitoshi KIYA"

@@ -1,6 +1,10 @@
 ---
 titleEn: "A Generation Method of Amplitude-Only Images with Low Intensity Ranges"
-authors:
+authorsJa:
+  - "セタン ワンニダー"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Wannida SAE-TANG"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

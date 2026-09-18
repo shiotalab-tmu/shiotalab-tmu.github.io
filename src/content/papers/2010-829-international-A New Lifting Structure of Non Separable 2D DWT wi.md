@@ -1,6 +1,9 @@
 ---
 titleEn: "A New Lifting Structure of Non Separable 2D DWT with Compatibility to JPEG 2000"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"
 date: "2010-03-18"

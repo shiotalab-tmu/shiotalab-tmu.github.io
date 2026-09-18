@@ -1,7 +1,11 @@
 ---
 titleJa: "疎なヒストグラム画像のための荷重メジアンカット量子化とその応用"
 titleEn: "Weighted Median Cut Quantization and Its Applications for Images with Sparse Histogram"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "小林 弘幸"
+  - "岩橋 政宏"
+authorsEn:
   - "Hitoshi KIYA"
   - "Hiroyuki KOBAYASHI"
   - "Masahiro IWAHASHI"

@@ -1,6 +1,11 @@
 ---
 titleEn: "Privacy-Preserving Deep Neural Networks with Pixel-Based Image Encryption Considering Data Augmentation in the Encrypted Domain"
-authors:
+authorsJa:
+  - "ワリット　シリチョットダムロン"
+  - "前川 貴大"
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Warit SIRICHOTEDUMRONG"
   - "Takahiro Maekawa"
   - "Yuma KINOSHITA"

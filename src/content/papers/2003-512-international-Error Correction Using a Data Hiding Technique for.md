@@ -1,6 +1,10 @@
 ---
 titleEn: "Error Correction Using a Data Hiding Technique for MPEG Video"
-authors:
+authorsJa:
+  - "関 裕介"
+  - "黒崎 正行"
+  - "貴家 仁志"
+authorsEn:
   - "Yusuke SEKI"
   - "Masayuki KUROSAKI"
   - "Hitoshi KIYA"

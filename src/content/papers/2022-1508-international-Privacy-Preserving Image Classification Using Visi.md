@@ -1,6 +1,11 @@
 ---
 titleEn: "Privacy-Preserving Image Classification Using Vision Transformer"
-authors:
+authorsJa:
+  - "祁 崢"
+  - "エイプリルピョンマウンマウン"
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Zheng QI"
   - "April Pyone MAUNG MAUNG"
   - "Yuma KINOSHITA"

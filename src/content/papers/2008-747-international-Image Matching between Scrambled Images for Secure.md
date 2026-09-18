@@ -1,6 +1,9 @@
 ---
 titleEn: "Image Matching between Scrambled Images for Secure Data Management"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "伊藤 泉"
+authorsEn:
   - "Hitoshi KIYA"
   - "Izumi ITO"
 date: "2008-08-28"

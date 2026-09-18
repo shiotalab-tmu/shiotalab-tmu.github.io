@@ -1,7 +1,11 @@
 ---
 titleJa: "対称周期信号に対する逆システムの存在について"
 titleEn: "An Inverse System for Periodic Symmetrical-Extension Signals"
-authors:
+authorsJa:
+  - "橘 高志"
+  - "日高 信典"
+  - "貴家 仁志"
+authorsEn:
   - "Takashi TACHIBANA"
   - "Nobunori HIDAKA"
   - "Hitoshi KIYA"

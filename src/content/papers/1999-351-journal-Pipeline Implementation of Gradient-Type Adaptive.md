@@ -1,7 +1,10 @@
 ---
 titleJa: "こう配形適応フィルタのパイプライン実現"
 titleEn: "Pipeline Implementation of Gradient-Type Adaptive Filters"
-authors:
+authorsJa:
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"
 date: "1999-06-01"

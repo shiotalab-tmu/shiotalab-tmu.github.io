@@ -1,7 +1,12 @@
 ---
 titleJa: "Distributed Video Codingにおけるレート推定に基づくRate-Adaptive LDPC符号の高効率化"
 titleEn: "Improving Rate-Adaptive LDPC Coding Performance Based on Syndrome Rate Estimation for Distributed Video Coding"
-authors:
+authorsJa:
+  - "外村 喜秀"
+  - "仲地 孝之"
+  - "藤井 竜也"
+  - "貴家 仁志"
+authorsEn:
   - "Yoshihide TONOMURA"
   - "Takayuki NAKACHI"
   - "Tatsuya FUJII"

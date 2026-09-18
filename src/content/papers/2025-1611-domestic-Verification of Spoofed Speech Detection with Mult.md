@@ -1,7 +1,10 @@
 ---
 titleJa: "録音再生攻撃環境を考慮したマルチタスク学習におけるなりすまし音声検出の検証"
 titleEn: "Verification of Spoofed Speech Detection with Multi-task Learning under Replay Attack Environments"
-authors:
+authorsJa:
+  - "菅野 滉大"
+  - "塩田 さやか"
+authorsEn:
   - "Kota KANNO"
   - "Sayaka SHIOTA"
 date: "2025-09-12"

@@ -1,6 +1,10 @@
 ---
 titleEn: "A New Gradient Algorithm for FIR Adaptive Digital Filters Using Multirate Technique"
-authors:
+authorsJa:
+  - "知念 徹"
+  - "本間 仁志"
+  - "佐川 雅彦"
+authorsEn:
   - "Tohru CHINEN"
   - "Hitoshi HONMA"
   - "Masahiko SAGAWA"

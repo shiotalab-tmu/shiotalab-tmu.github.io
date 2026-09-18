@@ -1,6 +1,9 @@
 ---
 titleEn: "Reversible 2D 9-7 DWT Based on Non-separable 2D Lifting Structure Compatible with Irreversible DWT"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"
 date: "2011-10-01"

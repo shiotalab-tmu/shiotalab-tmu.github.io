@@ -1,6 +1,11 @@
 ---
 titleEn: "Access Control with Encrypted Feature Maps for Object Detection Models"
-authors:
+authorsJa:
+  - "永森 輝"
+  - "伊藤 広樹"
+  - "エイプリルピョンマウンマウン"
+  - "貴家 仁志"
+authorsEn:
   - "Teru NAGAMORI"
   - "Hiroki ITO"
   - "April Pyone MAUNG MAUNG"

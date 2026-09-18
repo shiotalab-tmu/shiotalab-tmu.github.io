@@ -1,6 +1,11 @@
 ---
 titleJa: "ループ・パイプライニングに基づく動画像符合化における動き検出の実現"
-authors:
+authorsJa:
+  - "山本 宰"
+  - "内田 健"
+  - "貴家 仁志"
+  - "山田 昭彦"
+authorsEn:
   - "Tsukasa YAMAMOTO"
   - "Takeshi UCHIDA"
   - "Hitoshi KIYA"

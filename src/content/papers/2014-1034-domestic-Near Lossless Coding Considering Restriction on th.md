@@ -1,7 +1,12 @@
 ---
 titleJa: "RGB色空間変域制限を考慮したニアロスレス符号化"
 titleEn: "Near Lossless Coding Considering Restriction on the Range in RGB Color Space"
-authors:
+authorsJa:
+  - "菊池 真徳"
+  - "小林 弘幸"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Masanori KIKUCHI"
   - "Hiroyuki KOBAYASHI"
   - "Masahiro IWAHASHI"

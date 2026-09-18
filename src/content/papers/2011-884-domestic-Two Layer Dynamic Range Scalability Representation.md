@@ -1,7 +1,12 @@
 ---
 titleJa: "ロスレス圧縮のためのHDR画像の2層ダイナミックレンジスケーラビリティ表現"
 titleEn: "Two Layer Dynamic Range Scalability Representation of HDR Images for Lossless Compression"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "岩橋 政宏"
+  - "飯塚 広樹"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Masahiro IWAHASHI"
   - "Hiroki IIDUKA"

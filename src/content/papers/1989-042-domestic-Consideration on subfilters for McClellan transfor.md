@@ -1,7 +1,12 @@
 ---
 titleJa: "McClellan変換におけるサブフィルタの一検討"
 titleEn: "Consideration on subfilters for McClellan transformations"
-authors:
+authorsJa:
+  - "田沢 志郎"
+  - "貴家 仁志"
+  - "岩橋 政宏"
+  - "佐川 雅彦"
+authorsEn:
   - "Shiro TAZAWA"
   - "Hitoshi KIYA"
   - "Masahiro IWAHASHI"

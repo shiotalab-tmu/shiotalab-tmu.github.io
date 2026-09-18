@@ -1,6 +1,10 @@
 ---
 titleEn: "Encryption Method for JPEG Bitstreams for Partially Disclosing Visual Information"
-authors:
+authorsJa:
+  - "廣瀬万玲"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Mare Hirose"
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"

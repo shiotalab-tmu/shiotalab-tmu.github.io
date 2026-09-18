@@ -1,7 +1,12 @@
 ---
 titleJa: "サンプリング周波数に比例した収束速度を有する適応ディジタルフィルタとその収束特性"
 titleEn: "An adaptive digital filter with convergence speed in proportion to sampling rate and its convergence characteristics"
-authors:
+authorsJa:
+  - "知念 徹"
+  - "下山 正樹"
+  - "貴家 仁志"
+  - "佐川 雅彦"
+authorsEn:
   - "Tohru CHINEN"
   - "Masaki SHIMOYAMA"
   - "Hitoshi KIYA"

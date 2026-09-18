@@ -1,6 +1,12 @@
 ---
 titleEn: "An Overview of Compressible and Learnable Image Transformation with Secret Key and its Applications"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "エイプリルピョンマウンマウン"
+  - "木下 裕磨"
+  - "今泉 祥子"
+  - "塩田 さやか"
+authorsEn:
   - "Hitoshi KIYA"
   - "April Pyone MAUNG MAUNG"
   - "Yuma KINOSHITA"

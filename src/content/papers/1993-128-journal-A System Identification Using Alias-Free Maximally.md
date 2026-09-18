@@ -1,7 +1,13 @@
 ---
 titleJa: "エリアジングが生じない最大間引きDFTフィルタバンクを用いたシステム同定"
 titleEn: "A System Identification Using Alias-Free Maximally Decimated DFT-Bank"
-authors:
+authorsJa:
+  - "尾知 博"
+  - "貴家 仁志"
+  - "山田 洋士"
+  - "高良 吉立"
+  - "神林 紀嘉"
+authorsEn:
   - "Hiroshi OCHI"
   - "Hitoshi KIYA"
   - "Youji YAMADA"

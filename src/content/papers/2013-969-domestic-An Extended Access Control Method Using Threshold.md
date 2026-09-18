@@ -1,7 +1,13 @@
 ---
 titleJa: "閾値型秘密分散法のシェアを用いたアクセス制御方式の拡張"
 titleEn: "An Extended Access Control Method Using Threshold Secret Sharing"
-authors:
+authorsJa:
+  - "瀧本 克真"
+  - "倉上 高史"
+  - "今泉 祥子"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Katsuma TAKIMOTO "
   - "Takashi KURAKAMI"
   - "Shoko IMAIZUMI"

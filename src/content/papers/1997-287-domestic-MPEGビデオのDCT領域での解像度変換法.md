@@ -1,6 +1,10 @@
 ---
 titleJa: "MPEGビデオのDCT領域での解像度変換法"
-authors:
+authorsJa:
+  - "古川 潤"
+  - "野口 祥宏"
+  - "貴家 仁志"
+authorsEn:
   - "Jun FURUKAWA"
   - "Yoshihiro NOGUCHI"
   - "Hitoshi KIYA"

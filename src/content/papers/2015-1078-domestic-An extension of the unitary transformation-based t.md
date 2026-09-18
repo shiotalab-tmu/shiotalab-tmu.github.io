@@ -1,7 +1,13 @@
 ---
 titleJa: "生体認証のためのユニタリ変換に基づくテンプレート保護法の拡張とその応用"
 titleEn: "An extension of the unitary transformation-based template protection method for biometrics and its application "
-authors:
+authorsJa:
+  - "斉藤 裕子"
+  - "中村 維吹"
+  - "塩田 さやか"
+  - "外村 喜秀"
+  - "貴家 仁志"
+authorsEn:
   - "Yuko SAITO"
   - "Ibuki NAKAMURA"
   - "Sayaka SHIOTA"

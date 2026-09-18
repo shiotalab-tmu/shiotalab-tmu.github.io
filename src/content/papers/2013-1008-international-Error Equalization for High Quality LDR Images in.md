@@ -1,6 +1,9 @@
 ---
 titleEn: "Error Equalization for High Quality LDR Images in Backward Compatible HDR Image Coding"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"
 date: "2013-10-30"

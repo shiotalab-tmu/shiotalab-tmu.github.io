@@ -1,7 +1,11 @@
 ---
 titleJa: "領域毎に画質を保証する非参照型電子透かし法"
 titleEn: "An Oblivious Watermarking Scheme Allowing Desired Image Quality in Each Area"
-authors:
+authorsJa:
+  - "橘 高志"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Takashi TACHIBANA"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

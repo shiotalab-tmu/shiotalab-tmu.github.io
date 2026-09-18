@@ -1,6 +1,11 @@
 ---
 titleEn: "Interleaved FEC Scheme for Burst Packet Loss Protection over RTP and Its Application to JPEG2000 Image Transmission"
-authors:
+authorsJa:
+  - "ハイルル ムナディ"
+  - "黒崎 正行"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Khairul Munadi"
   - "Masayuki KUROSAKI"
   - "Kiyoshi NISHIKAWA"

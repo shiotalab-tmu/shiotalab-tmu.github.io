@@ -1,7 +1,11 @@
 ---
 titleJa: "マーカコード発生の回避と柔軟な画質制御を可能とするJPEG 2000符号化画像の情報半開示法"
 titleEn: "Partial-Scrambling of JPEG 2000 Coded Images that Enables Flexible Image Quality Control without Generating Marker Codes"
-authors:
+authorsJa:
+  - "飯田 知教"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Tomonori IIDA"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

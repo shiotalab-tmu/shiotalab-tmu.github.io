@@ -1,7 +1,10 @@
 ---
 titleJa: "秘匿OMP演算を用いた暗号化画像のクラス分類"
 titleEn: "Encrypted Image Classification by Using Secure OMP Computation "
-authors:
+authorsJa:
+  - "仲地 孝之"
+  - "貴家 仁志"
+authorsEn:
   - "Takayuki NAKACHI"
   - "Hitoshi KIYA"
 date: "2019-02-20"

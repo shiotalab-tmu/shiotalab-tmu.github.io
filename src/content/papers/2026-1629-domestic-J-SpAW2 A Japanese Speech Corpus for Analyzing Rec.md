@@ -1,7 +1,11 @@
 ---
 titleJa: "J-SPAW2： 録音再生攻撃によるなりすまし音声の収録環境を分析可能な日本語音声コーパス"
 titleEn: "J-SpAW2: A Japanese Speech Corpus for Analyzing Recording Conditions in Replay Attacks"
-authors:
+authorsJa:
+  - "堀江 涼花"
+  - "高道 慎之介"
+  - "塩田 さやか"
+authorsEn:
   - "Suzuka HORIE"
   - "Shinnosuke Takamichi"
   - "Sayaka SHIOTA"

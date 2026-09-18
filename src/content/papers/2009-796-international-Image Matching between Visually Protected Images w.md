@@ -1,6 +1,9 @@
 ---
 titleEn: "Image Matching between Visually Protected Images with One-time Key Based Phase Scrambling"
-authors:
+authorsJa:
+  - "伊藤 泉"
+  - "貴家 仁志"
+authorsEn:
   - "Izumi ITO"
   - "Hitoshi KIYA"
 date: "2009-08-27"

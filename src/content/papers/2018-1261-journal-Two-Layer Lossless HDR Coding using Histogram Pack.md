@@ -1,6 +1,10 @@
 ---
 titleEn: "Two-Layer Lossless HDR Coding using Histogram Packing Technique with Backward Compatibility to JPEG"
-authors:
+authorsJa:
+  - "渡邊 修"
+  - "小林 弘幸"
+  - "貴家 仁志"
+authorsEn:
   - "Osamu WATANABE"
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"

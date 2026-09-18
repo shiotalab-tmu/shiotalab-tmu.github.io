@@ -1,6 +1,10 @@
 ---
 titleEn: "Low Delay Pre-FEC Interleaving Scheme for Robust JPEG2000 Video Streaming in Packet Loss Environment"
-authors:
+authorsJa:
+  - "ハイルル ムナディ"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Khairul Munadi"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

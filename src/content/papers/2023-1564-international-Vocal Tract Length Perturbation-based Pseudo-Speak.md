@@ -1,6 +1,10 @@
 ---
 titleEn: "Vocal Tract Length Perturbation-based Pseudo-Speaker Augmentation for Speaker Embedding Learning"
-authors:
+authorsJa:
+  - "若松 智花"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Tomoka WAKAMATSU"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

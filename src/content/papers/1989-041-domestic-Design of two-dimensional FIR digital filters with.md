@@ -1,7 +1,12 @@
 ---
 titleJa: "プリフィルタを用いた2次元FIRディジタルフィルタの設計法"
 titleEn: "Design of two-dimensional FIR digital filters with prefilters"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "貴家 仁志"
+  - "大沢 弘孝"
+  - "佐川 雅彦"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"
   - "Hirotaka OHSAWA"

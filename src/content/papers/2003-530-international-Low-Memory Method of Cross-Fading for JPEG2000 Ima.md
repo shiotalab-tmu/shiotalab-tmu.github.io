@@ -1,6 +1,9 @@
 ---
 titleEn: "Low-Memory Method of Cross-Fading for JPEG2000 Images"
-authors:
+authorsJa:
+  - "渡邊 修"
+  - "貴家 仁志"
+authorsEn:
   - "Osamu WATANABE"
   - "Hitoshi KIYA"
 date: "2003-12-08"

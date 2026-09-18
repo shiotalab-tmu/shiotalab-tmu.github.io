@@ -1,6 +1,9 @@
 ---
 titleEn: "A General Method for Improving the Convergence Property of the LMS-Type Algorithms Using Geometrical Interpretation"
-authors:
+authorsJa:
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"
 date: "1994-11-01"

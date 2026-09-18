@@ -1,7 +1,11 @@
 ---
 titleJa: "有理数間引きを持つオーバサンプリング・サブバンド適応フィルタ"
 titleEn: "An Oversampling Subband Adaptive Digital Filter with Rational Decimation Ratios"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "山崎 広達"
+  - "芦原 浩司"
+authorsEn:
   - "Hitoshi KIYA"
   - "Hirotatsu YAMAZAKI"
   - "Kouji ASHIHARA"

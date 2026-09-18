@@ -1,7 +1,11 @@
 ---
 titleJa: "深層学習に基づくなりすまし検出の言語依存性に関する調査"
 titleEn: "Investigation on language dependence of deep-learning based spoofing detection for speaker verification"
-authors:
+authorsJa:
+  - "奥野 桜子"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Sakurako OKUNO"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

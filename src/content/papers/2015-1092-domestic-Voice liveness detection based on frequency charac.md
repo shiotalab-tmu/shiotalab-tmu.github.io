@@ -1,7 +1,14 @@
 ---
 titleJa: "話者照合のためのポップノイズの周波数特性を考慮した声の生体検知"
 titleEn: "Voice liveness detection based on frequency characteristics for speaker verification "
-authors:
+authorsJa:
+  - "塩田 さやか"
+  - "フェルナンド ビリャビセンシオ"
+  - "山岸 順一"
+  - "小野 順貴"
+  - "越前 功"
+  - "松井 知子"
+authorsEn:
   - "Sayaka SHIOTA"
   - "Fernando Villaviencio"
   - "Junichi YAMAGISHI"

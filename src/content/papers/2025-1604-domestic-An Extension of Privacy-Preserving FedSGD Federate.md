@@ -1,7 +1,11 @@
 ---
 titleJa: "ランダム二値重みを用いたプライバシー保護FedSGD連合学習のFedAvg連合学習への拡張"
 titleEn: "An Extension of Privacy-Preserving FedSGD Federated Learning with Random Binary Weights to FedAvg Federated Learning"
-authors:
+authorsJa:
+  - "澤田寛人"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroto SAWADA"
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"

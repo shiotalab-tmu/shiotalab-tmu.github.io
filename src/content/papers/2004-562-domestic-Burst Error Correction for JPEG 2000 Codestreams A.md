@@ -1,7 +1,10 @@
 ---
 titleJa: "下位互換性を考慮したJPEG2000符号化列のためのバースト誤り訂正法"
 titleEn: "Burst Error Correction for JPEG 2000 Codestreams Allowing Backward Compatibility with Standard Decorders"
-authors:
+authorsJa:
+  - "黒崎 正行"
+  - "貴家 仁志"
+authorsEn:
   - "Masayuki KUROSAKI"
   - "Hitoshi KIYA"
 date: "2004-08-20"

@@ -1,6 +1,10 @@
 ---
 titleEn: "A Detection Method of Operated Fake-Images Using Robust Hashing"
-authors:
+authorsJa:
+  - "田中 美貴"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Miki TANAKA"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

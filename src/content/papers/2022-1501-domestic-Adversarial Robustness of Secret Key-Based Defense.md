@@ -1,7 +1,12 @@
 ---
 titleJa: "秘密鍵を用いた画像分類器のAutoAttackに対する頑健性評価"
 titleEn: "\tAdversarial Robustness of Secret Key-Based Defenses against AutoAttack "
-authors:
+authorsJa:
+  - "田中 美貴"
+  - "エイプリルピョンマウンマウン"
+  - "越前 功"
+  - "貴家 仁志"
+authorsEn:
   - "Miki TANAKA"
   - "April Pyone MAUNG MAUNG"
   - "Isao ECHIZEN"

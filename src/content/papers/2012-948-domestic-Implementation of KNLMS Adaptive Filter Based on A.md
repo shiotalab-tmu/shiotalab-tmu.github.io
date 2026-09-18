@@ -1,7 +1,11 @@
 ---
 titleJa: "アフィン結合に基づくKNLMS適応フィルタの構成法"
 titleEn: "Implementation of KNLMS Adaptive Filter Based on An Ane Combination"
-authors:
+authorsJa:
+  - "並木 一道"
+  - "中里 裕哉"
+  - "西川 清史"
+authorsEn:
   - "Kazumichi NAMIKI"
   - "Hiroya NAKAZATO"
   - "Kiyoshi NISHIKAWA"

@@ -1,6 +1,9 @@
 ---
 titleEn: "A Privacy-Preserving Image Retrieval Scheme with a Mixture of Plain and EtC Images"
-authors:
+authorsJa:
+  - "飯田 健太"
+  - "貴家 仁志"
+authorsEn:
   - "Kenta IIDA"
   - "Hitoshi KIYA"
 date: "2022-03-07"

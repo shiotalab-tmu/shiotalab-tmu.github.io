@@ -1,6 +1,10 @@
 ---
 titleEn: "Motion Estimation with Power Scalability and Its VHDL Model"
-authors:
+authorsJa:
+  - "高木 亜有子"
+  - "村松 正吾"
+  - "貴家 仁志"
+authorsEn:
   - "Ayuko TAKAGI"
   - "Shogo MURAMATSU"
   - "Hitoshi KIYA"

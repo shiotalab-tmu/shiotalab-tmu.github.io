@@ -1,6 +1,10 @@
 ---
 titleEn: "A Reversible Image Authentication Method without Memorization of Hiding Parameters"
-authors:
+authorsJa:
+  - "韓 昇祐"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Seungwu HAN"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

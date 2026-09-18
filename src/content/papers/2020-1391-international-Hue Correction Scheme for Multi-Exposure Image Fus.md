@@ -1,6 +1,11 @@
 ---
 titleEn: "Hue Correction Scheme for Multi-Exposure Image Fusion Considering Hue Distortion in Input Images"
-authors:
+authorsJa:
+  - "瀬尾 光希"
+  - "郷　地洋"
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Kouki SEO"
   - "Chihiro GO"
   - "Yuma KINOSHITA"

@@ -1,7 +1,11 @@
 ---
 titleJa: "モルフォロジーを用いた細部を保存する画像改ざん検出法"
 titleEn: "An Image Tamper Detection Method Using Mathematical Morphology with Keeping the Details of the Image"
-authors:
+authorsJa:
+  - "万 頃涛"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Qing Tao WAN"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

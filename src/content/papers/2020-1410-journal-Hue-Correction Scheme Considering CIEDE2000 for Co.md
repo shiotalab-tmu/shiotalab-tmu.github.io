@@ -1,6 +1,9 @@
 ---
 titleEn: "Hue-Correction Scheme Considering CIEDE2000 for Color-Image Enhancement Including Deep-Learning-Based Algorithms"
-authors:
+authorsJa:
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"
 date: "2020-11-30"

@@ -1,6 +1,11 @@
 ---
 titleEn: "J-SPAW2: A Japanese Corpus for Speaker Verification and Anti-Spoofing with Challenging Replay and Speech Synthesis Attacks"
-authors:
+authorsJa:
+  - "塩田 さやか"
+  - "堀江 涼花"
+  - "古林 嵯羽仁"
+  - "高道 慎之介"
+authorsEn:
   - "Sayaka SHIOTA"
   - "Suzuka HORIE"
   - "Sawato Furubayashi"

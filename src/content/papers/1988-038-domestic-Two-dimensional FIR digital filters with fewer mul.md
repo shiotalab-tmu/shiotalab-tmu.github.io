@@ -1,7 +1,11 @@
 ---
 titleJa: "乗算器の少ない二次元FIRディジタルフィルタ"
 titleEn: "Two-dimensional FIR digital filters with fewer multipliers"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "貴家 仁志"
+  - "佐川 雅彦"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"
   - "Masahiko SAGAWA"

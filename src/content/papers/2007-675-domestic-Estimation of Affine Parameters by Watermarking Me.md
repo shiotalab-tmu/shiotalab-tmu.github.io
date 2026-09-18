@@ -1,7 +1,11 @@
 ---
 titleJa: "多次元電子透かし情報を用いた画像の幾何変換量の推定"
 titleEn: "Estimation of Affine Parameters by Watermarking Method Using Multidimensional Watermark"
-authors:
+authorsJa:
+  - "神藤 英輔"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Eisuke JINDO"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

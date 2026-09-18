@@ -1,7 +1,11 @@
 ---
 titleJa: "ハードウェア/ソフトウェア協調設計のためのC言語に基づく協調シミュレータの実現"
 titleEn: "An Implementation of a C Language-Based Co-simulator for Hardware/Software Codesign"
-authors:
+authorsJa:
+  - "内田 健"
+  - "貴家 仁志"
+  - "山田 昭彦"
+authorsEn:
   - "Takeshi UCHIDA"
   - "Hitoshi KIYA"
   - "Akihiko YAMADA"

@@ -1,6 +1,10 @@
 ---
 titleEn: "Access Control Using Spatially Invariant Permutation of Feature Maps for Semantic Segmentation Models"
-authors:
+authorsJa:
+  - "伊藤 広樹"
+  - "エイプリルピョンマウンマウン"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroki ITO"
   - "April Pyone MAUNG MAUNG"
   - "Hitoshi KIYA"

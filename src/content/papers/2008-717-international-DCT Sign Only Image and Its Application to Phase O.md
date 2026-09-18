@@ -1,6 +1,9 @@
 ---
 titleEn: "DCT Sign Only Image and Its Application to Phase Only Correlation"
-authors:
+authorsJa:
+  - "伊藤 泉"
+  - "貴家 仁志"
+authorsEn:
   - "Izumi ITO"
   - "Hitoshi KIYA"
 date: "2008-01-07"

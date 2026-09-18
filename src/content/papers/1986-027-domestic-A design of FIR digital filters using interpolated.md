@@ -1,7 +1,11 @@
 ---
 titleJa: "補間された等化器を用いたFIRディジタルフィルタの設計"
 titleEn: "A design of FIR digital filters using interpolated equalizers"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "山田 正一"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi KIYA"
   - "Masakazu YAMADA"
   - "Masahiko SAGAWA"

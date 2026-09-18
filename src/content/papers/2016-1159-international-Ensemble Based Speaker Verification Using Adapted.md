@@ -1,6 +1,10 @@
 ---
 titleEn: "Ensemble Based Speaker Verification Using Adapted Score Fusion in Noisy Reverberant Environments"
-authors:
+authorsJa:
+  - "中西 亮介"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Ryosuke NAKANISHI"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

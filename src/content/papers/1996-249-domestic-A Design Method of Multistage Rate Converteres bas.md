@@ -1,7 +1,11 @@
 ---
 titleJa: "適応フィルタに基づくマルチステージレート変換器の設計法"
 titleEn: "A Design Method of Multistage Rate Converteres based on Adaptive Filters"
-authors:
+authorsJa:
+  - "渡部 誠二"
+  - "貴家 仁志"
+  - "藤井 信生"
+authorsEn:
   - "Seiji WATANABE"
   - "Hitoshi KIYA"
   - "Nobuo FUJII"

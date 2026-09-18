@@ -1,7 +1,10 @@
 ---
 titleJa: "可変忘却係数を用いたERLS-DCD適応フィルタの追従特性改善法"
 titleEn: "Improvement of Tracking Performance of ERLS-DCD Adaptive Algorithm Using Variable Forgetting Factor"
-authors:
+authorsJa:
+  - "長谷川 絢也"
+  - "西川 清史"
+authorsEn:
   - "Jun'ya HASEGAWA"
   - "Kiyoshi NISHIKAWA"
 date: "2009-09-16"

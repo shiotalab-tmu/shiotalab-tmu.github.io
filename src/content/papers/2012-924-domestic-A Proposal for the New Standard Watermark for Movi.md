@@ -1,7 +1,14 @@
 ---
 titleJa: "画像・映像信号用電子透かし評価基準の提案"
 titleEn: "A Proposal for the New Standard Watermark for Movie and Still Images"
-authors:
+authorsJa:
+  - "合志 清一"
+  - "越前 功"
+  - "藤吉 正明"
+  - "岩田 基"
+  - "栗林 稔"
+  - "岩村 惠市"
+authorsEn:
   - "Seiichi GOHSHI"
   - "Isao ECHIZEN"
   - "Masaaki FUJIYOSHI"

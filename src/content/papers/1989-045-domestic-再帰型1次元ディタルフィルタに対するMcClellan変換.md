@@ -1,6 +1,11 @@
 ---
 titleJa: "再帰型1次元ディタルフィルタに対するMcClellan変換"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "貴家 仁志"
+  - "金子 博之"
+  - "佐川 雅彦"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"
   - "Hironori KANEKO"

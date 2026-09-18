@@ -1,7 +1,11 @@
 ---
 titleJa: "未知の劣化に頑健な画像分類のための拡散モデルを用いた画像再構成法"
 titleEn: "Image reconstruction with a diffusion model for robust image classification against unknown degradation"
-authors:
+authorsJa:
+  - "赤澤 輝昭"
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Teruaki AKAZAWA"
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"

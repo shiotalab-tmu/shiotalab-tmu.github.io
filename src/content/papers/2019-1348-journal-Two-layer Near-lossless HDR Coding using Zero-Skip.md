@@ -1,6 +1,10 @@
 ---
 titleEn: "Two-layer Near-lossless HDR Coding using Zero-Skip Quantization with Backward Compatibility to JPEG"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "渡邊 修"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Osamu WATANABE"
   - "Hitoshi KIYA"

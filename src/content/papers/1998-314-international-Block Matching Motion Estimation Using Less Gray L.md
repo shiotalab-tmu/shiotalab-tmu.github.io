@@ -1,6 +1,10 @@
 ---
 titleEn: "Block Matching Motion Estimation Using Less Gray Level Images"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "古川 潤"
+  - "野口 祥宏"
+authorsEn:
   - "Hitoshi KIYA"
   - "Jun FURUKAWA"
   - "Yoshihiro NOGUCHI"

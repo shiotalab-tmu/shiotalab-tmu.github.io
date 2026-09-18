@@ -1,6 +1,9 @@
 ---
 titleEn: "Mixture Structure of Kernel Adaptive Filters for Improving the Convergence Characteristics"
-authors:
+authorsJa:
+  - "西川 清史"
+  - "中里 裕哉"
+authorsEn:
   - "Kiyoshi NISHIKAWA"
   - "Hiroya NAKAZATO"
 date: "2012-12-05"

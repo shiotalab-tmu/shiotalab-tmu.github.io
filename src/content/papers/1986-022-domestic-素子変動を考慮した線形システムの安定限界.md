@@ -1,6 +1,10 @@
 ---
 titleJa: "素子変動を考慮した線形システムの安定限界"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "森 幸男"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi KIYA"
   - "Yukio MORI"
   - "Masahiko SAGAWA"

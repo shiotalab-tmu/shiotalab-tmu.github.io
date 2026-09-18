@@ -1,6 +1,10 @@
 ---
 titleEn: "Multi-Keyed Hierarchical Image Authentication"
-authors:
+authorsJa:
+  - "渡辺 健太"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Kenta WATANABE"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

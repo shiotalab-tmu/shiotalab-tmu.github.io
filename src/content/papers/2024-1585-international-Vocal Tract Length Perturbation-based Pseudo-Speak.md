@@ -1,6 +1,9 @@
 ---
 titleEn: "Vocal Tract Length Perturbation-based Pseudo-Speaker Augmentation Considering Speaker Variability for Speaker Verification"
-authors:
+authorsJa:
+  - "鄒　恒毅"
+  - "塩田 さやか"
+authorsEn:
   - "Hengyi ZOU"
   - "Sayaka SHIOTA"
 date: "2024-12-06"

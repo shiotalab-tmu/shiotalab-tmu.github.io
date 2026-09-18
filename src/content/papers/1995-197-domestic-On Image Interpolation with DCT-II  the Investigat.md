@@ -1,7 +1,10 @@
 ---
 titleJa: "DCT-IIを用いた画像拡大処理の対称畳み込みに基づく検討とブロック歪みの削減"
 titleEn: "On Image Interpolation with DCT-II : the Investigation Based on Symmetric Convolution and the Reduction of Blocking Artifacts"
-authors:
+authorsJa:
+  - "村松 正吾"
+  - "貴家 仁志"
+authorsEn:
   - "Shogo MURAMATSU"
   - "Hitoshi KIYA"
 date: "1995-06-01"

@@ -1,6 +1,10 @@
 ---
 titleEn: "Image-Enhancement-Based Data Augmentation for Improving Deep Learning in Image Classification Problem"
-authors:
+authorsJa:
+  - "張 偉航"
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Weihang ZHANG"
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"

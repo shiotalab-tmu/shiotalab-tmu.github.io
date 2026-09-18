@@ -1,6 +1,9 @@
 ---
 titleEn: "Resolution Conversion Method with Arbitrary Rational Values for Transform-Coded Images"
-authors:
+authorsJa:
+  - "村松 正吾"
+  - "貴家 仁志"
+authorsEn:
   - "Shogo MURAMATSU"
   - "Hitoshi KIYA"
 date: "1994-01-01"

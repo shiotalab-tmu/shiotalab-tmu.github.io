@@ -1,6 +1,10 @@
 ---
 titleEn: "Protecting Semantic Segmentation Models by Using Block-wise Image Encryption with Secret Key from Unauthorized Access"
-authors:
+authorsJa:
+  - "伊藤 広樹"
+  - "エイプリルピョンマウンマウン"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroki ITO"
   - "April Pyone MAUNG MAUNG"
   - "Hitoshi KIYA"

@@ -1,7 +1,11 @@
 ---
 titleJa: "完全再構成可能な直交関数フィルタバンク"
 titleEn: "Orthogonal Function Filter Banks Allowing Perfect Reconstruction"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "山崎 広達"
+  - "西川 清史"
+authorsEn:
   - "Hitoshi KIYA"
   - "Hirotatsu YAMAZAKI"
   - "Kiyoshi NISHIKAWA"

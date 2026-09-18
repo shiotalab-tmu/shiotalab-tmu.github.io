@@ -1,6 +1,10 @@
 ---
 titleEn: "A Universal Detector of CNN-Generated Images Using Properties of Checkerboard Artifacts in the Frequency Domain"
-authors:
+authorsJa:
+  - "田中 美貴"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Miki TANAKA"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

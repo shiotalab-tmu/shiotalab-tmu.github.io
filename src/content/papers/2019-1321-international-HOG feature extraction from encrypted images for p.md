@@ -1,6 +1,9 @@
 ---
 titleEn: "HOG feature extraction from encrypted images for privacy-preserving machine learning"
-authors:
+authorsJa:
+  - "北山　昌希"
+  - "貴家 仁志"
+authorsEn:
   - "Masaki KITAYAMA"
   - "Hitoshi KIYA"
 date: "2019-06-13"

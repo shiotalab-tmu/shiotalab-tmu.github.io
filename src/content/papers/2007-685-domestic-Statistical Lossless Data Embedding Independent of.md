@@ -1,7 +1,11 @@
 ---
 titleJa: "原画像の統計量によらない可逆情報埋込法"
 titleEn: "Statistical Lossless Data Embedding Independent of the Statistics of an Original Image"
-authors:
+authorsJa:
+  - "金 弘林"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Hong Lin JIN"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

@@ -1,6 +1,10 @@
 ---
 titleEn: "Encryption of Composite Multimedia Contents for Access Control"
-authors:
+authorsJa:
+  - "藤吉 正明"
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Masaaki FUJIYOSHI"
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"

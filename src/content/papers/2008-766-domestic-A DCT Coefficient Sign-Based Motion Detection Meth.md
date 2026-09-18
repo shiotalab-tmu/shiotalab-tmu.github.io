@@ -1,7 +1,12 @@
 ---
 titleJa: "DCT係数の正負符号を用いたMotion JPEG画像の動物体検出法とそのROC評価"
 titleEn: "A DCT Coefficient Sign-Based Motion Detection Method for Motion JPEG Coded Images and Its Receiver Operator Characteristics Evaluation"
-authors:
+authorsJa:
+  - "立崎 祐司"
+  - "藤吉 正明"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Yuji TACHIZAKI"
   - "Masaaki FUJIYOSHI"
   - "Kiyoshi NISHIKAWA"

@@ -1,6 +1,10 @@
 ---
 titleEn: "A Super-Resolution Method Based on the Discrete Cosine Transforms"
-authors:
+authorsJa:
+  - "坂根 尚"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Hisashi SAKANE"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

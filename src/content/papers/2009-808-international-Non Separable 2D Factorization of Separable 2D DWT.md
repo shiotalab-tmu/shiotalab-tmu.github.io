@@ -1,6 +1,9 @@
 ---
 titleEn: "Non Separable 2D Factorization of Separable 2D DWT for Lossless Image Coding"
-authors:
+authorsJa:
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Masahiro IWAHASHI"
   - "Hitoshi KIYA"
 date: "2009-11-08"

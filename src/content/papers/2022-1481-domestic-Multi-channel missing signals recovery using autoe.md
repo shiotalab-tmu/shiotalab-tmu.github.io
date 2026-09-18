@@ -1,7 +1,14 @@
 ---
 titleJa: "自己符号化器を用いた多チャンネル信号の欠損復元法と 環境音分類における評価"
 titleEn: "Multi-channel missing signals recovery using autoencoder for acoustic scene classification"
-authors:
+authorsJa:
+  - "城間 佑樹"
+  - "木下 裕磨"
+  - "井本 桂右"
+  - "塩田 さやか"
+  - "小野 順貴"
+  - "貴家 仁志"
+authorsEn:
   - "Yuki Shiroma"
   - "Yuma KINOSHITA"
   - "Keisuke IMOTO"

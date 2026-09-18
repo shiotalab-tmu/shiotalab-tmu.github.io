@@ -1,6 +1,10 @@
 ---
 titleEn: "A Fast Image-Scramble Method Using Public-Key Encryption Allowing Backward Compatibility with JPEG2000"
-authors:
+authorsJa:
+  - "渡邊 修"
+  - "中崎 暁子"
+  - "貴家 仁志"
+authorsEn:
   - "Osamu WATANABE"
   - "Akiko NAKAZAKI"
   - "Hitoshi KIYA"

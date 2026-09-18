@@ -1,7 +1,10 @@
 ---
 titleJa: "信号端の影響を考慮したDCTによる相互相関計算法"
 titleEn: "A DCT-Based Calculation Method of Cross Correlation in Considering of Discontinuity on Signal Boundary"
-authors:
+authorsJa:
+  - "伊藤 泉"
+  - "貴家 仁志"
+authorsEn:
   - "Izumi ITO"
   - "Hitoshi KIYA"
 date: "2010-03-01"

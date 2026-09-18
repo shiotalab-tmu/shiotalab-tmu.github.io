@@ -1,6 +1,9 @@
 ---
 titleEn: "Multidimensional Parallel Processing Methods for Rational Sampling Lattice Alteration"
-authors:
+authorsJa:
+  - "村松 正吾"
+  - "貴家 仁志"
+authorsEn:
   - "Shogo MURAMATSU"
   - "Hitoshi KIYA"
 date: "1995-05-01"

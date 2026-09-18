@@ -1,7 +1,11 @@
 ---
 titleJa: "JPEG2000を用いたフレーム間合成符号化のスケーラビリティ機能"
 titleEn: "A Study on Scalability in Interleaved Multiple Frame Coding Using JPEG2000"
-authors:
+authorsJa:
+  - "中崎 暁子"
+  - "高木 亜有子"
+  - "貴家 仁志"
+authorsEn:
   - "Akiko NAKAZAKI"
   - "Ayuko TAKAGI"
   - "Hitoshi KIYA"

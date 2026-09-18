@@ -1,6 +1,11 @@
 ---
 titleEn: "Codeblock-Based Error Concealment for JPEG 2000 Coded Image Transmission over Lossy Packet Networks"
-authors:
+authorsJa:
+  - "ハイルル ムナディ"
+  - "藤吉 正明"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Khairul Munadi"
   - "Masaaki FUJIYOSHI"
   - "Kiyoshi NISHIKAWA"

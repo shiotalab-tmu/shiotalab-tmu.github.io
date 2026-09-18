@@ -1,6 +1,9 @@
 ---
 titleEn: "Oversampled Filter Banks Based on Polyphase Submatrices"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "小林 弘幸"
+authorsEn:
   - "Hitoshi KIYA"
   - "Hiroyuki KOBAYASHI"
 date: "1999-06-01"

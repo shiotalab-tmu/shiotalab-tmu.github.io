@@ -1,6 +1,10 @@
 ---
 titleEn: "Consideration on Circular Convolution for Subband Image Coding"
-authors:
+authorsJa:
+  - "本間 仁志"
+  - "西川 清史"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi HONMA"
   - "Kiyoshi NISHIKAWA"
   - "Masahiko SAGAWA"

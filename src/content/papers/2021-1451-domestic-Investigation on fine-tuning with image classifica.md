@@ -1,7 +1,12 @@
 ---
 titleJa: "深層学習に基づく楽器音分類のための画像分類ネットワークを用いたファインチューニング"
 titleEn: "Investigation on fine-tuning with image classification networks for deep neural network-based musical instrument classification"
-authors:
+authorsJa:
+  - "城間 佑樹"
+  - "木下 裕磨"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Yuki Shiroma"
   - "Yuma KINOSHITA"
   - "Sayaka SHIOTA"

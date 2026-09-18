@@ -1,6 +1,11 @@
 ---
 titleEn: "A Scrambling Method for JPEG Coded Images Enabling Image Retrieval from Scrambled Images"
-authors:
+authorsJa:
+  - "穂坂 諒"
+  - "フィトリ アルニア"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Ryo HOSAKA"
   - "Fitri Arnia"
   - "Masaaki FUJIYOSHI"

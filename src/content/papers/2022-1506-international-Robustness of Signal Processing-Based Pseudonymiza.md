@@ -1,6 +1,11 @@
 ---
 titleEn: "Robustness of Signal Processing-Based Pseudonymization Method Against Decryption Attack "
-authors:
+authorsJa:
+  - "甲斐 優人"
+  - "高道 慎之介"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroto KAI"
   - "Shinnosuke Takamichi"
   - "Sayaka SHIOTA"

@@ -1,7 +1,11 @@
 ---
 titleJa: "JPEG符号化列へのバイナリデータの埋め込み法"
 titleEn: "A Method of Embedding Binary Data into JPEG Bitstreams"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "野口 祥宏"
+  - "貴家 仁志"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Yoshihiro NOGUCHI"
   - "Hitoshi KIYA"

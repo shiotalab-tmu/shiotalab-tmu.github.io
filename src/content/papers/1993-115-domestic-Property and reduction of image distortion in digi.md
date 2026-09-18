@@ -1,7 +1,11 @@
 ---
 titleJa: "フィルタ処理に伴う画像歪の性質とその軽減"
 titleEn: "Property and reduction of image distortion in digital filtering"
-authors:
+authorsJa:
+  - "小林 弘幸"
+  - "貴家 仁志"
+  - "佐川 雅彦"
+authorsEn:
   - "Hiroyuki KOBAYASHI"
   - "Hitoshi KIYA"
   - "Masahiko SAGAWA"

@@ -1,7 +1,11 @@
 ---
 titleJa: "ポリフェーズDFTバンクを用いた新しい適応フィルタ"
 titleEn: "New Class of Adaptive Filters Using The Polyphase DFT-bank"
-authors:
+authorsJa:
+  - "山田 洋士"
+  - "尾知 博"
+  - "貴家 仁志"
+authorsEn:
   - "Youji YAMADA"
   - "Hiroshi OCHI"
   - "Hitoshi KIYA"

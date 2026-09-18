@@ -1,6 +1,10 @@
 ---
 titleEn: "QoS Estimation Method for JPEG 2000 Coded Image at RTP Layer"
-authors:
+authorsJa:
+  - "西川 清史"
+  - "長藁 真一"
+  - "貴家 仁志"
+authorsEn:
   - "Kiyoshi NISHIKAWA"
   - "Shin'ichi NAGAWARA"
   - "Hitoshi KIYA"

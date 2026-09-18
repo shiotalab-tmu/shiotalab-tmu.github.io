@@ -1,6 +1,10 @@
 ---
 titleEn: "An Efficient Realization of the Frequency Sampling Filter (FSF) Bank and Its Application to the Subband Adaptive Filters"
-authors:
+authorsJa:
+  - "金城 繁徳"
+  - "貴家 仁志"
+  - "尾知 博"
+authorsEn:
   - "Shigenori KINJO"
   - "Hitoshi KIYA"
   - "Hiroshi OCHI"

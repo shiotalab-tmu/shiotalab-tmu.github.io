@@ -1,7 +1,11 @@
 ---
 titleJa: "固定次数でのKPNLMS適応フィルタの実現のためのスパース化手法"
 titleEn: "Sparsification of Input signal for Fixed Order Implementation of KPNLMS Adaptive Filters"
-authors:
+authorsJa:
+  - "古賀 正一"
+  - "丸 裕士"
+  - "西川 清史"
+authorsEn:
   - "Masakazu KOGA"
   - "Yuji MARU"
   - "Kiyoshi NISHIKAWA"

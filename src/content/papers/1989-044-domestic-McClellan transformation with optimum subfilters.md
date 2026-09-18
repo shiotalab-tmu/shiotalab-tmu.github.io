@@ -1,7 +1,12 @@
 ---
 titleJa: "最適なサブフィルタを有するMcClellan変換"
 titleEn: "McClellan transformation with optimum subfilters"
-authors:
+authorsJa:
+  - "貴家 仁志"
+  - "田沢 志郎"
+  - "岩橋 政宏"
+  - "佐川 雅彦"
+authorsEn:
   - "Hitoshi KIYA"
   - "Shiro TAZAWA"
   - "Masahiro IWAHASHI"

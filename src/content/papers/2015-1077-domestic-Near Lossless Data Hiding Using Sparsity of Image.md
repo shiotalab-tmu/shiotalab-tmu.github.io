@@ -1,7 +1,11 @@
 ---
 titleJa: "ヒストグラムの疎性を利用したニアロスレスな画像データハイディング"
 titleEn: "Near Lossless Data Hiding Using Sparsity of Image Histogram"
-authors:
+authorsJa:
+  - "大石　涼"
+  - "藤吉 正明"
+  - "貴家 仁志"
+authorsEn:
   - "Ryo OISHI"
   - "Masaaki FUJIYOSHI"
   - "Hitoshi KIYA"

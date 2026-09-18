@@ -1,6 +1,10 @@
 ---
 titleEn: "LoRA-ViT in key-based domain adaptation for learnable image encryption"
-authors:
+authorsJa:
+  - "Lin Haiwei "
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Haiwei Lin "
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"

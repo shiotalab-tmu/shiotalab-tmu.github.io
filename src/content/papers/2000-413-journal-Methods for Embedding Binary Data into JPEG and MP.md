@@ -1,7 +1,9 @@
 ---
 titleJa: "JPEG，MPEG画像へのバイナリデータの埋め込み法"
 titleEn: "Methods for Embedding Binary Data into JPEG and MPEG Images in Compressed Domain"
-authors:
+authorsJa:
+  - "貴家 仁志"
+authorsEn:
   - "Hitoshi KIYA"
 date: "2000-12-01"
 type: "journal"

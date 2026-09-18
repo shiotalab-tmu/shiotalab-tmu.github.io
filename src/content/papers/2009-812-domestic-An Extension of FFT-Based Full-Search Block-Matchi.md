@@ -1,7 +1,11 @@
 ---
 titleJa: "FFT全探索ブロックマッチング法のサブピクセル精度への拡張"
 titleEn: "An Extension of FFT-Based Full-Search Block-Matching Method to Sub-Pixel Accuracy"
-authors:
+authorsJa:
+  - "植村 淳志"
+  - "李 禎"
+  - "貴家 仁志"
+authorsEn:
   - "Atsushi UEMURA"
   - "Zhen LI"
   - "Hitoshi KIYA"

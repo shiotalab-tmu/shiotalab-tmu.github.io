@@ -1,6 +1,9 @@
 ---
 titleEn: "Self-Supervised Intrinsic Image Decomposition Network Considering Reflectance Consistency"
-authors:
+authorsJa:
+  - "木下 裕磨"
+  - "貴家 仁志"
+authorsEn:
   - "Yuma KINOSHITA"
   - "Hitoshi KIYA"
 date: "2022-04-01"

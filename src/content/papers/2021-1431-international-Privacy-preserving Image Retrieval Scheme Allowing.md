@@ -1,6 +1,9 @@
 ---
 titleEn: "Privacy-preserving Image Retrieval Scheme Allowing Mixed Use of Lossless and JPEG Compressed Images"
-authors:
+authorsJa:
+  - "飯田 健太"
+  - "貴家 仁志"
+authorsEn:
   - "Kenta IIDA"
   - "Hitoshi KIYA"
 date: "2021-03-09"

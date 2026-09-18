@@ -1,6 +1,10 @@
 ---
 titleEn: "Lossless Inter-Frame Video Coding Using Extended JPEG2000"
-authors:
+authorsJa:
+  - "今泉 祥子"
+  - "高木 亜有子"
+  - "貴家 仁志"
+authorsEn:
   - "Shoko IMAIZUMI"
   - "Ayuko TAKAGI"
   - "Hitoshi KIYA"

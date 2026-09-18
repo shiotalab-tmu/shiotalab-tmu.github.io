@@ -1,7 +1,11 @@
 ---
 titleJa: "LMS適応フィルタバンクを用いた適応信号処理の高速化"
 titleEn: "Fast adaptive signal processing with LMS adaptive filter bank"
-authors:
+authorsJa:
+  - "知念 徹"
+  - "貴家 仁志"
+  - "佐川 雅彦"
+authorsEn:
   - "Tohru CHINEN"
   - "Hitoshi KIYA"
   - "Masahiko SAGAWA"

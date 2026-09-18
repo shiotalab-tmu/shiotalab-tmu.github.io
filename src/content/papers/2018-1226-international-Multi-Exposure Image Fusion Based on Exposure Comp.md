@@ -1,6 +1,11 @@
 ---
 titleEn: "Multi-Exposure Image Fusion Based on Exposure Compensation"
-authors:
+authorsJa:
+  - "木下 裕磨"
+  - "吉田 太一"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Yuma KINOSHITA"
   - "Taichi YOSHIDA"
   - "Sayaka SHIOTA"

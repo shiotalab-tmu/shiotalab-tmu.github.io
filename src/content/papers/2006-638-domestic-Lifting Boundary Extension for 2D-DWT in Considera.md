@@ -1,7 +1,12 @@
 ---
 titleJa: "画像端の不連続性を考慮した2D-DWTのためのリフティング端点処理法"
 titleEn: "Lifting Boundary Extension for 2D-DWT in Consideration of Discontinuity on Image Boundary"
-authors:
+authorsJa:
+  - "吉田 邦明"
+  - "藤吉 正明"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Kuniaki YOSHIDA"
   - "Masaaki FUJIYOSHI"
   - "Kiyoshi NISHIKAWA"

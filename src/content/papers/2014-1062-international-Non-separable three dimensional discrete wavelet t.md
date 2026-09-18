@@ -1,6 +1,12 @@
 ---
 titleEn: "Non-separable three dimensional discrete wavelet transform with adaptive directional prediction"
-authors:
+authorsJa:
+  - "ハムザー ファイロザアミラビンディ"
+  - "オラチョン テラポン"
+  - "吉田 太一"
+  - "岩橋 政宏"
+  - "貴家 仁志"
+authorsEn:
   - "Fairoza Amira Binti HAMZAH"
   - "Teerapong ORACHON"
   - "Taichi YOSHIDA"

@@ -1,7 +1,11 @@
 ---
 titleJa: "非線形帯域拡張法に基づく話者照合の検討"
 titleEn: "Non-linear artificial bandwidth extension of narrowband speech for speaker verification"
-authors:
+authorsJa:
+  - "中西 亮介"
+  - "塩田 さやか"
+  - "貴家 仁志"
+authorsEn:
   - "Ryosuke NAKANISHI"
   - "Sayaka SHIOTA"
   - "Hitoshi KIYA"

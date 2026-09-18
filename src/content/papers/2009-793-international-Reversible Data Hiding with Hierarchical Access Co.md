@@ -1,6 +1,11 @@
 ---
 titleEn: "Reversible Data Hiding with Hierarchical Access Control for Medical Imagery"
-authors:
+authorsJa:
+  - "韓 昇祐"
+  - "藤吉 正明"
+  - "金 海光"
+  - "貴家 仁志"
+authorsEn:
   - "Seungwu HAN"
   - "Masaaki FUJIYOSHI"
   - "Hae-Kwang KIM"

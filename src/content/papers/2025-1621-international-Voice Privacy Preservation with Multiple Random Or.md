@@ -1,6 +1,10 @@
 ---
 titleEn: "Voice Privacy Preservation with Multiple Random Orthogonal Secret Keys: Attack Resistance Analysis"
-authors:
+authorsJa:
+  - "田中 康平"
+  - "貴家 仁志"
+  - "塩田 さやか"
+authorsEn:
   - "Kohei TANAKA"
   - "Hitoshi KIYA"
   - "Sayaka SHIOTA"

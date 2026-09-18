@@ -1,7 +1,11 @@
 ---
 titleJa: "MPEG-オーディオ信号へのバイナリデータの埋め込み"
 titleEn: "Binary data embedding methods for MPEG-Audio signals"
-authors:
+authorsJa:
+  - "君島 匡朗"
+  - "西川 清史"
+  - "貴家 仁志"
+authorsEn:
   - "Tadaaki KIMIJIMA"
   - "Kiyoshi NISHIKAWA"
   - "Hitoshi KIYA"

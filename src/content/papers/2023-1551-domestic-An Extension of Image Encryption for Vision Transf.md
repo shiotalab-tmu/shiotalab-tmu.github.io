@@ -1,7 +1,11 @@
 ---
 titleJa: "プライバシー保護を考慮したVision Transformerのための画像暗号化法の拡張"
 titleEn: "An Extension of Image Encryption for Vision Transformer Considering Privacy Protection "
-authors:
+authorsJa:
+  - "Lin Haiwei "
+  - "今泉 祥子"
+  - "貴家 仁志"
+authorsEn:
   - "Haiwei Lin "
   - "Shoko IMAIZUMI"
   - "Hitoshi KIYA"

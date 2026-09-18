@@ -1,6 +1,11 @@
 ---
 titleEn: "A Data Hiding Method for JPEG 2000 Coded Images Using Modulo Arithmetic"
-authors:
+authorsJa:
+  - "金 弘林"
+  - "藤吉 正明"
+  - "関 裕介"
+  - "貴家 仁志"
+authorsEn:
   - "Hong Lin JIN"
   - "Masaaki FUJIYOSHI"
   - "Yusuke SEKI"
