@@ -11,5 +11,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-03-01"
 type: "journal"
-venue: "IEICE Trans., Vol. J101-D, No. 3, pp. 588-596, 2018-03-01."
+venueJa: "電子情報通信学会 論文誌, Vol. J101-D, No. 3, pp. 588-596, 2018-03-01."
+venueEn: "IEICE Trans., Vol. J101-D, No. 3, pp. 588-596, 2018-03-01."
 ---

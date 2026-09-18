@@ -16,5 +16,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2011-06-06"
 type: "international"
-venue: "IEEE International Conference on Communications, pp. CSMA-02.5, Kyoto, Japan, 2011-06-06."
+venueJa: "IEEE International Conference on Communications, pp. CSMA-02.5, Kyoto, Japan, 2011-06-06."
+venueEn: "IEEE International Conference on Communications, pp. CSMA-02.5, Kyoto, Japan, 2011-06-06."
 ---

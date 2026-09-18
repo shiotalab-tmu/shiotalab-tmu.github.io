@@ -9,5 +9,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1989-10-01"
 type: "domestic"
-venue: "Technical Report of IEICE, pp. CAS89-70, 1989-10-01."
+venueJa: "電子情報通信学会 回路とシステム研究会, pp. CAS89-70, 1989-10-01."
+venueEn: "Technical Report of IEICE, pp. CAS89-70, 1989-10-01."
 ---

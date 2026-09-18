@@ -14,5 +14,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2012-03-27"
 type: "international"
-venue: "IIIS International Conference on Education, Training and Informatics, pp. 134-137, Orland, FL, U.S., 2012-03-27."
+venueJa: "IIIS International Conference on Education, Training and Informatics, pp. 134-137, Orland, FL, U.S., 2012-03-27."
+venueEn: "IIIS International Conference on Education, Training and Informatics, pp. 134-137, Orland, FL, U.S., 2012-03-27."
 ---

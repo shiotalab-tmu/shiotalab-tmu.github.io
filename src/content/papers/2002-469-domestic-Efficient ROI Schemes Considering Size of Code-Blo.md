@@ -9,5 +9,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2002-09-01"
 type: "domestic"
-venue: "Technical Report of IEICE, pp. IE2002-61, 岐阜、日本, 2002-09-01."
+venueJa: "電子情報通信学会 画像工学研究会, pp. IE2002-61, 岐阜、日本, 2002-09-01."
+venueEn: "Technical Report of IEICE, pp. IE2002-61, 岐阜、日本, 2002-09-01."
 ---

@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2019-09-03"
 type: "international"
-venue: "EURASIP European Signal Processing Conference, A Coruña, Spain, 2019-09-03."
+venueJa: "EURASIP European Signal Processing Conference, A Coruña, Spain, 2019-09-03."
+venueEn: "EURASIP European Signal Processing Conference, A Coruña, Spain, 2019-09-03."
 ---

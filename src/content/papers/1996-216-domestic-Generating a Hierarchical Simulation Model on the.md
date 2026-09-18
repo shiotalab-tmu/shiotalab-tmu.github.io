@@ -11,5 +11,6 @@ authorsEn:
   - "Akihiko YAMADA"
 date: "1996-02-01"
 type: "domestic"
-venue: "IPSJ Technical Reports, pp. DA79-4, 1996-02-01."
+venueJa: "情報処理学会 設計自動化研究会, pp. DA79-4, 1996-02-01."
+venueEn: "IPSJ Technical Reports, pp. DA79-4, 1996-02-01."
 ---

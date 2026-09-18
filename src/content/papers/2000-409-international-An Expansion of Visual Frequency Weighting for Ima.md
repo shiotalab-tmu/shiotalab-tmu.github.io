@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2000-11-01"
 type: "international"
-venue: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, pp. 1, ホノルル，アメリカ合衆国, 2000-11-01."
+venueJa: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, pp. 1, ホノルル，アメリカ合衆国, 2000-11-01."
+venueEn: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, pp. 1, ホノルル，アメリカ合衆国, 2000-11-01."
 ---

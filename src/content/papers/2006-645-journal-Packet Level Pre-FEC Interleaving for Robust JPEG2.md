@@ -12,5 +12,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2006-08-01"
 type: "journal"
-venue: "ECTI Trans. Electrical Eng., Electronics, and Commun., Vol. 4, No. 2, pp. 134-144, 2006-08-01."
+venueJa: "ECTI Trans. Electrical Eng., Electronics, and Commun., Vol. 4, No. 2, pp. 134-144, 2006-08-01."
+venueEn: "ECTI Trans. Electrical Eng., Electronics, and Commun., Vol. 4, No. 2, pp. 134-144, 2006-08-01."
 ---

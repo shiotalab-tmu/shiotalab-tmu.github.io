@@ -13,7 +13,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2021-06-19"
 type: "domestic"
-venue: "IPSJ Music and computer Symposium, Vol. IEICE-121, No. 66, pp. 75-79, オンライン開催, 2021-06-19."
+venueJa: "情報処理学会音楽情報科学研究会 音学シンポジウム, Vol. IEICE-121, No. 66, pp. 75-79, オンライン開催, 2021-06-19."
+venueEn: "IPSJ Music and computer Symposium, Vol. IEICE-121, No. 66, pp. 75-79, オンライン開催, 2021-06-19."
 url: "https://www.ieice.org/ken/paper/20210619MCe1/eng/"
 webpage: "https://www.ieice.org/ken/paper/20210619MCe1/eng/"
 ---

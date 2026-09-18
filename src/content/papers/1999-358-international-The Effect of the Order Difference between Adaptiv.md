@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1999-07-01"
 type: "international"
-venue: "International Technical Conference on Circuits/Systems, Computers and Communications, Vol. 2, 1999-07-01."
+venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, Vol. 2, 1999-07-01."
+venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, Vol. 2, 1999-07-01."
 ---

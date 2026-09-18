@@ -11,5 +11,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1996-11-01"
 type: "domestic"
-venue: "IEICE Digital Signal Processing Symposium, pp. A6-1, 1996-11-01."
+venueJa: "電子情報通信学会 ディジタル信号処理シンポジウム, pp. A6-1, 1996-11-01."
+venueEn: "IEICE Digital Signal Processing Symposium, pp. A6-1, 1996-11-01."
 ---

@@ -13,7 +13,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2022-06-16"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. IEICE-122, No. 77, pp. 34-39, 八戸工業大学, 2022-06-16."
+venueJa: "電子情報通信学会 信号処理研究会, Vol. IEICE-122, No. 77, pp. 34-39, 八戸工業大学, 2022-06-16."
+venueEn: "Technical Report of IEICE, Vol. IEICE-122, No. 77, pp. 34-39, 八戸工業大学, 2022-06-16."
 url: "https://www.ieice.org/ken/paper/20220616tCKz/eng/"
 webpage: "https://www.ieice.org/ken/paper/20220616tCKz/eng/"
 ---

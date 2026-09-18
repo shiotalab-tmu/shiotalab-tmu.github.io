@@ -13,5 +13,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2008-09-12"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. 108, No. 202, pp. IT2008-31, 沖縄県宜野湾市, 2008-09-12."
+venueJa: "電子情報通信学会 情報理論研究会, Vol. 108, No. 202, pp. IT2008-31, 沖縄県宜野湾市, 2008-09-12."
+venueEn: "Technical Report of IEICE, Vol. 108, No. 202, pp. IT2008-31, 沖縄県宜野湾市, 2008-09-12."
 ---

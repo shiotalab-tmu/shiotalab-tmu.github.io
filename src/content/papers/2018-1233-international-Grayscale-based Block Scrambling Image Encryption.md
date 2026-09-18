@@ -12,5 +12,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-07-24"
 type: "international"
-venue: "IEEE International Conference on Multimedia and Expo, San Diego, USA, 2018-07-24."
+venueJa: "IEEE International Conference on Multimedia and Expo, San Diego, USA, 2018-07-24."
+venueEn: "IEEE International Conference on Multimedia and Expo, San Diego, USA, 2018-07-24."
 ---

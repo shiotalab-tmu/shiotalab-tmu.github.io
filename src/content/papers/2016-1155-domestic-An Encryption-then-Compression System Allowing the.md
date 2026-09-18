@@ -11,5 +11,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2016-12-08"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. 116, No. 344, pp. SIS2016-28, 広島市立大学サテライトキャンパス, 2016-12-08."
+venueJa: "電子情報通信学会 スマートインフォメディアシステム研究会, Vol. 116, No. 344, pp. SIS2016-28, 広島市立大学サテライトキャンパス, 2016-12-08."
+venueEn: "Technical Report of IEICE, Vol. 116, No. 344, pp. SIS2016-28, 広島市立大学サテライトキャンパス, 2016-12-08."
 ---

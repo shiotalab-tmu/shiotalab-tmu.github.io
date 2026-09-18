@@ -17,7 +17,8 @@ authorsEn:
   - "Tomoko MATSUI"
 date: "2016-03-08"
 type: "domestic"
-venue: "Acoustical Society of Japan Spring Meeting, pp. 1-1-8, 2016-03-08."
+venueJa: "日本音響学会春季大会, pp. 1-1-8, 2016-03-08."
+venueEn: "Acoustical Society of Japan Spring Meeting, pp. 1-1-8, 2016-03-08."
 url: "http://www.asj.gr.jp/annualmeeting/2016spring_youryou.html"
 webpage: "http://www.asj.gr.jp/annualmeeting/2016spring_youryou.html"
 ---

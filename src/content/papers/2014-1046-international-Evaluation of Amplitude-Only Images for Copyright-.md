@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2014-07-04"
 type: "international"
-venue: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. 1069, Phuket, Thailand, 2014-07-04."
+venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. 1069, Phuket, Thailand, 2014-07-04."
+venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. 1069, Phuket, Thailand, 2014-07-04."
 ---

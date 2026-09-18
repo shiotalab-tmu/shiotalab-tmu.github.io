@@ -13,5 +13,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2020-09-11"
 type: "domestic"
-venue: "Acoustical Society of Japan Autumn Meeting, pp. 3-2-15, 2020-09-11."
+venueJa: "日本音響学会秋季大会, pp. 3-2-15, 2020-09-11."
+venueEn: "Acoustical Society of Japan Autumn Meeting, pp. 3-2-15, 2020-09-11."
 ---

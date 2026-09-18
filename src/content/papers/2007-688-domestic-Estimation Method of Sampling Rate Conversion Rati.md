@@ -11,5 +11,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2007-05-24"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. 107, No. 64, pp. SIP2007-20, 大阪府豊中市, 2007-05-24."
+venueJa: "電子情報通信学会 信号処理研究会, Vol. 107, No. 64, pp. SIP2007-20, 大阪府豊中市, 2007-05-24."
+venueEn: "Technical Report of IEICE, Vol. 107, No. 64, pp. SIP2007-20, 大阪府豊中市, 2007-05-24."
 ---

@@ -11,5 +11,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2017-09-26"
 type: "domestic"
-venue: "Acoustical Society of Japan Autumn Meeting, pp. 2-Q-16, 愛媛県松山市, 2017-09-26."
+venueJa: "日本音響学会秋季大会, pp. 2-Q-16, 愛媛県松山市, 2017-09-26."
+venueEn: "Acoustical Society of Japan Autumn Meeting, pp. 2-Q-16, 愛媛県松山市, 2017-09-26."
 ---

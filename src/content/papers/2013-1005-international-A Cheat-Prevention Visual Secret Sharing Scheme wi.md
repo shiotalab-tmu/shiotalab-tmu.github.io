@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2013-10-03"
 type: "international"
-venue: "International Workshop on Digital-Forensics and Watermarking, pp. 7.7, Auckland, New Zealand, 2013-10-03."
+venueJa: "International Workshop on Digital-Forensics and Watermarking, pp. 7.7, Auckland, New Zealand, 2013-10-03."
+venueEn: "International Workshop on Digital-Forensics and Watermarking, pp. 7.7, Auckland, New Zealand, 2013-10-03."
 ---

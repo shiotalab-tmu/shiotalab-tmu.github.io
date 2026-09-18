@@ -8,5 +8,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2022-09-10"
 type: "international"
-venue: "International Conference on Machine Learning and Cybernetics, 2022-09-10."
+venueJa: "International Conference on Machine Learning and Cybernetics, 2022-09-10."
+venueEn: "International Conference on Machine Learning and Cybernetics, 2022-09-10."
 ---

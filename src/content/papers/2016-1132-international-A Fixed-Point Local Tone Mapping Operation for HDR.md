@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2016-08-31"
 type: "international"
-venue: "EURASIP European Signal Processing Conference, pp. 933-937, Budapest, Hungary, 2016-08-31."
+venueJa: "EURASIP European Signal Processing Conference, pp. 933-937, Budapest, Hungary, 2016-08-31."
+venueEn: "EURASIP European Signal Processing Conference, pp. 933-937, Budapest, Hungary, 2016-08-31."
 ---

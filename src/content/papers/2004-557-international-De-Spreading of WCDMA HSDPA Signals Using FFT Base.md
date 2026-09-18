@@ -8,5 +8,6 @@ authorsEn:
   - "Souta NAKAMURA"
 date: "2004-07-13"
 type: "international"
-venue: "IEEE Signal Processing Adavances in Wireless Communications, 2004-07-13."
+venueJa: "IEEE Signal Processing Adavances in Wireless Communications, 2004-07-13."
+venueEn: "IEEE Signal Processing Adavances in Wireless Communications, 2004-07-13."
 ---

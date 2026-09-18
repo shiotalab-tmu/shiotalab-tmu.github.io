@@ -11,7 +11,8 @@ authorsEn:
   - "Masahiko SAGAWA"
 date: "1986-11-01"
 type: "journal"
-venue: "IECE Trans., Vol. J69-A, No. 11, pp. 1376-1384, 1986-11-01."
+venueJa: "電子通信学会 論文誌, Vol. J69-A, No. 11, pp. 1376-1384, 1986-11-01."
+venueEn: "IECE Trans., Vol. J69-A, No. 11, pp. 1376-1384, 1986-11-01."
 url: "http://search.ieice.org/bin/summary.php?id=j69-a_11_1376&category=A&year=1986&lang=E&abst=j"
 webpage: "http://search.ieice.org/bin/summary.php?id=j69-a_11_1376&category=A&year=1986&lang=E&abst=j"
 ---

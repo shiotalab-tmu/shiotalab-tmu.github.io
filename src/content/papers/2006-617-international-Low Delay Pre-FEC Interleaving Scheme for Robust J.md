@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2006-01-09"
 type: "international"
-venue: "International Workshop on Advanced Image Technology, pp. S04-7, Okinawa, Japan, 2006-01-09."
+venueJa: "International Workshop on Advanced Image Technology, pp. S04-7, Okinawa, Japan, 2006-01-09."
+venueEn: "International Workshop on Advanced Image Technology, pp. S04-7, Okinawa, Japan, 2006-01-09."
 ---

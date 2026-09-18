@@ -11,5 +11,6 @@ authorsEn:
   - "Noriyoshi KAMBAYASHI"
 date: "1994-12-01"
 type: "domestic"
-venue: "Technical Report of IEICE, pp. IE94-97, 1994-12-01."
+venueJa: "電子情報通信学会 画像工学研究会, pp. IE94-97, 1994-12-01."
+venueEn: "Technical Report of IEICE, pp. IE94-97, 1994-12-01."
 ---

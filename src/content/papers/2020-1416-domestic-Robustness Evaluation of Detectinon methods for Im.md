@@ -9,7 +9,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2020-10-01"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. 120, No. 176, pp. SIS2020-14, オンライン開催, 2020-10-01."
+venueJa: "電子情報通信学会 スマートインフォメディアシステム研究会, Vol. 120, No. 176, pp. SIS2020-14, オンライン開催, 2020-10-01."
+venueEn: "Technical Report of IEICE, Vol. 120, No. 176, pp. SIS2020-14, オンライン開催, 2020-10-01."
 url: "https://www.ieice.org/ken/paper/20201001pCAf/eng/"
 webpage: "https://www.ieice.org/ken/paper/20201001pCAf/eng/"
 ---

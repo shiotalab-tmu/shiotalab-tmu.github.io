@@ -10,5 +10,6 @@ authorsEn:
   - "Masahiko SAGAWA"
 date: "1992-03-01"
 type: "international"
-venue: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. IV-281, 1992-03-01."
+venueJa: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. IV-281, 1992-03-01."
+venueEn: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. IV-281, 1992-03-01."
 ---

@@ -10,5 +10,6 @@ authorsEn:
   - "Masahiko SAGAWA"
 date: "1993-07-01"
 type: "international"
-venue: "Joint Technical Conference on Circuits/Systems, Computers and Communications, 1993-07-01."
+venueJa: "Joint Technical Conference on Circuits/Systems, Computers and Communications, 1993-07-01."
+venueEn: "Joint Technical Conference on Circuits/Systems, Computers and Communications, 1993-07-01."
 ---

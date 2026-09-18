@@ -8,5 +8,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2002-09-01"
 type: "journal"
-venue: "Electronics and Communications in Japan, Part III, Vol. 85, No. 9, pp. 58-68, 2002-09-01."
+venueJa: "Electronics and Communications in Japan, Part III, Vol. 85, No. 9, pp. 58-68, 2002-09-01."
+venueEn: "Electronics and Communications in Japan, Part III, Vol. 85, No. 9, pp. 58-68, 2002-09-01."
 ---

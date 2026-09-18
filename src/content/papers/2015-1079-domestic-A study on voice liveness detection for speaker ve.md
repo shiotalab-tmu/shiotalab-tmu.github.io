@@ -15,7 +15,8 @@ authorsEn:
   - "Tomoko MATSUI"
 date: "2015-03-17"
 type: "domestic"
-venue: "Acoustical Society of Japan Spring Meeting, pp. 75-78, 東京都文京区, 2015-03-17."
+venueJa: "日本音響学会春季大会, pp. 75-78, 東京都文京区, 2015-03-17."
+venueEn: "Acoustical Society of Japan Spring Meeting, pp. 75-78, 東京都文京区, 2015-03-17."
 url: "http://www.asj.gr.jp/annualmeeting/pdf/2015spring_onkyo_web_02.pdf"
 webpage: "http://www.asj.gr.jp/annualmeeting/pdf/2015spring_onkyo_web_02.pdf"
 ---

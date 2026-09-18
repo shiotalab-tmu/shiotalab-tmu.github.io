@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2012-07-18"
 type: "international"
-venue: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. E-W1-04, Sapporo, Japan, 2012-07-18."
+venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. E-W1-04, Sapporo, Japan, 2012-07-18."
+venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. E-W1-04, Sapporo, Japan, 2012-07-18."
 ---

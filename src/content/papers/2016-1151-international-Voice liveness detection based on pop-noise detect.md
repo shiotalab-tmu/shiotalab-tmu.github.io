@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2016-11-29"
 type: "international"
-venue: "5th Joint Meeting of Acoustical Society of America and Acoustical Society of Japan, Honolulu,Hawaii,USA, 2016-11-29."
+venueJa: "5th Joint Meeting of Acoustical Society of America and Acoustical Society of Japan, Honolulu,Hawaii,USA, 2016-11-29."
+venueEn: "5th Joint Meeting of Acoustical Society of America and Acoustical Society of Japan, Honolulu,Hawaii,USA, 2016-11-29."
 ---

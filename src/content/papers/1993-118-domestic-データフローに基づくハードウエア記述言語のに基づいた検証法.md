@@ -10,5 +10,6 @@ authorsEn:
   - "Sachio NAITO"
 date: "1993-02-01"
 type: "domestic"
-venue: "Technical Report of IEICE, pp. FTS92-50, 1993-02-01."
+venueJa: "電子情報通信学会 フォルトトレラントシステム研究会, pp. FTS92-50, 1993-02-01."
+venueEn: "Technical Report of IEICE, pp. FTS92-50, 1993-02-01."
 ---

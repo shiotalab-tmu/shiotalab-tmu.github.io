@@ -13,7 +13,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2013-03-20"
 type: "domestic"
-venue: "General Conference of IEICE, Vol. ESS, pp. A-4-28, 岐阜県岐阜市, 2013-03-20."
+venueJa: "電子情報通信学会 総合大会, Vol. ESS, pp. A-4-28, 岐阜県岐阜市, 2013-03-20."
+venueEn: "General Conference of IEICE, Vol. ESS, pp. A-4-28, 岐阜県岐阜市, 2013-03-20."
 url: "http://www.gakkai-web.net/gakkai/ieice/2013gpro/Settings/ab/a_04_028.html"
 webpage: "http://www.gakkai-web.net/gakkai/ieice/2013gpro/Settings/ab/a_04_028.html"
 ---

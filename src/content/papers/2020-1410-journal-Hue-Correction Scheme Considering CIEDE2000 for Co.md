@@ -8,7 +8,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2020-11-30"
 type: "journal"
-venue: "APSIPA Trans. Signal and Information Processing, Vol. 9, No.1, e19, 2020-11-30."
+venueJa: "APSIPA Trans. Signal and Information Processing, Vol. 9, No.1, e19, 2020-11-30."
+venueEn: "APSIPA Trans. Signal and Information Processing, Vol. 9, No.1, e19, 2020-11-30."
 url: "https://www.nowpublishers.com/article/Details/SIP-155"
 webpage: "https://www.nowpublishers.com/article/Details/SIP-155"
 ---

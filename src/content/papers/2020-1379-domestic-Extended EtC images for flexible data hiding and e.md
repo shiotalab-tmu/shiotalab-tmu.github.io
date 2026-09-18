@@ -11,7 +11,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2020-03-05"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. IEICE-119, No. 463, pp. 43-48, 沖縄県石垣市, 2020-03-05."
+venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, Vol. IEICE-119, No. 463, pp. 43-48, 沖縄県石垣市, 2020-03-05."
+venueEn: "Technical Report of IEICE, Vol. IEICE-119, No. 463, pp. 43-48, 沖縄県石垣市, 2020-03-05."
 url: "https://www.ieice.org/ken/paper/20200305t1wW/eng/"
 webpage: "https://www.ieice.org/ken/paper/20200305t1wW/eng/"
 ---

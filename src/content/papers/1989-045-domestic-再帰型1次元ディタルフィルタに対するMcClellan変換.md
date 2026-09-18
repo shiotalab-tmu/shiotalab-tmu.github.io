@@ -12,5 +12,6 @@ authorsEn:
   - "Masahiko SAGAWA"
 date: "1989-03-01"
 type: "domestic"
-venue: "Spring Conf. of IEICE, pp. A-89, 1989-03-01."
+venueJa: "電子情報通信学会 春季全国大会, pp. A-89, 1989-03-01."
+venueEn: "Spring Conf. of IEICE, pp. A-89, 1989-03-01."
 ---

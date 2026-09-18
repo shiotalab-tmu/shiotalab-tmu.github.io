@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1996-09-01"
 type: "international"
-venue: "EURASIP European Signal Processing Conference, 1996-09-01."
+venueJa: "EURASIP European Signal Processing Conference, 1996-09-01."
+venueEn: "EURASIP European Signal Processing Conference, 1996-09-01."
 ---

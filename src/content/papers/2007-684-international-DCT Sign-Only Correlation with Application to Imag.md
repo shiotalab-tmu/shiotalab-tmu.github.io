@@ -8,5 +8,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2007-04-20"
 type: "international"
-venue: "IEEE International Conference on Acoustics, Speech and Signal Processing, Vol. I, pp. IMDSP-P15.1, Honolulu, HI, US, 2007-04-20."
+venueJa: "IEEE International Conference on Acoustics, Speech and Signal Processing, Vol. I, pp. IMDSP-P15.1, Honolulu, HI, US, 2007-04-20."
+venueEn: "IEEE International Conference on Acoustics, Speech and Signal Processing, Vol. I, pp. IMDSP-P15.1, Honolulu, HI, US, 2007-04-20."
 ---

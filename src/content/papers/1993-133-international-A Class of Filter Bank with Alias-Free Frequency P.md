@@ -8,5 +8,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1993-08-01"
 type: "international"
-venue: "European Conference on Circuit Theory and Design, pp. 24.4, 1993-08-01."
+venueJa: "European Conference on Circuit Theory and Design, pp. 24.4, 1993-08-01."
+venueEn: "European Conference on Circuit Theory and Design, pp. 24.4, 1993-08-01."
 ---

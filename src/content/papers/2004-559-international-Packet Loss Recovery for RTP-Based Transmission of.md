@@ -12,5 +12,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2004-07-27"
 type: "international"
-venue: "IEEE Midwest Symposium on Circuits and Systems, Vol. I, pp. 265-268, Hiroshima, Japan, 2004-07-27."
+venueJa: "IEEE Midwest Symposium on Circuits and Systems, Vol. I, pp. 265-268, Hiroshima, Japan, 2004-07-27."
+venueEn: "IEEE Midwest Symposium on Circuits and Systems, Vol. I, pp. 265-268, Hiroshima, Japan, 2004-07-27."
 ---

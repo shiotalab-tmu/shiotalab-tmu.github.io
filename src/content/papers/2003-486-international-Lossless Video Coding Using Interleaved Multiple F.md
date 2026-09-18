@@ -8,5 +8,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2003-01-01"
 type: "international"
-venue: "International Workshop on Advanced Image Technology, pp. 329-334, Nagasaki, Japan, 2003-01-01."
+venueJa: "International Workshop on Advanced Image Technology, pp. 329-334, Nagasaki, Japan, 2003-01-01."
+venueEn: "International Workshop on Advanced Image Technology, pp. 329-334, Nagasaki, Japan, 2003-01-01."
 ---

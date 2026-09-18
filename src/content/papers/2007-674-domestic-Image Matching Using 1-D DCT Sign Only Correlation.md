@@ -9,5 +9,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2007-02-22"
 type: "domestic"
-venue: "ITE Technical Report, Vol. 31, No. 10, pp. ME2007-26, 札幌市北区, 2007-02-22."
+venueJa: "映像情報メディア学会 メディア工学研究会, Vol. 31, No. 10, pp. ME2007-26, 札幌市北区, 2007-02-22."
+venueEn: "ITE Technical Report, Vol. 31, No. 10, pp. ME2007-26, 札幌市北区, 2007-02-22."
 ---

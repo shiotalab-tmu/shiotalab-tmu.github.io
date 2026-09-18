@@ -8,7 +8,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2021-10-14"
 type: "international"
-venue: "IEEE Global Conference on Consumer Electronics, pp. 95-98, Kyoto, Japan, 2021-10-14."
+venueJa: "IEEE Global Conference on Consumer Electronics, pp. 95-98, Kyoto, Japan, 2021-10-14."
+venueEn: "IEEE Global Conference on Consumer Electronics, pp. 95-98, Kyoto, Japan, 2021-10-14."
 url: "https://ieeexplore.ieee.org/document/9621775"
 webpage: "https://ieeexplore.ieee.org/document/9621775"
 ---

@@ -10,5 +10,6 @@ authorsEn:
   - "Sayaka SHIOTA"
 date: "2025-10-24"
 type: "international"
-venue: "APSIPA Annual Summit and Conference, Shangri-la, Singapore, 2025-10-24."
+venueJa: "APSIPA Annual Summit and Conference, Shangri-la, Singapore, 2025-10-24."
+venueEn: "APSIPA Annual Summit and Conference, Shangri-la, Singapore, 2025-10-24."
 ---

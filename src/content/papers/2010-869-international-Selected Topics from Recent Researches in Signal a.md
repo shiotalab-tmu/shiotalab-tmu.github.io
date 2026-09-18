@@ -8,5 +8,6 @@ authorsEn:
   - "Kiyoshi NISHIKAWA"
 date: "2010-12-17"
 type: "international"
-venue: "APSIPA Annual Summit and Conference, pp. 859-866, Biopolis, Singapore, 2010-12-17."
+venueJa: "APSIPA Annual Summit and Conference, pp. 859-866, Biopolis, Singapore, 2010-12-17."
+venueEn: "APSIPA Annual Summit and Conference, pp. 859-866, Biopolis, Singapore, 2010-12-17."
 ---

@@ -13,7 +13,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2025-05-29"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. 125, No. 38, pp. EMM2025-7, 長崎大学 文教キャンパス, 2025-05-29."
+venueJa: "電子情報通信学会 高機能マルチメディア研究会, Vol. 125, No. 38, pp. EMM2025-7, 長崎大学 文教キャンパス, 2025-05-29."
+venueEn: "Technical Report of IEICE, Vol. 125, No. 38, pp. EMM2025-7, 長崎大学 文教キャンパス, 2025-05-29."
 url: "https://ken.ieice.org/ken/paper/20250529YcKB/eng/"
 webpage: "https://ken.ieice.org/ken/paper/20250529YcKB/eng/"
 ---

@@ -10,7 +10,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2004-03-01"
 type: "journal"
-venue: "IEICE Trans. Fundamentals, Vol. E87-A, No. 3, pp. 674-681, 2004-03-01."
+venueJa: "IEICE Trans. Fundamentals, Vol. E87-A, No. 3, pp. 674-681, 2004-03-01."
+venueEn: "IEICE Trans. Fundamentals, Vol. E87-A, No. 3, pp. 674-681, 2004-03-01."
 url: "http://search.ieice.org/bin/summary.php?id=e87-a_3_674&category=A&year=2004&lang=E&abst="
 webpage: "http://search.ieice.org/bin/summary.php?id=e87-a_3_674&category=A&year=2004&lang=E&abst="
 ---

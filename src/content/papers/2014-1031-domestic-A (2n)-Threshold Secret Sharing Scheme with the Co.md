@@ -11,5 +11,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2014-01-24"
 type: "domestic"
-venue: "IEICE Symposium on Cryptography and Information Security, pp. 4D2-1, 鹿児島県鹿児島市, 2014-01-24."
+venueJa: "電子情報通信学会 暗号と情報セキュリティシンポジウム, pp. 4D2-1, 鹿児島県鹿児島市, 2014-01-24."
+venueEn: "IEICE Symposium on Cryptography and Information Security, pp. 4D2-1, 鹿児島県鹿児島市, 2014-01-24."
 ---

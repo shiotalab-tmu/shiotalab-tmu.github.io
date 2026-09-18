@@ -10,7 +10,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2015-09-16"
 type: "journal"
-venue: "LNCS, Y. -S. Ho, J. Sang, Y. M. Ro, J. Kim, and F. Wu, Eds. Springer-Verlag, Vol. 9314, pp. 321-333, 2015-09-16."
+venueJa: "LNCS, Y. -S. Ho, J. Sang, Y. M. Ro, J. Kim, and F. Wu, Eds. Springer-Verlag, Vol. 9314, pp. 321-333, 2015-09-16."
+venueEn: "LNCS, Y. -S. Ho, J. Sang, Y. M. Ro, J. Kim, and F. Wu, Eds. Springer-Verlag, Vol. 9314, pp. 321-333, 2015-09-16."
 url: "https://doi.org/10.1007/978-3-319-24075-6_31"
 doi: "https://doi.org/10.1007/978-3-319-24075-6_31"
 ---

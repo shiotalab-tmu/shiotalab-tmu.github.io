@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2022-10-18"
 type: "international"
-venue: "IEEE Global Conference on Consumer Electronics, Osaka, Japan, 2022-10-18."
+venueJa: "IEEE Global Conference on Consumer Electronics, Osaka, Japan, 2022-10-18."
+venueEn: "IEEE Global Conference on Consumer Electronics, Osaka, Japan, 2022-10-18."
 ---

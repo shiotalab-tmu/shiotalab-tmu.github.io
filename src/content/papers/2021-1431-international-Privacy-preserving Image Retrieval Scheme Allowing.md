@@ -8,7 +8,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2021-03-09"
 type: "international"
-venue: "IEEE Global Conference on Life Sciences and Technologies, pp. 37-39, Nara, Japan, 2021-03-09."
+venueJa: "IEEE Global Conference on Life Sciences and Technologies, pp. 37-39, Nara, Japan, 2021-03-09."
+venueEn: "IEEE Global Conference on Life Sciences and Technologies, pp. 37-39, Nara, Japan, 2021-03-09."
 url: "https://ieeexplore.ieee.org/document/9391868"
 webpage: "https://ieeexplore.ieee.org/document/9391868"
 ---

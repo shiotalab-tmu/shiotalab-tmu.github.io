@@ -12,5 +12,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1992-10-01"
 type: "domestic"
-venue: "Joint Conference of Electrical and Electronics Engineers in Kyushu, 1992-10-01."
+venueJa: "電気関係学会 九州支部連合大会, 1992-10-01."
+venueEn: "Joint Conference of Electrical and Electronics Engineers in Kyushu, 1992-10-01."
 ---

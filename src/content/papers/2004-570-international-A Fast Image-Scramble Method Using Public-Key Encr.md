@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2004-10-27"
 type: "international"
-venue: "IEEE International Conference on Image Processing, pp. WP-P7.6, Singapore, 2004-10-27."
+venueJa: "IEEE International Conference on Image Processing, pp. WP-P7.6, Singapore, 2004-10-27."
+venueEn: "IEEE International Conference on Image Processing, pp. WP-P7.6, Singapore, 2004-10-27."
 ---

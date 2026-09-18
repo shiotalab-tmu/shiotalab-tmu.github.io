@@ -9,7 +9,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2020-06-04"
 type: "domestic"
-venue: "Technical Report of IEICE, オンライン開催, 2020-06-04."
+venueJa: "電子情報通信学会 スマートインフォメディアシステム研究会, オンライン開催, 2020-06-04."
+venueEn: "Technical Report of IEICE, オンライン開催, 2020-06-04."
 url: "https://www.ieice.org/ken/paper/20200604I1Yl/eng/"
 webpage: "https://www.ieice.org/ken/paper/20200604I1Yl/eng/"
 ---

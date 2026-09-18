@@ -13,5 +13,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1995-08-01"
 type: "domestic"
-venue: "Technical Report of IEICE, pp. FTS95-35, 1995-08-01."
+venueJa: "電子情報通信学会 フォルトトレラントシステム研究会, pp. FTS95-35, 1995-08-01."
+venueEn: "Technical Report of IEICE, pp. FTS95-35, 1995-08-01."
 ---

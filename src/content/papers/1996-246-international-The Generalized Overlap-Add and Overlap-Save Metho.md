@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1996-10-01"
 type: "international"
-venue: "IEEE International Conference on Signal Processing, 1996-10-01."
+venueJa: "IEEE International Conference on Signal Processing, 1996-10-01."
+venueEn: "IEEE International Conference on Signal Processing, 1996-10-01."
 ---

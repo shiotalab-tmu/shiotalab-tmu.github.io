@@ -11,7 +11,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2016-05-21"
 type: "domestic"
-venue: "IPSJ Music and computer Symposium, pp. MUS2016-05, 東京都港区, 2016-05-21."
+venueJa: "情報処理学会音楽情報科学研究会 音学シンポジウム, pp. MUS2016-05, 東京都港区, 2016-05-21."
+venueEn: "IPSJ Music and computer Symposium, pp. MUS2016-05, 東京都港区, 2016-05-21."
 url: "https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=160413&item_no=1"
 webpage: "https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=160413&item_no=1"
 ---

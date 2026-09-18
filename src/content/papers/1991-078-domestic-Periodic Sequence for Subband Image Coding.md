@@ -11,5 +11,6 @@ authorsEn:
   - "Masahiro IWAHASHI"
 date: "1991-09-01"
 type: "domestic"
-venue: "Autumn Conf. of IEICE, pp. D-128, 1991-09-01."
+venueJa: "電子情報通信学会 秋季全国大会, pp. D-128, 1991-09-01."
+venueEn: "Autumn Conf. of IEICE, pp. D-128, 1991-09-01."
 ---

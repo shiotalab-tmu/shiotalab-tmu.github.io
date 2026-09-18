@@ -15,7 +15,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-02-16"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. 117, No. 432, pp. IE2017-114, 北海道大学, 2018-02-16."
+venueJa: "電子情報通信学会 画像工学研究会, Vol. 117, No. 432, pp. IE2017-114, 北海道大学, 2018-02-16."
+venueEn: "Technical Report of IEICE, Vol. 117, No. 432, pp. IE2017-114, 北海道大学, 2018-02-16."
 url: "http://www.ieice.org/ken/paper/20180216p11P/eng/"
 webpage: "http://www.ieice.org/ken/paper/20180216p11P/eng/"
 ---

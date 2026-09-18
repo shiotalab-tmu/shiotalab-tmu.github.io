@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2002-09-01"
 type: "international"
-venue: "EURASIP European Signal Processing Conference, pp. 308, Toulouse, France, 2002-09-01."
+venueJa: "EURASIP European Signal Processing Conference, pp. 308, Toulouse, France, 2002-09-01."
+venueEn: "EURASIP European Signal Processing Conference, pp. 308, Toulouse, France, 2002-09-01."
 ---

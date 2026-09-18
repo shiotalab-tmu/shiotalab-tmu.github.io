@@ -11,5 +11,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2000-09-01"
 type: "domestic"
-venue: "Society Conference of IEICE, pp. A-4-14, 名古屋工業大学, 2000-09-01."
+venueJa: "電子情報通信学会 ソサイエティ大会, pp. A-4-14, 名古屋工業大学, 2000-09-01."
+venueEn: "Society Conference of IEICE, pp. A-4-14, 名古屋工業大学, 2000-09-01."
 ---

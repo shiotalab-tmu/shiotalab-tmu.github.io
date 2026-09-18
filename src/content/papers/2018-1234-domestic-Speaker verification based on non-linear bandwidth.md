@@ -11,7 +11,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-03-19"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. 117, No. 517, pp. SP2017-93, 2018-03-19."
+venueJa: "電子情報通信学会 音声研究会, Vol. 117, No. 517, pp. SP2017-93, 2018-03-19."
+venueEn: "Technical Report of IEICE, Vol. 117, No. 517, pp. SP2017-93, 2018-03-19."
 url: "http://www.ieice.org/ken/paper/20180319t12q/eng/"
 webpage: "http://www.ieice.org/ken/paper/20180319t12q/eng/"
 ---

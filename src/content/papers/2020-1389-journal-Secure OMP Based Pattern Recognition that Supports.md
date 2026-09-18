@@ -8,7 +8,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2020-04-01"
 type: "journal"
-venue: "Signal & Image Processing: An International Journal, Vol. 11, No. 2, pp. 23-39, 2020-04-01."
+venueJa: "Signal & Image Processing: An International Journal, Vol. 11, No. 2, pp. 23-39, 2020-04-01."
+venueEn: "Signal & Image Processing: An International Journal, Vol. 11, No. 2, pp. 23-39, 2020-04-01."
 url: "https://aircconline.com/sipij/V11N2/11220sipij02.pdf"
 publish: "https://aircconline.com/sipij/V11N2/11220sipij02.pdf"
 ---

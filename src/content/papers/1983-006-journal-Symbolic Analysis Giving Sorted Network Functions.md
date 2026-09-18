@@ -9,7 +9,8 @@ authorsEn:
   - "Masahiko SAGAWA"
 date: "1983-05-01"
 type: "journal"
-venue: "IECE Trans., Vol. J66-A, No. 5, pp. 424-431, 1983-05-01."
+venueJa: "電子通信学会 論文誌, Vol. J66-A, No. 5, pp. 424-431, 1983-05-01."
+venueEn: "IECE Trans., Vol. J66-A, No. 5, pp. 424-431, 1983-05-01."
 url: "http://search.ieice.org/bin/summary.php?id=j66-a_5_424&category=A&year=1983&lang=E&abst=j"
 webpage: "http://search.ieice.org/bin/summary.php?id=j66-a_5_424&category=A&year=1983&lang=E&abst=j"
 ---

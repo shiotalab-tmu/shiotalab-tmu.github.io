@@ -11,5 +11,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2003-03-01"
 type: "domestic"
-venue: "General Conference of IEICE, Vol. 基礎・境界, pp. A-4-3, 宮城県仙台市, 2003-03-01."
+venueJa: "電子情報通信学会 総合大会, Vol. 基礎・境界, pp. A-4-3, 宮城県仙台市, 2003-03-01."
+venueEn: "General Conference of IEICE, Vol. 基礎・境界, pp. A-4-3, 宮城県仙台市, 2003-03-01."
 ---

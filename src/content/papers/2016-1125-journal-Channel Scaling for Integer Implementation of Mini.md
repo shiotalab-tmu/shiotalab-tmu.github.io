@@ -12,5 +12,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2016-07-01"
 type: "journal"
-venue: "IEICE Trans. Fundamentals, Vol. E.99-A, No. 7, 2016-07-01."
+venueJa: "IEICE Trans. Fundamentals, Vol. E.99-A, No. 7, 2016-07-01."
+venueEn: "IEICE Trans. Fundamentals, Vol. E.99-A, No. 7, 2016-07-01."
 ---

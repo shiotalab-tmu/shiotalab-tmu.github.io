@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2017-07-11"
 type: "international"
-venue: "IEEE International Conference on Multimedia and Expo, Hong Kong, China, 2017-07-11."
+venueJa: "IEEE International Conference on Multimedia and Expo, Hong Kong, China, 2017-07-11."
+venueEn: "IEEE International Conference on Multimedia and Expo, Hong Kong, China, 2017-07-11."
 ---

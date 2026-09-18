@@ -13,7 +13,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2017-06-29"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. 117, No. 113, pp. IE2017-26, 沖縄県那覇市, 2017-06-29."
+venueJa: "電子情報通信学会 画像工学研究会, Vol. 117, No. 113, pp. IE2017-26, 沖縄県那覇市, 2017-06-29."
+venueEn: "Technical Report of IEICE, Vol. 117, No. 113, pp. IE2017-26, 沖縄県那覇市, 2017-06-29."
 url: "http://www.ieice.org/ken/paper/201706293bUx/eng/"
 webpage: "http://www.ieice.org/ken/paper/201706293bUx/eng/"
 ---

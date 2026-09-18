@@ -11,7 +11,8 @@ authorsEn:
   - "Naohiro TAWARA"
 date: "2026-01-19"
 type: "domestic"
-venue: "IEICE Symposium on Cryptography and Information Security, pp. 1-6, 函館アリーナ, 2026-01-19."
+venueJa: "電子情報通信学会 暗号と情報セキュリティシンポジウム, pp. 1-6, 函館アリーナ, 2026-01-19."
+venueEn: "IEICE Symposium on Cryptography and Information Security, pp. 1-6, 函館アリーナ, 2026-01-19."
 url: "https://www.iwsec.org/scis/2026/index.html"
 webpage: "https://www.iwsec.org/scis/2026/index.html"
 ---

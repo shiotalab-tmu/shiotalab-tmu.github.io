@@ -10,7 +10,8 @@ authorsEn:
   - "Masahiro IWAHASHI"
 date: "1993-04-01"
 type: "journal"
-venue: "IEICE Trans. Fundamentals, Vol. E76-A, No. 4, pp. 620-625, 1993-04-01."
+venueJa: "IEICE Trans. Fundamentals, Vol. E76-A, No. 4, pp. 620-625, 1993-04-01."
+venueEn: "IEICE Trans. Fundamentals, Vol. E76-A, No. 4, pp. 620-625, 1993-04-01."
 url: "http://search.ieice.org/bin/summary.php?id=e76-a_4_620&category=A&year=1993&lang=E&abst="
 webpage: "http://search.ieice.org/bin/summary.php?id=e76-a_4_620&category=A&year=1993&lang=E&abst="
 ---

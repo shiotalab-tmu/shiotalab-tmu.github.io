@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1992-10-01"
 type: "international"
-venue: "International Symposium on Time-Frequency and Time-Scale Analysis, 1992-10-01."
+venueJa: "International Symposium on Time-Frequency and Time-Scale Analysis, 1992-10-01."
+venueEn: "International Symposium on Time-Frequency and Time-Scale Analysis, 1992-10-01."
 ---

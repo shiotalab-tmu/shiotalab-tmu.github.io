@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2006-09-26"
 type: "international"
-venue: "IEEE Digital Signal Processing Workshop, pp. T5-8, Wyoming, US, 2006-09-26."
+venueJa: "IEEE Digital Signal Processing Workshop, pp. T5-8, Wyoming, US, 2006-09-26."
+venueEn: "IEEE Digital Signal Processing Workshop, pp. T5-8, Wyoming, US, 2006-09-26."
 ---

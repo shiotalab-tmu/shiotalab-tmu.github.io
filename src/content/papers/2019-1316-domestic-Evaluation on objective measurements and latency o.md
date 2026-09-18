@@ -11,5 +11,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2019-03-06"
 type: "domestic"
-venue: "Acoustical Society of Japan Spring Meeting, pp. 2-P-25, 2019-03-06."
+venueJa: "日本音響学会春季大会, pp. 2-P-25, 2019-03-06."
+venueEn: "Acoustical Society of Japan Spring Meeting, pp. 2-P-25, 2019-03-06."
 ---

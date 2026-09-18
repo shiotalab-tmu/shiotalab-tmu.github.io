@@ -12,7 +12,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2022-04-01"
 type: "journal"
-venue: "APSIPA Trans. Signal and Information Processing, Vol. 11, No.1, e4, 2022-04-01."
+venueJa: "APSIPA Trans. Signal and Information Processing, Vol. 11, No.1, e4, 2022-04-01."
+venueEn: "APSIPA Trans. Signal and Information Processing, Vol. 11, No.1, e4, 2022-04-01."
 url: "https://www.nowpublishers.com/article/Details/SIP-2021-0045"
 webpage: "https://www.nowpublishers.com/article/Details/SIP-2021-0045"
 ---

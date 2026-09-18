@@ -11,5 +11,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2006-04-25"
 type: "domestic"
-venue: "IEICE Workshop on Circuits and Systems in Karuizawa, pp. Bd2-3-2, 長野県北佐久郡軽井沢町, 2006-04-25."
+venueJa: "電子情報通信学会 回路とシステム軽井沢ワークショップ, pp. Bd2-3-2, 長野県北佐久郡軽井沢町, 2006-04-25."
+venueEn: "IEICE Workshop on Circuits and Systems in Karuizawa, pp. Bd2-3-2, 長野県北佐久郡軽井沢町, 2006-04-25."
 ---

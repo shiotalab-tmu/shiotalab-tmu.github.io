@@ -9,7 +9,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-06-07"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. IEICE-118, pp. 73, 北海道札幌市, 2018-06-07."
+venueJa: "電子情報通信学会 スマートインフォメディアシステム研究会, Vol. IEICE-118, pp. 73, 北海道札幌市, 2018-06-07."
+venueEn: "Technical Report of IEICE, Vol. IEICE-118, pp. 73, 北海道札幌市, 2018-06-07."
 url: "https://www.ieice.org/ken/paper/20180607b1eb/eng/"
 webpage: "https://www.ieice.org/ken/paper/20180607b1eb/eng/"
 ---

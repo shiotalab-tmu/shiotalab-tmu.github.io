@@ -11,5 +11,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2008-06-26"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. 108, No. 108, pp. SIP2008-42, 札幌市北区, 2008-06-26."
+venueJa: "電子情報通信学会 信号処理研究会, Vol. 108, No. 108, pp. SIP2008-42, 札幌市北区, 2008-06-26."
+venueEn: "Technical Report of IEICE, Vol. 108, No. 108, pp. SIP2008-42, 札幌市北区, 2008-06-26."
 ---

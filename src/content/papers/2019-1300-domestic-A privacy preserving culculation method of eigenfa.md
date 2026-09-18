@@ -9,7 +9,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2019-03-13"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. 118, No. 494, pp. EMM2018-91, 沖縄, 2019-03-13."
+venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, Vol. 118, No. 494, pp. EMM2018-91, 沖縄, 2019-03-13."
+venueEn: "Technical Report of IEICE, Vol. 118, No. 494, pp. EMM2018-91, 沖縄, 2019-03-13."
 url: "https://www.ieice.org/ken/paper/2019031351Kf/eng/"
 webpage: "https://www.ieice.org/ken/paper/2019031351Kf/eng/"
 ---

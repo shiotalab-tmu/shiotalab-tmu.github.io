@@ -11,5 +11,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2019-06-23"
 type: "domestic"
-venue: "IPSJ Special Interest Groups Spoken Language Processing, Vol. 2019-SLP-127, No. 59, pp. 1-4, 2019-06-23."
+venueJa: "情報処理学会 音声言語情報処理研究会, Vol. 2019-SLP-127, No. 59, pp. 1-4, 2019-06-23."
+venueEn: "IPSJ Special Interest Groups Spoken Language Processing, Vol. 2019-SLP-127, No. 59, pp. 1-4, 2019-06-23."
 ---

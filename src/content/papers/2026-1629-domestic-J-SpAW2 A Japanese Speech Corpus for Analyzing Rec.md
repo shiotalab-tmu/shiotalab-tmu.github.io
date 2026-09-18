@@ -11,7 +11,8 @@ authorsEn:
   - "Sayaka SHIOTA"
 date: "2026-03-03"
 type: "domestic"
-venue: "Speech Committee, 沖縄県青年会館, 2026-03-03."
+venueJa: "電子情報通信学会 音声研究会, 沖縄県青年会館, 2026-03-03."
+venueEn: "Speech Committee, 沖縄県青年会館, 2026-03-03."
 url: "https://ken.ieice.org/ken/paper/20260303TcTC/"
 webpage: "https://ken.ieice.org/ken/paper/20260303TcTC/"
 ---

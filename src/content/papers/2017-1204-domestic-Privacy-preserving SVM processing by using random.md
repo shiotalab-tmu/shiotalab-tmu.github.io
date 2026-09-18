@@ -13,5 +13,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2017-09-04"
 type: "domestic"
-venue: "Technical Report of IEICE, Vol. IEICE-117 , No. 200, pp. 13-18, 2017-09-04."
+venueJa: "電子情報通信学会 画像工学研究会, Vol. IEICE-117 , No. 200, pp. 13-18, 2017-09-04."
+venueEn: "Technical Report of IEICE, Vol. IEICE-117 , No. 200, pp. 13-18, 2017-09-04."
 ---

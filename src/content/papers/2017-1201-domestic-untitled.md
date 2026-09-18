@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2017-12-14"
 type: "domestic"
-venue: "2017-12-14."
+venueJa: "2017-12-14."
+venueEn: "2017-12-14."
 ---

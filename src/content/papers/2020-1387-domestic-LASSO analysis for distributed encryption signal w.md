@@ -11,5 +11,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2020-03-06"
 type: "domestic"
-venue: "Technical Report of IEICE, 沖縄県石垣市, 2020-03-06."
+venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, 沖縄県石垣市, 2020-03-06."
+venueEn: "Technical Report of IEICE, 沖縄県石垣市, 2020-03-06."
 ---

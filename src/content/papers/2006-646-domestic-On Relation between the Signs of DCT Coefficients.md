@@ -9,5 +9,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2006-09-01"
 type: "domestic"
-venue: "ITE Technical Report, Vol. 30, No. 42, pp. ME2006-163, 群馬県利根郡みなかみ町, 2006-09-01."
+venueJa: "映像情報メディア学会 メディア工学研究会, Vol. 30, No. 42, pp. ME2006-163, 群馬県利根郡みなかみ町, 2006-09-01."
+venueEn: "ITE Technical Report, Vol. 30, No. 42, pp. ME2006-163, 群馬県利根郡みなかみ町, 2006-09-01."
 ---

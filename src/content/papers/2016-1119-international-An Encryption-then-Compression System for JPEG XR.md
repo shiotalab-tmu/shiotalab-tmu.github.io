@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2016-06-02"
 type: "international"
-venue: "IEEE International Symposium on Broadband Multimedia Systems and Broadcasting, Nara, Japan, 2016-06-02."
+venueJa: "IEEE International Symposium on Broadband Multimedia Systems and Broadcasting, Nara, Japan, 2016-06-02."
+venueEn: "IEEE International Symposium on Broadband Multimedia Systems and Broadcasting, Nara, Japan, 2016-06-02."
 ---

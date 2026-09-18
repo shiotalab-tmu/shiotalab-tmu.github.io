@@ -10,7 +10,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2011-03-31"
 type: "international"
-venue: "AACE Global Learn Asia Pacific, pp. 33177, Melbourne, Australia, 2011-03-31."
+venueJa: "AACE Global Learn Asia Pacific, pp. 33177, Melbourne, Australia, 2011-03-31."
+venueEn: "AACE Global Learn Asia Pacific, pp. 33177, Melbourne, Australia, 2011-03-31."
 url: "http://www.aace.org/conf/glearn/sessions/index.cfm/fuseaction/PaperDetails?presentation_id=51424"
 webpage: "http://www.aace.org/conf/glearn/sessions/index.cfm/fuseaction/PaperDetails?presentation_id=51424"
 ---

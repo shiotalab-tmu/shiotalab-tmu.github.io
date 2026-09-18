@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2013-09-18"
 type: "international"
-venue: "IEEE International Conference on Image Processing, pp. WA.L4.6, Melbourne, VIC, Australia, 2013-09-18."
+venueJa: "IEEE International Conference on Image Processing, pp. WA.L4.6, Melbourne, VIC, Australia, 2013-09-18."
+venueEn: "IEEE International Conference on Image Processing, pp. WA.L4.6, Melbourne, VIC, Australia, 2013-09-18."
 ---

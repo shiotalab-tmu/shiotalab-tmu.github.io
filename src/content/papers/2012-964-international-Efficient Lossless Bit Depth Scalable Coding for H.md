@@ -8,5 +8,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2012-12-06"
 type: "international"
-venue: "APSIPA Annual Summit and Conference, pp. OS.49-IVM.17-5, Los Angeles, CA, the U.S., 2012-12-06."
+venueJa: "APSIPA Annual Summit and Conference, pp. OS.49-IVM.17-5, Los Angeles, CA, the U.S., 2012-12-06."
+venueEn: "APSIPA Annual Summit and Conference, pp. OS.49-IVM.17-5, Los Angeles, CA, the U.S., 2012-12-06."
 ---

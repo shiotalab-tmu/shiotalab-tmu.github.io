@@ -11,7 +11,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1996-01-01"
 type: "journal"
-venue: "IEICE Trans., Vol. J79-A, No. 1, pp. 125-134, 1996-01-01."
+venueJa: "電子情報通信学会 論文誌, Vol. J79-A, No. 1, pp. 125-134, 1996-01-01."
+venueEn: "IEICE Trans., Vol. J79-A, No. 1, pp. 125-134, 1996-01-01."
 url: "http://search.ieice.org/bin/summary.php?id=j79-a_1_125&category=A&year=1996&lang=E&abst=j"
 webpage: "http://search.ieice.org/bin/summary.php?id=j79-a_1_125&category=A&year=1996&lang=E&abst=j"
 ---

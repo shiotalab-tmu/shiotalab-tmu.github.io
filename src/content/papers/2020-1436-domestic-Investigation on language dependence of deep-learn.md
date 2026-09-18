@@ -11,7 +11,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2020-12-03"
 type: "domestic"
-venue: "IPSJ Special Interest Groups Spoken Language Processing, Vol. 134, No. 33, pp. 1-5, オンライン, 2020-12-03."
+venueJa: "情報処理学会 音声言語情報処理研究会, Vol. 134, No. 33, pp. 1-5, オンライン, 2020-12-03."
+venueEn: "IPSJ Special Interest Groups Spoken Language Processing, Vol. 134, No. 33, pp. 1-5, オンライン, 2020-12-03."
 url: "https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=208182&item_no=1&page_id=4328&block_id=19"
 webpage: "https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=208182&item_no=1&page_id=4328&block_id=19"
 ---

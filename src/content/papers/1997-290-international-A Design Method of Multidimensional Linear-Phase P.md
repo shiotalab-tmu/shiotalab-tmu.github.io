@@ -10,5 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1997-12-01"
 type: "international"
-venue: "IEEE Region 10 Conference, 1997-12-01."
+venueJa: "IEEE Region 10 Conference, 1997-12-01."
+venueEn: "IEEE Region 10 Conference, 1997-12-01."
 ---
