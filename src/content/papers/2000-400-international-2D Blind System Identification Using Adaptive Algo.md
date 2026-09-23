@@ -10,6 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2000-09-01"
 type: "international"
-venueJa: "IEEE Region 10 Conference, Vol. II, pp. 77-80, Kuala Lumpur, Malaysia, 2000-09-01."
-venueEn: "IEEE Region 10 Conference, Vol. II, pp. 77-80, Kuala Lumpur, Malaysia, 2000-09-01."
+venueJa: "IEEE Region 10 Conference, Vol. II, pp. 77-80, 2000-09-01."
+venueEn: "IEEE Region 10 Conference, Vol. II, pp. 77-80, 2000-09-01."
+place: "Kuala Lumpur, Malaysia"
 ---

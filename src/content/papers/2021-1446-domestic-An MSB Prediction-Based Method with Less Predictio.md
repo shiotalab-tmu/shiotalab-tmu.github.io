@@ -11,8 +11,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2021-05-21"
 type: "domestic"
-venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, Vol. IEICE-121, No. 29, pp. 72-77, オンライン開催, 2021-05-21."
-venueEn: "Technical Report of IEICE, Vol. IEICE-121, No. 29, pp. 72-77, オンライン開催, 2021-05-21."
+venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, Vol. IEICE-121, No. 29, pp. 72-77, 2021-05-21."
+venueEn: "Technical Report of IEICE, Vol. IEICE-121, No. 29, pp. 72-77, 2021-05-21."
+place: "オンライン開催"
 url: "https://www.ieice.org/ken/paper/20210521QC3L/eng/"
 webpage: "https://www.ieice.org/ken/paper/20210521QC3L/eng/"
 ---

@@ -10,6 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2023-03-01"
 type: "international"
-venueJa: "RISP International Workshop on Nonlinear Circuits, Communications and Signal Processing, Hawaii, 2023-03-01."
-venueEn: "RISP International Workshop on Nonlinear Circuits, Communications and Signal Processing, Hawaii, 2023-03-01."
+venueJa: "RISP International Workshop on Nonlinear Circuits, Communications and Signal Processing, 2023-03-01."
+venueEn: "RISP International Workshop on Nonlinear Circuits, Communications and Signal Processing, 2023-03-01."
+place: "Hawaii"
 ---

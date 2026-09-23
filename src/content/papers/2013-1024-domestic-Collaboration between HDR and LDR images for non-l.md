@@ -11,8 +11,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2013-12-10"
 type: "domestic"
-venueJa: "映像情報メディア学会 メディア工学研究会, Vol. 37, No. 56, pp. ME2013-130, 福井県あわら市, 2013-12-10."
-venueEn: "ITE Technical Report, Vol. 37, No. 56, pp. ME2013-130, 福井県あわら市, 2013-12-10."
+venueJa: "映像情報メディア学会 メディア工学研究会, Vol. 37, No. 56, pp. ME2013-130, 2013-12-10."
+venueEn: "ITE Technical Report, Vol. 37, No. 56, pp. ME2013-130, 2013-12-10."
+place: "福井県あわら市"
 url: "http://www.ite.or.jp/ken/paper/20131210uAdZ/eng/"
 webpage: "http://www.ite.or.jp/ken/paper/20131210uAdZ/eng/"
 ---

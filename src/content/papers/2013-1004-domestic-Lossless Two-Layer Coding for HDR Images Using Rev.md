@@ -13,6 +13,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2013-10-05"
 type: "domestic"
-venueJa: "電子通信学会 信越支部大会, pp. 6C-4, 新潟県長岡市, 2013-10-05."
-venueEn: "IECE Shin'etsu Branch Conference, pp. 6C-4, 新潟県長岡市, 2013-10-05."
+venueJa: "電子通信学会 信越支部大会, pp. 6C-4, 2013-10-05."
+venueEn: "IECE Shin'etsu Branch Conference, pp. 6C-4, 2013-10-05."
+place: "新潟県長岡市"
 ---

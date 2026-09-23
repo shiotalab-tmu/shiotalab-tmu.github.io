@@ -10,6 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2012-03-27"
 type: "international"
-venueJa: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. IVMSP-P2.8, Kyoto, Japan, 2012-03-27."
-venueEn: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. IVMSP-P2.8, Kyoto, Japan, 2012-03-27."
+venueJa: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. IVMSP-P2.8, 2012-03-27."
+venueEn: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. IVMSP-P2.8, 2012-03-27."
+place: "Kyoto, Japan"
 ---

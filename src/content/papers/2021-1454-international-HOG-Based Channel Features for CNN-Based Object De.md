@@ -10,6 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2021-09-22"
 type: "international"
-venueJa: "International Workshop on Smart Info-Media Systems in Asia, pp. 89-84, Virtual, 2021-09-22."
-venueEn: "International Workshop on Smart Info-Media Systems in Asia, pp. 89-84, Virtual, 2021-09-22."
+venueJa: "International Workshop on Smart Info-Media Systems in Asia, pp. 89-84, 2021-09-22."
+venueEn: "International Workshop on Smart Info-Media Systems in Asia, pp. 89-84, 2021-09-22."
+place: "Virtual"
 ---

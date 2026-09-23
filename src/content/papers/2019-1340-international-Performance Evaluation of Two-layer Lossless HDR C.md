@@ -8,6 +8,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2019-10-15"
 type: "international"
-venueJa: "IEEE Global Conference on Consumer Electronics, Osaka, Japan, 2019-10-15."
-venueEn: "IEEE Global Conference on Consumer Electronics, Osaka, Japan, 2019-10-15."
+venueJa: "IEEE Global Conference on Consumer Electronics, 2019-10-15."
+venueEn: "IEEE Global Conference on Consumer Electronics, 2019-10-15."
+place: "Osaka, Japan"
 ---

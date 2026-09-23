@@ -11,6 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2000-06-01"
 type: "domestic"
-venueJa: "電子情報通信学会 ディジタル信号処理研究会, Vol. DSP2000-25, pp. 25-32, 九州大学、福岡, 2000-06-01."
-venueEn: "Technical Report of IEICE, Vol. DSP2000-25, pp. 25-32, 九州大学、福岡, 2000-06-01."
+venueJa: "電子情報通信学会 ディジタル信号処理研究会, Vol. DSP2000-25, pp. 25-32, 2000-06-01."
+venueEn: "Technical Report of IEICE, Vol. DSP2000-25, pp. 25-32, 2000-06-01."
+place: "九州大学、福岡"
 ---

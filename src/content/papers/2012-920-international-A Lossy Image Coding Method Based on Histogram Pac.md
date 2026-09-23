@@ -10,6 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2012-01-09"
 type: "international"
-venueJa: "International Workshop on Advanced Image Technology, pp. 1-2, Ho Chi Minh City, Vietnam, 2012-01-09."
-venueEn: "International Workshop on Advanced Image Technology, pp. 1-2, Ho Chi Minh City, Vietnam, 2012-01-09."
+venueJa: "International Workshop on Advanced Image Technology, pp. 1-2, 2012-01-09."
+venueEn: "International Workshop on Advanced Image Technology, pp. 1-2, 2012-01-09."
+place: "Ho Chi Minh City, Vietnam"
 ---

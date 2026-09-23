@@ -9,6 +9,7 @@ authorsEn:
   - "Kiyoshi NISHIKAWA"
 date: "2003-04-28"
 type: "domestic"
-venueJa: "電子情報通信学会 回路とシステム(軽井沢)ワークショップ, pp. Bd2-1-3, 長野県北佐久郡軽井沢町, 2003-04-28."
-venueEn: "IEICE Workshop on Circuits and Systems in Karuizawa, pp. Bd2-1-3, 長野県北佐久郡軽井沢町, 2003-04-28."
+venueJa: "電子情報通信学会 回路とシステム(軽井沢)ワークショップ, pp. Bd2-1-3, 2003-04-28."
+venueEn: "IEICE Workshop on Circuits and Systems in Karuizawa, pp. Bd2-1-3, 2003-04-28."
+place: "長野県北佐久郡軽井沢町"
 ---

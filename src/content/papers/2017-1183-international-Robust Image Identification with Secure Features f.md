@@ -8,6 +8,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2017-09-20"
 type: "international"
-venueJa: "IEEE International Conference on Image Processing, pp. 4342-4346, Beijing, China, 2017-09-20."
-venueEn: "IEEE International Conference on Image Processing, pp. 4342-4346, Beijing, China, 2017-09-20."
+venueJa: "IEEE International Conference on Image Processing, pp. 4342-4346, 2017-09-20."
+venueEn: "IEEE International Conference on Image Processing, pp. 4342-4346, 2017-09-20."
+place: "Beijing, China"
 ---

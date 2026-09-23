@@ -12,6 +12,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2012-11-20"
 type: "international"
-venueJa: "IARIA International Conference on Systems and Networks Communications, pp. ICSNC4-1, Lisbon, Portugal, 2012-11-20."
-venueEn: "IARIA International Conference on Systems and Networks Communications, pp. ICSNC4-1, Lisbon, Portugal, 2012-11-20."
+venueJa: "IARIA International Conference on Systems and Networks Communications, pp. ICSNC4-1, 2012-11-20."
+venueEn: "IARIA International Conference on Systems and Networks Communications, pp. ICSNC4-1, 2012-11-20."
+place: "Lisbon, Portugal"
 ---

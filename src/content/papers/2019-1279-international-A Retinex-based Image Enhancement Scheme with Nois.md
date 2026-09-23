@@ -12,6 +12,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2019-01-08"
 type: "international"
-venueJa: "International Workshop on Advanced Image Technology, Nanyang Technological University, Singapore, 2019-01-08."
-venueEn: "International Workshop on Advanced Image Technology, Nanyang Technological University, Singapore, 2019-01-08."
+venueJa: "International Workshop on Advanced Image Technology, 2019-01-08."
+venueEn: "International Workshop on Advanced Image Technology, 2019-01-08."
+place: "Nanyang Technological University, Singapore"
 ---

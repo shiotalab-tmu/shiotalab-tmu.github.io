@@ -8,6 +8,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2010-09-28"
 type: "international"
-venueJa: "IEEE International Conference on Image Processing, pp. TP-PD.10, Hong Kong, 2010-09-28."
-venueEn: "IEEE International Conference on Image Processing, pp. TP-PD.10, Hong Kong, 2010-09-28."
+venueJa: "IEEE International Conference on Image Processing, pp. TP-PD.10, 2010-09-28."
+venueEn: "IEEE International Conference on Image Processing, pp. TP-PD.10, 2010-09-28."
+place: "Hong Kong"
 ---

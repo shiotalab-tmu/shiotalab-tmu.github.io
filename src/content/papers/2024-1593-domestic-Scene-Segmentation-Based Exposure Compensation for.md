@@ -9,6 +9,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2024-12-18"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理シンポジウム, 北海道大学, 2024-12-18."
-venueEn: "IEICE Signal Processing Symposium, 北海道大学, 2024-12-18."
+venueJa: "電子情報通信学会 信号処理シンポジウム, 2024-12-18."
+venueEn: "IEICE Signal Processing Symposium, 2024-12-18."
+place: "北海道大学"
 ---

@@ -13,6 +13,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2008-09-12"
 type: "domestic"
-venueJa: "情報理論とその応用学会/IEEE LDPC符号ワークショップ, 沖縄県宜野湾市, 2008-09-12."
-venueEn: "SITA/IEEE LDPC Codes Workshop, 沖縄県宜野湾市, 2008-09-12."
+venueJa: "情報理論とその応用学会/IEEE LDPC符号ワークショップ, 2008-09-12."
+venueEn: "SITA/IEEE LDPC Codes Workshop, 2008-09-12."
+place: "沖縄県宜野湾市"
 ---

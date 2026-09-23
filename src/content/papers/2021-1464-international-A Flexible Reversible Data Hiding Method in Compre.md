@@ -10,8 +10,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2021-12-14"
 type: "international"
-venueJa: "APSIPA Annual Summit and Conference, pp. 1794-1799, Tokyo, Japan, 2021-12-14."
-venueEn: "APSIPA Annual Summit and Conference, pp. 1794-1799, Tokyo, Japan, 2021-12-14."
+venueJa: "APSIPA Annual Summit and Conference, pp. 1794-1799, 2021-12-14."
+venueEn: "APSIPA Annual Summit and Conference, pp. 1794-1799, 2021-12-14."
+place: "Tokyo, Japan"
 url: "https://ieeexplore.ieee.org/document/9689620"
 webpage: "https://ieeexplore.ieee.org/document/9689620"
 ---

@@ -12,6 +12,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2017-12-13"
 type: "international"
-venueJa: "APSIPA Annual Summit and Conference, pp. 263-269, Kuala Lumpur, Malaysia, 2017-12-13."
-venueEn: "APSIPA Annual Summit and Conference, pp. 263-269, Kuala Lumpur, Malaysia, 2017-12-13."
+venueJa: "APSIPA Annual Summit and Conference, pp. 263-269, 2017-12-13."
+venueEn: "APSIPA Annual Summit and Conference, pp. 263-269, 2017-12-13."
+place: "Kuala Lumpur, Malaysia"
 ---

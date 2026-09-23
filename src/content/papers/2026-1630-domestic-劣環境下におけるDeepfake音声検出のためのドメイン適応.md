@@ -14,6 +14,7 @@ authorsEn:
   - "Sayaka SHIOTA"
 date: "2026-03-02"
 type: "domestic"
-venueJa: "情報処理学会 音声言語情報処理研究会, 沖縄県青年会館, 2026-03-02."
-venueEn: "IPSJ Special Interest Groups Spoken Language Processing, 沖縄県青年会館, 2026-03-02."
+venueJa: "情報処理学会 音声言語情報処理研究会, 2026-03-02."
+venueEn: "IPSJ Special Interest Groups Spoken Language Processing, 2026-03-02."
+place: "沖縄県青年会館"
 ---

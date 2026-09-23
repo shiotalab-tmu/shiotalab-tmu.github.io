@@ -10,8 +10,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-09-03"
 type: "international"
-venueJa: "EURASIP European Signal Processing Conference, Rome, Italy, 2018-09-03."
-venueEn: "EURASIP European Signal Processing Conference, Rome, Italy, 2018-09-03."
+venueJa: "EURASIP European Signal Processing Conference, 2018-09-03."
+venueEn: "EURASIP European Signal Processing Conference, 2018-09-03."
+place: "Rome, Italy"
 url: "http://www.eusipco2018.org/"
 webpage: "http://www.eusipco2018.org/"
 ---

@@ -15,6 +15,7 @@ authorsEn:
   - "Shinji WATANABE"
 date: "2022-03-17"
 type: "domestic"
-venueJa: "言語処理学会年次大会, オンライン, 2022-03-17."
-venueEn: "NLP2022, オンライン, 2022-03-17."
+venueJa: "言語処理学会年次大会, 2022-03-17."
+venueEn: "NLP2022, 2022-03-17."
+place: "オンライン"
 ---

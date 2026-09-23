@@ -12,8 +12,9 @@ authorsEn:
   - "Isao ECHIZEN"
 date: "2024-10-27"
 type: "international"
-venueJa: "IEEE International Conference on Image Processing, pp. 3910-3916, Abu Dhabi, United Arab Emirates, 2024-10-27."
-venueEn: "IEEE International Conference on Image Processing, pp. 3910-3916, Abu Dhabi, United Arab Emirates, 2024-10-27."
+venueJa: "IEEE International Conference on Image Processing, pp. 3910-3916, 2024-10-27."
+venueEn: "IEEE International Conference on Image Processing, pp. 3910-3916, 2024-10-27."
+place: "Abu Dhabi, United Arab Emirates"
 url: "https://doi.org/10.1109/ICIP51287.2024.10647627"
 doi: "https://doi.org/10.1109/ICIP51287.2024.10647627"
 ---

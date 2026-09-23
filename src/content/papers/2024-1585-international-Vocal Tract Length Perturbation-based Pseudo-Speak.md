@@ -8,6 +8,7 @@ authorsEn:
   - "Sayaka SHIOTA"
 date: "2024-12-06"
 type: "international"
-venueJa: "APSIPA Annual Summit and Conference, Macau, China, 2024-12-06."
-venueEn: "APSIPA Annual Summit and Conference, Macau, China, 2024-12-06."
+venueJa: "APSIPA Annual Summit and Conference, 2024-12-06."
+venueEn: "APSIPA Annual Summit and Conference, 2024-12-06."
+place: "Macau, China"
 ---

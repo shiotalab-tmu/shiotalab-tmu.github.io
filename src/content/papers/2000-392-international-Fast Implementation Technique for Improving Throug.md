@@ -8,6 +8,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2000-06-01"
 type: "international"
-venueJa: "IEEE International Conference on Acoustics, Speech and Signal Processing, Istanbul, Turkey, 2000-06-01."
-venueEn: "IEEE International Conference on Acoustics, Speech and Signal Processing, Istanbul, Turkey, 2000-06-01."
+venueJa: "IEEE International Conference on Acoustics, Speech and Signal Processing, 2000-06-01."
+venueEn: "IEEE International Conference on Acoustics, Speech and Signal Processing, 2000-06-01."
+place: "Istanbul, Turkey"
 ---

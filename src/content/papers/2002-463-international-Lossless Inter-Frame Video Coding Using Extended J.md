@@ -10,6 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2002-07-01"
 type: "international"
-venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, Phuket, Thailand, 2002-07-01."
-venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, Phuket, Thailand, 2002-07-01."
+venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, 2002-07-01."
+venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, 2002-07-01."
+place: "Phuket, Thailand"
 ---

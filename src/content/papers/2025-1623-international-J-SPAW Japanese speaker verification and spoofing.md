@@ -12,8 +12,9 @@ authorsEn:
   - "Shinnosuke Takamichi"
 date: "2025-08-20"
 type: "international"
-venueJa: "ISCA International Conference on Interspeech, pp. 3913-3917, ロッテルダム, 2025-08-20."
-venueEn: "ISCA International Conference on Interspeech, pp. 3913-3917, ロッテルダム, 2025-08-20."
+venueJa: "ISCA International Conference on Interspeech, pp. 3913-3917, 2025-08-20."
+venueEn: "ISCA International Conference on Interspeech, pp. 3913-3917, 2025-08-20."
+place: "ロッテルダム"
 url: "https://www.isca-archive.org/interspeech_2025/shiota25_interspeech.html"
 webpage: "https://www.isca-archive.org/interspeech_2025/shiota25_interspeech.html"
 ---

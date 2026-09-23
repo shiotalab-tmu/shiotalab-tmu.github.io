@@ -9,8 +9,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2010-02-15"
 type: "domestic"
-venueJa: "映像情報メディア学会 メディア工学研究会, Vol. 34, No. 6, pp. ME2010-16, 札幌市北区, 2010-02-15."
-venueEn: "ITE Technical Report, Vol. 34, No. 6, pp. ME2010-16, 札幌市北区, 2010-02-15."
+venueJa: "映像情報メディア学会 メディア工学研究会, Vol. 34, No. 6, pp. ME2010-16, 2010-02-15."
+venueEn: "ITE Technical Report, Vol. 34, No. 6, pp. ME2010-16, 2010-02-15."
+place: "札幌市北区"
 url: "http://www.ieice.org/ken/paper/20100215Cau9/eng/"
 webpage: "http://www.ieice.org/ken/paper/20100215Cau9/eng/"
 ---

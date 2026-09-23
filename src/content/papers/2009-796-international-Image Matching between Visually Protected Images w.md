@@ -8,8 +8,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2009-08-27"
 type: "international"
-venueJa: "EURASIP European Signal Processing Conference, pp. IM5-4, Glasgow, Scotland, 2009-08-27."
-venueEn: "EURASIP European Signal Processing Conference, pp. IM5-4, Glasgow, Scotland, 2009-08-27."
+venueJa: "EURASIP European Signal Processing Conference, pp. IM5-4, 2009-08-27."
+venueEn: "EURASIP European Signal Processing Conference, pp. IM5-4, 2009-08-27."
+place: "Glasgow, Scotland"
 url: "http://www.eurasip.org/Proceedings/Eusipco/Eusipco2009/contents/papers/1569190854.pdf"
 publish: "http://www.eurasip.org/Proceedings/Eusipco/Eusipco2009/contents/papers/1569190854.pdf"
 ---

@@ -10,8 +10,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2020-05-05"
 type: "international"
-venueJa: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. 2123-2127, Barcelona, Spain, 2020-05-05."
-venueEn: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. 2123-2127, Barcelona, Spain, 2020-05-05."
+venueJa: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. 2123-2127, 2020-05-05."
+venueEn: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. 2123-2127, 2020-05-05."
+place: "Barcelona, Spain"
 url: "https://ieeexplore.ieee.org/abstract/document/9053229"
 webpage: "https://ieeexplore.ieee.org/abstract/document/9053229"
 ---

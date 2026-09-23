@@ -11,6 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2012-11-29"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理シンポジウム, pp. A7-22, 沖縄県石垣市, 2012-11-29."
-venueEn: "IEICE Signal Processing Symposium, pp. A7-22, 沖縄県石垣市, 2012-11-29."
+venueJa: "電子情報通信学会 信号処理シンポジウム, pp. A7-22, 2012-11-29."
+venueEn: "IEICE Signal Processing Symposium, pp. A7-22, 2012-11-29."
+place: "沖縄県石垣市"
 ---

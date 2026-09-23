@@ -12,6 +12,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2013-07-03"
 type: "international"
-venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. WE2-4, Yeosu, Korea, 2013-07-03."
-venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. WE2-4, Yeosu, Korea, 2013-07-03."
+venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. WE2-4, 2013-07-03."
+venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. WE2-4, 2013-07-03."
+place: "Yeosu, Korea"
 ---

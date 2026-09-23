@@ -10,6 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2017-06-13"
 type: "international"
-venueJa: "The Scandinavian Conference on Image Analysis, pp. 562-573, Tromsø, Norway, 2017-06-13."
-venueEn: "The Scandinavian Conference on Image Analysis, pp. 562-573, Tromsø, Norway, 2017-06-13."
+venueJa: "The Scandinavian Conference on Image Analysis, pp. 562-573, 2017-06-13."
+venueEn: "The Scandinavian Conference on Image Analysis, pp. 562-573, 2017-06-13."
+place: "Tromsø, Norway"
 ---

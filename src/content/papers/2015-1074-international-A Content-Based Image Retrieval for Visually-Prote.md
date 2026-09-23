@@ -12,8 +12,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2015-04-23"
 type: "international"
-venueJa: "Asia Pacific Conference on Multimedia and Broadcasting, pp. 1-6, Bali, Indonesia, 2015-04-23."
-venueEn: "Asia Pacific Conference on Multimedia and Broadcasting, pp. 1-6, Bali, Indonesia, 2015-04-23."
+venueJa: "Asia Pacific Conference on Multimedia and Broadcasting, pp. 1-6, 2015-04-23."
+venueEn: "Asia Pacific Conference on Multimedia and Broadcasting, pp. 1-6, 2015-04-23."
+place: "Bali, Indonesia"
 url: "http://apmediacast.org/"
 webpage: "http://apmediacast.org/"
 ---

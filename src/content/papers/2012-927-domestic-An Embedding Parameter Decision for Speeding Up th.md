@@ -11,8 +11,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2012-02-18"
 type: "domestic"
-venueJa: "映像情報メディア学会 メディア工学研究会, Vol. 36, No. 8, pp. ME2012-10, 横浜市中区, 2012-02-18."
-venueEn: "ITE Technical Report, Vol. 36, No. 8, pp. ME2012-10, 横浜市中区, 2012-02-18."
+venueJa: "映像情報メディア学会 メディア工学研究会, Vol. 36, No. 8, pp. ME2012-10, 2012-02-18."
+venueEn: "ITE Technical Report, Vol. 36, No. 8, pp. ME2012-10, 2012-02-18."
+place: "横浜市中区"
 url: "http://www.ite.or.jp/ken/paper/20120218ZACu/eng/"
 webpage: "http://www.ite.or.jp/ken/paper/20120218ZACu/eng/"
 ---

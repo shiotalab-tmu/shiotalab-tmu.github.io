@@ -11,8 +11,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2017-03-15"
 type: "domestic"
-venueJa: "日本音響学会春季大会, pp. 1-Q-19, 明治大学生田キャンパス, 2017-03-15."
-venueEn: "Acoustical Society of Japan Spring Meeting, pp. 1-Q-19, 明治大学生田キャンパス, 2017-03-15."
+venueJa: "日本音響学会春季大会, pp. 1-Q-19, 2017-03-15."
+venueEn: "Acoustical Society of Japan Spring Meeting, pp. 1-Q-19, 2017-03-15."
+place: "明治大学生田キャンパス"
 url: "http://www.asj.gr.jp/annualmeeting/2017spring_youryou.html"
 webpage: "http://www.asj.gr.jp/annualmeeting/2017spring_youryou.html"
 ---

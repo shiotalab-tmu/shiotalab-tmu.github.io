@@ -10,6 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1999-12-01"
 type: "international"
-venueJa: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, Phuket, Thailand, 1999-12-01."
-venueEn: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, Phuket, Thailand, 1999-12-01."
+venueJa: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, 1999-12-01."
+venueEn: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, 1999-12-01."
+place: "Phuket, Thailand"
 ---

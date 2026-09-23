@@ -9,6 +9,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2003-08-29"
 type: "domestic"
-venueJa: "映像情報メディア学会 年次大会, pp. 2月14日, 新宿，日本, 2003-08-29."
-venueEn: "ITE Annual Meeting, pp. 2月14日, 新宿，日本, 2003-08-29."
+venueJa: "映像情報メディア学会 年次大会, pp. 2月14日, 2003-08-29."
+venueEn: "ITE Annual Meeting, pp. 2月14日, 2003-08-29."
+place: "新宿，日本"
 ---

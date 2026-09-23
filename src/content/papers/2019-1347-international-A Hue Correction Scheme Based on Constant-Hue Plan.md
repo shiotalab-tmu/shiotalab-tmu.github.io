@@ -8,6 +8,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2019-11-19"
 type: "international"
-venueJa: "APSIPA Annual Summit and Conference, pp. 802-806, Lanzhou, China, 2019-11-19."
-venueEn: "APSIPA Annual Summit and Conference, pp. 802-806, Lanzhou, China, 2019-11-19."
+venueJa: "APSIPA Annual Summit and Conference, pp. 802-806, 2019-11-19."
+venueEn: "APSIPA Annual Summit and Conference, pp. 802-806, 2019-11-19."
+place: "Lanzhou, China"
 ---

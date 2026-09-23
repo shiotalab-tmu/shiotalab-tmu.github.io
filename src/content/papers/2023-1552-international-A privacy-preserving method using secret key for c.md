@@ -10,8 +10,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2023-09-05"
 type: "international"
-venueJa: "EURASIP European Signal Processing Conference, Helsinki, Finland, 2023-09-05."
-venueEn: "EURASIP European Signal Processing Conference, Helsinki, Finland, 2023-09-05."
+venueJa: "EURASIP European Signal Processing Conference, 2023-09-05."
+venueEn: "EURASIP European Signal Processing Conference, 2023-09-05."
+place: "Helsinki, Finland"
 url: "https://ieeexplore.ieee.org/document/10289898"
 webpage: "https://ieeexplore.ieee.org/document/10289898"
 ---

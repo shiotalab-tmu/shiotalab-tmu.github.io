@@ -8,6 +8,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-06-14"
 type: "international"
-venueJa: "International Conference on Communications, Bucharest, Romania, 2018-06-14."
-venueEn: "International Conference on Communications, Bucharest, Romania, 2018-06-14."
+venueJa: "International Conference on Communications, 2018-06-14."
+venueEn: "International Conference on Communications, 2018-06-14."
+place: "Bucharest, Romania"
 ---

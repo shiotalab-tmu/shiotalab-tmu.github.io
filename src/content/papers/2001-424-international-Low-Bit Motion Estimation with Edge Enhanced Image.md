@@ -10,6 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2001-05-01"
 type: "international"
-venueJa: "IEEE International Symposium on Circuits and Systems, pp. T16-MRm4-O1, Sydney, Australia, 2001-05-01."
-venueEn: "IEEE International Symposium on Circuits and Systems, pp. T16-MRm4-O1, Sydney, Australia, 2001-05-01."
+venueJa: "IEEE International Symposium on Circuits and Systems, pp. T16-MRm4-O1, 2001-05-01."
+venueEn: "IEEE International Symposium on Circuits and Systems, pp. T16-MRm4-O1, 2001-05-01."
+place: "Sydney, Australia"
 ---

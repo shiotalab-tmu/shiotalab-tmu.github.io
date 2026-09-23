@@ -10,6 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2017-11-09"
 type: "international"
-venueJa: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, pp. 634-639, Xiamen, China, 2017-11-09."
-venueEn: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, pp. 634-639, Xiamen, China, 2017-11-09."
+venueJa: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, pp. 634-639, 2017-11-09."
+venueEn: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, pp. 634-639, 2017-11-09."
+place: "Xiamen, China"
 ---

@@ -9,6 +9,7 @@ authorsEn:
   - "Kiyoshi NISHIKAWA"
 date: "2009-03-17"
 type: "domestic"
-venueJa: "電子情報通信学会 総合大会, Vol. ESS, pp. A-4-17, 愛媛県松山市, 2009-03-17."
-venueEn: "General Conference of IEICE, Vol. ESS, pp. A-4-17, 愛媛県松山市, 2009-03-17."
+venueJa: "電子情報通信学会 総合大会, Vol. ESS, pp. A-4-17, 2009-03-17."
+venueEn: "General Conference of IEICE, Vol. ESS, pp. A-4-17, 2009-03-17."
+place: "愛媛県松山市"
 ---

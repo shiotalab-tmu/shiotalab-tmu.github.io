@@ -13,8 +13,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2026-03-03"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理研究会, Vol. 125, No. 370, pp. 213-217, 沖縄県青年会館, 2026-03-03."
-venueEn: "Technical Report of IEICE, Vol. 125, No. 370, pp. 213-217, 沖縄県青年会館, 2026-03-03."
+venueJa: "電子情報通信学会 信号処理研究会, Vol. 125, No. 370, pp. 213-217, 2026-03-03."
+venueEn: "Technical Report of IEICE, Vol. 125, No. 370, pp. 213-217, 2026-03-03."
+place: "沖縄県青年会館"
 url: "https://ken.ieice.org/ken/paper/202603030csG/eng/"
 webpage: "https://ken.ieice.org/ken/paper/202603030csG/eng/"
 ---

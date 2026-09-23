@@ -11,8 +11,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2022-05-19"
 type: "domestic"
-venueJa: "電子情報通信学会 画像工学研究会, Vol. 122, No. 30, pp. IEICE-IE2022-5, 熊本大学工学部黒髪キャンパス南地区, 2022-05-19."
-venueEn: "Technical Report of IEICE, Vol. 122, No. 30, pp. IEICE-IE2022-5, 熊本大学工学部黒髪キャンパス南地区, 2022-05-19."
+venueJa: "電子情報通信学会 画像工学研究会, Vol. 122, No. 30, pp. IEICE-IE2022-5, 2022-05-19."
+venueEn: "Technical Report of IEICE, Vol. 122, No. 30, pp. IEICE-IE2022-5, 2022-05-19."
+place: "熊本大学工学部黒髪キャンパス南地区"
 url: "https://www.ieice.org/ken/paper/20220519SCK2/"
 webpage: "https://www.ieice.org/ken/paper/20220519SCK2/"
 ---

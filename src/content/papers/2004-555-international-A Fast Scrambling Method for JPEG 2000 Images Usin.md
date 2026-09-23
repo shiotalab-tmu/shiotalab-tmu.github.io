@@ -10,6 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2004-07-07"
 type: "international"
-venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. 7F3P-51, Matsushima, Japan, 2004-07-07."
-venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. 7F3P-51, Matsushima, Japan, 2004-07-07."
+venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. 7F3P-51, 2004-07-07."
+venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. 7F3P-51, 2004-07-07."
+place: "Matsushima, Japan"
 ---

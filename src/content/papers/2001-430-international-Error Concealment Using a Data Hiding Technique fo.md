@@ -8,6 +8,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2001-08-01"
 type: "international"
-venueJa: "European Conference on Circuit Theory and Design, Vol. 3, pp. 81-84, Espoo, Finland, 2001-08-01."
-venueEn: "European Conference on Circuit Theory and Design, Vol. 3, pp. 81-84, Espoo, Finland, 2001-08-01."
+venueJa: "European Conference on Circuit Theory and Design, Vol. 3, pp. 81-84, 2001-08-01."
+venueEn: "European Conference on Circuit Theory and Design, Vol. 3, pp. 81-84, 2001-08-01."
+place: "Espoo, Finland"
 ---

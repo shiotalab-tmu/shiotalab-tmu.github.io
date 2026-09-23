@@ -12,6 +12,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2009-07-07"
 type: "international"
-venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. S34-E6.2, Jeju, Korea, 2009-07-07."
-venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. S34-E6.2, Jeju, Korea, 2009-07-07."
+venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. S34-E6.2, 2009-07-07."
+venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. S34-E6.2, 2009-07-07."
+place: "Jeju, Korea"
 ---

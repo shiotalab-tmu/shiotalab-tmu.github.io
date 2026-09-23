@@ -8,8 +8,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2020-03-21"
 type: "international"
-venueJa: "International Conference on Signal, Image Processing and Pattern Recognition, Vol. 10, No. 2, Vienna, Austria, 2020-03-21."
-venueEn: "International Conference on Signal, Image Processing and Pattern Recognition, Vol. 10, No. 2, Vienna, Austria, 2020-03-21."
+venueJa: "International Conference on Signal, Image Processing and Pattern Recognition, Vol. 10, No. 2, 2020-03-21."
+venueEn: "International Conference on Signal, Image Processing and Pattern Recognition, Vol. 10, No. 2, 2020-03-21."
+place: "Vienna, Austria"
 url: "https://www.csitcp.org/paper/10/102csit01.pdf"
 publish: "https://www.csitcp.org/paper/10/102csit01.pdf"
 ---

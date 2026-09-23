@@ -10,6 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2000-09-01"
 type: "international"
-venueJa: "IEEE International Conference on Image Processing, pp. MP03.01, Vancouver, Canada, 2000-09-01."
-venueEn: "IEEE International Conference on Image Processing, pp. MP03.01, Vancouver, Canada, 2000-09-01."
+venueJa: "IEEE International Conference on Image Processing, pp. MP03.01, 2000-09-01."
+venueEn: "IEEE International Conference on Image Processing, pp. MP03.01, 2000-09-01."
+place: "Vancouver, Canada"
 ---

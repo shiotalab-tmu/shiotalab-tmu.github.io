@@ -16,8 +16,9 @@ authorsEn:
   - "Tomoko MATSUI"
 date: "2015-09-07"
 type: "international"
-venueJa: "ISCA International Conference on Interspeech, pp. 239-243, Dresden, 2015-09-07."
-venueEn: "ISCA International Conference on Interspeech, pp. 239-243, Dresden, 2015-09-07."
+venueJa: "ISCA International Conference on Interspeech, pp. 239-243, 2015-09-07."
+venueEn: "ISCA International Conference on Interspeech, pp. 239-243, 2015-09-07."
+place: "Dresden"
 url: "http://interspeech2015.org"
 webpage: "http://interspeech2015.org"
 ---

@@ -10,6 +10,7 @@ authorsEn:
   - "Felix ALBU"
 date: "2013-10-30"
 type: "international"
-venueJa: "APSIPA Annual Summit and Conference, pp. OS.16-SIPTM.2-4, Kaohsiung, Taiwan, R.O.C., 2013-10-30."
-venueEn: "APSIPA Annual Summit and Conference, pp. OS.16-SIPTM.2-4, Kaohsiung, Taiwan, R.O.C., 2013-10-30."
+venueJa: "APSIPA Annual Summit and Conference, pp. OS.16-SIPTM.2-4, 2013-10-30."
+venueEn: "APSIPA Annual Summit and Conference, pp. OS.16-SIPTM.2-4, 2013-10-30."
+place: "Kaohsiung, Taiwan, R.O.C."
 ---

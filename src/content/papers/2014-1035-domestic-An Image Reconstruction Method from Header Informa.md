@@ -11,8 +11,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2014-03-21"
 type: "domestic"
-venueJa: "電子情報通信学会 総合大会, Vol. ESS, pp. A-4-26, 新潟西区, 2014-03-21."
-venueEn: "General Conference of IEICE, Vol. ESS, pp. A-4-26, 新潟西区, 2014-03-21."
+venueJa: "電子情報通信学会 総合大会, Vol. ESS, pp. A-4-26, 2014-03-21."
+venueEn: "General Conference of IEICE, Vol. ESS, pp. A-4-26, 2014-03-21."
+place: "新潟西区"
 url: "http://www.gakkai-web.net/gakkai/ieice/G_2014/Settings/ab/a_04_026.html"
 webpage: "http://www.gakkai-web.net/gakkai/ieice/G_2014/Settings/ab/a_04_026.html"
 ---

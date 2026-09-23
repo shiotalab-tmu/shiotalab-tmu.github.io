@@ -9,8 +9,9 @@ authorsEn:
   - "Sayaka SHIOTA"
 date: "2025-03-04"
 type: "domestic"
-venueJa: "電子情報通信学会 音声研究会, Vol. 124, No. 391, pp. SP2024-71, 沖縄県青年会館, 2025-03-04."
-venueEn: "Speech Committee, Vol. 124, No. 391, pp. SP2024-71, 沖縄県青年会館, 2025-03-04."
+venueJa: "電子情報通信学会 音声研究会, Vol. 124, No. 391, pp. SP2024-71, 2025-03-04."
+venueEn: "Speech Committee, Vol. 124, No. 391, pp. SP2024-71, 2025-03-04."
+place: "沖縄県青年会館"
 url: "https://ken.ieice.org/ken/paper/20250304Yciv/"
 webpage: "https://ken.ieice.org/ken/paper/20250304Yciv/"
 ---

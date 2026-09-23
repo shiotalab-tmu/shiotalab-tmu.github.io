@@ -11,8 +11,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2016-06-16"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理研究会, Vol. IEICE-116 , No. 95, pp. SIP2016-47, 青森県弘前市, 2016-06-16."
-venueEn: "Technical Report of IEICE, Vol. IEICE-116 , No. 95, pp. SIP2016-47, 青森県弘前市, 2016-06-16."
+venueJa: "電子情報通信学会 信号処理研究会, Vol. IEICE-116 , No. 95, pp. SIP2016-47, 2016-06-16."
+venueEn: "Technical Report of IEICE, Vol. IEICE-116 , No. 95, pp. SIP2016-47, 2016-06-16."
+place: "青森県弘前市"
 url: "http://www.ieice.org/ken/paper/201606161b8m/eng/"
 webpage: "http://www.ieice.org/ken/paper/201606161b8m/eng/"
 ---

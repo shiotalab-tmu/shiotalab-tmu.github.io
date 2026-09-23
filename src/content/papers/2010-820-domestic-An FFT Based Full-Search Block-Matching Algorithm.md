@@ -11,8 +11,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2010-01-21"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理研究会, Vol. 109, No. 368, pp. SIP2009-85, 福岡市西区, 2010-01-21."
-venueEn: "Technical Report of IEICE, Vol. 109, No. 368, pp. SIP2009-85, 福岡市西区, 2010-01-21."
+venueJa: "電子情報通信学会 信号処理研究会, Vol. 109, No. 368, pp. SIP2009-85, 2010-01-21."
+venueEn: "Technical Report of IEICE, Vol. 109, No. 368, pp. SIP2009-85, 2010-01-21."
+place: "福岡市西区"
 url: "http://www.ieice.org/ken/paper/20100121caUm/eng/"
 webpage: "http://www.ieice.org/ken/paper/20100121caUm/eng/"
 ---

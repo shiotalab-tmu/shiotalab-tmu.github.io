@@ -11,6 +11,7 @@ authorsEn:
   - "Kiyoshi NISHIKAWA"
 date: "2011-03-15"
 type: "domestic"
-venueJa: "電子情報通信学会 総合大会, Vol. ESS, pp. A-4-22, 東京都世田谷区, 2011-03-15."
-venueEn: "General Conference of IEICE, Vol. ESS, pp. A-4-22, 東京都世田谷区, 2011-03-15."
+venueJa: "電子情報通信学会 総合大会, Vol. ESS, pp. A-4-22, 2011-03-15."
+venueEn: "General Conference of IEICE, Vol. ESS, pp. A-4-22, 2011-03-15."
+place: "東京都世田谷区"
 ---

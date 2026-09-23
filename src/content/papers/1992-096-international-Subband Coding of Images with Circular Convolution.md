@@ -10,6 +10,7 @@ authorsEn:
   - "Kiyoshi NISHIKAWA"
 date: "1992-05-01"
 type: "international"
-venueJa: "IEEE International Symposium on Circuits and Systems, pp. 1356-1359, San Diego, CA, the U.S., 1992-05-01."
-venueEn: "IEEE International Symposium on Circuits and Systems, pp. 1356-1359, San Diego, CA, the U.S., 1992-05-01."
+venueJa: "IEEE International Symposium on Circuits and Systems, pp. 1356-1359, 1992-05-01."
+venueEn: "IEEE International Symposium on Circuits and Systems, pp. 1356-1359, 1992-05-01."
+place: "San Diego, CA, the U.S."
 ---

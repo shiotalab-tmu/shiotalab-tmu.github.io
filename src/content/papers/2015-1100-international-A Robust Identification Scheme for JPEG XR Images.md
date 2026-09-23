@@ -10,6 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2015-11-23"
 type: "international"
-venueJa: "Pacific Rim Symposium on Image and Video Technology, Auckland, New Zealand, 2015-11-23."
-venueEn: "Pacific Rim Symposium on Image and Video Technology, Auckland, New Zealand, 2015-11-23."
+venueJa: "Pacific Rim Symposium on Image and Video Technology, 2015-11-23."
+venueEn: "Pacific Rim Symposium on Image and Video Technology, 2015-11-23."
+place: "Auckland, New Zealand"
 ---

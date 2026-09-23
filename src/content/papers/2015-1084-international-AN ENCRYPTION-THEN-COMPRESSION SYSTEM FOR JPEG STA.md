@@ -10,6 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2015-06-02"
 type: "international"
-venueJa: "Picture Coding Symposium, pp. 119-123, Cairns, Australia, 2015-06-02."
-venueEn: "Picture Coding Symposium, pp. 119-123, Cairns, Australia, 2015-06-02."
+venueJa: "Picture Coding Symposium, pp. 119-123, 2015-06-02."
+venueEn: "Picture Coding Symposium, pp. 119-123, 2015-06-02."
+place: "Cairns, Australia"
 ---

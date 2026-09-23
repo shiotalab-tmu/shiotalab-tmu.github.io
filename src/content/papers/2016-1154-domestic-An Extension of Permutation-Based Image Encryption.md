@@ -11,6 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2016-11-17"
 type: "domestic"
-venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, Vol. 116, No. 303, pp. EMM2016-61, 大分県, 2016-11-17."
-venueEn: "Technical Report of IEICE, Vol. 116, No. 303, pp. EMM2016-61, 大分県, 2016-11-17."
+venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, Vol. 116, No. 303, pp. EMM2016-61, 2016-11-17."
+venueEn: "Technical Report of IEICE, Vol. 116, No. 303, pp. EMM2016-61, 2016-11-17."
+place: "大分県"
 ---

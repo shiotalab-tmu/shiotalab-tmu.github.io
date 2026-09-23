@@ -11,6 +11,7 @@ authorsEn:
   - "Noriyoshi KAMBAYASHI"
 date: "2003-12-18"
 type: "domestic"
-venueJa: "電子情報通信学会 応用音響研究会, pp. EA2003-119, 岩手県岩手郡雫石町, 2003-12-18."
-venueEn: "Technical Report of IEICE, pp. EA2003-119, 岩手県岩手郡雫石町, 2003-12-18."
+venueJa: "電子情報通信学会 応用音響研究会, pp. EA2003-119, 2003-12-18."
+venueEn: "Technical Report of IEICE, pp. EA2003-119, 2003-12-18."
+place: "岩手県岩手郡雫石町"
 ---

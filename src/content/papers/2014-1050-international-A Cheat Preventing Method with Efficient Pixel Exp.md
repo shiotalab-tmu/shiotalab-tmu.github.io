@@ -10,6 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2014-10-30"
 type: "international"
-venueJa: "IEEE International Conference on Image Processing, pp. IFS-P2.9, Paris, France, 2014-10-30."
-venueEn: "IEEE International Conference on Image Processing, pp. IFS-P2.9, Paris, France, 2014-10-30."
+venueJa: "IEEE International Conference on Image Processing, pp. IFS-P2.9, 2014-10-30."
+venueEn: "IEEE International Conference on Image Processing, pp. IFS-P2.9, 2014-10-30."
+place: "Paris, France"
 ---

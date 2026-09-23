@@ -13,8 +13,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-10-25"
 type: "domestic"
-venueJa: "電子情報通信学会 スマートインフォメディアシステム研究会, 京都市左京区, 2018-10-25."
-venueEn: "Technical Report of IEICE, 京都市左京区, 2018-10-25."
+venueJa: "電子情報通信学会 スマートインフォメディアシステム研究会, 2018-10-25."
+venueEn: "Technical Report of IEICE, 2018-10-25."
+place: "京都市左京区"
 url: "https://www.ieice.org/ken/paper/20181025O1gB/eng/"
 webpage: "https://www.ieice.org/ken/paper/20181025O1gB/eng/"
 ---

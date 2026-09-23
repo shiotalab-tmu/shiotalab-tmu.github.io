@@ -11,6 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2002-09-01"
 type: "domestic"
-venueJa: "情報科学技術フォーラム, pp. J-45, 東京都目黒区, 2002-09-01."
-venueEn: "Forum on Information Technology, pp. J-45, 東京都目黒区, 2002-09-01."
+venueJa: "情報科学技術フォーラム, pp. J-45, 2002-09-01."
+venueEn: "Forum on Information Technology, pp. J-45, 2002-09-01."
+place: "東京都目黒区"
 ---

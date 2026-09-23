@@ -11,6 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2010-09-17"
 type: "domestic"
-venueJa: "電子情報通信学会 ソサイエティ大会, Vol. ESS, pp. A-7-10, 大阪府堺市, 2010-09-17."
-venueEn: "Society Conference of IEICE, Vol. ESS, pp. A-7-10, 大阪府堺市, 2010-09-17."
+venueJa: "電子情報通信学会 ソサイエティ大会, Vol. ESS, pp. A-7-10, 2010-09-17."
+venueEn: "Society Conference of IEICE, Vol. ESS, pp. A-7-10, 2010-09-17."
+place: "大阪府堺市"
 ---

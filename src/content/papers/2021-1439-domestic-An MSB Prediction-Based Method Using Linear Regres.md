@@ -13,8 +13,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2021-03-05"
 type: "domestic"
-venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, Vol. IEICE-120, No. 418, pp. 46-51, オンライン, 2021-03-05."
-venueEn: "Technical Report of IEICE, Vol. IEICE-120, No. 418, pp. 46-51, オンライン, 2021-03-05."
+venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, Vol. IEICE-120, No. 418, pp. 46-51, 2021-03-05."
+venueEn: "Technical Report of IEICE, Vol. IEICE-120, No. 418, pp. 46-51, 2021-03-05."
+place: "オンライン"
 url: "https://www.ieice.org/ken/paper/202103053C2K/eng/"
 webpage: "https://www.ieice.org/ken/paper/202103053C2K/eng/"
 ---

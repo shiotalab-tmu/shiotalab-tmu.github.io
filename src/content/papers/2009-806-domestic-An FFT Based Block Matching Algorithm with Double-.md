@@ -9,8 +9,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2009-10-15"
 type: "domestic"
-venueJa: "電子情報通信学会 画像工学研究会, Vol. 109, No. 227, pp. IE2009-89, 福井県あわら市, 2009-10-15."
-venueEn: "Technical Report of IEICE, Vol. 109, No. 227, pp. IE2009-89, 福井県あわら市, 2009-10-15."
+venueJa: "電子情報通信学会 画像工学研究会, Vol. 109, No. 227, pp. IE2009-89, 2009-10-15."
+venueEn: "Technical Report of IEICE, Vol. 109, No. 227, pp. IE2009-89, 2009-10-15."
+place: "福井県あわら市"
 url: "http://www.ieice.org/ken/paper/20091015tapm/eng/"
 webpage: "http://www.ieice.org/ken/paper/20091015tapm/eng/"
 ---

@@ -12,8 +12,9 @@ authorsEn:
   - "Shinnosuke Takamichi"
 date: "2026-06-26"
 type: "international"
-venueJa: "The Speaker and Language Recognition Workshop Odyssey, Lisbon, 2026-06-26."
-venueEn: "The Speaker and Language Recognition Workshop Odyssey, Lisbon, 2026-06-26."
+venueJa: "The Speaker and Language Recognition Workshop Odyssey, 2026-06-26."
+venueEn: "The Speaker and Language Recognition Workshop Odyssey, 2026-06-26."
+place: "Lisbon"
 url: "https://www.isca-archive.org/odyssey_2026/shiota26_odyssey.pdf"
 publish: "https://www.isca-archive.org/odyssey_2026/shiota26_odyssey.pdf"
 ---
