@@ -127,7 +127,9 @@ const menuItems = lang === 'ja' ? [
 
   .menu-toggle {
     display: none;
-    flex-direction: column;
+    position: relative;
+    width: 35px;
+    height: 35px;
     background: none;
     border: none;
     cursor: pointer;
@@ -135,16 +137,27 @@ const menuItems = lang === 'ja' ? [
   }
 
   .menu-toggle span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
     width: 25px;
     height: 3px;
     background: var(--primary-color);
-    margin: 3px 0;
-    transition: 0.3s;
+    transform: translate(-50%, -50%);
+    transition: transform 0.3s, opacity 0.3s;
     border-radius: 2px;
   }
 
+  .menu-toggle span:nth-child(1) {
+    transform: translate(-50%, calc(-50% - 9px));
+  }
+
+  .menu-toggle span:nth-child(3) {
+    transform: translate(-50%, calc(-50% + 9px));
+  }
+
   .menu-toggle.active span:nth-child(1) {
-    transform: rotate(-45deg) translate(-5px, 6px);
+    transform: translate(-50%, -50%) rotate(-45deg);
   }
 
   .menu-toggle.active span:nth-child(2) {
@@ -152,7 +165,7 @@ const menuItems = lang === 'ja' ? [
   }
 
   .menu-toggle.active span:nth-child(3) {
-    transform: rotate(45deg) translate(-5px, -6px);
+    transform: translate(-50%, -50%) rotate(45deg);
   }
 
   .lang-switcher a {
