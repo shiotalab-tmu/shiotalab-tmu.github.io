@@ -6,7 +6,7 @@ import { getCollection } from 'astro:content';
 import { paperTitle, paperAuthors, paperVenue } from '../utils/paperTitle';
 import { paperYear } from '../utils/paperDate';
 
-// /papers（デフォルトルート）で表示する年度（手動で書き換える）
+// /papers（デフォルトルート）で表示する年度（手動で書き換える）→書き換えたら英語ページも更新する
 const PAPERS_DEFAULT_YEAR = 2026;
 
 const allPapers = await getCollection('papers');
