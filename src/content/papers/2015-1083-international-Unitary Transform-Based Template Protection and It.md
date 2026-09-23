@@ -10,6 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2015-09-04"
 type: "international"
-venueJa: "EURASIP European Signal Processing Conference, pp. SIPA-P3.4, Nice Cote d'Azur, France, 2015-09-04."
-venueEn: "EURASIP European Signal Processing Conference, pp. SIPA-P3.4, Nice Cote d'Azur, France, 2015-09-04."
+venueJa: "EURASIP European Signal Processing Conference, pp. SIPA-P3.4, 2015-09-04."
+venueEn: "EURASIP European Signal Processing Conference, pp. SIPA-P3.4, 2015-09-04."
+place: "Nice Cote d'Azur, France"
 ---

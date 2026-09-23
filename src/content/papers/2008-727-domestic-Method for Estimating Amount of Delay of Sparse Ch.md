@@ -11,6 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2008-03-21"
 type: "domestic"
-venueJa: "電子情報通信学会 総合大会, Vol. ESS, pp. A-4-30, 北九州市若松区, 2008-03-21."
-venueEn: "General Conference of IEICE, Vol. ESS, pp. A-4-30, 北九州市若松区, 2008-03-21."
+venueJa: "電子情報通信学会 総合大会, Vol. ESS, pp. A-4-30, 2008-03-21."
+venueEn: "General Conference of IEICE, Vol. ESS, pp. A-4-30, 2008-03-21."
+place: "北九州市若松区"
 ---

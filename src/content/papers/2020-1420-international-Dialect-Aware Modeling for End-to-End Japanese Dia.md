@@ -12,8 +12,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2020-12-08"
 type: "international"
-venueJa: "APSIPA Annual Summit and Conference, pp. 297-301, Auckland, New Zealand, 2020-12-08."
-venueEn: "APSIPA Annual Summit and Conference, pp. 297-301, Auckland, New Zealand, 2020-12-08."
+venueJa: "APSIPA Annual Summit and Conference, pp. 297-301, 2020-12-08."
+venueEn: "APSIPA Annual Summit and Conference, pp. 297-301, 2020-12-08."
+place: "Auckland, New Zealand"
 url: "https://ieeexplore.ieee.org/document/9306499"
 webpage: "https://ieeexplore.ieee.org/document/9306499"
 ---

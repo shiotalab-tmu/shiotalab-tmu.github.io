@@ -8,6 +8,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2016-12-15"
 type: "international"
-venueJa: "APSIPA Annual Summit and Conference, Jeju, Korea, 2016-12-15."
-venueEn: "APSIPA Annual Summit and Conference, Jeju, Korea, 2016-12-15."
+venueJa: "APSIPA Annual Summit and Conference, 2016-12-15."
+venueEn: "APSIPA Annual Summit and Conference, 2016-12-15."
+place: "Jeju, Korea"
 ---

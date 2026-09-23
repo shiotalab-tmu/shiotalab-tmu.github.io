@@ -12,6 +12,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2020-10-14"
 type: "international"
-venueJa: "IEEE Global Conference on Consumer Electronics, pp. 474-476, Kobe, 2020-10-14."
-venueEn: "IEEE Global Conference on Consumer Electronics, pp. 474-476, Kobe, 2020-10-14."
+venueJa: "IEEE Global Conference on Consumer Electronics, pp. 474-476, 2020-10-14."
+venueEn: "IEEE Global Conference on Consumer Electronics, pp. 474-476, 2020-10-14."
+place: "Kobe"
 ---

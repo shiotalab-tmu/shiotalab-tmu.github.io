@@ -9,6 +9,7 @@ authorsEn:
   - "Sayaka SHIOTA"
 date: "2025-09-12"
 type: "domestic"
-venueJa: "日本音響学会秋季大会, 東北工業大学 八木山キャンパス, 2025-09-12."
-venueEn: "Acoustical Society of Japan Autumn Meeting, 東北工業大学 八木山キャンパス, 2025-09-12."
+venueJa: "日本音響学会秋季大会, 2025-09-12."
+venueEn: "Acoustical Society of Japan Autumn Meeting, 2025-09-12."
+place: "東北工業大学 八木山キャンパス"
 ---

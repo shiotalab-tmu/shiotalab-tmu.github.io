@@ -10,6 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2011-01-07"
 type: "international"
-venueJa: "International Workshop on Advanced Image Technology, pp. O.III.2-2, Jakarta, Indonesia, 2011-01-07."
-venueEn: "International Workshop on Advanced Image Technology, pp. O.III.2-2, Jakarta, Indonesia, 2011-01-07."
+venueJa: "International Workshop on Advanced Image Technology, pp. O.III.2-2, 2011-01-07."
+venueEn: "International Workshop on Advanced Image Technology, pp. O.III.2-2, 2011-01-07."
+place: "Jakarta, Indonesia"
 ---

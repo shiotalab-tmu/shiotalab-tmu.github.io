@@ -9,6 +9,7 @@ authorsEn:
   - "Kiyoshi NISHIKAWA"
 date: "2005-09-22"
 type: "domestic"
-venueJa: "電子情報通信学会 ソサイエティ大会, Vol. ESS, pp. A-4-6, 北海道札幌市北区, 2005-09-22."
-venueEn: "Society Conference of IEICE, Vol. ESS, pp. A-4-6, 北海道札幌市北区, 2005-09-22."
+venueJa: "電子情報通信学会 ソサイエティ大会, Vol. ESS, pp. A-4-6, 2005-09-22."
+venueEn: "Society Conference of IEICE, Vol. ESS, pp. A-4-6, 2005-09-22."
+place: "北海道札幌市北区"
 ---

@@ -8,6 +8,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2010-12-16"
 type: "international"
-venueJa: "APSIPA Annual Summit and Conference, pp. 679-682, Biopolis, Singapore, 2010-12-16."
-venueEn: "APSIPA Annual Summit and Conference, pp. 679-682, Biopolis, Singapore, 2010-12-16."
+venueJa: "APSIPA Annual Summit and Conference, pp. 679-682, 2010-12-16."
+venueEn: "APSIPA Annual Summit and Conference, pp. 679-682, 2010-12-16."
+place: "Biopolis, Singapore"
 ---

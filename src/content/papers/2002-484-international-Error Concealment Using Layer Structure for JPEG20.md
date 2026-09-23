@@ -10,6 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2002-12-01"
 type: "international"
-venueJa: "IEEE Asia-Pacific Conference on Circuits and Systems, Singapore, 2002-12-01."
-venueEn: "IEEE Asia-Pacific Conference on Circuits and Systems, Singapore, 2002-12-01."
+venueJa: "IEEE Asia-Pacific Conference on Circuits and Systems, 2002-12-01."
+venueEn: "IEEE Asia-Pacific Conference on Circuits and Systems, 2002-12-01."
+place: "Singapore"
 ---

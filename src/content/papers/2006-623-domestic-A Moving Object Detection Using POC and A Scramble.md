@@ -11,6 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2006-02-25"
 type: "domestic"
-venueJa: "映像情報メディア学会 メディア工学研究会, Vol. 30, No. 17, pp. ME2006-80, 神奈川県横浜市中区, 2006-02-25."
-venueEn: "ITE Technical Report, Vol. 30, No. 17, pp. ME2006-80, 神奈川県横浜市中区, 2006-02-25."
+venueJa: "映像情報メディア学会 メディア工学研究会, Vol. 30, No. 17, pp. ME2006-80, 2006-02-25."
+venueEn: "ITE Technical Report, Vol. 30, No. 17, pp. ME2006-80, 2006-02-25."
+place: "神奈川県横浜市中区"
 ---

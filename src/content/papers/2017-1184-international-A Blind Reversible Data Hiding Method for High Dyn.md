@@ -8,8 +8,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2017-08-25"
 type: "international"
-venueJa: "International Workshop on Digital-Forensics and Watermarking, pp. 347-361, Magdeburg, Germany, 2017-08-25."
-venueEn: "International Workshop on Digital-Forensics and Watermarking, pp. 347-361, Magdeburg, Germany, 2017-08-25."
+venueJa: "International Workshop on Digital-Forensics and Watermarking, pp. 347-361, 2017-08-25."
+venueEn: "International Workshop on Digital-Forensics and Watermarking, pp. 347-361, 2017-08-25."
+place: "Magdeburg, Germany"
 url: "https://link.springer.com/chapter/10.1007/978-3-319-64185-0_26"
 webpage: "https://link.springer.com/chapter/10.1007/978-3-319-64185-0_26"
 ---

@@ -95,6 +95,7 @@ const paperSchema = z.object({
   type: z.enum(['journal', 'international', 'domestic']),
   venueJa: z.string(),
   venueEn: z.string(),
+  place: z.string().optional(),
   url: z.string().optional(),
   doi: z.string().optional(),
   webpage: z.string().optional(),

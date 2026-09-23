@@ -7,8 +7,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2011-12-12"
 type: "domestic"
-venueJa: "映像情報メディア学会 メディア工学研究会, Vol. 35, No. 52, pp. ME2011-139, 熊本県熊本市, 2011-12-12."
-venueEn: "ITE Technical Report, Vol. 35, No. 52, pp. ME2011-139, 熊本県熊本市, 2011-12-12."
+venueJa: "映像情報メディア学会 メディア工学研究会, Vol. 35, No. 52, pp. ME2011-139, 2011-12-12."
+venueEn: "ITE Technical Report, Vol. 35, No. 52, pp. ME2011-139, 2011-12-12."
+place: "熊本県熊本市"
 url: "http://www.ite.or.jp/ken/paper/20111212ZACE/eng/"
 webpage: "http://www.ite.or.jp/ken/paper/20111212ZACE/eng/"
 ---

@@ -11,6 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-01-27"
 type: "domestic"
-venueJa: "電気学会システム研究会, Vol. 2018, No. 1, pp. 35-40, 千葉県千葉市, 2018-01-27."
-venueEn: "IEEJ Technical Report, Vol. 2018, No. 1, pp. 35-40, 千葉県千葉市, 2018-01-27."
+venueJa: "電気学会システム研究会, Vol. 2018, No. 1, pp. 35-40, 2018-01-27."
+venueEn: "IEEJ Technical Report, Vol. 2018, No. 1, pp. 35-40, 2018-01-27."
+place: "千葉県千葉市"
 ---

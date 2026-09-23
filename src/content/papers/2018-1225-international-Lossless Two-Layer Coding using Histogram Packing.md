@@ -10,6 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-05-29"
 type: "international"
-venueJa: "IEEE International Symposium on Circuits and Systems, Florence, Italy, 2018-05-29."
-venueEn: "IEEE International Symposium on Circuits and Systems, Florence, Italy, 2018-05-29."
+venueJa: "IEEE International Symposium on Circuits and Systems, 2018-05-29."
+venueEn: "IEEE International Symposium on Circuits and Systems, 2018-05-29."
+place: "Florence, Italy"
 ---

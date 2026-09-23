@@ -9,6 +9,7 @@ authorsEn:
   - "Kiyoshi NISHIKAWA"
 date: "2002-08-01"
 type: "domestic"
-venueJa: "DSPS教育者会議, pp. 85-88, 東京都世田谷区, 2002-08-01."
-venueEn: "DSPS Educators Conference, pp. 85-88, 東京都世田谷区, 2002-08-01."
+venueJa: "DSPS教育者会議, pp. 85-88, 2002-08-01."
+venueEn: "DSPS Educators Conference, pp. 85-88, 2002-08-01."
+place: "東京都世田谷区"
 ---

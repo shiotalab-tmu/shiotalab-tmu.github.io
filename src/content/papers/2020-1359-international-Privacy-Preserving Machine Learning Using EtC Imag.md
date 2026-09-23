@@ -10,6 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2020-01-05"
 type: "international"
-venueJa: "International Workshop on Advanced Image Technology, Yogyakarta, Indonesia, 2020-01-05."
-venueEn: "International Workshop on Advanced Image Technology, Yogyakarta, Indonesia, 2020-01-05."
+venueJa: "International Workshop on Advanced Image Technology, 2020-01-05."
+venueEn: "International Workshop on Advanced Image Technology, 2020-01-05."
+place: "Yogyakarta, Indonesia"
 ---

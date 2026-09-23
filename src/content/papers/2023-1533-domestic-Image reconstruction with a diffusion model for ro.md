@@ -11,8 +11,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2023-02-28"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理研究会, Vol. 122, No. 388, pp. SIP2022-127, 沖縄県立博物館・美術館, 2023-02-28."
-venueEn: "Technical Report of IEICE, Vol. 122, No. 388, pp. SIP2022-127, 沖縄県立博物館・美術館, 2023-02-28."
+venueJa: "電子情報通信学会 信号処理研究会, Vol. 122, No. 388, pp. SIP2022-127, 2023-02-28."
+venueEn: "Technical Report of IEICE, Vol. 122, No. 388, pp. SIP2022-127, 2023-02-28."
+place: "沖縄県立博物館・美術館"
 url: "https://ken.ieice.org/ken/paper/20230228KCRN/eng/"
 webpage: "https://ken.ieice.org/ken/paper/20230228KCRN/eng/"
 ---

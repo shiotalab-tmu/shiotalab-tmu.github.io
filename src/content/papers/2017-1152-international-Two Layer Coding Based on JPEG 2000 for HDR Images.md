@@ -8,6 +8,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2017-01-08"
 type: "international"
-venueJa: "International Workshop on Advanced Image Technology, Penang, Malaysia, 2017-01-08."
-venueEn: "International Workshop on Advanced Image Technology, Penang, Malaysia, 2017-01-08."
+venueJa: "International Workshop on Advanced Image Technology, 2017-01-08."
+venueEn: "International Workshop on Advanced Image Technology, 2017-01-08."
+place: "Penang, Malaysia"
 ---

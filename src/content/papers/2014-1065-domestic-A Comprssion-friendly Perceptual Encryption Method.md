@@ -13,8 +13,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2014-10-24"
 type: "domestic"
-venueJa: "情報処理学会 コンピュータセキュリティシンポジウム, pp. 3C4-3, 札幌市白石区, 2014-10-24."
-venueEn: "Information Processing Society of Japan Computer Security Symposium, pp. 3C4-3, 札幌市白石区, 2014-10-24."
+venueJa: "情報処理学会 コンピュータセキュリティシンポジウム, pp. 3C4-3, 2014-10-24."
+venueEn: "Information Processing Society of Japan Computer Security Symposium, pp. 3C4-3, 2014-10-24."
+place: "札幌市白石区"
 url: "https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=106691&item_no=1"
 webpage: "https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=106691&item_no=1"
 ---

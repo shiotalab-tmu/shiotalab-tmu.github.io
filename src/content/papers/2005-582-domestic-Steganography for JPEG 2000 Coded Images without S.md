@@ -13,6 +13,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2005-01-25"
 type: "domestic"
-venueJa: "電子情報通信学会 暗号と情報セキュリティシンポジウム, Vol. I, pp. 1B2-1, 兵庫県神戸市垂水区, 2005-01-25."
-venueEn: "IEICE Symposium on Cryptography and Information Security, Vol. I, pp. 1B2-1, 兵庫県神戸市垂水区, 2005-01-25."
+venueJa: "電子情報通信学会 暗号と情報セキュリティシンポジウム, Vol. I, pp. 1B2-1, 2005-01-25."
+venueEn: "IEICE Symposium on Cryptography and Information Security, Vol. I, pp. 1B2-1, 2005-01-25."
+place: "兵庫県神戸市垂水区"
 ---

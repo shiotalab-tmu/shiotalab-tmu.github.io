@@ -12,6 +12,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2003-11-06"
 type: "domestic"
-venueJa: "電子情報通信学会 ディジタル信号処理シンポジウム, pp. D3-3, 三重県志摩郡磯部町, 2003-11-06."
-venueEn: "IEICE Digital Signal Processing Symposium, pp. D3-3, 三重県志摩郡磯部町, 2003-11-06."
+venueJa: "電子情報通信学会 ディジタル信号処理シンポジウム, pp. D3-3, 2003-11-06."
+venueEn: "IEICE Digital Signal Processing Symposium, pp. D3-3, 2003-11-06."
+place: "三重県志摩郡磯部町"
 ---

@@ -8,6 +8,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-10-09"
 type: "international"
-venueJa: "IEEE Global Conference on Consumer Electronics, pp. 384-387, Nara, Japan, 2018-10-09."
-venueEn: "IEEE Global Conference on Consumer Electronics, pp. 384-387, Nara, Japan, 2018-10-09."
+venueJa: "IEEE Global Conference on Consumer Electronics, pp. 384-387, 2018-10-09."
+venueEn: "IEEE Global Conference on Consumer Electronics, pp. 384-387, 2018-10-09."
+place: "Nara, Japan"
 ---

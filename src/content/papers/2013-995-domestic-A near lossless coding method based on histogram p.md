@@ -11,8 +11,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2013-07-11"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理研究会, Vol. 113, No. 120, pp. SIP2013-38, 熊本県熊本市, 2013-07-11."
-venueEn: "Technical Report of IEICE, Vol. 113, No. 120, pp. SIP2013-38, 熊本県熊本市, 2013-07-11."
+venueJa: "電子情報通信学会 信号処理研究会, Vol. 113, No. 120, pp. SIP2013-38, 2013-07-11."
+venueEn: "Technical Report of IEICE, Vol. 113, No. 120, pp. SIP2013-38, 2013-07-11."
+place: "熊本県熊本市"
 url: "http://www.ieice.org/ken/paper/20130711FB4c/eng/"
 webpage: "http://www.ieice.org/ken/paper/20130711FB4c/eng/"
 ---

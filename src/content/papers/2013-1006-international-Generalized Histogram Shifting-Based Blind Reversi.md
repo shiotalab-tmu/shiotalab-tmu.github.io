@@ -6,6 +6,7 @@ authorsEn:
   - "Masaaki FUJIYOSHI"
 date: "2013-10-04"
 type: "international"
-venueJa: "International Workshop on Digital-Forensics and Watermarking, pp. 10.3, Auckland, New Zealand, 2013-10-04."
-venueEn: "International Workshop on Digital-Forensics and Watermarking, pp. 10.3, Auckland, New Zealand, 2013-10-04."
+venueJa: "International Workshop on Digital-Forensics and Watermarking, pp. 10.3, 2013-10-04."
+venueEn: "International Workshop on Digital-Forensics and Watermarking, pp. 10.3, 2013-10-04."
+place: "Auckland, New Zealand"
 ---

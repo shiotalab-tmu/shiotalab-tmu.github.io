@@ -10,8 +10,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2022-09-10"
 type: "international"
-venueJa: "International Conference on Machine Learning and Cybernetics, Toyama, Japan, 2022-09-10."
-venueEn: "International Conference on Machine Learning and Cybernetics, Toyama, Japan, 2022-09-10."
+venueJa: "International Conference on Machine Learning and Cybernetics, 2022-09-10."
+venueEn: "International Conference on Machine Learning and Cybernetics, 2022-09-10."
+place: "Toyama, Japan"
 url: "https://arxiv.org/abs/2208.13135"
 publish: "https://arxiv.org/abs/2208.13135"
 ---

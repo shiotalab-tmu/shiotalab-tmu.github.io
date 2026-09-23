@@ -8,6 +8,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2011-10-19"
 type: "international"
-venueJa: "APSIPA Annual Summit and Conference, pp. Wed-AM.RS12.1, Xi'an, P.R.C., 2011-10-19."
-venueEn: "APSIPA Annual Summit and Conference, pp. Wed-AM.RS12.1, Xi'an, P.R.C., 2011-10-19."
+venueJa: "APSIPA Annual Summit and Conference, pp. Wed-AM.RS12.1, 2011-10-19."
+venueEn: "APSIPA Annual Summit and Conference, pp. Wed-AM.RS12.1, 2011-10-19."
+place: "Xi'an, P.R.C."
 ---

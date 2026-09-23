@@ -12,6 +12,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2022-03-09"
 type: "domestic"
-venueJa: "日本音響学会春季大会, オンライン, 2022-03-09."
-venueEn: "Acoustical Society of Japan Spring Meeting, オンライン, 2022-03-09."
+venueJa: "日本音響学会春季大会, 2022-03-09."
+venueEn: "Acoustical Society of Japan Spring Meeting, 2022-03-09."
+place: "オンライン"
 ---

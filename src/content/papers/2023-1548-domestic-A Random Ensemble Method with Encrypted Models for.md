@@ -13,8 +13,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2023-07-17"
 type: "domestic"
-venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, Vol. 123, No. 134, pp. 86-90, 北海道自治労会館 , 2023-07-17."
-venueEn: "Technical Report of IEICE, Vol. 123, No. 134, pp. 86-90, 北海道自治労会館 , 2023-07-17."
+venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, Vol. 123, No. 134, pp. 86-90, 2023-07-17."
+venueEn: "Technical Report of IEICE, Vol. 123, No. 134, pp. 86-90, 2023-07-17."
+place: "北海道自治労会館 "
 url: "https://ken.ieice.org/ken/paper/20230724GCVK/eng/"
 webpage: "https://ken.ieice.org/ken/paper/20230724GCVK/eng/"
 ---

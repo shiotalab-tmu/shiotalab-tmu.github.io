@@ -9,6 +9,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2001-11-01"
 type: "domestic"
-venueJa: "電子情報通信学会 ディジタル信号処理シンポジウム, pp. B4-2, 沖縄県石垣市, 2001-11-01."
-venueEn: "IEICE Digital Signal Processing Symposium, pp. B4-2, 沖縄県石垣市, 2001-11-01."
+venueJa: "電子情報通信学会 ディジタル信号処理シンポジウム, pp. B4-2, 2001-11-01."
+venueEn: "IEICE Digital Signal Processing Symposium, pp. B4-2, 2001-11-01."
+place: "沖縄県石垣市"
 ---

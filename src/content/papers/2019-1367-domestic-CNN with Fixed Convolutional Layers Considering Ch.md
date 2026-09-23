@@ -9,6 +9,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2019-11-13"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理シンポジウム, pp. 216-221, 鳥取県鳥取市, 2019-11-13."
-venueEn: "IEICE Signal Processing Symposium, pp. 216-221, 鳥取県鳥取市, 2019-11-13."
+venueJa: "電子情報通信学会 信号処理シンポジウム, pp. 216-221, 2019-11-13."
+venueEn: "IEICE Signal Processing Symposium, pp. 216-221, 2019-11-13."
+place: "鳥取県鳥取市"
 ---

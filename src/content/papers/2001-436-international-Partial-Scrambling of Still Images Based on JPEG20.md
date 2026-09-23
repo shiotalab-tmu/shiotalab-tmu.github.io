@@ -10,6 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2001-10-01"
 type: "international"
-venueJa: "International Conference on Information, Communications and Signal Processing, pp. P0408, Singapore, 2001-10-01."
-venueEn: "International Conference on Information, Communications and Signal Processing, pp. P0408, Singapore, 2001-10-01."
+venueJa: "International Conference on Information, Communications and Signal Processing, pp. P0408, 2001-10-01."
+venueEn: "International Conference on Information, Communications and Signal Processing, pp. P0408, 2001-10-01."
+place: "Singapore"
 ---

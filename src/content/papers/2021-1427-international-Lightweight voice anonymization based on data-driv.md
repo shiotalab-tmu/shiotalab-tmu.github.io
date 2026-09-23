@@ -12,8 +12,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2021-01-22"
 type: "international"
-venueJa: "IEEE Spoken Language Technology Workshop, pp. 560-566, Virtual, 2021-01-22."
-venueEn: "IEEE Spoken Language Technology Workshop, pp. 560-566, Virtual, 2021-01-22."
+venueJa: "IEEE Spoken Language Technology Workshop, pp. 560-566, 2021-01-22."
+venueEn: "IEEE Spoken Language Technology Workshop, pp. 560-566, 2021-01-22."
+place: "Virtual"
 url: "https://ieeexplore.ieee.org/document/9383535"
 webpage: "https://ieeexplore.ieee.org/document/9383535"
 ---

@@ -11,8 +11,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2015-03-16"
 type: "domestic"
-venueJa: "日本音響学会春季大会, pp. 211-212, 東京都文京区, 2015-03-16."
-venueEn: "Acoustical Society of Japan Spring Meeting, pp. 211-212, 東京都文京区, 2015-03-16."
+venueJa: "日本音響学会春季大会, pp. 211-212, 2015-03-16."
+venueEn: "Acoustical Society of Japan Spring Meeting, pp. 211-212, 2015-03-16."
+place: "東京都文京区"
 url: "http://www.asj.gr.jp/annualmeeting/pdf/2015spring_onkyo_web_01.pdf"
 webpage: "http://www.asj.gr.jp/annualmeeting/pdf/2015spring_onkyo_web_01.pdf"
 ---

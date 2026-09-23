@@ -12,6 +12,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2014-11-18"
 type: "international"
-venueJa: "IEEE Asia-Pacific Conference on Circuits and Systems, Okinawa, Japan, 2014-11-18."
-venueEn: "IEEE Asia-Pacific Conference on Circuits and Systems, Okinawa, Japan, 2014-11-18."
+venueJa: "IEEE Asia-Pacific Conference on Circuits and Systems, 2014-11-18."
+venueEn: "IEEE Asia-Pacific Conference on Circuits and Systems, 2014-11-18."
+place: "Okinawa, Japan"
 ---

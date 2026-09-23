@@ -11,8 +11,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2022-03-07"
 type: "domestic"
-venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, Vol. IEICE-121 , No. 417, pp. 58-63, 長崎大学 文教スカイホール, 2022-03-07."
-venueEn: "Technical Report of IEICE, Vol. IEICE-121 , No. 417, pp. 58-63, 長崎大学 文教スカイホール, 2022-03-07."
+venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, Vol. IEICE-121 , No. 417, pp. 58-63, 2022-03-07."
+venueEn: "Technical Report of IEICE, Vol. IEICE-121 , No. 417, pp. 58-63, 2022-03-07."
+place: "長崎大学 文教スカイホール"
 url: "https://www.ieice.org/ken/paper/20220307jC89/eng/"
 webpage: "https://www.ieice.org/ken/paper/20220307jC89/eng/"
 ---

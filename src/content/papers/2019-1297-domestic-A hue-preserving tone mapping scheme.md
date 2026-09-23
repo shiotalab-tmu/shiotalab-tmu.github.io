@@ -15,8 +15,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2019-02-19"
 type: "domestic"
-venueJa: "電子情報通信学会 画像工学研究会, Vol. 118, No. 450, pp. IE2018-87, 北海道札幌市, 2019-02-19."
-venueEn: "Technical Report of IEICE, Vol. 118, No. 450, pp. IE2018-87, 北海道札幌市, 2019-02-19."
+venueJa: "電子情報通信学会 画像工学研究会, Vol. 118, No. 450, pp. IE2018-87, 2019-02-19."
+venueEn: "Technical Report of IEICE, Vol. 118, No. 450, pp. IE2018-87, 2019-02-19."
+place: "北海道札幌市"
 url: "https://www.ieice.org/ken/paper/20190219l19a/eng/"
 webpage: "https://www.ieice.org/ken/paper/20190219l19a/eng/"
 ---

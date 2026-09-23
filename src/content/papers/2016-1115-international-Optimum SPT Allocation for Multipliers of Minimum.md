@@ -12,6 +12,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2016-05-22"
 type: "international"
-venueJa: "IEEE International Symposium on Circuits and Systems, pp. 2543-2546, Montreal, Canada, 2016-05-22."
-venueEn: "IEEE International Symposium on Circuits and Systems, pp. 2543-2546, Montreal, Canada, 2016-05-22."
+venueJa: "IEEE International Symposium on Circuits and Systems, pp. 2543-2546, 2016-05-22."
+venueEn: "IEEE International Symposium on Circuits and Systems, pp. 2543-2546, 2016-05-22."
+place: "Montreal, Canada"
 ---

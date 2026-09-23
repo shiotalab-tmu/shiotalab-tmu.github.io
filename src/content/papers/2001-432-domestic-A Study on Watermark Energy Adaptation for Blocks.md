@@ -9,6 +9,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2001-09-01"
 type: "domestic"
-venueJa: "電子情報通信学会 ソサイエティ大会, Vol. 情報・システム, pp. D-11-37, 東京都調布市, 2001-09-01."
-venueEn: "Society Conference of IEICE, Vol. 情報・システム, pp. D-11-37, 東京都調布市, 2001-09-01."
+venueJa: "電子情報通信学会 ソサイエティ大会, Vol. 情報・システム, pp. D-11-37, 2001-09-01."
+venueEn: "Society Conference of IEICE, Vol. 情報・システム, pp. D-11-37, 2001-09-01."
+place: "東京都調布市"
 ---

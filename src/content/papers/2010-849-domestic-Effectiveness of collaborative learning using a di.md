@@ -11,6 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2010-09-20"
 type: "domestic"
-venueJa: "日本教育工学会 全国大会, pp. 3a-305-02, 名古屋市守山区, 2010-09-20."
-venueEn: "JSET Annual Conference, pp. 3a-305-02, 名古屋市守山区, 2010-09-20."
+venueJa: "日本教育工学会 全国大会, pp. 3a-305-02, 2010-09-20."
+venueEn: "JSET Annual Conference, pp. 3a-305-02, 2010-09-20."
+place: "名古屋市守山区"
 ---

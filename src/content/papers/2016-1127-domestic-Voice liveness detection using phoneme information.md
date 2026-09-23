@@ -19,8 +19,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2016-03-29"
 type: "domestic"
-venueJa: "電子情報通信学会 音声研究会, Vol. 115, No. 523, pp. 2015-156, 別府国際コンベンションセンター B-ConPlaza, 2016-03-29."
-venueEn: "Technical Report of IEICE, Vol. 115, No. 523, pp. 2015-156, 別府国際コンベンションセンター B-ConPlaza, 2016-03-29."
+venueJa: "電子情報通信学会 音声研究会, Vol. 115, No. 523, pp. 2015-156, 2016-03-29."
+venueEn: "Technical Report of IEICE, Vol. 115, No. 523, pp. 2015-156, 2016-03-29."
+place: "別府国際コンベンションセンター B-ConPlaza"
 url: "http://www.ieice.org/ken/paper/20160329ibHG/eng/"
 webpage: "http://www.ieice.org/ken/paper/20160329ibHG/eng/"
 ---

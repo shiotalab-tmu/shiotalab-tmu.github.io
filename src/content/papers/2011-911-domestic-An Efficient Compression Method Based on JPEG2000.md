@@ -9,6 +9,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2011-11-17"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理シンポジウム, pp. A8-7, 札幌市白石区, 2011-11-17."
-venueEn: "IEICE Signal Processing Symposium, pp. A8-7, 札幌市白石区, 2011-11-17."
+venueJa: "電子情報通信学会 信号処理シンポジウム, pp. A8-7, 2011-11-17."
+venueEn: "IEICE Signal Processing Symposium, pp. A8-7, 2011-11-17."
+place: "札幌市白石区"
 ---

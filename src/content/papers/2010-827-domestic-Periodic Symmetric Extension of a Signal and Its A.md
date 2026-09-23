@@ -7,8 +7,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2010-03-01"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理研究会, Vol. 109, No. 435, pp. SIP2009-151, 沖縄県宮古島市, 2010-03-01."
-venueEn: "Technical Report of IEICE, Vol. 109, No. 435, pp. SIP2009-151, 沖縄県宮古島市, 2010-03-01."
+venueJa: "電子情報通信学会 信号処理研究会, Vol. 109, No. 435, pp. SIP2009-151, 2010-03-01."
+venueEn: "Technical Report of IEICE, Vol. 109, No. 435, pp. SIP2009-151, 2010-03-01."
+place: "沖縄県宮古島市"
 url: "http://www.ieice.org/ken/paper/20100301tawE/eng/"
 webpage: "http://www.ieice.org/ken/paper/20100301tawE/eng/"
 ---

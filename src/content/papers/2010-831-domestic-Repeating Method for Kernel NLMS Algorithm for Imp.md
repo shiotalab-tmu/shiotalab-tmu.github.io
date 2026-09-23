@@ -9,6 +9,7 @@ authorsEn:
   - "Kiyoshi NISHIKAWA"
 date: "2010-03-16"
 type: "domestic"
-venueJa: "電子情報通信学会 総合大会, Vol. ESS, pp. A-4-6, 仙台市青葉区, 2010-03-16."
-venueEn: "General Conference of IEICE, Vol. ESS, pp. A-4-6, 仙台市青葉区, 2010-03-16."
+venueJa: "電子情報通信学会 総合大会, Vol. ESS, pp. A-4-6, 2010-03-16."
+venueEn: "General Conference of IEICE, Vol. ESS, pp. A-4-6, 2010-03-16."
+place: "仙台市青葉区"
 ---

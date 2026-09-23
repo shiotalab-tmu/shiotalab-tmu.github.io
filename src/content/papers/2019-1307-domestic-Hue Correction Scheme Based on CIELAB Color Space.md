@@ -9,6 +9,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2019-03-14"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理研究会, Vol. 118, No. 496, pp. SIP2018-105, 長崎県長崎市, 2019-03-14."
-venueEn: "Technical Report of IEICE, Vol. 118, No. 496, pp. SIP2018-105, 長崎県長崎市, 2019-03-14."
+venueJa: "電子情報通信学会 信号処理研究会, Vol. 118, No. 496, pp. SIP2018-105, 2019-03-14."
+venueEn: "Technical Report of IEICE, Vol. 118, No. 496, pp. SIP2018-105, 2019-03-14."
+place: "長崎県長崎市"
 ---

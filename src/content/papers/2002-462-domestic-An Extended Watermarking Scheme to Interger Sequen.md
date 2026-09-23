@@ -11,6 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2002-06-01"
 type: "domestic"
-venueJa: "電子情報通信学会 画像工学研究会, pp. IE2002-29, 沖縄県中頭郡西原町, 2002-06-01."
-venueEn: "Technical Report of IEICE, pp. IE2002-29, 沖縄県中頭郡西原町, 2002-06-01."
+venueJa: "電子情報通信学会 画像工学研究会, pp. IE2002-29, 2002-06-01."
+venueEn: "Technical Report of IEICE, pp. IE2002-29, 2002-06-01."
+place: "沖縄県中頭郡西原町"
 ---

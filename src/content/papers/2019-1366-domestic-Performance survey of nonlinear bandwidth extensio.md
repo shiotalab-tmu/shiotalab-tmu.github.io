@@ -11,8 +11,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2019-10-04"
 type: "domestic"
-venueJa: "情報処理学会 音声言語情報処理研究会, Vol. 2019-SLP-129, No. 6, pp. 1-5, Kyoto, Japan, 2019-10-04."
-venueEn: "IPSJ Special Interest Groups Spoken Language Processing, Vol. 2019-SLP-129, No. 6, pp. 1-5, Kyoto, Japan, 2019-10-04."
+venueJa: "情報処理学会 音声言語情報処理研究会, Vol. 2019-SLP-129, No. 6, pp. 1-5, 2019-10-04."
+venueEn: "IPSJ Special Interest Groups Spoken Language Processing, Vol. 2019-SLP-129, No. 6, pp. 1-5, 2019-10-04."
+place: "Kyoto, Japan"
 url: "https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=199669&item_no=1&page_id=13&block_id=8"
 webpage: "https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=199669&item_no=1&page_id=13&block_id=8"
 ---

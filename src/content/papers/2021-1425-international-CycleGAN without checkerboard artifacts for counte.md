@@ -12,6 +12,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2021-01-05"
 type: "international"
-venueJa: "International Workshop on Advanced Image Technology, Kagoshima, Japan, 2021-01-05."
-venueEn: "International Workshop on Advanced Image Technology, Kagoshima, Japan, 2021-01-05."
+venueJa: "International Workshop on Advanced Image Technology, 2021-01-05."
+venueEn: "International Workshop on Advanced Image Technology, 2021-01-05."
+place: "Kagoshima, Japan"
 ---

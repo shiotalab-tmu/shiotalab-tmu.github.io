@@ -10,6 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2010-12-10"
 type: "international"
-venueJa: "Picture Coding Symposium, pp. P4-28, Nagoya, Japan, 2010-12-10."
-venueEn: "Picture Coding Symposium, pp. P4-28, Nagoya, Japan, 2010-12-10."
+venueJa: "Picture Coding Symposium, pp. P4-28, 2010-12-10."
+venueEn: "Picture Coding Symposium, pp. P4-28, 2010-12-10."
+place: "Nagoya, Japan"
 ---

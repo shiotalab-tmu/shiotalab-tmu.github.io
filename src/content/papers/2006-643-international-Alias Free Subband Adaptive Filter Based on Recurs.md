@@ -10,6 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2006-07-13"
 type: "international"
-venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, Vol. III, pp. ThPM2-1-3, Chiang Mai, Thailand, 2006-07-13."
-venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, Vol. III, pp. ThPM2-1-3, Chiang Mai, Thailand, 2006-07-13."
+venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, Vol. III, pp. ThPM2-1-3, 2006-07-13."
+venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, Vol. III, pp. ThPM2-1-3, 2006-07-13."
+place: "Chiang Mai, Thailand"
 ---

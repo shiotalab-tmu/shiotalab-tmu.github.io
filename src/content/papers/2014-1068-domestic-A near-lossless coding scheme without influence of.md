@@ -11,8 +11,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2014-11-12"
 type: "domestic"
-venueJa: "電子情報通信学会 画像符号化シンポジウム, pp. P-2-13, 静岡県伊豆市, 2014-11-12."
-venueEn: "IEICE Picture Coding Symposium of Japan, pp. P-2-13, 静岡県伊豆市, 2014-11-12."
+venueJa: "電子情報通信学会 画像符号化シンポジウム, pp. P-2-13, 2014-11-12."
+venueEn: "IEICE Picture Coding Symposium of Japan, pp. P-2-13, 2014-11-12."
+place: "静岡県伊豆市"
 url: "http://www.pcsj-imps.org/index.html"
 webpage: "http://www.pcsj-imps.org/index.html"
 ---

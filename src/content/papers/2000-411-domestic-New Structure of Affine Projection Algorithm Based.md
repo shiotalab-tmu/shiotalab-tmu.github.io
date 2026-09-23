@@ -8,6 +8,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2000-12-01"
 type: "domestic"
-venueJa: "電子情報通信学会 ディジタル信号処理研究会, pp. 55-60, 京都, 2000-12-01."
-venueEn: "Technical Report of IEICE, pp. 55-60, 京都, 2000-12-01."
+venueJa: "電子情報通信学会 ディジタル信号処理研究会, pp. 55-60, 2000-12-01."
+venueEn: "Technical Report of IEICE, pp. 55-60, 2000-12-01."
+place: "京都"
 ---

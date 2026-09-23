@@ -154,7 +154,7 @@ function generateFilename(paper: Paper): string {
 
 /**
  * venueフィールドの文字列を構築
- * (学会名のみ lang に応じて優先言語を切り替える。巻号・ページ・開催地・日付は言語を切り替えない)
+ * (開催地は表示ページに応じて出し分けるため、別フィールドとして保持する)
  */
 function buildVenueString(paper: Paper, lang: 'ja' | 'en'): string {
   const parts: string[] = [];
@@ -185,11 +185,6 @@ function buildVenueString(paper: Paper, lang: 'ja' | 'en'): string {
     parts.push(`pp. ${paper.pages.begin}-${paper.pages.end}`);
   } else if (paper.pages.begin) {
     parts.push(`p. ${paper.pages.begin}`);
-  }
-
-  // Place
-  if (paper.place) {
-    parts.push(paper.place);
   }
 
   // Date
@@ -267,6 +262,10 @@ function generateMarkdown(paper: Paper): string {
     venueJa,
     venueEn,
   });
+
+  if (paper.place) {
+    frontmatter.place = cleanString(paper.place);
+  }
 
   if (url) {
     frontmatter.url = url;

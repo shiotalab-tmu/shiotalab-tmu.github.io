@@ -14,8 +14,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2013-03-27"
 type: "international"
-venueJa: "AACE International Conference of Society for Information Technology and Teacher Education, pp. 2241-2248, New Orleans, LA, the U.S., 2013-03-27."
-venueEn: "AACE International Conference of Society for Information Technology and Teacher Education, pp. 2241-2248, New Orleans, LA, the U.S., 2013-03-27."
+venueJa: "AACE International Conference of Society for Information Technology and Teacher Education, pp. 2241-2248, 2013-03-27."
+venueEn: "AACE International Conference of Society for Information Technology and Teacher Education, pp. 2241-2248, 2013-03-27."
+place: "New Orleans, LA, the U.S."
 url: "http://academicexperts.org/conf/site/2013/papers/39465/"
 webpage: "http://academicexperts.org/conf/site/2013/papers/39465/"
 ---

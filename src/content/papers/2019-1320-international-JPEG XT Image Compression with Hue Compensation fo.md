@@ -8,6 +8,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2019-06-12"
 type: "international"
-venueJa: "IEEE International Conference on Consumer Electronics - Asia, Bangkok, Thailand, 2019-06-12."
-venueEn: "IEEE International Conference on Consumer Electronics - Asia, Bangkok, Thailand, 2019-06-12."
+venueJa: "IEEE International Conference on Consumer Electronics - Asia, 2019-06-12."
+venueEn: "IEEE International Conference on Consumer Electronics - Asia, 2019-06-12."
+place: "Bangkok, Thailand"
 ---

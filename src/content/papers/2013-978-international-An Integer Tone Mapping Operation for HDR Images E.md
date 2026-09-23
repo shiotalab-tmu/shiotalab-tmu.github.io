@@ -10,6 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2013-05-31"
 type: "international"
-venueJa: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. 2479-2483, Vancouver, BC, Canada, 2013-05-31."
-venueEn: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. 2479-2483, Vancouver, BC, Canada, 2013-05-31."
+venueJa: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. 2479-2483, 2013-05-31."
+venueEn: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. 2479-2483, 2013-05-31."
+place: "Vancouver, BC, Canada"
 ---

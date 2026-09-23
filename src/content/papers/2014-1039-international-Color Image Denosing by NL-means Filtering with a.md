@@ -10,6 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2014-04-23"
 type: "international"
-venueJa: "WSEAS International Conference on Applied Computer and Applied Computational Science, pp. 13-17, Kuala Lumpur, Malaysia, 2014-04-23."
-venueEn: "WSEAS International Conference on Applied Computer and Applied Computational Science, pp. 13-17, Kuala Lumpur, Malaysia, 2014-04-23."
+venueJa: "WSEAS International Conference on Applied Computer and Applied Computational Science, pp. 13-17, 2014-04-23."
+venueEn: "WSEAS International Conference on Applied Computer and Applied Computational Science, pp. 13-17, 2014-04-23."
+place: "Kuala Lumpur, Malaysia"
 ---

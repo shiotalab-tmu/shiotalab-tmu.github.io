@@ -11,6 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2008-11-12"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理シンポジウム, pp. C2-1, 石川県金沢市, 2008-11-12."
-venueEn: "IEICE Signal Processing Symposium, pp. C2-1, 石川県金沢市, 2008-11-12."
+venueJa: "電子情報通信学会 信号処理シンポジウム, pp. C2-1, 2008-11-12."
+venueEn: "IEICE Signal Processing Symposium, pp. C2-1, 2008-11-12."
+place: "石川県金沢市"
 ---

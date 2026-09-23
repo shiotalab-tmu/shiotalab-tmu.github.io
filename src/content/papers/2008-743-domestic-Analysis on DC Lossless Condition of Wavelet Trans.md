@@ -9,6 +9,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2008-07-15"
 type: "domestic"
-venueJa: "電子情報通信学会 画像工学研究会, Vol. 108, No. 127, pp. IE2008-42, 長野県長野市, 2008-07-15."
-venueEn: "Technical Report of IEICE, Vol. 108, No. 127, pp. IE2008-42, 長野県長野市, 2008-07-15."
+venueJa: "電子情報通信学会 画像工学研究会, Vol. 108, No. 127, pp. IE2008-42, 2008-07-15."
+venueEn: "Technical Report of IEICE, Vol. 108, No. 127, pp. IE2008-42, 2008-07-15."
+place: "長野県長野市"
 ---

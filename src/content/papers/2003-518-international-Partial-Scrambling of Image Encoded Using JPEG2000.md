@@ -10,6 +10,7 @@ authorsEn:
   - "Osamu WATANABE"
 date: "2003-09-17"
 type: "international"
-venueJa: "IEEE International Conference on Image Processing, pp. WA-P1.3, Barcelona, Spain, 2003-09-17."
-venueEn: "IEEE International Conference on Image Processing, pp. WA-P1.3, Barcelona, Spain, 2003-09-17."
+venueJa: "IEEE International Conference on Image Processing, pp. WA-P1.3, 2003-09-17."
+venueEn: "IEEE International Conference on Image Processing, pp. WA-P1.3, 2003-09-17."
+place: "Barcelona, Spain"
 ---

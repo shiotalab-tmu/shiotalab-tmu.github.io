@@ -11,6 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2015-07-02"
 type: "domestic"
-venueJa: "電子情報通信学会 情報セキュリティ研究会, Vol. １１５, No. 119, pp. 15, 愛知県名古屋市, 2015-07-02."
-venueEn: "Technical Report of IEICE, Vol. １１５, No. 119, pp. 15, 愛知県名古屋市, 2015-07-02."
+venueJa: "電子情報通信学会 情報セキュリティ研究会, Vol. １１５, No. 119, pp. 15, 2015-07-02."
+venueEn: "Technical Report of IEICE, Vol. １１５, No. 119, pp. 15, 2015-07-02."
+place: "愛知県名古屋市"
 ---

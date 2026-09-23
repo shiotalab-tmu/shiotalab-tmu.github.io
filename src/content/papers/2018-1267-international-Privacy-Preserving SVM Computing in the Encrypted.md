@@ -12,6 +12,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-11-13"
 type: "international"
-venueJa: "APSIPA Annual Summit and Conference, Honolulu, Hawaii, USA, 2018-11-13."
-venueEn: "APSIPA Annual Summit and Conference, Honolulu, Hawaii, USA, 2018-11-13."
+venueJa: "APSIPA Annual Summit and Conference, 2018-11-13."
+venueEn: "APSIPA Annual Summit and Conference, 2018-11-13."
+place: "Honolulu, Hawaii, USA"
 ---

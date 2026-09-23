@@ -11,8 +11,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2023-07-31"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理研究会, Vol. 123, No. 152, pp. 1-6, 大阪大学吹田キャンパス コンベンションセンター , 2023-07-31."
-venueEn: "Technical Report of IEICE, Vol. 123, No. 152, pp. 1-6, 大阪大学吹田キャンパス コンベンションセンター , 2023-07-31."
+venueJa: "電子情報通信学会 信号処理研究会, Vol. 123, No. 152, pp. 1-6, 2023-07-31."
+venueEn: "Technical Report of IEICE, Vol. 123, No. 152, pp. 1-6, 2023-07-31."
+place: "大阪大学吹田キャンパス コンベンションセンター "
 url: "https://ken.ieice.org/ken/paper/20230807qCW4/eng/"
 webpage: "https://ken.ieice.org/ken/paper/20230807qCW4/eng/"
 ---

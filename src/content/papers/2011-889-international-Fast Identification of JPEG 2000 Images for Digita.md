@@ -10,6 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2011-05-25"
 type: "international"
-venueJa: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. IVMSP-L4.6, Prague, Czech, 2011-05-25."
-venueEn: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. IVMSP-L4.6, Prague, Czech, 2011-05-25."
+venueJa: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. IVMSP-L4.6, 2011-05-25."
+venueEn: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. IVMSP-L4.6, 2011-05-25."
+place: "Prague, Czech"
 ---

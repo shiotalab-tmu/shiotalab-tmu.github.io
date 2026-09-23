@@ -12,6 +12,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2022-11-08"
 type: "international"
-venueJa: "APSIPA Annual Summit and Conference, Chiang Mai, Thailand, 2022-11-08."
-venueEn: "APSIPA Annual Summit and Conference, Chiang Mai, Thailand, 2022-11-08."
+venueJa: "APSIPA Annual Summit and Conference, 2022-11-08."
+venueEn: "APSIPA Annual Summit and Conference, 2022-11-08."
+place: "Chiang Mai, Thailand"
 ---

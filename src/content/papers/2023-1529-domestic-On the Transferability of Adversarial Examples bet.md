@@ -11,8 +11,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2023-01-26"
 type: "domestic"
-venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, 東北大, 2023-01-26."
-venueEn: "Technical Report of IEICE, 東北大, 2023-01-26."
+venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, 2023-01-26."
+venueEn: "Technical Report of IEICE, 2023-01-26."
+place: "東北大"
 url: "https://ken.ieice.org/ken/paper/20230126bCpP/eng/"
 webpage: "https://ken.ieice.org/ken/paper/20230126bCpP/eng/"
 ---

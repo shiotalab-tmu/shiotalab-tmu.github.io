@@ -8,6 +8,7 @@ authorsEn:
   - "Kiyoshi NISHIKAWA"
 date: "2011-06-21"
 type: "international"
-venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. P4-13, Gyeongju, Korea, 2011-06-21."
-venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. P4-13, Gyeongju, Korea, 2011-06-21."
+venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. P4-13, 2011-06-21."
+venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. P4-13, 2011-06-21."
+place: "Gyeongju, Korea"
 ---

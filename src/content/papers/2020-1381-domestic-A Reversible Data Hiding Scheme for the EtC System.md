@@ -13,8 +13,9 @@ authorsEn:
   - "Yasufumi TAKAMA"
 date: "2020-03-05"
 type: "domestic"
-venueJa: "電子情報通信学会 スマートインフォメディアシステム研究会, Vol. IEICE-119, No. 458, pp. 7-12, さいたま市浦和区, 2020-03-05."
-venueEn: "Technical Report of IEICE, Vol. IEICE-119, No. 458, pp. 7-12, さいたま市浦和区, 2020-03-05."
+venueJa: "電子情報通信学会 スマートインフォメディアシステム研究会, Vol. IEICE-119, No. 458, pp. 7-12, 2020-03-05."
+venueEn: "Technical Report of IEICE, Vol. IEICE-119, No. 458, pp. 7-12, 2020-03-05."
+place: "さいたま市浦和区"
 url: "https://www.ieice.org/ken/paper/20200305o1XC/eng/"
 webpage: "https://www.ieice.org/ken/paper/20200305o1XC/eng/"
 ---
