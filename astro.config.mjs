@@ -4,7 +4,7 @@ import { defineConfig } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
   // GitHub Pages project site configuration
-  site: 'https://shiotalab-tmu.github.io',
+  site: 'https://shiotalab.sd.tmu.ac.jp',
   base: '/',  // serve from root
   
   // Build configuration for static deployment
