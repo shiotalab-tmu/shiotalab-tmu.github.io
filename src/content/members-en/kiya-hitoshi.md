@@ -9,6 +9,7 @@ research:
   - Multimedia Security
   - Privacy Protection Technology
   - Homomorphic Encryption
+paperAuthor: "貴家 仁志"
 order: 2
 ---
 

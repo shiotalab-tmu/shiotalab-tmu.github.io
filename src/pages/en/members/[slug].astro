@@ -1,6 +1,9 @@
 ---
 import Layout from '../../../layouts/Layout.astro';
 import PageHero from '../../../components/PageHero.astro';
+import MemberPapers from '../../../components/MemberPapers.astro';
+import MemberToc from '../../../components/MemberToc.astro';
+import { getMemberSections, memberPageItems } from '../../../utils/memberSections';
 import { getCollection, type CollectionEntry } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -17,6 +20,13 @@ type Props = {
 
 const { member } = Astro.props;
 const { Content } = await member.render();
+
+// src/content/member-sections/<slug>/ に追加セクションがあるメンバーは、旧サイト形式にする
+// (このページは目次+履歴だけにして、業績などの各項目は ./<key>/ の別ページに分ける)
+const sections = await getMemberSections(member.slug);
+const hasSections = sections.length > 0;
+const items = memberPageItems(sections, 'en', !!member.data.paperAuthor);
+const memberPath = `en/members/${member.slug}/`;
 ---
 
 <Layout title={member.data.nameEn || member.data.name} lang="en">
@@ -45,7 +55,7 @@ const { Content } = await member.render();
           </div>
         </header>
 
-        <div class={`member-content-grid ${!member.data.photo ? 'no-photo' : ''}`}>
+        <div id="profile" class={`member-content-grid ${!member.data.photo ? 'no-photo' : ''}`}>
           {member.data.photo && (
             <div class="member-photo-section">
               <img src={member.data.photo} alt={member.data.nameEn || member.data.name} class="member-photo" />
@@ -58,6 +68,17 @@ const { Content } = await member.render();
             </div>
           </div>
         </div>
+
+        {member.data.paperAuthor && !hasSections && (
+          <MemberPapers author={member.data.paperAuthor} lang="en" />
+        )}
+
+        {/* 研究業績などの目次は、旧サイトと同じくプロフィールの後ろ(ページ末尾)に置く */}
+        {hasSections && (
+          <div class="member-toc-section">
+            <MemberToc items={items} lang="en" memberPath={memberPath} />
+          </div>
+        )}
 
         <div class="back-link">
           <a href="en/members/" class="btn">← Back to Members List</a>
@@ -114,6 +135,12 @@ const { Content } = await member.render();
     width: 100%;
     max-width: 200px;
     box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+  }
+
+  .member-toc-section {
+    margin-top: 40px;
+    padding-top: 30px;
+    border-top: 2px solid var(--primary-color);
   }
 
   .back-link {

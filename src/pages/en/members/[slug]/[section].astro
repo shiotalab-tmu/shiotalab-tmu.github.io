@@ -1,0 +1,109 @@
+---
+// メンバーの項目別ページ(旧サイト形式): /en/members/<slug>/<key>/
+// src/content/member-sections/<slug>/ にファイルがあるメンバーだけ作られる
+import Layout from '../../../../layouts/Layout.astro';
+import PageHero from '../../../../components/PageHero.astro';
+import MemberToc from '../../../../components/MemberToc.astro';
+import MemberItemContent from '../../../../components/MemberItemContent.astro';
+import { getMemberSections, memberPageItems, type MemberPageItem } from '../../../../utils/memberSections';
+import { getCollection, type CollectionEntry } from 'astro:content';
+
+export async function getStaticPaths() {
+  const members = await getCollection('members-en');
+  const paths = [];
+  for (const member of members) {
+    const sections = await getMemberSections(member.slug);
+    if (sections.length === 0) continue;
+    const items = memberPageItems(sections, 'en', !!member.data.paperAuthor);
+    for (const item of items) {
+      paths.push({ params: { slug: member.slug, section: item.key }, props: { member, item, items } });
+    }
+  }
+  return paths;
+}
+
+type Props = {
+  member: CollectionEntry<'members-en'>;
+  item: MemberPageItem;
+  items: MemberPageItem[];
+};
+
+const { member, item, items } = Astro.props;
+const name = member.data.nameEn || member.data.name;
+const memberPath = `en/members/${member.slug}/`;
+---
+
+<Layout title={`${item.label} - ${name}`} lang="en">
+  <PageHero
+    titleEn="MEMBERS"
+    subtitle="Members"
+    image="images/sub_members@2x.jpg"
+  />
+
+  <section class="breadcrumb-section">
+    <div class="container">
+      <nav class="breadcrumb">
+        <a href="en/">HOME</a> <span class="breadcrumb-separator">&gt;</span> <a href="en/members/">MEMBERS</a> <span class="breadcrumb-separator">&gt;</span> <a href={memberPath}>{name}</a> <span class="breadcrumb-separator">&gt;</span> <span class="current-page">{item.label}</span>
+      </nav>
+    </div>
+  </section>
+
+  <section class="content-section">
+    <div class="container">
+      <div class="member-detail">
+        <header class="member-header">
+          <h1 class="member-name">{name}</h1>
+        </header>
+
+        <MemberItemContent item={item} author={member.data.paperAuthor} lang="en" />
+
+        <div class="toc-bottom">
+          <MemberToc items={items} lang="en" memberPath={memberPath} current={item.key} />
+        </div>
+
+        <div class="back-link">
+          <a href={memberPath} class="btn">← Back to {name}</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .current-page {
+    color: var(--text-dark);
+    font-weight: 500;
+  }
+
+  .content-section {
+    padding: 80px 0;
+  }
+
+  .member-detail {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  .member-header {
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid var(--primary-color);
+  }
+
+  .member-name {
+    font-size: 2rem;
+    color: var(--text-dark);
+    margin-bottom: 10px;
+  }
+
+  .toc-bottom {
+    margin-top: 60px;
+    padding-top: 20px;
+    border-top: 1px solid #ddd;
+  }
+
+  .back-link {
+    text-align: center;
+    margin-top: 40px;
+  }
+</style>

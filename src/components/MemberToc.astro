@@ -1,0 +1,68 @@
+---
+// 追加セクションがあるメンバー用の目次(旧サイト www-isys.sd.tmu.ac.jp/kiya/ の構成に合わせる)
+// 各項目は /members/<slug>/<key>/ の別ページへのリンクになる
+import type { MemberPageItem } from '../utils/memberSections';
+
+interface Props {
+  items: MemberPageItem[];
+  lang?: 'ja' | 'en';
+  /** メンバーページのパス(<base>からの相対)。例: "members/kiya-hitoshi/" */
+  memberPath: string;
+  /** 今表示している項目のkey(個別ページで太字にする) */
+  current?: string;
+}
+
+const { items, lang = 'ja', memberPath, current } = Astro.props;
+const introItems = items.filter((i) => i.group === 'intro');
+const paperItems = items.filter((i) => i.group === 'papers');
+const otherItems = items.filter((i) => i.group === 'other');
+const t = lang === 'ja'
+  ? { papers: '研究業績' }
+  : { papers: 'Research Achievements' };
+---
+
+<nav class="member-toc">
+  <ul>
+    {introItems.map((i) => (
+      <li>
+        {i.key === current
+          ? <strong>{i.label}</strong>
+          : <a href={`${memberPath}${i.key}/`}>{i.label}</a>}
+      </li>
+    ))}
+    <li>
+      {t.papers}
+      <ul>
+        {paperItems.map((i) => (
+          <li>
+            {i.key === current
+              ? <strong>{i.label}</strong>
+              : <a href={`${memberPath}${i.key}/`}>{i.label}</a>}
+          </li>
+        ))}
+      </ul>
+    </li>
+    {otherItems.map((i) => (
+      <li>
+        {i.key === current
+          ? <strong>{i.label}</strong>
+          : <a href={`${memberPath}${i.key}/`}>{i.label}</a>}
+      </li>
+    ))}
+  </ul>
+</nav>
+
+<style>
+  /* 記号(•)と字下げはサイト共通のリストスタイル(global.css)に任せる */
+  .member-toc {
+    font-size: 0.95rem;
+  }
+
+  .member-toc ul ul {
+    margin: 4px 0 0;
+  }
+
+  .member-toc a {
+    color: var(--primary-color);
+  }
+</style>
