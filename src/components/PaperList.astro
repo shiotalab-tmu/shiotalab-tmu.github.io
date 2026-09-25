@@ -1,0 +1,53 @@
+---
+// 指定著者・指定種別の論文を、新しい順・通し番号のリストで表示する
+import { getCollection } from 'astro:content';
+import PaperLinks from './PaperLinks.astro';
+import { paperTitle, paperAuthors, paperVenue } from '../utils/paperTitle';
+import type { PaperType } from '../utils/memberSections';
+
+interface Props {
+  /** 論文データ(authorsJa)上での著者名。例: "塩田 さやか" */
+  author: string;
+  type: PaperType;
+  lang?: 'ja' | 'en';
+}
+
+const { author, type, lang = 'ja' } = Astro.props;
+
+// 表記ゆれ(全角/半角スペースの有無)を吸収して比較する
+const normalize = (s: string) => s.replace(/[\s\u3000]+/g, '');
+const target = normalize(author);
+
+const papers = (await getCollection('papers'))
+  .filter((p) => p.data.type === type && p.data.authorsJa.some((a) => normalize(a) === target))
+  // 古い順。同日の場合はslugで安定ソート
+  .sort((a, b) => b.data.date.localeCompare(b.data.date) || a.slug.localeCompare(b.slug));
+---
+
+{papers.length === 0 ? (
+  <p>{lang === 'ja' ? '登録されている業績はありません。' : 'No publications found.'}</p>
+) : (
+  <ol class="paper-list">
+    {papers.map((paper) => (
+      <li>
+        {paperAuthors(paper.data, lang).join(', ')},<br />
+        "{paperTitle(paper.data, lang)}",<br />
+        {paperVenue(paper.data, lang)}
+        <PaperLinks paper={paper.data} />
+      </li>
+    ))}
+  </ol>
+)}
+
+<style>
+  .paper-list {
+    font-size: 90%;
+    line-height: 1.6;
+  }
+
+  .paper-list li {
+    margin-bottom: 14px;
+    color: var(--text-dark);
+    overflow-wrap: anywhere;
+  }
+</style>

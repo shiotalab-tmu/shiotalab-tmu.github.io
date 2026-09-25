@@ -1,0 +1,58 @@
+---
+// メンバーの項目別ページ(/members/<slug>/<key>/)の本文
+// 論文3種は論文データから自動表示、それ以外は member-sections のMarkdownを表示する
+import PaperList from './PaperList.astro';
+import type { MemberPageItem } from '../utils/memberSections';
+
+interface Props {
+  item: MemberPageItem;
+  /** 論文データ(authorsJa)上での著者名 */
+  author?: string;
+  lang?: 'ja' | 'en';
+}
+
+const { item, author, lang = 'ja' } = Astro.props;
+const Content = item.kind === 'section' ? (await item.section.render()).Content : null;
+---
+
+<section class="member-item">
+  <h2>{item.label}</h2>
+  {item.kind === 'papers' && author && <PaperList author={author} type={item.paperType} lang={lang} />}
+  {Content && (
+    <div class="section-body">
+      <Content />
+    </div>
+  )}
+</section>
+
+<style>
+  .member-item h2 {
+    font-size: 1.6rem;
+    color: var(--text-dark);
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid var(--primary-color);
+  }
+
+  .section-body {
+    font-size: 90%;
+    line-height: 1.6;
+    color: var(--text-dark);
+    overflow-wrap: anywhere;
+  }
+
+  .section-body :global(h3) {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin: 30px 0 10px;
+  }
+
+  .section-body :global(li) {
+    margin-bottom: 10px;
+  }
+
+
+  .section-body :global(a) {
+    color: var(--primary-color);
+  }
+</style>

@@ -1,0 +1,106 @@
+---
+// メンバー個別ページ用の業績一覧(1ページに全部並べる形式)
+// 種別(学術論文 / 国際学会論文 / 学会講演論文)ごとに新しい順・通し番号で表示する
+// ※ member-sections がある先生(貴家先生など)は、種別ごとの別ページになるのでこれは使わない
+import { getCollection } from 'astro:content';
+import PaperList from './PaperList.astro';
+import type { PaperType } from '../utils/memberSections';
+
+interface Props {
+  /** 論文データ(authorsJa)上での著者名。例: "塩田 さやか" */
+  author: string;
+  lang?: 'ja' | 'en';
+}
+
+const { author, lang = 'ja' } = Astro.props;
+
+// Layoutで<base>を使っているため、ページ内リンクは現在のパスを付けないとトップへ飛んでしまう
+const here = Astro.url.pathname;
+
+// 件数表示用(PaperListと同じ条件で数える)
+const normalize = (s: string) => s.replace(/[\s\u3000]+/g, '');
+const target = normalize(author);
+const papers = (await getCollection('papers'))
+  .filter((p) => p.data.authorsJa.some((a) => normalize(a) === target));
+
+const labels: Record<PaperType, { ja: string; en: string }> = {
+  journal: { ja: '学術論文', en: 'Journal Papers' },
+  international: { ja: '国際学会論文', en: 'International Conference Papers' },
+  domestic: { ja: '学会講演論文', en: 'Domestic Conference Papers' },
+};
+const types: PaperType[] = ['journal', 'international', 'domestic'];
+
+const sections = types
+  .map((type) => ({
+    type,
+    label: labels[type][lang],
+    count: papers.filter((p) => p.data.type === type).length,
+  }))
+  .filter((s) => s.count > 0);
+
+const t = lang === 'ja'
+  ? { heading: '業績一覧', total: (n: number) => `全${n}件`, unit: '件', none: '業績はまだ登録されていません。' }
+  : { heading: 'Publications', total: (n: number) => `${n} items in total`, unit: '', none: 'No publications found.' };
+---
+
+<section class="member-papers" id="publications">
+  <h2>{t.heading}</h2>
+
+  {papers.length === 0 ? (
+    <p>{t.none}</p>
+  ) : (
+    <>
+      <p class="papers-summary">
+        {t.total(papers.length)}
+        {sections.map((s) => (
+          <> / <a href={`${here}#pub-${s.type}`}>{s.label} ({s.count}{t.unit})</a></>
+        ))}
+      </p>
+
+      {sections.map((s) => (
+        <div class="papers-type" id={`pub-${s.type}`}>
+          <h3>{s.label}</h3>
+          <PaperList author={author} type={s.type} lang={lang} />
+        </div>
+      ))}
+    </>
+  )}
+</section>
+
+<style>
+  .member-papers {
+    margin-top: 60px;
+  }
+
+  .member-papers h2 {
+    font-size: 1.6rem;
+    color: var(--text-dark);
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid var(--primary-color);
+  }
+
+  .papers-summary {
+    font-size: 0.9rem;
+    margin-bottom: 30px;
+  }
+
+  .papers-summary a {
+    color: var(--primary-color);
+    text-decoration: none;
+  }
+
+  .papers-summary a:hover {
+    text-decoration: underline;
+  }
+
+  .papers-type {
+    margin-bottom: 50px;
+  }
+
+  .papers-type h3 {
+    font-size: 1.3rem;
+    color: var(--text-dark);
+    margin-bottom: 15px;
+  }
+</style>

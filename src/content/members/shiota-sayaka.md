@@ -8,6 +8,7 @@ research:
   - 話者認識・照合
   - 統計的音声認識
   - ディープフェイク検出
+paperAuthor: "塩田 さやか"
 order: 1
 ---
 

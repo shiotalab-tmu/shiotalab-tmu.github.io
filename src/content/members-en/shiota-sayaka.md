@@ -8,6 +8,7 @@ research:
   - Speaker Recognition/Verification
   - Statistical Speech Recognition
   - Deepfake Detection
+paperAuthor: "塩田 さやか"
 order: 1
 ---
 

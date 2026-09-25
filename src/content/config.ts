@@ -9,6 +9,8 @@ const membersCollection = defineCollection({
     photo: z.string().optional(),
     email: z.string().optional(),
     research: z.array(z.string()).optional(),
+    // 論文データ(papersのauthorsJa)上での表記。指定すると個別ページに業績一覧を表示する
+    paperAuthor: z.string().optional(),
     order: z.number().default(999),
   }),
 });
@@ -22,6 +24,8 @@ const membersEnCollection = defineCollection({
     photo: z.string().optional(),
     email: z.string().optional(),
     research: z.array(z.string()).optional(),
+    // 論文データ(papersのauthorsJa)上での表記。指定すると個別ページに業績一覧を表示する
+    paperAuthor: z.string().optional(),
     order: z.number().default(999),
   }),
 });
@@ -172,7 +176,22 @@ const graduatesEnCollection = defineCollection({
   }),
 });
 
+// メンバー個別ページに追加で表示するセクション(旧サイトの招待論文・特許・学会活動など)
+// src/content/member-sections/<メンバーのslug>/xxx.md に置く
+// 追加セクションがあるメンバーは、個別ページが目次+履歴になり、各項目は /members/<slug>/<ファイル名>/ の別ページになる
+// group: 'intro' は目次の先頭(「研究業績」の前)、'papers' は「研究業績」の中(自動表示の論文3種の後ろ)、'other' はその後ろに並ぶ
+const memberSectionsCollection = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    titleEn: z.string(),
+    group: z.enum(['intro', 'papers', 'other']),
+    order: z.number().default(999),
+  }),
+});
+
 export const collections = {
+  'member-sections': memberSectionsCollection,
   'members': membersCollection,
   'members-en': membersEnCollection,
   'memberlist': memberListCollection,
