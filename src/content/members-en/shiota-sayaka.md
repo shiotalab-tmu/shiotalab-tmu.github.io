@@ -20,7 +20,7 @@ order: 1
 Associate Professor
 
 ## Contact
-- Address: Room 602, 6th Floor, Building 2, 6-6 Asahigaoka, Hino-shi, Tokyo 191-0065
+- Address: 6-6 Asahigaoka, Hino-shi, Tokyo 191-0065
 - E-Mail: sayaka[at]tmu.ac.jp
 
 ## Experience
