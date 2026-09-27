@@ -14,12 +14,12 @@ organization: ""
 * 田中 康平、情報処理学会 音声言語情報処理研究会、企業賞 (Fairy Devices 賞)、2025年6月
 * 田中 康平、情報処理学会 音学シンポジウム2025、学生優秀発表賞、2025年6月
 * 菅野 滉大、情報処理学会 音学シンポジウム2024、学生優秀発表賞、2024年6月
-* 麻生 玲、EMM研究会、学生研究賞、2024年3月
+* 麻生 伶、EMM研究会、学生研究賞、2024年3月
 * 小倉 稜也、日本音響学会秋季研究発表会、学生優秀発表賞、2024年3月
 * 永森輝、2023 RISP International Workshop on Nonlinear Circuits, Communications and Signal Processing NCSP'23 Student Paper Award、2023年3月
 * Zheng Qi、2023 RISP International Workshop on Nonlinear Circuits, Communications and Signal Processing NCSP'23 Student Paper Award、2023年3月
 * April Pyone Maung Maung, IEEE Signal Processing Society, IEEE SPS Japan Student Journal Paper Award, 2022年12月
-* 麻生怜、一般社団法人電子情報通信学会 マルチメディア情報ハイディングエンリッチメント研究会EMM研究会優秀ポスター賞、2022年11月
+* 麻生伶、一般社団法人電子情報通信学会 マルチメディア情報ハイディングエンリッチメント研究会EMM研究会優秀ポスター賞、2022年11月
 * 飯島諒太、電子情報通信学会マルチメディア情報ハイディング・エンリッチメント研究会EMM研究会優秀学生発表賞、2022年3月
 * 田中美貴、電子情報通信学会マルチメディア情報ハイディング・エンリッチメント研究会EMM研究会学生研究賞、2022年3月
 * Asia Pacific Signal and Information Processing Association 功労表彰（会長）、2021

@@ -11,105 +11,105 @@ Main employment destinations of graduates from Shiota and Kiya Research Laborato
 
 ## Manufacturers
 
-- 旭化成株式会社
-- 旭化成マイクロシステム株式会社
-- エプソンアヴァシス株式会社
-- オリンパス株式会社
-- オリンパスソフトウェアテクノロジー株式会社
-- キヤノン株式会社
-- コニカミノルタビジネステクノロジーズ株式会社
-- 三洋電機株式会社
-- シャープ株式会社
-- ソニー株式会社
-- 株式会社東芝
-- 東芝三菱電機産業システム株式会社
-- トヨタ自動車株式会社
-- 日本アイ・ビー・エム株式会社
-- 日本信号株式会社
-- 日本電気株式会社
-- NECエレクトロニクス株式会社
-- NECエンジニアリング株式会社
-- NECシステムテクノロジー株式会社
-- 株式会社NEC情報システムズ
-- NECソフト株式会社
-- NECネクサソリューションズ株式会社
-- 日本ヒューレット・パッカード株式会社
-- 株式会社日立製作所
-- 株式会社日立コミュニケーションテクノロジー
-- 株式会社日立情報システムズ
-- 日立ソフトウェアエンジニアリング株式会社
-- 株式会社富士通
-- 富士通エルエスアイソリューション株式会社
-- 松下電器産業株式会社
-- パナソニックシステムネットワークス株式会社
-- パナソニックモバイルコミュニケーションズ株式会社
-- 新日本製鐵株式会社
-- 横河電機株式会社
+- Asahi Kasei Corporation
+- Asahi Kasei Microsystems Co., Ltd.
+- Epson Avasys Corporation
+- Olympus Corporation
+- Olympus Software Technology Corporation
+- Canon Inc.
+- Konica Minolta Business Technologies, Inc.
+- Sanyo Electric Co., Ltd.
+- Sharp Corporation
+- Sony Corporation
+- Toshiba Corporation
+- TMEIC (Toshiba Mitsubishi-Electric Industrial Systems Corporation)
+- Toyota Motor Corporation
+- IBM Japan, Ltd.
+- Nippon Signal Co., Ltd.
+- NEC Corporation
+- NEC Electronics Corporation
+- NEC Engineering, Ltd.
+- NEC System Technologies, Ltd.
+- NEC Information Systems, Ltd.
+- NEC Soft, Ltd.
+- NEC Nexsolutions, Ltd.
+- Hewlett-Packard Japan, Ltd.
+- Hitachi, Ltd.
+- Hitachi Communication Technologies, Ltd.
+- Hitachi Information Systems, Ltd.
+- Hitachi Software Engineering Co., Ltd.
+- Fujitsu Limited
+- Fujitsu LSI Solution Limited
+- Matsushita Electric Industrial Co., Ltd.
+- Panasonic System Networks Co., Ltd.
+- Panasonic Mobile Communications Co., Ltd.
+- Nippon Steel Corporation
+- Yokogawa Electric Corporation
 
 ## Education & Research
 
-- 九州工業大学
-- サレジオ工業高等専門学校
-- 首都大学東京
-- インドネシア国立シャクアラ大学 (Syiah Kuala University)
-- 湘北短期大学
-- 株式会社ステップ
-- 拓殖大学
-- 東京工業大学
-- 東京都立産業技術高等専門学校
-- 長岡技術科学大学
-- 新潟大学
-- 延世大学校 (Yonsei University, 연세대학교)
-- 世宗大学校 (Sejong University, 세종대학교)
-- 千葉大学大学院
-- 東海大学
+- Kyushu Institute of Technology
+- Salesian Polytechnic
+- Tokyo Metropolitan University
+- Syiah Kuala University, Indonesia
+- Shohoku College
+- Step Co., Ltd.
+- Takushoku University
+- Tokyo Institute of Technology
+- Tokyo Metropolitan College of Industrial Technology
+- Nagaoka University of Technology
+- Niigata University
+- Yonsei University, South Korea
+- Sejong University, South Korea
+- Graduate School of Chiba University
+- Tokai University
 
 ## Communications & Media
 
-- 株式会社紀伊國屋書店
-- KDDI株式会社
-- 凸版印刷株式会社
-- 日本電信電話株式会社
-- 東日本電信電話株式会社
-- 日本放送協会
-- ボーダフォン株式会社
-- 株式会社読売新聞東京本社
-- ソフトバンク株式会社
+- Kinokuniya Company Ltd.
+- KDDI Corporation
+- Toppan Printing Co., Ltd.
+- Nippon Telegraph and Telephone Corporation (NTT)
+- Nippon Telegraph and Telephone East Corporation (NTT East)
+- Japan Broadcasting Corporation (NHK)
+- Vodafone K.K.
+- The Yomiuri Shimbun, Tokyo Head Office
+- SoftBank Corp.
 
 ## Others
 
-- 株式会社アイ・ティ・フロンティア
-- アイ・ビー・エム・ビジネスコンサルティングサービス株式会社
-- アクセンチュア株式会社
-- アチーブメント株式会社
-- 伊東市役所
-- インクリメント・ピー株式会社
-- エヌ・ティ・ティ・コムウェア株式会社
-- 株式会社NTTデータ
-- NTTデータソフィア株式会社
-- 株式会社カプコン
-- 株式会社キーマネジメントソリューションズ
-- コナミ株式会社
-- JRAシステムサービス株式会社
-- 株式会社システムタイズ
-- 株式会社スパイア
-- 新日鉄ソリューションズ株式会社
-- 中部電力株式会社
-- 株式会社テクノマセマティカル
-- 東海旅客鉄道株式会社
-- 株式会社日本総合研究所
-- 株式会社日本トータル・システム
-- 東日本旅客鉄道株式会社
-- 株式会社富士通アドバンストソリューションズ
-- 株式会社富士通システムソリューションズ
-- 株式会社ナムコ
-- 株式会社野村総合研究所
-- 防衛省
-- 三菱電機インフォメーションシステムズ株式会社
-- 楽天グループ株式会社
-- Rinna株式会社
-- 株式会社フリークアウト・ホールディングス
-- 株式会社ソフトウェア・サービス
-- NTTテクノクロス株式会社
-- 株式会社デンソーテン
-- 株式会社アイレップ
+- IT Frontier Corporation
+- IBM Business Consulting Services K.K.
+- Accenture Japan Ltd.
+- Achievement Co., Ltd.
+- Ito City Hall
+- Increment P Corporation
+- NTT Comware Corporation
+- NTT DATA Corporation
+- NTT DATA Sofia Corporation
+- Capcom Co., Ltd.
+- Key Management Solutions, Inc.
+- Konami Corporation
+- JRA System Service Co., Ltd.
+- Systize Corporation
+- Spire Co., Ltd.
+- NS Solutions Corporation
+- Chubu Electric Power Co., Inc.
+- Techno-Mathematical Co., Ltd.
+- Central Japan Railway Company (JR Central)
+- The Japan Research Institute, Limited
+- Nihon Total System Co., Ltd.
+- East Japan Railway Company (JR East)
+- Fujitsu Advanced Solutions Limited
+- Fujitsu System Solutions Limited
+- Namco Limited
+- Nomura Research Institute, Ltd.
+- Ministry of Defense
+- Mitsubishi Electric Information Systems Corporation
+- Rakuten Group, Inc.
+- Rinna Co., Ltd.
+- FreakOut Holdings, Inc.
+- Software Service Co., Ltd.
+- NTT TechnoCross Corporation
+- DENSO TEN Limited
+- IREP Co., Ltd.
