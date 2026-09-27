@@ -13,10 +13,13 @@ paperAuthor: "貴家 仁志"
 order: 2
 ---
 
-東京都立大学 名誉教授
-東京都立大学システムデザイン学部 特別先導教授
-国立情報学研究所（NII） 客員教授
-モナッシュ大学マレーシア 客員教授
+[東京都立大学](http://www.tmu.ac.jp/) 名誉教授
+
+[東京都立大学システムデザイン学部](https://www.sd.tmu.ac.jp/) 特別先導教授
+
+[国立情報学研究所（NII）](https://www.nii.ac.jp/) 客員教授
+
+[モナッシュ大学マレーシア](https://www.monash.edu.my/) 客員教授
 
 ### Contact:
 - 電子メール: kiya[at]tmu.ac.jp, kiya[at]ieee.org

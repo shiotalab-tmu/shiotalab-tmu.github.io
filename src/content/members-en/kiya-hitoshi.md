@@ -13,10 +13,13 @@ paperAuthor: "貴家 仁志"
 order: 2
 ---
 
-Professor Emeritus, Tokyo Metropolitan University
-Senior Leading Professor, Faculty of Systems Design, Tokyo Metropolitan University
-Visiting Professor, National Institute of Informatics (NII)
-Visiting Professor, Monash University Malaysia
+Professor Emeritus, [Tokyo Metropolitan University](http://www.tmu.ac.jp/)
+
+Senior Leading Professor, Faculty of Systems Design, [Tokyo Metropolitan University](http://www.tmu.ac.jp/)
+
+Visiting Professor, [National Institute of Informatics (NII)](https://www.nii.ac.jp/en/)
+
+Visiting Professor, [Monash University Malaysia](https://www.monash.edu.my/)
 
 ### Contact:
 - E-mail: kiya[at]tmu.ac.jp, kiya[at]ieee.org
