@@ -48,7 +48,8 @@ export function memberPageItems(
     section: s,
   });
   return [
-    ...sections.filter((s) => s.data.group === 'intro').map(toItem),
+    // group:'intro'(履歴)は日本語のみの内容のため、英語ページには出さない
+    ...(lang === 'ja' ? sections.filter((s) => s.data.group === 'intro').map(toItem) : []),
     ...(includePapers ? paperTypes : []).map((t): MemberPageItem => ({
       key: t, kind: 'papers', group: 'papers', label: paperTypeLabels[t][lang], paperType: t,
     })),
