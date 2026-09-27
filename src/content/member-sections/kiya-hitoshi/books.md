@@ -3,6 +3,8 @@ title: "編著者"
 titleEn: "Books"
 group: "papers"
 order: 3
+groupEn: "other"
+orderEn: 1
 ---
 
 - 貴家仁志『ディジタル信号処理』，オーム社，2014年8月

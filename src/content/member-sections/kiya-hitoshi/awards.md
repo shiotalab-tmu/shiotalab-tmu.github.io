@@ -1,8 +1,9 @@
 ---
 title: "受賞・表彰"
-titleEn: "Awards and Honors"
+titleEn: "Honors and Awards"
 group: "other"
 order: 3
+orderEn: 3
 ---
 
 - The 23rd International Workshop on Advanced Image Technology (IWAIT2020) Best Paper Award  

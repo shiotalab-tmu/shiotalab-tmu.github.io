@@ -3,7 +3,7 @@ import Layout from '../../../layouts/Layout.astro';
 import PageHero from '../../../components/PageHero.astro';
 import MemberPapers from '../../../components/MemberPapers.astro';
 import MemberToc from '../../../components/MemberToc.astro';
-import { getMemberSections, memberPageItems } from '../../../utils/memberSections';
+import { getMemberSections, getMemberSectionsEn, memberPageItems } from '../../../utils/memberSections';
 import { getCollection, type CollectionEntry } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -25,7 +25,8 @@ const { Content } = await member.render();
 // (このページは目次+履歴だけにして、業績などの各項目は ./<key>/ の別ページに分ける)
 const sections = await getMemberSections(member.slug);
 const hasSections = sections.length > 0;
-const items = memberPageItems(sections, 'en', !!member.data.paperAuthor);
+const enSections = await getMemberSectionsEn(member.slug);
+const items = memberPageItems(sections, 'en', !!member.data.paperAuthor, enSections);
 const memberPath = `en/members/${member.slug}/`;
 ---
 

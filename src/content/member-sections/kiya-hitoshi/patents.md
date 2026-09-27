@@ -3,6 +3,7 @@ title: "特許"
 titleEn: "Patents"
 group: "papers"
 order: 4
+enAvailable: false
 ---
 
 - United States Patent: Image processing apparatus and method  

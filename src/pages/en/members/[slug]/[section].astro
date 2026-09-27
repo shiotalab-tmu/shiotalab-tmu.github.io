@@ -5,7 +5,7 @@ import Layout from '../../../../layouts/Layout.astro';
 import PageHero from '../../../../components/PageHero.astro';
 import MemberToc from '../../../../components/MemberToc.astro';
 import MemberItemContent from '../../../../components/MemberItemContent.astro';
-import { getMemberSections, memberPageItems, type MemberPageItem } from '../../../../utils/memberSections';
+import { getMemberSections, getMemberSectionsEn, memberPageItems, type MemberPageItem } from '../../../../utils/memberSections';
 import { getCollection, type CollectionEntry } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -14,7 +14,8 @@ export async function getStaticPaths() {
   for (const member of members) {
     const sections = await getMemberSections(member.slug);
     if (sections.length === 0) continue;
-    const items = memberPageItems(sections, 'en', !!member.data.paperAuthor);
+    const enSections = await getMemberSectionsEn(member.slug);
+    const items = memberPageItems(sections, 'en', !!member.data.paperAuthor, enSections);
     for (const item of items) {
       paths.push({ params: { slug: member.slug, section: item.key }, props: { member, item, items } });
     }

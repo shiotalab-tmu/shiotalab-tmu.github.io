@@ -3,6 +3,7 @@ title: "社会等との関わり"
 titleEn: "Social Contributions"
 group: "other"
 order: 2
+enAvailable: false
 ---
 
 - 2015年〜2017年  

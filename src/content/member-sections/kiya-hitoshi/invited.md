@@ -1,8 +1,10 @@
 ---
 title: "招待論文・招待講演"
-titleEn: "Invited Papers and Talks"
+titleEn: "Invited papers and lectures"
 group: "papers"
 order: 1
+groupEn: "other"
+orderEn: 4
 ---
 
 ### Invited Journal Papers

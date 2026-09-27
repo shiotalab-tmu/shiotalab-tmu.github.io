@@ -5,7 +5,7 @@ group: "papers"
 order: 5
 ---
 
-### 学術論文
+### 学術論文 (Journal Papers)
 
 1. Hitoshi HONMA, Masahiko SAGAWA,  
    "Improving the Accuracy and Error Analysis in Floating-Point FFT Computation,"  

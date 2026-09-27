@@ -187,11 +187,25 @@ const memberSectionsCollection = defineCollection({
     titleEn: z.string(),
     group: z.enum(['intro', 'papers', 'other']),
     order: z.number().default(999),
+    // 旧サイトの英語ページに対応する項目がない(=英訳がない)セクションは false にして英語ページから除外する
+    enAvailable: z.boolean().default(true),
+    // 英語ページでの目次上のグループ・並び順が日本語ページと異なる場合に指定する(旧サイトの英語ページの構成に合わせるため)
+    groupEn: z.enum(['intro', 'papers', 'other']).optional(),
+    orderEn: z.number().optional(),
   }),
+});
+
+// member-sections のうち、日本語の内容をそのまま出すのではなく英語ページ専用の本文を用意したい項目
+// (例: 履歴は日本語の学歴・職歴の地の文なので、英語版は独自に書く)
+// src/content/member-sections-en/<メンバーのslug>/<同じファイル名>.md に置く。あれば英語ページではこちらを使う
+const memberSectionsEnCollection = defineCollection({
+  type: 'content',
+  schema: z.object({}),
 });
 
 export const collections = {
   'member-sections': memberSectionsCollection,
+  'member-sections-en': memberSectionsEnCollection,
   'members': membersCollection,
   'members-en': membersEnCollection,
   'memberlist': memberListCollection,

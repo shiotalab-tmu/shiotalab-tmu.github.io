@@ -1,8 +1,10 @@
 ---
 title: "履歴"
-titleEn: "Biography"
+titleEn: "Education and Employment History"
 group: "intro"
 order: 1
+groupEn: "other"
+orderEn: 5
 ---
 
 ### 学歴

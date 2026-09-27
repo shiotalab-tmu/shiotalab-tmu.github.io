@@ -3,6 +3,7 @@ title: "解説"
 titleEn: "Review Articles"
 group: "papers"
 order: 2
+enAvailable: false
 ---
 
 - 今泉 祥子，藤吉 正明，貴家 仁志，“ハッシュ関数を用いたデジタル動画像のアクセス制御方式，” 画像ラボ，日刊工業出版，2011年7月.

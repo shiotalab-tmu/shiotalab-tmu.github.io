@@ -1,8 +1,9 @@
 ---
 title: "学会活動"
-titleEn: "Academic Activities"
+titleEn: "Professional activities"
 group: "other"
 order: 1
+orderEn: 2
 ---
 
 ### Board Members for Academic Societies
@@ -146,12 +147,3 @@ order: 1
 75. Program Committee Member, IEEE Asia-Pacific Conference on Circuits and Systems (APC-CAS) (1998)
 76. Program Committee Member, The International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC) (1997)
 77. Program Committee Member, IEEE Asia-Pacific Conference on Circuits and Systems (APC-CAS) (1994)
-
-### 加入学会
-
-電子情報通信学会，映像情報メディア学会，画像電子学会，EURASIP（ヨーロッパ信号処理学会），IEEE（米国電気電子学会）シニア
-
-- [研究会及び学会委員](http://www-isys.sd.tmu.ac.jp/Members/kiya/%E5%AD%A6%E4%BC%9A%E6%B4%BB%E5%8B%95/%E7%A0%94%E7%A9%B6%E4%BC%9A%E5%8F%8A%E3%81%B3%E5%AD%A6%E4%BC%9A%E5%A7%94%E5%93%A1)
-- [編集委員会](http://www-isys.sd.tmu.ac.jp/Members/kiya/%E5%AD%A6%E4%BC%9A%E6%B4%BB%E5%8B%95/%E7%B7%A8%E9%9B%86%E5%A7%94%E5%93%A1%E4%BC%9A)
-- [国際会議](http://www-isys.sd.tmu.ac.jp/Members/kiya/%E5%AD%A6%E4%BC%9A%E6%B4%BB%E5%8B%95/%E5%9B%BD%E9%9A%9B%E4%BC%9A%E8%AD%B0)
-- [国内会議](http://www-isys.sd.tmu.ac.jp/Members/kiya/%E5%AD%A6%E4%BC%9A%E6%B4%BB%E5%8B%95/%E5%9B%BD%E5%86%85%E4%BC%9A%E8%AD%B0)
