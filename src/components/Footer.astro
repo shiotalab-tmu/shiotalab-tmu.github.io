@@ -27,7 +27,6 @@ const footerLinks = lang === 'ja' ? [
     <div class="footer-content">
       <div class="footer-logo">
         <img src="images/f_logo@2x.webp" alt="塩田・貴家研究室" />
-        <h3>{lang === 'ja' ? '塩田・貴家研究室' : 'Shiota and Kiya Research Laboratory'}</h3>
       </div>
       
       <div class="footer-info">
@@ -54,10 +53,17 @@ const footerLinks = lang === 'ja' ? [
     </div>
 
     <div class="footer-bottom">
-      <p>&copy; 2024 Shiota and Kiya Research Laboratory.</p>
+      <p>&copy; <span id="copyright-year">2024</span> Shiota and Kiya Research Laboratory.</p>
     </div>
   </div>
 </footer>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const yearEl = document.getElementById('copyright-year');
+    if (yearEl) yearEl.textContent = String(new Date().getFullYear());
+  });
+</script>
 
 <style>
   .footer {
@@ -80,13 +86,6 @@ const footerLinks = lang === 'ja' ? [
 
   .footer-logo img {
     height: 50px;
-    margin-bottom: 10px;
-  }
-
-  .footer-logo h3 {
-    font-size: 1rem;
-    font-weight: 500;
-    color: var(--text-dark);
   }
 
   .footer-info {
