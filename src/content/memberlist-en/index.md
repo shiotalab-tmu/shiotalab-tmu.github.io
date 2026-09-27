@@ -89,13 +89,13 @@ alumni:
     nameEn: Kiyoshi Nishikawa
     affiliation: Tokyo Metropolitan University
     affiliationEn: Tokyo Metropolitan University
-    url: http://www.tmu.ac.jp/
+    url: https://www.tmu.ac.jp/english/index.html
 
   - name: Masahiro Iwahashi
     nameEn: Masahiro Iwahashi
     affiliation: Nagaoka University of Technology
     affiliationEn: Nagaoka University of Technology
-    url: http://www.nagaokaut.ac.jp/
+    url: https://www.nagaokaut.ac.jp/e/index.html
 
   - name: Hiroyuki Kobayashi
     nameEn: Hiroyuki Kobayashi

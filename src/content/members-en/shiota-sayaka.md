@@ -2,6 +2,7 @@
 name: Sayaka Shiota
 nameEn: Sayaka Shiota
 role: associate-professor
+photo: images/photo_shiota@2x.jpg
 email: sayaka@tmu.ac.jp
 research:
   - Speech Signal Processing
@@ -12,7 +13,11 @@ paperAuthor: "塩田 さやか"
 order: 1
 ---
 
-Associate Professor, Faculty of Systems Design, Tokyo Metropolitan University
+[Department of Computer Science, Faculty of Systems Design, Tokyo Metropolitan University](https://www.sd.tmu.ac.jp/english/index.html)
+
+[Department of Computer Science, Graduate School of Systems Design, Tokyo Metropolitan University](https://www.sd.tmu.ac.jp/english/index.html)
+
+Associate Professor
 
 ## Contact
 - Address: Room 602, 6th Floor, Building 2, 6-6 Asahigaoka, Hino-shi, Tokyo 191-0065

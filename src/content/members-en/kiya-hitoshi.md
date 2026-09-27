@@ -15,9 +15,9 @@ order: 2
 
 **Dr. Eng.**
 
-Professor Emeritus, [Tokyo Metropolitan University](http://www.tmu.ac.jp/)
+Professor Emeritus, [Tokyo Metropolitan University](https://www.tmu.ac.jp/english/index.html)
 
-Senior Leading Professor, Faculty of Systems Design, [Tokyo Metropolitan University](http://www.tmu.ac.jp/)
+Senior Leading Professor, Faculty of Systems Design, [Tokyo Metropolitan University](https://www.tmu.ac.jp/english/index.html)
 
 Visiting Professor, [National Institute of Informatics (NII)](https://www.nii.ac.jp/en/)
 
