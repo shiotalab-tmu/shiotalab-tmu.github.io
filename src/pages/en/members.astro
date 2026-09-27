@@ -25,7 +25,7 @@ const { faculty, students, alumni } = memberList.data;
         <div class="member-section">
           <h2>Faculty & Staff</h2>
           <div class="member-list-faculty">
-            {faculty.map((member) => (
+              {faculty.map((member) => (
               <div class="faculty-item">
                 <span class="role-label">{member.roleEn}</span>
                 {member.slug ? (
@@ -39,7 +39,6 @@ const { faculty, students, alumni } = memberList.data;
                 <span class="position">
                   {member.roleEn}
                 </span>
-                <span class="status">{member.roleEn}</span>
               </div>
             ))}
           </div>
@@ -112,7 +111,7 @@ const { faculty, students, alumni } = memberList.data;
 
   .faculty-item {
     display: grid;
-    grid-template-columns: 100px 150px 200px 1fr auto;
+    grid-template-columns: 100px 150px 200px 1fr;
     gap: 15px;
     align-items: center;
     padding: 12px 0;
@@ -135,10 +134,7 @@ const { faculty, students, alumni } = memberList.data;
     font-size: 0.85rem;
   }
 
-  .status {
-    color: var(--primary-color);
-    font-size: 0.85rem;
-  }
+  /* .status removed: right-end role label is no longer shown */
 
   .member-list-simple {
     display: flex;
