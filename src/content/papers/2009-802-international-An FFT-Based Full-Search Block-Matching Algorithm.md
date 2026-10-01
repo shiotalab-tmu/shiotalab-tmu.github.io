@@ -10,10 +10,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2009-10-06"
 type: "international"
-venueJa: "APSIPA Annual Summit and Conference, pp. TA-P2-3, 2009-10-06."
-venueEn: "APSIPA Annual Summit and Conference, pp. TA-P2-3, 2009-10-06."
+venueJa: "APSIPA Annual Summit and Conference, No. TA-P2-3, pp. 457-460, 2009-10-06."
+venueEn: "APSIPA Annual Summit and Conference, No. TA-P2-3, pp. 457-460, 2009-10-06."
 place: "Sapporo, Japan"
 url: "http://apsipa.com/proceedings_2009/pdf/TA-P2-3.pdf"
 publish: "http://apsipa.com/proceedings_2009/pdf/TA-P2-3.pdf"
-local: "https://www.notion.so/3c7d54c353c881f3bf45e4d25c383a05"
 ---

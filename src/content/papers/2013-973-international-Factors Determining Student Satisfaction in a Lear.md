@@ -19,5 +19,4 @@ venueEn: "AACE International Conference of Society for Information Technology an
 place: "New Orleans, LA, the U.S."
 url: "http://academicexperts.org/conf/site/2013/papers/39465/"
 webpage: "http://academicexperts.org/conf/site/2013/papers/39465/"
-local: "https://www.notion.so/3c7d54c353c881dda56ce44ec407f0fc"
 ---

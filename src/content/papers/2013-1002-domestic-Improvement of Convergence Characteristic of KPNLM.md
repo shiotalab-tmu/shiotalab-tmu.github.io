@@ -11,10 +11,9 @@ authorsEn:
   - "Felix ALBU"
 date: "2013-09-19"
 type: "domestic"
-venueJa: "電子情報通信学会 ソサイエティ大会, pp. A-4-25, 2013-09-19."
-venueEn: "Society Conference of IEICE, pp. A-4-25, 2013-09-19."
+venueJa: "電子情報通信学会 ソサイエティ大会, No. A-4-25, 2013-09-19."
+venueEn: "Society Conference of IEICE, No. A-4-25, 2013-09-19."
 place: "福岡市東区"
 url: "http://www.gakkai-web.net/gakkai/ieice/2013Spro/Settings/ab/a_04_025.html"
 webpage: "http://www.gakkai-web.net/gakkai/ieice/2013Spro/Settings/ab/a_04_025.html"
-local: "https://www.notion.so/3c7d54c353c88180aa2ddd27d11e430b"
 ---

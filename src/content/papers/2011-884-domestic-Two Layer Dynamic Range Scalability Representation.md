@@ -13,10 +13,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2011-03-03"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理研究会, Vol. 110, No. 440, pp. SIP2010-140, 2011-03-03."
-venueEn: "Technical Report of IEICE, Vol. 110, No. 440, pp. SIP2010-140, 2011-03-03."
+venueJa: "電子情報通信学会 信号処理研究会, Vol. 110, No. 440, No. SIP2010-140, pp. 131-136, 2011-03-03."
+venueEn: "Technical Report of IEICE, Vol. 110, No. 440, No. SIP2010-140, pp. 131-136, 2011-03-03."
 place: "沖縄県石垣市"
 url: "http://www.ieice.org/ken/paper/20110303b0fP/eng/"
 webpage: "http://www.ieice.org/ken/paper/20110303b0fP/eng/"
-local: "https://www.notion.so/3c7d54c353c881f4b515f2de5e626cbc"
 ---

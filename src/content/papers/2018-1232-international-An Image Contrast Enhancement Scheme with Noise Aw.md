@@ -15,5 +15,4 @@ type: "international"
 venueJa: "IEEE International Conference on Consumer Electronics - Taiwan, pp. 185-186, 2018-05-19."
 venueEn: "IEEE International Conference on Consumer Electronics - Taiwan, pp. 185-186, 2018-05-19."
 place: "Taichung, Taiwan"
-local: "https://www.notion.so/3c7d54c353c8815e882ae418c8b68190"
 ---

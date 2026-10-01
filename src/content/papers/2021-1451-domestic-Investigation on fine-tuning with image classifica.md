@@ -18,5 +18,4 @@ venueEn: "IPSJ Music and computer Symposium, Vol. IEICE-121, No. 66, pp. 75-79, 
 place: "オンライン開催"
 url: "https://www.ieice.org/ken/paper/20210619MCe1/eng/"
 webpage: "https://www.ieice.org/ken/paper/20210619MCe1/eng/"
-local: "https://www.notion.so/3c7d54c353c8816fadb9c58bf1431c6e"
 ---

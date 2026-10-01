@@ -10,6 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1995-01-01"
 type: "domestic"
-venueJa: "電子情報通信学会 ディジタル信号処理研究会, pp. DSP94-108, 1995-01-01."
-venueEn: "Technical Report of IEICE, pp. DSP94-108, 1995-01-01."
+venueJa: "電子情報通信学会 ディジタル信号処理研究会, No. DSP94-108, 1995-01-01."
+venueEn: "Technical Report of IEICE, No. DSP94-108, 1995-01-01."
 ---

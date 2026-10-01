@@ -13,10 +13,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2017-02-20"
 type: "domestic"
-venueJa: "電子情報通信学会 画像工学研究会, Vol. 116, No. 464, pp. IE2016-103, 2017-02-20."
-venueEn: "Technical Report of IEICE, Vol. 116, No. 464, pp. IE2016-103, 2017-02-20."
+venueJa: "電子情報通信学会 画像工学研究会, Vol. 116, No. 464, No. IE2016-103, pp. 19-24, 2017-02-20."
+venueEn: "Technical Report of IEICE, Vol. 116, No. 464, No. IE2016-103, pp. 19-24, 2017-02-20."
 place: "札幌市北区"
 url: "http://www.ieice.org/ken/paper/20170220sbQY/eng/"
 webpage: "http://www.ieice.org/ken/paper/20170220sbQY/eng/"
-local: "https://www.notion.so/3c7d54c353c881c695cac5563e30b353"
 ---

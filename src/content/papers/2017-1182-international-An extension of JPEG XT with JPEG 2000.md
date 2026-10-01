@@ -11,5 +11,4 @@ type: "international"
 venueJa: "IEEE International Conference on Consumer Electronics - Taiwan, 2017-06-14."
 venueEn: "IEEE International Conference on Consumer Electronics - Taiwan, 2017-06-14."
 place: "Taipei, Taiwan"
-local: "https://www.notion.so/3c7d54c353c881098fd8fe58af5754b5"
 ---

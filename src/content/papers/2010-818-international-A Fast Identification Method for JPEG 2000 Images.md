@@ -10,8 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2010-01-12"
 type: "international"
-venueJa: "International Workshop on Advanced Image Technology, pp. P5-3, 2010-01-12."
-venueEn: "International Workshop on Advanced Image Technology, pp. P5-3, 2010-01-12."
+venueJa: "International Workshop on Advanced Image Technology, No. P5-3, 2010-01-12."
+venueEn: "International Workshop on Advanced Image Technology, No. P5-3, 2010-01-12."
 place: "Kuala Lumpur, Malaysia"
-local: "https://www.notion.so/3c7d54c353c88181a6f2ec775cadc824"
 ---

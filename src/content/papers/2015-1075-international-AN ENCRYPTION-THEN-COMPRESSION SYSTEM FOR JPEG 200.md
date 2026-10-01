@@ -12,10 +12,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2015-04-23"
 type: "international"
-venueJa: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. IVMSP-L4.1, 2015-04-23."
-venueEn: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. IVMSP-L4.1, 2015-04-23."
+venueJa: "IEEE International Conference on Acoustics, Speech and Signal Processing, No. IVMSP-L4.1, pp. 1226-1230, 2015-04-23."
+venueEn: "IEEE International Conference on Acoustics, Speech and Signal Processing, No. IVMSP-L4.1, pp. 1226-1230, 2015-04-23."
 place: "Brisbane, Australia"
 url: "http://icassp2015.org/"
 webpage: "http://icassp2015.org/"
-local: "https://www.notion.so/3c7d54c353c88177ba69f457fab747f3"
 ---

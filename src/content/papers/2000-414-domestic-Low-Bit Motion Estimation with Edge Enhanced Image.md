@@ -10,7 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2000-12-01"
 type: "domestic"
-venueJa: "電子情報通信学会 ディジタル信号処理研究会, pp. DSP2000-133, 2000-12-01."
-venueEn: "Technical Report of IEICE, pp. DSP2000-133, 2000-12-01."
+venueJa: "電子情報通信学会 ディジタル信号処理研究会, No. DSP2000-133, pp. 1-7, 2000-12-01."
+venueEn: "Technical Report of IEICE, No. DSP2000-133, pp. 1-7, 2000-12-01."
 place: "京都"
 ---

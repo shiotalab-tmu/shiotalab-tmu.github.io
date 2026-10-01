@@ -8,10 +8,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2011-08-30"
 type: "international"
-venueJa: "EURASIP European Signal Processing Conference, pp. IVP-P2.12, 2011-08-30."
-venueEn: "EURASIP European Signal Processing Conference, pp. IVP-P2.12, 2011-08-30."
+venueJa: "EURASIP European Signal Processing Conference, No. IVP-P2.12, pp. 323-327, 2011-08-30."
+venueEn: "EURASIP European Signal Processing Conference, No. IVP-P2.12, pp. 323-327, 2011-08-30."
 place: "Barcelona, Spain"
 url: "http://www.eurasip.org/Proceedings/Eusipco/Eusipco2011/papers/1569426007.pdf"
 publish: "http://www.eurasip.org/Proceedings/Eusipco/Eusipco2011/papers/1569426007.pdf"
-local: "https://www.notion.so/3c7d54c353c88187aabfdec92488f97d"
 ---

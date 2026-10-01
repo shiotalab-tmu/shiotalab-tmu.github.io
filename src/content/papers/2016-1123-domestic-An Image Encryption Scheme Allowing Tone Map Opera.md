@@ -9,10 +9,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2016-02-22"
 type: "domestic"
-venueJa: "電子情報通信学会 画像工学研究会, Vol. 115, No. 458, pp. ITS2015-58, IE2015-100, 2016-02-22."
-venueEn: "Technical Report of IEICE, Vol. 115, No. 458, pp. ITS2015-58, IE2015-100, 2016-02-22."
+venueJa: "電子情報通信学会 画像工学研究会, Vol. 115, No. 458, No. ITS2015-58, IE2015-100, pp. 11-16, 2016-02-22."
+venueEn: "Technical Report of IEICE, Vol. 115, No. 458, No. ITS2015-58, IE2015-100, pp. 11-16, 2016-02-22."
 place: "北海道大学"
 url: "https://www.ieice.org/ken/paper/20160222hbGM/eng/"
 webpage: "https://www.ieice.org/ken/paper/20160222hbGM/eng/"
-local: "https://www.notion.so/3c7d54c353c8817d932bc8f3c54b8dec"
 ---

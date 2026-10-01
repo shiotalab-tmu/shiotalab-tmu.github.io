@@ -17,5 +17,4 @@ type: "international"
 venueJa: "IIIS International Conference on Education, Training and Informatics, pp. 134-137, 2012-03-27."
 venueEn: "IIIS International Conference on Education, Training and Informatics, pp. 134-137, 2012-03-27."
 place: "Orland, FL, U.S."
-local: "https://www.notion.so/3c7d54c353c8813db9e8d9503bc582e9"
 ---

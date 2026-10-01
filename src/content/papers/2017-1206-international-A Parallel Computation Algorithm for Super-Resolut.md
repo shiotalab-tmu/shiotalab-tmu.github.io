@@ -13,5 +13,4 @@ type: "international"
 venueJa: "APSIPA Annual Summit and Conference, 2017-12-12."
 venueEn: "APSIPA Annual Summit and Conference, 2017-12-12."
 place: "Kuala Lumpur, Malaysia"
-local: "https://www.notion.so/3c7d54c353c881a3a659e6bef80ad5d6"
 ---

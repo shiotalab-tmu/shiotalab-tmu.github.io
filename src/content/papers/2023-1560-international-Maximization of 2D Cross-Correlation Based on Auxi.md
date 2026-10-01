@@ -13,5 +13,4 @@ type: "international"
 venueJa: "APSIPA Annual Summit and Conference, pp. 2032-2036, 2023-11-03."
 venueEn: "APSIPA Annual Summit and Conference, pp. 2032-2036, 2023-11-03."
 place: "TICC, Taipei, Taiwan"
-local: "https://www.notion.so/3c7d54c353c881c7b292eb73ab93fb49"
 ---

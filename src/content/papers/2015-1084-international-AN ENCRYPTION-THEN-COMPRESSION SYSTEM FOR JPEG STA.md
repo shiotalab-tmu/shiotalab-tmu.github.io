@@ -13,5 +13,4 @@ type: "international"
 venueJa: "Picture Coding Symposium, pp. 119-123, 2015-06-02."
 venueEn: "Picture Coding Symposium, pp. 119-123, 2015-06-02."
 place: "Cairns, Australia"
-local: "https://www.notion.so/3c7d54c353c8819386dacbf4810cf7e9"
 ---

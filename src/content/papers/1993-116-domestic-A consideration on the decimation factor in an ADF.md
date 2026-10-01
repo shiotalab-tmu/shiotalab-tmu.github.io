@@ -15,6 +15,6 @@ authorsEn:
   - "Noriyoshi KAMBAYASHI"
 date: "1993-01-01"
 type: "domestic"
-venueJa: "電子情報通信学会 通信方式研究会, pp. CS92-90, 1993-01-01."
-venueEn: "Technical Report of IEICE, pp. CS92-90, 1993-01-01."
+venueJa: "電子情報通信学会 通信方式研究会, No. CS92-90, 1993-01-01."
+venueEn: "Technical Report of IEICE, No. CS92-90, 1993-01-01."
 ---

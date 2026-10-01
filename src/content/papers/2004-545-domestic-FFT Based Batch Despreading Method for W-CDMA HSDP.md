@@ -9,7 +9,7 @@ authorsEn:
   - "Kiyoshi NISHIKAWA"
 date: "2004-03-23"
 type: "domestic"
-venueJa: "電子情報通信学会 総合大会, pp. B-5-158, 2004-03-23."
-venueEn: "General Conference of IEICE, pp. B-5-158, 2004-03-23."
+venueJa: "電子情報通信学会 総合大会, No. B-5-158, pp. 645-645, 2004-03-23."
+venueEn: "General Conference of IEICE, No. B-5-158, pp. 645-645, 2004-03-23."
 place: "東京"
 ---

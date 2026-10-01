@@ -15,10 +15,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2014-09-11"
 type: "domestic"
-venueJa: "電子情報通信学会 スマートインフォメディアシステム研究会, Vol. 114, No. 205, pp. SIS2014-53, 2014-09-11."
-venueEn: "Technical Report of IEICE, Vol. 114, No. 205, pp. SIS2014-53, 2014-09-11."
+venueJa: "電子情報通信学会 スマートインフォメディアシステム研究会, Vol. 114, No. 205, No. SIS2014-53, pp. 13-18, 2014-09-11."
+venueEn: "Technical Report of IEICE, Vol. 114, No. 205, No. SIS2014-53, pp. 13-18, 2014-09-11."
 place: "庄内産業振興センター 第２研修室 〒997-0015山形県鶴岡市末広町3番1号"
 url: "http://www.ieice.org/ken/paper/20140911SBqz/eng/"
 webpage: "http://www.ieice.org/ken/paper/20140911SBqz/eng/"
-local: "https://www.notion.so/3c7d54c353c8816199e1d43a0742a006"
 ---

@@ -17,5 +17,4 @@ type: "domestic"
 venueJa: "情報処理学会 音声言語情報処理研究会, 2026-03-02."
 venueEn: "IPSJ Special Interest Groups Spoken Language Processing, 2026-03-02."
 place: "沖縄県青年会館"
-local: "https://www.notion.so/3c7d54c353c881c2aeaced9d607f2ca4"
 ---

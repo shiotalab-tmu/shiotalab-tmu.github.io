@@ -13,5 +13,4 @@ type: "international"
 venueJa: "EURASIP European Signal Processing Conference, pp. 968-972, 2016-08-31."
 venueEn: "EURASIP European Signal Processing Conference, pp. 968-972, 2016-08-31."
 place: "Budapest,Hungary"
-local: "https://www.notion.so/3c7d54c353c88197b17bfcbf4829de0d"
 ---

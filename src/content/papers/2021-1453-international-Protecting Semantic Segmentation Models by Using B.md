@@ -13,5 +13,4 @@ type: "international"
 venueJa: "International Workshop on Smart Info-Media Systems in Asia, pp. 22-27, 2021-09-21."
 venueEn: "International Workshop on Smart Info-Media Systems in Asia, pp. 22-27, 2021-09-21."
 place: "Virtual"
-local: "https://www.notion.so/3c7d54c353c88115b7b1fe6531ac31a2"
 ---

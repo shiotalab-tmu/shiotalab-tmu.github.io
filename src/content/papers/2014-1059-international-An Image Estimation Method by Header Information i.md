@@ -15,5 +15,4 @@ type: "international"
 venueJa: "IEEE Asia-Pacific Conference on Circuits and Systems, 2014-11-18."
 venueEn: "IEEE Asia-Pacific Conference on Circuits and Systems, 2014-11-18."
 place: "Okinawa, Japan"
-local: "https://www.notion.so/3c7d54c353c88166b854d3987b4f3ae5"
 ---

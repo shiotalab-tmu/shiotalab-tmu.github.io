@@ -11,10 +11,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-03-05"
 type: "domestic"
-venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, Vol. 117, No. 476, pp. EMM2017-77, 2018-03-05."
-venueEn: "Technical Report of IEICE, Vol. 117, No. 476, pp. EMM2017-77, 2018-03-05."
+venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, Vol. 117, No. 476, No. EMM2017-77, pp. 1-6, 2018-03-05."
+venueEn: "Technical Report of IEICE, Vol. 117, No. 476, No. EMM2017-77, pp. 1-6, 2018-03-05."
 place: "鹿児島県，奄美市"
 url: "http://www.ieice.org/ken/paper/20180305w1C8/eng/"
 webpage: "http://www.ieice.org/ken/paper/20180305w1C8/eng/"
-local: "https://www.notion.so/3c7d54c353c8816aa0b8ffe49e999305"
 ---

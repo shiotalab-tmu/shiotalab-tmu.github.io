@@ -13,10 +13,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2017-10-12"
 type: "domestic"
-venueJa: "電子情報通信学会 スマートインフォメディアシステム研究会, Vol. IEICE-117, No. 235, pp. SIS2017-22 , 2017-10-12."
-venueEn: "Technical Report of IEICE, Vol. IEICE-117, No. 235, pp. SIS2017-22 , 2017-10-12."
+venueJa: "電子情報通信学会 スマートインフォメディアシステム研究会, Vol. IEICE-117, No. 235, No. SIS2017-22 , pp. 7-12, 2017-10-12."
+venueEn: "Technical Report of IEICE, Vol. IEICE-117, No. 235, No. SIS2017-22 , pp. 7-12, 2017-10-12."
 place: "奈良市水門町"
 url: "http://www.ieice.org/ken/paper/20171012gbxc/eng/"
 webpage: "http://www.ieice.org/ken/paper/20171012gbxc/eng/"
-local: "https://www.notion.so/3c7d54c353c88145acdff60a601f41d0"
 ---

@@ -11,5 +11,4 @@ type: "international"
 venueJa: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. 1340-1344, 2013-05-28."
 venueEn: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. 1340-1344, 2013-05-28."
 place: "Vancouver, BC, Canada"
-local: "https://www.notion.so/3c7d54c353c88193a6adc52b179c1514"
 ---

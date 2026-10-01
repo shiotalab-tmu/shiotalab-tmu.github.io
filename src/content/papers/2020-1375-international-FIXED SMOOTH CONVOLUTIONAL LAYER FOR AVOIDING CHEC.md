@@ -11,5 +11,4 @@ type: "international"
 venueJa: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. 3712-3716, 2020-05-06."
 venueEn: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. 3712-3716, 2020-05-06."
 place: "Barcelona, Spain"
-local: "https://www.notion.so/3c7d54c353c881d19f7fe3885c07f58b"
 ---

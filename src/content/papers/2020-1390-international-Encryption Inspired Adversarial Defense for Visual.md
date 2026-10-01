@@ -11,5 +11,4 @@ type: "international"
 venueJa: "IEEE International Conference on Image Processing, pp. 1681-1685, 2020-10-26."
 venueEn: "IEEE International Conference on Image Processing, pp. 1681-1685, 2020-10-26."
 place: "Abu Dhabi, United Arab Emirates (UAE)"
-local: "https://www.notion.so/3c7d54c353c881f4ac32e64050fd02af"
 ---

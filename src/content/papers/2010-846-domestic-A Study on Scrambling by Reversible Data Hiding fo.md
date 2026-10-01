@@ -7,8 +7,7 @@ authorsEn:
   - "Masaaki FUJIYOSHI"
 date: "2010-09-15"
 type: "domestic"
-venueJa: "電子情報通信学会 ソサイエティ大会, Vol. ESS, pp. A-20-5, 2010-09-15."
-venueEn: "Society Conference of IEICE, Vol. ESS, pp. A-20-5, 2010-09-15."
+venueJa: "電子情報通信学会 ソサイエティ大会, Vol. ESS, No. A-20-5, pp. 175-175, 2010-09-15."
+venueEn: "Society Conference of IEICE, Vol. ESS, No. A-20-5, pp. 175-175, 2010-09-15."
 place: "大阪府堺市"
-local: "https://www.notion.so/3c7d54c353c881daa666dc3cd80f28d7"
 ---

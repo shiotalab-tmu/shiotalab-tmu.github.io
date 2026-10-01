@@ -14,5 +14,4 @@ type: "domestic"
 venueJa: "電子情報通信学会 総合大会, 2025-03-26."
 venueEn: "General Conference of IEICE, 2025-03-26."
 place: "東京都市大学　世田谷キャンパス"
-local: "https://www.notion.so/3c7d54c353c88123bfccc665d13d4f99"
 ---

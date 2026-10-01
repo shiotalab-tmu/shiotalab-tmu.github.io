@@ -9,10 +9,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2015-12-03"
 type: "domestic"
-venueJa: "電子情報通信学会 スマートインフォメディアシステム研究会, Vol. 115, No. 348, pp. SIS2015-35, 2015-12-03."
-venueEn: "Technical Report of IEICE, Vol. 115, No. 348, pp. SIS2015-35, 2015-12-03."
+venueJa: "電子情報通信学会 スマートインフォメディアシステム研究会, Vol. 115, No. 348, No. SIS2015-35, pp. 35-40, 2015-12-03."
+venueEn: "Technical Report of IEICE, Vol. 115, No. 348, No. SIS2015-35, pp. 35-40, 2015-12-03."
 place: "福井県"
 url: "http://www.ieice.org/ken/paper/20151203wbeb/eng/"
 webpage: "http://www.ieice.org/ken/paper/20151203wbeb/eng/"
-local: "https://www.notion.so/3c7d54c353c881bcbc86e819e9fead6a"
 ---

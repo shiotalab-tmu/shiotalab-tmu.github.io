@@ -11,8 +11,7 @@ authorsEn:
   - "Masahiro IWAHASHI"
 date: "2011-11-17"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理シンポジウム, pp. A5-1, 2011-11-17."
-venueEn: "IEICE Signal Processing Symposium, pp. A5-1, 2011-11-17."
+venueJa: "電子情報通信学会 信号処理シンポジウム, No. A5-1, pp. 99-104, 2011-11-17."
+venueEn: "IEICE Signal Processing Symposium, No. A5-1, pp. 99-104, 2011-11-17."
 place: "札幌市白石区"
-local: "https://www.notion.so/3c7d54c353c88121a720f6db3f32b618"
 ---

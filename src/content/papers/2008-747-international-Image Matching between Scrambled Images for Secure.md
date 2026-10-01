@@ -8,10 +8,9 @@ authorsEn:
   - "Izumi ITO"
 date: "2008-08-28"
 type: "international"
-venueJa: "EURASIP European Signal Processing Conference, pp. L4-3.5, 2008-08-28."
-venueEn: "EURASIP European Signal Processing Conference, pp. L4-3.5, 2008-08-28."
+venueJa: "EURASIP European Signal Processing Conference, No. L4-3.5, 2008-08-28."
+venueEn: "EURASIP European Signal Processing Conference, No. L4-3.5, 2008-08-28."
 place: "Lausanne, Switzerland"
 url: "http://www.eurasip.org/Proceedings/Eusipco/Eusipco2008/papers/1569102164.pdf"
 publish: "http://www.eurasip.org/Proceedings/Eusipco/Eusipco2008/papers/1569102164.pdf"
-local: "https://www.notion.so/3c7d54c353c8819d9074d66701163be4"
 ---
