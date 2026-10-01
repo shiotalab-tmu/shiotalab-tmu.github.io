@@ -1,6 +1,5 @@
 ---
 titleJa: "符号化パスの削除によるJPEG 2000符号化画像のRTP伝送における画質劣化抑制法"
-titleEn: "Image Degradation Control Scheme of JPEG 2000 Coded Image Transmitted over RTP by Discarding Coding Passes"
 authorsJa:
   - "長藁 真一"
   - "西川 清史"
@@ -11,7 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2005-03-24"
 type: "domestic"
-venueJa: "電子情報通信学会 総合大会, Vol. 情報・システム, pp. D-11-66, 2005-03-24."
-venueEn: "General Conference of IEICE, Vol. 情報・システム, pp. D-11-66, 2005-03-24."
+venueJa: "電子情報通信学会 総合大会, pp. D-11-66, 2005-03-24."
+venueEn: "General Conference of IEICE, pp. D-11-66, 2005-03-24."
 place: "大阪府豊中市"
 ---
