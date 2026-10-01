@@ -13,4 +13,5 @@ type: "international"
 venueJa: "IEEE Global Conference on Consumer Electronics, pp. 379-383, 2018-10-10."
 venueEn: "IEEE Global Conference on Consumer Electronics, pp. 379-383, 2018-10-10."
 place: "Nara, Japan"
+local: "https://www.notion.so/3c7d54c353c881e2b129e46ee25737ec"
 ---

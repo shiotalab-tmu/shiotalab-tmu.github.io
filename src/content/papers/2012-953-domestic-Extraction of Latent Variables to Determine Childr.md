@@ -14,4 +14,5 @@ type: "domestic"
 venueJa: "日本教育工学会 全国大会, pp. 3a-242-04, 2012-09-17."
 venueEn: "JSET Annual Conference, pp. 3a-242-04, 2012-09-17."
 place: "長崎県長崎市"
+local: "https://www.notion.so/3c7d54c353c88100a051f25bd6f0a5de"
 ---

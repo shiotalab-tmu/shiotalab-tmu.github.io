@@ -14,4 +14,5 @@ type: "domestic"
 venueJa: "電子情報通信学会 ソサイエティ大会, Vol. ESS, pp. A-4-8, 2011-09-14."
 venueEn: "Society Conference of IEICE, Vol. ESS, pp. A-4-8, 2011-09-14."
 place: "札幌市北区"
+local: "https://www.notion.so/3c7d54c353c88115ae70fa72f2a97ebb"
 ---

@@ -16,4 +16,5 @@ venueEn: "Technical Report of IEICE, Vol. 112, No. 248, pp. IE2012-65, 2012-10-1
 place: "岩手県盛岡市"
 url: "http://www.ieice.org/ken/paper/20121018l0xs/eng/"
 webpage: "http://www.ieice.org/ken/paper/20121018l0xs/eng/"
+local: "https://www.notion.so/3c7d54c353c8810ab7caf74c9b666f97"
 ---

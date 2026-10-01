@@ -18,4 +18,5 @@ venueEn: "Technical Report of IEICE, Vol. IEICE-118, pp. 73, 2018-06-07."
 place: "北海道札幌市"
 url: "https://www.ieice.org/ken/paper/20180607W1Ez/eng/"
 webpage: "https://www.ieice.org/ken/paper/20180607W1Ez/eng/"
+local: "https://www.notion.so/3c7d54c353c881b29ac1cb78396aec8d"
 ---

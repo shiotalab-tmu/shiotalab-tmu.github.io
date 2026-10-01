@@ -20,4 +20,5 @@ venueEn: "Technical Report of IEICE, Vol. 117, No. 432, pp. IE2017-114, 2018-02-
 place: "北海道大学"
 url: "http://www.ieice.org/ken/paper/20180216p11P/eng/"
 webpage: "http://www.ieice.org/ken/paper/20180216p11P/eng/"
+local: "https://www.notion.so/3c7d54c353c88155b247eca0a48b6b95"
 ---

@@ -14,4 +14,5 @@ type: "domestic"
 venueJa: "日本教育工学会 全国大会, pp. 3a-305-02, 2010-09-20."
 venueEn: "JSET Annual Conference, pp. 3a-305-02, 2010-09-20."
 place: "名古屋市守山区"
+local: "https://www.notion.so/3c7d54c353c8813ba587c28deb417755"
 ---

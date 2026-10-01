@@ -13,4 +13,5 @@ type: "international"
 venueJa: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, 2016-10-25."
 venueEn: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, 2016-10-25."
 place: "Phuket, Thailand"
+local: "https://www.notion.so/3c7d54c353c8819180cac44270871c63"
 ---

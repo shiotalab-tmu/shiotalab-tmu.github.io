@@ -15,4 +15,5 @@ date: "2020-09-10"
 type: "domestic"
 venueJa: "日本音響学会秋季大会, pp. 2-2-5, 2020-09-10."
 venueEn: "Acoustical Society of Japan Autumn Meeting, pp. 2-2-5, 2020-09-10."
+local: "https://www.notion.so/3c7d54c353c881c190bbc3512916ecab"
 ---

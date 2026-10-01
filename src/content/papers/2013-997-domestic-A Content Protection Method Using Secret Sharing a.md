@@ -19,4 +19,5 @@ place: "札幌コンベンションセンター "
 url: "http://www.ieice.org/ken/paper/20130718xBex/eng/"
 webpage: "http://www.ieice.org/ken/paper/20130718xBex/eng/"
 publish: "https://www.ieice.org/ken/user/index.php?cmd=login&back_url=http%3A%2F%2Fwww.ieice.org%2Fken%2Fpaper%2F20130718xBex%2F"
+local: "https://www.notion.so/3c7d54c353c88116a590fe6bdfb17cfe"
 ---

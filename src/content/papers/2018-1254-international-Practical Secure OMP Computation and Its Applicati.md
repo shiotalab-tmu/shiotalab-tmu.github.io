@@ -11,4 +11,5 @@ type: "international"
 venueJa: "International Conference on Information Hiding and Image Processing, 2018-09-23."
 venueEn: "International Conference on Information Hiding and Image Processing, 2018-09-23."
 place: "Manchester, UK"
+local: "https://www.notion.so/3c7d54c353c88185900addb5bbd00bfb"
 ---

@@ -11,4 +11,5 @@ type: "international"
 venueJa: "IEEE International Conference on Image Processing, pp. MA-PD.7, 2010-09-27."
 venueEn: "IEEE International Conference on Image Processing, pp. MA-PD.7, 2010-09-27."
 place: "Hong Kong"
+local: "https://www.notion.so/3c7d54c353c881069b86d6b3ff5569f2"
 ---

@@ -13,4 +13,5 @@ type: "international"
 venueJa: "IEEE Global Conference on Consumer Electronics, 2019-10-15."
 venueEn: "IEEE Global Conference on Consumer Electronics, 2019-10-15."
 place: "Osaka, Japan"
+local: "https://www.notion.so/3c7d54c353c88101b297d398220392d4"
 ---

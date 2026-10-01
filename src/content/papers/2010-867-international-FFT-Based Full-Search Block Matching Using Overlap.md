@@ -13,4 +13,5 @@ type: "international"
 venueJa: "Picture Coding Symposium, pp. P4-28, 2010-12-10."
 venueEn: "Picture Coding Symposium, pp. P4-28, 2010-12-10."
 place: "Nagoya, Japan"
+local: "https://www.notion.so/3c7d54c353c8814f9eaade1269a2816b"
 ---

@@ -14,4 +14,5 @@ venueEn: "Technical Report of IEICE, Vol. 111, No. 466, pp. SIP2011-139, 2012-03
 place: "新潟市中央区"
 url: "http://www.ieice.org/ken/paper/20120308r0p9/eng/"
 webpage: "http://www.ieice.org/ken/paper/20120308r0p9/eng/"
+local: "https://www.notion.so/3c7d54c353c881af9265d3124f7e8d73"
 ---

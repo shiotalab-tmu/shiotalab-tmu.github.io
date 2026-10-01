@@ -16,4 +16,5 @@ venueEn: "ITE Technical Report, Vol. 36, No. 8, pp. ME2012-10, 2012-02-18."
 place: "横浜市中区"
 url: "http://www.ite.or.jp/ken/paper/20120218ZACu/eng/"
 webpage: "http://www.ite.or.jp/ken/paper/20120218ZACu/eng/"
+local: "https://www.notion.so/3c7d54c353c88127ac1adf7c7ff5d09b"
 ---

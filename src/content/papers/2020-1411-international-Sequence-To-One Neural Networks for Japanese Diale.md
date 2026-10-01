@@ -15,4 +15,5 @@ type: "international"
 venueJa: "IEEE Global Conference on Consumer Electronics, pp. 474-476, 2020-10-14."
 venueEn: "IEEE Global Conference on Consumer Electronics, pp. 474-476, 2020-10-14."
 place: "Kobe"
+local: "https://www.notion.so/3c7d54c353c88133a835c83ef1f127a9"
 ---

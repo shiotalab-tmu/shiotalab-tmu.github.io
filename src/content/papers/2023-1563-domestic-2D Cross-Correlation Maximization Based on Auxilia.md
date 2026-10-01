@@ -14,4 +14,5 @@ type: "domestic"
 venueJa: "電子情報通信学会 信号処理シンポジウム, 2023-11-08."
 venueEn: "IEICE Signal Processing Symposium, 2023-11-08."
 place: "京都テルサ"
+local: "https://www.notion.so/3c7d54c353c8819fb20ac66ae397b596"
 ---

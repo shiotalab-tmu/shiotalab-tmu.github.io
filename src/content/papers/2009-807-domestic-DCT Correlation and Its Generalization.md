@@ -12,4 +12,5 @@ type: "domestic"
 venueJa: "電子情報通信学会 画像符号化シンポジウム, pp. P-5.02, 2009-10-08."
 venueEn: "IEICE Picture Coding Symposium of Japan, pp. P-5.02, 2009-10-08."
 place: "静岡県伊豆市"
+local: "https://www.notion.so/3c7d54c353c8817db912c5c98b7807d1"
 ---

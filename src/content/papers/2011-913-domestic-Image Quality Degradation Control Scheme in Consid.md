@@ -12,4 +12,5 @@ type: "domestic"
 venueJa: "電子情報通信学会 信号処理シンポジウム, pp. A10-3, 2011-11-18."
 venueEn: "IEICE Signal Processing Symposium, pp. A10-3, 2011-11-18."
 place: "札幌市白石区"
+local: "https://www.notion.so/3c7d54c353c881b193bed12330913457"
 ---

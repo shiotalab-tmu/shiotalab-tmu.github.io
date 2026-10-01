@@ -18,4 +18,5 @@ venueEn: "Technical Report of IEICE, Vol. 116, No. 464, pp. IE2016-103, 2017-02-
 place: "札幌市北区"
 url: "http://www.ieice.org/ken/paper/20170220sbQY/eng/"
 webpage: "http://www.ieice.org/ken/paper/20170220sbQY/eng/"
+local: "https://www.notion.so/3c7d54c353c881c695cac5563e30b353"
 ---

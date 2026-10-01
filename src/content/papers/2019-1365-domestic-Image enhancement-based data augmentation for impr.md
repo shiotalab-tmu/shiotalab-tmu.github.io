@@ -16,4 +16,5 @@ venueEn: "Technical Report of IEICE, Vol. 119, No. 240, pp. SIS2019-11, 2019-10-
 place: "福井"
 url: "https://www.ieice.org/ken/paper/20191024r1QG/eng/"
 webpage: "https://www.ieice.org/ken/paper/20191024r1QG/eng/"
+local: "https://www.notion.so/3c7d54c353c8814a854cf8dc4327ae1c"
 ---

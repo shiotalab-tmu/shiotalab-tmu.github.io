@@ -12,4 +12,5 @@ type: "domestic"
 venueJa: "電子情報通信学会 ソサイエティ大会, Vol. ESS, pp. A-4-15, 2009-09-16."
 venueEn: "Society Conference of IEICE, Vol. ESS, pp. A-4-15, 2009-09-16."
 place: "新潟市西区"
+local: "https://www.notion.so/3c7d54c353c881e8a6d0f4b26159d8cd"
 ---

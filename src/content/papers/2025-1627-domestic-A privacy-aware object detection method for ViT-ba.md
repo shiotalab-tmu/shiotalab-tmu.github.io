@@ -14,4 +14,5 @@ type: "domestic"
 venueJa: "電子情報通信学会 信号処理シンポジウム, 2025-11-26."
 venueEn: "IEICE Signal Processing Symposium, 2025-11-26."
 place: "ホテルレイクビュー水戸"
+local: "https://www.notion.so/3c7d54c353c88196836bf01631057edc"
 ---

@@ -11,4 +11,5 @@ type: "international"
 venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. P4-13, 2011-06-21."
 venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. P4-13, 2011-06-21."
 place: "Gyeongju, Korea"
+local: "https://www.notion.so/3c7d54c353c881c39bfbe5619d8dfe76"
 ---

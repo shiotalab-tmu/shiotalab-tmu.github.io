@@ -12,4 +12,5 @@ venueEn: "ITE Technical Report, Vol. 35, No. 52, pp. ME2011-139, 2011-12-12."
 place: "熊本県熊本市"
 url: "http://www.ite.or.jp/ken/paper/20111212ZACE/eng/"
 webpage: "http://www.ite.or.jp/ken/paper/20111212ZACE/eng/"
+local: "https://www.notion.so/3c7d54c353c881fd8ae2d3a15c2f2949"
 ---

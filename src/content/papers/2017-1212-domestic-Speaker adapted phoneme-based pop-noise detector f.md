@@ -14,4 +14,5 @@ type: "domestic"
 venueJa: "日本音響学会秋季大会, pp. 2-Q-16, 2017-09-26."
 venueEn: "Acoustical Society of Japan Autumn Meeting, pp. 2-Q-16, 2017-09-26."
 place: "愛媛県松山市"
+local: "https://www.notion.so/3c7d54c353c8810ea47ad4f703256d6a"
 ---

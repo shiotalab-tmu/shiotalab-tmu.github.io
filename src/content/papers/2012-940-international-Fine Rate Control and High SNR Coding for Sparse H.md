@@ -13,4 +13,5 @@ type: "international"
 venueJa: "Picture Coding Symposium, pp. P2a-9, 2012-05-08."
 venueEn: "Picture Coding Symposium, pp. P2a-9, 2012-05-08."
 place: "Krakow, Poland"
+local: "https://www.notion.so/3c7d54c353c88186ac17fcda358a8e18"
 ---

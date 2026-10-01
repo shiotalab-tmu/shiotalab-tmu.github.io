@@ -15,4 +15,5 @@ venueJa: "電子情報通信学会 論文誌, Vol. J77-A, No. 12, pp. 1632-1639,
 venueEn: "IEICE Trans., Vol. J77-A, No. 12, pp. 1632-1639, 1994-12-01."
 url: "http://search.ieice.org/bin/summary.php?id=j77-a_12_1632&category=A&year=1994&lang=E&abst=j"
 webpage: "http://search.ieice.org/bin/summary.php?id=j77-a_12_1632&category=A&year=1994&lang=E&abst=j"
+local: "https://www.notion.so/3c7d54c353c881e18b5ed9f9b8faf608"
 ---

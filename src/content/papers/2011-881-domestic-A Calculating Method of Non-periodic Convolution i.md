@@ -14,4 +14,5 @@ venueEn: "Technical Report of IEICE, Vol. 110, No. 368, pp. SIP2010-94, 2011-01-
 place: "鹿児島県屋久島町"
 url: "http://www.ieice.org/ken/paper/20110120m0dp/eng/"
 webpage: "http://www.ieice.org/ken/paper/20110120m0dp/eng/"
+local: "https://www.notion.so/3c7d54c353c8810aa0b9dac2498ea917"
 ---

@@ -13,4 +13,5 @@ type: "international"
 venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. S20-B4.1, 2009-07-07."
 venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. S20-B4.1, 2009-07-07."
 place: "Jeju, Korea"
+local: "https://www.notion.so/3c7d54c353c881db9b05c7003f83f5d6"
 ---

@@ -16,4 +16,5 @@ venueEn: "Technical Report of IEICE, Vol. 124, No. 162, pp. SIP2024-47, 2024-08-
 place: "福井大学文京キャンパス"
 url: "https://ken.ieice.org/ken/paper/20240826kceH/"
 webpage: "https://ken.ieice.org/ken/paper/20240826kceH/"
+local: "https://www.notion.so/3c7d54c353c881899939c4eb121d8a8e"
 ---

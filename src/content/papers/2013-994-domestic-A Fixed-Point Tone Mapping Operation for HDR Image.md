@@ -18,4 +18,5 @@ venueEn: "Technical Report of IEICE, Vol. 113, No. 120, pp. SIP2013-37, 2013-07-
 place: "熊本県熊本市"
 url: "http://www.ieice.org/ken/paper/201307110BFN/eng/"
 webpage: "http://www.ieice.org/ken/paper/201307110BFN/eng/"
+local: "https://www.notion.so/3c7d54c353c8817fb1a9cbb9d3c358e7"
 ---

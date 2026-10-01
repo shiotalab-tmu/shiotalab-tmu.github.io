@@ -17,4 +17,5 @@ venueEn: "IEEE International Conference on Acoustics, Speech and Signal Processi
 place: "Brisbane, Australia"
 url: "http://icassp2015.org/"
 webpage: "http://icassp2015.org/"
+local: "https://www.notion.so/3c7d54c353c88177ba69f457fab747f3"
 ---

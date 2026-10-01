@@ -17,4 +17,5 @@ place: "沖縄県石垣市"
 url: "http://www.ieice.org/ken/paper/20110303z05N/eng/"
 webpage: "http://www.ieice.org/ken/paper/20110303z05N/eng/"
 publish: "https://www.ieice.org/ken/user/index.php?cmd=login&back_url=http%3A%2F%2Fwww.ieice.org%2Fken%2Fpaper%2F20110303z05N%2F"
+local: "https://www.notion.so/3c7d54c353c88141b5ffd7f233f4b7f7"
 ---

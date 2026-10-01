@@ -14,4 +14,5 @@ type: "domestic"
 venueJa: "電子情報通信学会 マルチメディア情報ハイディング研究会, pp. 31-36, 2010-10-08."
 venueEn: "Technical Report of IEICE, pp. 31-36, 2010-10-08."
 place: "長崎県長崎市"
+local: "https://www.notion.so/3c7d54c353c8818c857ddef799484d4c"
 ---

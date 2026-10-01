@@ -12,4 +12,5 @@ type: "domestic"
 venueJa: "電子情報通信学会 総合大会, Vol. ESS, pp. A-4-23, 2011-03-15."
 venueEn: "General Conference of IEICE, Vol. ESS, pp. A-4-23, 2011-03-15."
 place: "東京都世田谷区"
+local: "https://www.notion.so/3c7d54c353c881998440e67ba8550e5b"
 ---

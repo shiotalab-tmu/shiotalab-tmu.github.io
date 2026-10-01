@@ -11,4 +11,5 @@ type: "international"
 venueJa: "APSIPA Annual Summit and Conference, pp. OS.49-IVM.17-5, 2012-12-06."
 venueEn: "APSIPA Annual Summit and Conference, pp. OS.49-IVM.17-5, 2012-12-06."
 place: "Los Angeles, CA, the U.S."
+local: "https://www.notion.so/3c7d54c353c88197805ac10c03141645"
 ---

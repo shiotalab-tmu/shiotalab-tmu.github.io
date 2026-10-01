@@ -16,4 +16,5 @@ venueEn: "Technical Report of IEICE, Vol. 118, No. 473, pp. SIS2018-43, 2019-03-
 place: "東京都葛飾区"
 url: "https://www.ieice.org/ken/paper/20190306L1lb/eng/"
 webpage: "https://www.ieice.org/ken/paper/20190306L1lb/eng/"
+local: "https://www.notion.so/3c7d54c353c881a49513d6a51a3ee588"
 ---

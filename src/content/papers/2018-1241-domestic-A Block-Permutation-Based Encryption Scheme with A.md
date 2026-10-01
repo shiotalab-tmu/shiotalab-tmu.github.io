@@ -14,4 +14,5 @@ type: "domestic"
 venueJa: "電気学会システム研究会, Vol. 2018, No. 1, pp. 35-40, 2018-01-27."
 venueEn: "IEEJ Technical Report, Vol. 2018, No. 1, pp. 35-40, 2018-01-27."
 place: "千葉県千葉市"
+local: "https://www.notion.so/3c7d54c353c881e4b5f7d048cbe7521b"
 ---

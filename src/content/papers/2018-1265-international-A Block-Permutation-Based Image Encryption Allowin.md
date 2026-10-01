@@ -13,4 +13,5 @@ type: "international"
 venueJa: "APSIPA Annual Summit and Conference, 2018-11-12."
 venueEn: "APSIPA Annual Summit and Conference, 2018-11-12."
 place: "Honolulu, Hawaii, USA"
+local: "https://www.notion.so/3c7d54c353c8817b9ea4f54b2a32d2f5"
 ---

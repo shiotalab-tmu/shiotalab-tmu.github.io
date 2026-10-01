@@ -21,4 +21,5 @@ venueJa: "電子情報通信学会 論文誌, Vol. J93-A, No. 3, pp. 212-215, 20
 venueEn: "IEICE Trans., Vol. J93-A, No. 3, pp. 212-215, 2010-03-01."
 url: "http://search.ieice.org/bin/summary.php?id=j93-a_3_212&category=A&year=2010&lang=E&abst=j"
 webpage: "http://search.ieice.org/bin/summary.php?id=j93-a_3_212&category=A&year=2010&lang=E&abst=j"
+local: "https://www.notion.so/3c7d54c353c8818eb5c4f2776e2bd466"
 ---

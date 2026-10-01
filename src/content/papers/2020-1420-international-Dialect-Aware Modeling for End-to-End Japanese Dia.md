@@ -17,4 +17,5 @@ venueEn: "APSIPA Annual Summit and Conference, pp. 297-301, 2020-12-08."
 place: "Auckland, New Zealand"
 url: "https://ieeexplore.ieee.org/document/9306499"
 webpage: "https://ieeexplore.ieee.org/document/9306499"
+local: "https://www.notion.so/3c7d54c353c881458c44f21b8156d2bc"
 ---

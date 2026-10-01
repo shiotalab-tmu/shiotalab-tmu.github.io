@@ -18,4 +18,5 @@ place: "Shimonoseki, Yamaguchi, Japan"
 url: "http://www.ieice.org/proceedings/ITC-CSCC2008/program/A3_abst.html#A3-3"
 webpage: "http://www.ieice.org/proceedings/ITC-CSCC2008/program/A3_abst.html#A3-3"
 publish: "http://www.ieice.org/proceedings/ITC-CSCC2008/pdf/p49_A3-3.pdf"
+local: "https://www.notion.so/3c7d54c353c881de8944f48f7b155558"
 ---

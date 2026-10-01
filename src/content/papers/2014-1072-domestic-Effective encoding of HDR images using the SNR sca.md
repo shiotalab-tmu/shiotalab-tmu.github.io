@@ -16,4 +16,5 @@ venueEn: "Technical Report of IEICE, Vol. 114, No. 370, pp. SIS2014-67, 2014-12-
 place: "京都市"
 url: "http://www.ieice.org/ken/paper/20141218nBub/eng/"
 webpage: "http://www.ieice.org/ken/paper/20141218nBub/eng/"
+local: "https://www.notion.so/3c7d54c353c8816a8404e418066df58b"
 ---

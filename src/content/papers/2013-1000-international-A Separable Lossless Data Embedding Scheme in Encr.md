@@ -12,4 +12,5 @@ place: "Marrakech, Morocco"
 url: "http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=6811762"
 webpage: "http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=6811762"
 publish: "http://www.eurasip.org/Proceedings/Eusipco/Eusipco2013/papers/1569746443.pdf"
+local: "https://www.notion.so/3c7d54c353c8811a906bf006efebe3fd"
 ---

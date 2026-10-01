@@ -13,4 +13,5 @@ type: "international"
 venueJa: "International Workshop on Signal Design and its Applications in Communications, 2017-09-25."
 venueEn: "International Workshop on Signal Design and its Applications in Communications, 2017-09-25."
 place: "Sapporo, Hokkaido, Japan"
+local: "https://www.notion.so/3c7d54c353c881da9966ea79bc82c403"
 ---

@@ -11,4 +11,5 @@ type: "international"
 venueJa: "APSIPA Annual Summit and Conference, pp. Wed-AM.RS12.1, 2011-10-19."
 venueEn: "APSIPA Annual Summit and Conference, pp. Wed-AM.RS12.1, 2011-10-19."
 place: "Xi'an, P.R.C."
+local: "https://www.notion.so/3c7d54c353c88154a83dd75b25b220f4"
 ---

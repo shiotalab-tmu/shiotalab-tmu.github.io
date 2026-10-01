@@ -16,4 +16,5 @@ venueEn: "Technical Report of IEICE, Vol. 110, No. 88, pp. SIP2010-38, 2010-06-2
 place: "北海道北見市"
 url: "http://www.ieice.org/ken/paper/20100622VaYT/eng/"
 webpage: "http://www.ieice.org/ken/paper/20100622VaYT/eng/"
+local: "https://www.notion.so/3c7d54c353c881168c4ac6eb463716cc"
 ---

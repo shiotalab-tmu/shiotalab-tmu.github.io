@@ -13,4 +13,5 @@ type: "international"
 venueJa: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. IVMSP-P2.8, 2012-03-27."
 venueEn: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. IVMSP-P2.8, 2012-03-27."
 place: "Kyoto, Japan"
+local: "https://www.notion.so/3c7d54c353c8811dbca7f572f5429f83"
 ---

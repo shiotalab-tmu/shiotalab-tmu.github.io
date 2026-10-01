@@ -15,4 +15,5 @@ venueJa: "電子情報通信学会 論文誌, Vol. J79-A, No. 1, pp. 125-134, 19
 venueEn: "IEICE Trans., Vol. J79-A, No. 1, pp. 125-134, 1996-01-01."
 url: "http://search.ieice.org/bin/summary.php?id=j79-a_1_125&category=A&year=1996&lang=E&abst=j"
 webpage: "http://search.ieice.org/bin/summary.php?id=j79-a_1_125&category=A&year=1996&lang=E&abst=j"
+local: "https://www.notion.so/3c7d54c353c8814d8026ea849a8e5c63"
 ---

@@ -18,4 +18,5 @@ venueEn: "Technical Report of IEICE, Vol. 125, No. 38, pp. EMM2025-7, 2025-05-29
 place: "長崎大学 文教キャンパス"
 url: "https://ken.ieice.org/ken/paper/20250529YcKB/eng/"
 webpage: "https://ken.ieice.org/ken/paper/20250529YcKB/eng/"
+local: "https://www.notion.so/3c7d54c353c88180ac65f3a409920a4e"
 ---

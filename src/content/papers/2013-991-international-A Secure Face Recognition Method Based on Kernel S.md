@@ -15,4 +15,5 @@ type: "international"
 venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. WE2-4, 2013-07-03."
 venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. WE2-4, 2013-07-03."
 place: "Yeosu, Korea"
+local: "https://www.notion.so/3c7d54c353c88180bed4ef89121817f6"
 ---

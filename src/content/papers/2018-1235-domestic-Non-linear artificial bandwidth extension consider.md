@@ -14,4 +14,5 @@ type: "domestic"
 venueJa: "日本音響学会春季大会, pp. 2-8-2, 2018-03-14."
 venueEn: "Acoustical Society of Japan Spring Meeting, pp. 2-8-2, 2018-03-14."
 place: "埼玉県南埼玉郡宮代町"
+local: "https://www.notion.so/3c7d54c353c88132a836e4f3d9a0d395"
 ---

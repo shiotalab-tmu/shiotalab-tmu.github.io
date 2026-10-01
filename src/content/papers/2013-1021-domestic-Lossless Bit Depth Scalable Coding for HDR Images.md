@@ -14,4 +14,5 @@ type: "domestic"
 venueJa: "電子情報通信学会 信号処理シンポジウム, pp. B3-1, 2013-11-21."
 venueEn: "IEICE Signal Processing Symposium, pp. B3-1, 2013-11-21."
 place: "山口県下関市"
+local: "https://www.notion.so/3c7d54c353c881fbb5f6cbd071da5213"
 ---

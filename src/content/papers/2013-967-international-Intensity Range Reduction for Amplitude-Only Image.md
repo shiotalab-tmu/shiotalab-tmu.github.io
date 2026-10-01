@@ -15,4 +15,5 @@ type: "international"
 venueJa: "International Workshop on Advanced Image Technology, pp. 5A-1, 2013-01-08."
 venueEn: "International Workshop on Advanced Image Technology, pp. 5A-1, 2013-01-08."
 place: "Nagoya，Japan"
+local: "https://www.notion.so/3c7d54c353c881e0beffcf373c0935f2"
 ---

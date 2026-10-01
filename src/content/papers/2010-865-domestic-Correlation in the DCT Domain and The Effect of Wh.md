@@ -12,4 +12,5 @@ type: "domestic"
 venueJa: "電子情報通信学会 信号処理シンポジウム, pp. C5-3, 2010-11-25."
 venueEn: "IEICE Signal Processing Symposium, pp. C5-3, 2010-11-25."
 place: "奈良県奈良市"
+local: "https://www.notion.so/3c7d54c353c88197b452d9a2c133e15b"
 ---

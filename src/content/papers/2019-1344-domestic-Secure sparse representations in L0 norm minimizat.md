@@ -12,4 +12,5 @@ type: "domestic"
 venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, Vol. 119, No. 207, pp. 25-30, 2019-09-19."
 venueEn: "Technical Report of IEICE, Vol. 119, No. 207, pp. 25-30, 2019-09-19."
 place: "新潟"
+local: "https://www.notion.so/3c7d54c353c8815fb57ee30f167bc0c3"
 ---

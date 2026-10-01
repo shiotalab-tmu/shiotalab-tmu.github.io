@@ -11,4 +11,5 @@ type: "international"
 venueJa: "APSIPA Annual Summit and Conference, pp. 679-682, 2010-12-16."
 venueEn: "APSIPA Annual Summit and Conference, pp. 679-682, 2010-12-16."
 place: "Biopolis, Singapore"
+local: "https://www.notion.so/3c7d54c353c88177ab7cd7e3513dcc77"
 ---

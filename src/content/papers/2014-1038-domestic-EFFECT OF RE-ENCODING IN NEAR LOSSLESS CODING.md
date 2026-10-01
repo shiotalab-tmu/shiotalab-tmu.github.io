@@ -16,4 +16,5 @@ venueEn: "General Conference of IEICE, Vol. ESS, pp. A-4-15, 2014-03-20."
 place: "新潟市西区"
 url: "http://www.gakkai-web.net/gakkai/ieice/G_2014/Settings/ab/a_04_014.html"
 webpage: "http://www.gakkai-web.net/gakkai/ieice/G_2014/Settings/ab/a_04_014.html"
+local: "https://www.notion.so/3c7d54c353c881208f2ee8fe01ba5ad3"
 ---

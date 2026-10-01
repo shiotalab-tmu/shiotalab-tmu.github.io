@@ -17,4 +17,5 @@ type: "international"
 venueJa: "International Workshop on Advanced Image Technology, pp. F-4, 2012-01-10."
 venueEn: "International Workshop on Advanced Image Technology, pp. F-4, 2012-01-10."
 place: "Ho Chi Minh City, Vietnam"
+local: "https://www.notion.so/3c7d54c353c8816eb010dd0f4b251888"
 ---

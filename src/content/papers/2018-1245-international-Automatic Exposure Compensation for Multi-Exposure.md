@@ -13,4 +13,5 @@ type: "international"
 venueJa: "IEEE International Conference on Image Processing, 2018-10-08."
 venueEn: "IEEE International Conference on Image Processing, 2018-10-08."
 place: "Athens, Greece"
+local: "https://www.notion.so/3c7d54c353c881a2ac8fdb8d6d831f4e"
 ---

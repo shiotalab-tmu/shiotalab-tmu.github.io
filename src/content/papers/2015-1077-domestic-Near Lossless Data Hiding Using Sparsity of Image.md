@@ -16,4 +16,5 @@ venueEn: "Technical Report of IEICE, Vol. 114, No. 511, pp. EMM2014-80, 2015-03-
 place: "石垣島"
 url: "http://www.ieice.org/ken/paper/201503121BYN/eng/"
 webpage: "http://www.ieice.org/ken/paper/201503121BYN/eng/"
+local: "https://www.notion.so/3c7d54c353c8812586c9dd4541835481"
 ---

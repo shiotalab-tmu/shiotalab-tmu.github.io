@@ -15,4 +15,5 @@ date: "2017-09-04"
 type: "domestic"
 venueJa: "電子情報通信学会 画像工学研究会, Vol. IEICE-117 , No. 200, pp. 13-18, 2017-09-04."
 venueEn: "Technical Report of IEICE, Vol. IEICE-117 , No. 200, pp. 13-18, 2017-09-04."
+local: "https://www.notion.so/3c7d54c353c8813d9bf3dd98f91e6563"
 ---

@@ -13,4 +13,5 @@ type: "international"
 venueJa: "International Workshop on Digital-Forensics and Watermarking, pp. 7.7, 2013-10-03."
 venueEn: "International Workshop on Digital-Forensics and Watermarking, pp. 7.7, 2013-10-03."
 place: "Auckland, New Zealand"
+local: "https://www.notion.so/3c7d54c353c8819697d3f52b6234937e"
 ---

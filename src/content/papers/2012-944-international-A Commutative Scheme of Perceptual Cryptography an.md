@@ -13,4 +13,5 @@ type: "international"
 venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. E-W1-04, 2012-07-18."
 venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. E-W1-04, 2012-07-18."
 place: "Sapporo, Japan"
+local: "https://www.notion.so/3c7d54c353c88175a890c0de25ca5079"
 ---

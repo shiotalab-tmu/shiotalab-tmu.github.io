@@ -16,4 +16,5 @@ venueEn: "Technical Report of IEICE, Vol. 109, No. 368, pp. SIP2009-85, 2010-01-
 place: "福岡市西区"
 url: "http://www.ieice.org/ken/paper/20100121caUm/eng/"
 webpage: "http://www.ieice.org/ken/paper/20100121caUm/eng/"
+local: "https://www.notion.so/3c7d54c353c8816cadc7ff705098f78a"
 ---

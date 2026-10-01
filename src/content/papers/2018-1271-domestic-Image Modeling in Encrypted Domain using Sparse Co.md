@@ -14,4 +14,5 @@ venueEn: "Technical Report of IEICE, Vol. 118, No. 224, pp. EMM2018-51, 2018-09-
 place: "大分県別府市"
 url: "https://www.ieice.org/ken/paper/20180927D1GE/eng/"
 webpage: "https://www.ieice.org/ken/paper/20180927D1GE/eng/"
+local: "https://www.notion.so/3c7d54c353c88166b1abe80f70288ccf"
 ---

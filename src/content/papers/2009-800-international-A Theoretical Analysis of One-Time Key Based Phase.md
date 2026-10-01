@@ -13,4 +13,5 @@ venueEn: "APSIPA Annual Summit and Conference, pp. MP-P2-1, 2009-10-05."
 place: "Sapporo, Japan"
 url: "http://apsipa.com/proceedings_2009/pdf/MP-P2-1.pdf"
 publish: "http://apsipa.com/proceedings_2009/pdf/MP-P2-1.pdf"
+local: "https://www.notion.so/3c7d54c353c881fd9fbce34a9235d6db"
 ---

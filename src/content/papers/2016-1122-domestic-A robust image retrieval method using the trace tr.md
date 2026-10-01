@@ -14,4 +14,5 @@ type: "domestic"
 venueJa: "映像情報メディア学会 メディア工学研究会, Vol. 40, No. 5, pp. ME2016-23, 2016-02-20."
 venueEn: "ITE Technical Report, Vol. 40, No. 5, pp. ME2016-23, 2016-02-20."
 place: "横浜市中区"
+local: "https://www.notion.so/3c7d54c353c881be926ac8392351ebe5"
 ---

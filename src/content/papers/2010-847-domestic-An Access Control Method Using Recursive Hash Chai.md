@@ -14,4 +14,5 @@ type: "domestic"
 venueJa: "電子情報通信学会 ソサイエティ大会, Vol. ESS, pp. A-7-10, 2010-09-17."
 venueEn: "Society Conference of IEICE, Vol. ESS, pp. A-7-10, 2010-09-17."
 place: "大阪府堺市"
+local: "https://www.notion.so/3c7d54c353c8813da50af557529901c0"
 ---

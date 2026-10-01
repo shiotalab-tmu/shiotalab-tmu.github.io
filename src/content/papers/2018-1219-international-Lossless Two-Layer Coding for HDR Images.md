@@ -13,4 +13,5 @@ type: "international"
 venueJa: "International Workshop on Advanced Image Technology, 2018-01-08."
 venueEn: "International Workshop on Advanced Image Technology, 2018-01-08."
 place: "Chiang Mai, Thailand"
+local: "https://www.notion.so/3c7d54c353c881c69c32dcea140efcf2"
 ---

@@ -19,4 +19,5 @@ type: "international"
 venueJa: "IEEE International Conference on Communications, pp. CSMA-02.5, 2011-06-06."
 venueEn: "IEEE International Conference on Communications, pp. CSMA-02.5, 2011-06-06."
 place: "Kyoto, Japan"
+local: "https://www.notion.so/3c7d54c353c881ff88cdd9f264ee9125"
 ---

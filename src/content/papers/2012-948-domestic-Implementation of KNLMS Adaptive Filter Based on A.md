@@ -14,4 +14,5 @@ type: "domestic"
 venueJa: "電子情報通信学会 ソサイエティ大会, Vol. ESS, pp. A-4-5, 2012-09-13."
 venueEn: "Society Conference of IEICE, Vol. ESS, pp. A-4-5, 2012-09-13."
 place: "富山県富山市"
+local: "https://www.notion.so/3c7d54c353c8817a8cd0d1debe164f4e"
 ---

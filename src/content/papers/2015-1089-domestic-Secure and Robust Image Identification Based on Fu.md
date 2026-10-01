@@ -14,4 +14,5 @@ type: "domestic"
 venueJa: "電子情報通信学会 情報セキュリティ研究会, Vol. １１５, No. 119, pp. 15, 2015-07-02."
 venueEn: "Technical Report of IEICE, Vol. １１５, No. 119, pp. 15, 2015-07-02."
 place: "愛知県名古屋市"
+local: "https://www.notion.so/3c7d54c353c88116a2cdef4b8ce9d3ff"
 ---

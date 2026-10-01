@@ -21,4 +21,5 @@ place: "札幌市北区"
 url: "http://www.ieice.org/ken/paper/20140217fB9z/eng/"
 webpage: "http://www.ieice.org/ken/paper/20140217fB9z/eng/"
 publish: "https://www.ieice.org/ken/user/index.php?cmd=login&back_url=http%3A%2F%2Fwww.ieice.org%2Fken%2Fpaper%2F20140217fB9z%2F"
+local: "https://www.notion.so/3c7d54c353c881d1a27cddfc76fb9c83"
 ---

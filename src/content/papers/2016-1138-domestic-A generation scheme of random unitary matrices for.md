@@ -14,4 +14,5 @@ type: "domestic"
 venueJa: "電子情報通信学会 信号処理研究会, Vol. 116, No. 95, pp.  SIP2016-48, 2016-06-16."
 venueEn: "Technical Report of IEICE, Vol. 116, No. 95, pp.  SIP2016-48, 2016-06-16."
 place: "青森県弘前市"
+local: "https://www.notion.so/3c7d54c353c881aa8508eb185696f851"
 ---

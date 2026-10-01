@@ -18,4 +18,5 @@ venueEn: "General Conference of IEICE, Vol. ESS, pp. A-4-28, 2013-03-20."
 place: "岐阜県岐阜市"
 url: "http://www.gakkai-web.net/gakkai/ieice/2013gpro/Settings/ab/a_04_028.html"
 webpage: "http://www.gakkai-web.net/gakkai/ieice/2013gpro/Settings/ab/a_04_028.html"
+local: "https://www.notion.so/3c7d54c353c8819cabc8fe237026763d"
 ---

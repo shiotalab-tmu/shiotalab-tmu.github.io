@@ -14,4 +14,5 @@ type: "domestic"
 venueJa: "電子情報通信学会 画像符号化シンポジウム, pp. P-2-01, 2013-11-06."
 venueEn: "IEICE Picture Coding Symposium of Japan, pp. P-2-01, 2013-11-06."
 place: "静岡県熱海市"
+local: "https://www.notion.so/3c7d54c353c88181a3cfd7e81180be94"
 ---

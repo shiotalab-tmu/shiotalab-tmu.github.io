@@ -11,4 +11,5 @@ type: "international"
 venueJa: "EURASIP European Signal Processing Conference, pp. TU-P6.1, 2013-09-10."
 venueEn: "EURASIP European Signal Processing Conference, pp. TU-P6.1, 2013-09-10."
 place: "Marrakech, Morocco"
+local: "https://www.notion.so/3c7d54c353c881ed926adc97b80aa9cf"
 ---

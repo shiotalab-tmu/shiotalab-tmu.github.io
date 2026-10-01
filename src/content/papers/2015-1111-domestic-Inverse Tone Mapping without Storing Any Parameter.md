@@ -18,4 +18,5 @@ venueEn: "Technical Report of IEICE, Vol. 115 , No. 348, pp. SIS2015-33, 2015-12
 place: "福井県あわら市"
 url: "http://www.ieice.org/ken/paper/20151203Ebec/eng/"
 webpage: "http://www.ieice.org/ken/paper/20151203Ebec/eng/"
+local: "https://www.notion.so/3c7d54c353c8813a9145d0cfbb078fca"
 ---

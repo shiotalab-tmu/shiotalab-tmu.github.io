@@ -11,4 +11,5 @@ type: "international"
 venueJa: "APSIPA Annual Summit and Conference, 2016-12-15."
 venueEn: "APSIPA Annual Summit and Conference, 2016-12-15."
 place: "Jeju, Korea"
+local: "https://www.notion.so/3c7d54c353c8813cb9f7ecc8bdb2f3f1"
 ---

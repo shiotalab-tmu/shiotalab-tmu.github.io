@@ -14,4 +14,5 @@ venueEn: "Technical Report of IEICE, Vol. 120, No. 51, pp. SIS2020-1, 2020-06-03
 place: "オンライン開催"
 url: "https://www.ieice.org/ken/paper/20200603h1YW/eng/"
 webpage: "https://www.ieice.org/ken/paper/20200603h1YW/eng/"
+local: "https://www.notion.so/3c7d54c353c881d6b151c205a0ab86d6"
 ---

@@ -13,4 +13,5 @@ type: "international"
 venueJa: "IEEE International Conference on Image Processing, pp. IFS-P2.9, 2014-10-30."
 venueEn: "IEEE International Conference on Image Processing, pp. IFS-P2.9, 2014-10-30."
 place: "Paris, France"
+local: "https://www.notion.so/3c7d54c353c8811ea6adee5dc8601364"
 ---

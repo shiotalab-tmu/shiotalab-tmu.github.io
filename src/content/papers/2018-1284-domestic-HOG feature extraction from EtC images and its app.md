@@ -12,4 +12,5 @@ type: "domestic"
 venueJa: "電子情報通信学会 スマートインフォメディアシステム研究会, Vol. IEICE-118, No. 264, pp. 13-18, 2018-10-25."
 venueEn: "Technical Report of IEICE, Vol. IEICE-118, No. 264, pp. 13-18, 2018-10-25."
 place: "京都大学 百周年時計台記念館"
+local: "https://www.notion.so/3c7d54c353c881e08c76e3b5a0b7315c"
 ---

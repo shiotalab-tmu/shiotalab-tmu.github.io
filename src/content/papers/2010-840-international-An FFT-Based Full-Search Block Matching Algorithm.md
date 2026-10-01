@@ -13,4 +13,5 @@ type: "international"
 venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. 0204, 2010-07-05."
 venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. 0204, 2010-07-05."
 place: "Pattaya, Thailand"
+local: "https://www.notion.so/3c7d54c353c8812e8ab1dbb4d9341716"
 ---

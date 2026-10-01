@@ -17,4 +17,5 @@ type: "international"
 venueJa: "International Workshop on Advanced Image Technology, pp. O.III.2-6, 2011-01-07."
 venueEn: "International Workshop on Advanced Image Technology, pp. O.III.2-6, 2011-01-07."
 place: "Jakarta, Indonesia"
+local: "https://www.notion.so/3c7d54c353c881718b68c016424dc7be"
 ---

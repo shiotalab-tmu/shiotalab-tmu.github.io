@@ -16,4 +16,5 @@ place: "山口県山口市"
 url: "http://www.ieice.org/ken/paper/20120828A0Wa/eng/"
 webpage: "http://www.ieice.org/ken/paper/20120828A0Wa/eng/"
 publish: "https://www.ieice.org/ken/user/index.php?cmd=login&back_url=http%3A%2F%2Fwww.ieice.org%2Fken%2Fpaper%2F20120828A0Wa%2F"
+local: "https://www.notion.so/3c7d54c353c88113b299ee264649ba11"
 ---

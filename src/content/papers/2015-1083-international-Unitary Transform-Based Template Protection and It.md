@@ -13,4 +13,5 @@ type: "international"
 venueJa: "EURASIP European Signal Processing Conference, pp. SIPA-P3.4, 2015-09-04."
 venueEn: "EURASIP European Signal Processing Conference, pp. SIPA-P3.4, 2015-09-04."
 place: "Nice Cote d'Azur, France"
+local: "https://www.notion.so/3c7d54c353c8818dbea2dee4cb8cd61d"
 ---
