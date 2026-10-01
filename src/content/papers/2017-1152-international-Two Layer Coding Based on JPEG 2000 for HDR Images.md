@@ -11,5 +11,4 @@ type: "international"
 venueJa: "International Workshop on Advanced Image Technology, 2017-01-08."
 venueEn: "International Workshop on Advanced Image Technology, 2017-01-08."
 place: "Penang, Malaysia"
-local: "https://www.notion.so/3c7d54c353c881bd9790f1e52b0ebe2a"
 ---

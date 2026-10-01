@@ -9,10 +9,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2011-07-25"
 type: "domestic"
-venueJa: "映像情報メディア学会 メディア工学研究会, Vol. 35, No. 30, pp. ME2011-76, 2011-07-25."
-venueEn: "ITE Technical Report, Vol. 35, No. 30, pp. ME2011-76, 2011-07-25."
+venueJa: "映像情報メディア学会 メディア工学研究会, Vol. 35, No. 30, No. ME2011-76, pp. 7-11, 2011-07-25."
+venueEn: "ITE Technical Report, Vol. 35, No. 30, No. ME2011-76, pp. 7-11, 2011-07-25."
 place: "大阪府豊中市"
 url: "http://www.ite.or.jp/ken/paper/20110725kAbx/eng/"
 webpage: "http://www.ite.or.jp/ken/paper/20110725kAbx/eng/"
-local: "https://www.notion.so/3c7d54c353c8814ead3ef8cba5ab4ed8"
 ---

@@ -14,5 +14,4 @@ venueJa: "IEICE Trans. Fundamentals, Vol. E81-A, No. 6, pp. 1013-1020, 1998-06-0
 venueEn: "IEICE Trans. Fundamentals, Vol. E81-A, No. 6, pp. 1013-1020, 1998-06-01."
 url: "http://search.ieice.org/bin/summary.php?id=e81-a_6_1013&category=A&year=1998&lang=E&abst="
 webpage: "http://search.ieice.org/bin/summary.php?id=e81-a_6_1013&category=A&year=1998&lang=E&abst="
-local: "https://www.notion.so/3c7d54c353c881838ad8e9170c4fd11d"
 ---

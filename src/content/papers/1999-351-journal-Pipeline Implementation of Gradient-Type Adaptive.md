@@ -13,5 +13,4 @@ venueJa: "電子情報通信学会 論文誌, Vol. J82-A, No. 6, pp. 769-778, 19
 venueEn: "IEICE Trans., Vol. J82-A, No. 6, pp. 769-778, 1999-06-01."
 url: "http://search.ieice.org/bin/summary.php?id=j82-a_6_769&category=A&year=1999&lang=E&abst=j"
 webpage: "http://search.ieice.org/bin/summary.php?id=j82-a_6_769&category=A&year=1999&lang=E&abst=j"
-local: "https://www.notion.so/3c7d54c353c881548a25d55ad878eb3d"
 ---

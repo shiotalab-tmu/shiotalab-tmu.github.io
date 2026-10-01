@@ -13,5 +13,4 @@ type: "international"
 venueJa: "International Workshop on Advanced Image Technology, 2009-01-12."
 venueEn: "International Workshop on Advanced Image Technology, 2009-01-12."
 place: "Seoul, Korea"
-local: "https://www.notion.so/3c7d54c353c881ab82adc0d251580fdc"
 ---

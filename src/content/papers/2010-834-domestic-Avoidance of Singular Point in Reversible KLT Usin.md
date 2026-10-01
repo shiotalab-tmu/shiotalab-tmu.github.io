@@ -9,10 +9,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2010-04-26"
 type: "domestic"
-venueJa: "電子情報通信学会 画像工学研究会, Vol. 110, No. 22, pp. IE2010-5, 2010-04-26."
-venueEn: "Technical Report of IEICE, Vol. 110, No. 22, pp. IE2010-5, 2010-04-26."
+venueJa: "電子情報通信学会 画像工学研究会, Vol. 110, No. 22, No. IE2010-5, pp. 25-30, 2010-04-26."
+venueEn: "Technical Report of IEICE, Vol. 110, No. 22, No. IE2010-5, pp. 25-30, 2010-04-26."
 place: "栃木県宇都宮市"
 url: "http://www.ieice.org/ken/paper/20100426VaXQ/eng/"
 webpage: "http://www.ieice.org/ken/paper/20100426VaXQ/eng/"
-local: "https://www.notion.so/3c7d54c353c8816f8243f54c13c6dfef"
 ---

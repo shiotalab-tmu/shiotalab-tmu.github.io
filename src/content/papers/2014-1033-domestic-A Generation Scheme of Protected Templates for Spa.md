@@ -15,11 +15,10 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2014-02-17"
 type: "domestic"
-venueJa: "電子情報通信学会 画像工学研究会, Vol. 113, No. 433, pp. IE2013-107, 2014-02-17."
-venueEn: "Technical Report of IEICE, Vol. 113, No. 433, pp. IE2013-107, 2014-02-17."
+venueJa: "電子情報通信学会 画像工学研究会, Vol. 113, No. 433, No. IE2013-107, pp. 73-78, 2014-02-17."
+venueEn: "Technical Report of IEICE, Vol. 113, No. 433, No. IE2013-107, pp. 73-78, 2014-02-17."
 place: "札幌市北区"
 url: "http://www.ieice.org/ken/paper/201402179B9z/eng/"
 webpage: "http://www.ieice.org/ken/paper/201402179B9z/eng/"
 publish: "https://www.ieice.org/ken/user/index.php?cmd=login&back_url=http%3A%2F%2Fwww.ieice.org%2Fken%2Fpaper%2F201402179B9z%2F"
-local: "https://www.notion.so/3c7d54c353c881a9bd65d4f235d3d2e1"
 ---

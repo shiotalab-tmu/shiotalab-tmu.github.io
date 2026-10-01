@@ -12,5 +12,4 @@ date: "2009-02-01"
 type: "journal"
 venueJa: "SMPTE Motion Imaging J., Vol. 2009, pp. 50-56, 2009-02-01."
 venueEn: "SMPTE Motion Imaging J., Vol. 2009, pp. 50-56, 2009-02-01."
-local: "https://www.notion.so/3c7d54c353c881e89d9fd6131b957d06"
 ---

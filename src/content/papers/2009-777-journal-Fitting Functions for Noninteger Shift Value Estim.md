@@ -13,5 +13,4 @@ venueJa: "電子情報通信学会 論文誌, Vol. J92-A, No. 3, pp. 172-181, 20
 venueEn: "IEICE Trans., Vol. J92-A, No. 3, pp. 172-181, 2009-03-01."
 url: "http://search.ieice.org/bin/summary.php?id=j92-a_3_172&category=A&year=2009&lang=E&abst=j"
 webpage: "http://search.ieice.org/bin/summary.php?id=j92-a_3_172&category=A&year=2009&lang=E&abst=j"
-local: "https://www.notion.so/3c7d54c353c881ca9602f8bc131ba4b0"
 ---

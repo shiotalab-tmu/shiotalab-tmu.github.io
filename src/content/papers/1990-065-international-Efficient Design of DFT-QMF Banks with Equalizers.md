@@ -10,6 +10,6 @@ authorsEn:
   - "Masahiko SAGAWA"
 date: "1990-12-01"
 type: "international"
-venueJa: "Joint Technical Conference on Circuits/Systems, Computers and Communications, pp. J-28, 1990-12-01."
-venueEn: "Joint Technical Conference on Circuits/Systems, Computers and Communications, pp. J-28, 1990-12-01."
+venueJa: "Joint Technical Conference on Circuits/Systems, Computers and Communications, No. J-28, 1990-12-01."
+venueEn: "Joint Technical Conference on Circuits/Systems, Computers and Communications, No. J-28, 1990-12-01."
 ---

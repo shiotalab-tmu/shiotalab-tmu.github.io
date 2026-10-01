@@ -12,6 +12,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1999-06-01"
 type: "domestic"
-venueJa: "電子情報通信学会 回路とシステム研究会, pp. CAS99-31, 1999-06-01."
-venueEn: "Technical Report of IEICE, pp. CAS99-31, 1999-06-01."
+venueJa: "電子情報通信学会 回路とシステム研究会, No. CAS99-31, 1999-06-01."
+venueEn: "Technical Report of IEICE, No. CAS99-31, 1999-06-01."
 ---

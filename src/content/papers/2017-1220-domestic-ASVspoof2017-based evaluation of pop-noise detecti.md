@@ -11,8 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2017-11-13"
 type: "domestic"
-venueJa: "電子情報通信学会 バイオメトリクスと認識・認証シンポジウム, pp. S2-16, 2017-11-13."
-venueEn: "IEICE-BIOX Symposium on Biometrics, Recognition and Authentication, pp. S2-16, 2017-11-13."
+venueJa: "電子情報通信学会 バイオメトリクスと認識・認証シンポジウム, No. S2-16, 2017-11-13."
+venueEn: "IEICE-BIOX Symposium on Biometrics, Recognition and Authentication, No. S2-16, 2017-11-13."
 place: "東京都江東区"
-local: "https://www.notion.so/3c7d54c353c881c0b96df4a0b80d2e55"
 ---

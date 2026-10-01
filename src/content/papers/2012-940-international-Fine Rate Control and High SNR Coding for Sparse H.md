@@ -10,8 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2012-05-08"
 type: "international"
-venueJa: "Picture Coding Symposium, pp. P2a-9, 2012-05-08."
-venueEn: "Picture Coding Symposium, pp. P2a-9, 2012-05-08."
+venueJa: "Picture Coding Symposium, No. P2a-9, pp. 205-208, 2012-05-08."
+venueEn: "Picture Coding Symposium, No. P2a-9, pp. 205-208, 2012-05-08."
 place: "Krakow, Poland"
-local: "https://www.notion.so/3c7d54c353c88186ac17fcda358a8e18"
 ---

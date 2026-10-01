@@ -12,5 +12,4 @@ venueJa: "LNCS, Y. -S. Ho, J. Sang, Y. M. Ro, J. Kim, and F. Wu, Eds. Springer-V
 venueEn: "LNCS, Y. -S. Ho, J. Sang, Y. M. Ro, J. Kim, and F. Wu, Eds. Springer-Verlag, Vol. 9315, pp. 225-235, 2015-09-16."
 url: "https://doi.org/10.1007/978-3-319-24078-7_22"
 doi: "https://doi.org/10.1007/978-3-319-24078-7_22"
-local: "https://www.notion.so/3c7d54c353c8810688defd0183743eb1"
 ---

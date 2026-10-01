@@ -13,8 +13,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-09-14"
 type: "domestic"
-venueJa: "日本音響学会秋季大会, pp. 3-2-4, 2018-09-14."
-venueEn: "Acoustical Society of Japan Autumn Meeting, pp. 3-2-4, 2018-09-14."
+venueJa: "日本音響学会秋季大会, No. 3-2-4, pp. 1335-1338, 2018-09-14."
+venueEn: "Acoustical Society of Japan Autumn Meeting, No. 3-2-4, pp. 1335-1338, 2018-09-14."
 place: "大分県大分市"
-local: "https://www.notion.so/3c7d54c353c8815889b2c236fe304640"
 ---

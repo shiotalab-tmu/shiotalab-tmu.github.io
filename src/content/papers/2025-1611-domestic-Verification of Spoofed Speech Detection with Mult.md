@@ -12,5 +12,4 @@ type: "domestic"
 venueJa: "日本音響学会秋季大会, 2025-09-12."
 venueEn: "Acoustical Society of Japan Autumn Meeting, 2025-09-12."
 place: "東北工業大学 八木山キャンパス"
-local: "https://www.notion.so/3c7d54c353c88136b481c57602752be3"
 ---

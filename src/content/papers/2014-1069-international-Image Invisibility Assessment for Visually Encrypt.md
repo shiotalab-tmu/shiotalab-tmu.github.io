@@ -15,5 +15,4 @@ type: "international"
 venueJa: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, 2014-12-02."
 venueEn: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, 2014-12-02."
 place: "Kuching, Sarawak, Malaysia"
-local: "https://www.notion.so/3c7d54c353c881cdad13df7c86f0ee80"
 ---

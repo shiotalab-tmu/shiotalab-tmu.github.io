@@ -13,5 +13,4 @@ type: "international"
 venueJa: "APSIPA Annual Summit and Conference, 2025-10-24."
 venueEn: "APSIPA Annual Summit and Conference, 2025-10-24."
 place: "Shangri-la, Singapore"
-local: "https://www.notion.so/3c7d54c353c881d2aea6c4023543ec3b"
 ---

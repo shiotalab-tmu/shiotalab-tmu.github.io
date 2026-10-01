@@ -12,8 +12,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2014-01-06"
 type: "international"
-venueJa: "International Workshop on Advanced Image Technology, pp. A2-145, 2014-01-06."
-venueEn: "International Workshop on Advanced Image Technology, pp. A2-145, 2014-01-06."
+venueJa: "International Workshop on Advanced Image Technology, No. A2-145, pp. 24-27, 2014-01-06."
+venueEn: "International Workshop on Advanced Image Technology, No. A2-145, pp. 24-27, 2014-01-06."
 place: "Bangkok, Thailand"
-local: "https://www.notion.so/3c7d54c353c8814196b6ee5c71902405"
 ---

@@ -13,5 +13,4 @@ date: "2018-03-01"
 type: "journal"
 venueJa: "電子情報通信学会 論文誌, Vol. J101-D, No. 3, pp. 588-596, 2018-03-01."
 venueEn: "IEICE Trans., Vol. J101-D, No. 3, pp. 588-596, 2018-03-01."
-local: "https://www.notion.so/3c7d54c353c88169813df3fbe12f1c13"
 ---

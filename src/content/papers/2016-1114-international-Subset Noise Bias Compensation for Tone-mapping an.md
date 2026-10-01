@@ -15,5 +15,4 @@ type: "international"
 venueJa: "IEEE International Symposium on Circuits and Systems, pp. 2226-2229, 2016-05-22."
 venueEn: "IEEE International Symposium on Circuits and Systems, pp. 2226-2229, 2016-05-22."
 place: "Montreal, Canada"
-local: "https://www.notion.so/3c7d54c353c881709720e0bd0985a48b"
 ---

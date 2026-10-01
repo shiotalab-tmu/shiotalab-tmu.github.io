@@ -15,8 +15,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2009-09-17"
 type: "domestic"
-venueJa: "電子情報通信学会 ソサイエティ大会, Vol. ESS, pp. A-6-7, 2009-09-17."
-venueEn: "Society Conference of IEICE, Vol. ESS, pp. A-6-7, 2009-09-17."
+venueJa: "電子情報通信学会 ソサイエティ大会, Vol. ESS, No. A-6-7, pp. 131-131, 2009-09-17."
+venueEn: "Society Conference of IEICE, Vol. ESS, No. A-6-7, pp. 131-131, 2009-09-17."
 place: "新潟市西区"
-local: "https://www.notion.so/3c7d54c353c881e38560f4fc31631928"
 ---

@@ -16,5 +16,4 @@ venueEn: "Technical Report of IEICE, Vol. IEICE-117, No. 201, pp. 1-6, 2017-09-0
 place: "京都"
 url: "http://www.ieice.org/ken/paper/20170904UbwS/eng/"
 webpage: "http://www.ieice.org/ken/paper/20170904UbwS/eng/"
-local: "https://www.notion.so/3c7d54c353c8813b8819f45c261b4acf"
 ---

@@ -11,10 +11,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2015-03-12"
 type: "domestic"
-venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, Vol. 114, No. 511, pp. EMM2014-80, 2015-03-12."
-venueEn: "Technical Report of IEICE, Vol. 114, No. 511, pp. EMM2014-80, 2015-03-12."
+venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, Vol. 114, No. 511, No. EMM2014-80, pp. 19-24, 2015-03-12."
+venueEn: "Technical Report of IEICE, Vol. 114, No. 511, No. EMM2014-80, pp. 19-24, 2015-03-12."
 place: "石垣島"
 url: "http://www.ieice.org/ken/paper/201503121BYN/eng/"
 webpage: "http://www.ieice.org/ken/paper/201503121BYN/eng/"
-local: "https://www.notion.so/3c7d54c353c8812586c9dd4541835481"
 ---

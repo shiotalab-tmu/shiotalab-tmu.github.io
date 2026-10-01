@@ -13,5 +13,4 @@ type: "international"
 venueJa: "APSIPA Annual Summit and Conference, 2019-11-20."
 venueEn: "APSIPA Annual Summit and Conference, 2019-11-20."
 place: "Lanzhou, China"
-local: "https://www.notion.so/3c7d54c353c8819fac49e5f609a0d6b9"
 ---

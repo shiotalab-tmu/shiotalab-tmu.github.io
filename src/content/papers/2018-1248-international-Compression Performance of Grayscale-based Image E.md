@@ -13,5 +13,4 @@ type: "international"
 venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, 2018-07-06."
 venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, 2018-07-06."
 place: "Bangkok, Thailand"
-local: "https://www.notion.so/3c7d54c353c881f4a549db2f3896b357"
 ---

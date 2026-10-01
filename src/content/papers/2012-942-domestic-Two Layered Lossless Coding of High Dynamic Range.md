@@ -9,10 +9,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2012-06-11"
 type: "domestic"
-venueJa: "映像情報メディア学会 メディア工学研究会, Vol. 36, No. 21, pp. ME2012-84, 2012-06-11."
-venueEn: "ITE Technical Report, Vol. 36, No. 21, pp. ME2012-84, 2012-06-11."
+venueJa: "映像情報メディア学会 メディア工学研究会, Vol. 36, No. 21, No. ME2012-84, pp. 17-20, 2012-06-11."
+venueEn: "ITE Technical Report, Vol. 36, No. 21, No. ME2012-84, pp. 17-20, 2012-06-11."
 place: "石川県金沢市"
 url: "http://www.ite.or.jp/ken/paper/20120611pAc8/eng/"
 webpage: "http://www.ite.or.jp/ken/paper/20120611pAc8/eng/"
-local: "https://www.notion.so/3c7d54c353c88109a2f0e259cde48ac2"
 ---

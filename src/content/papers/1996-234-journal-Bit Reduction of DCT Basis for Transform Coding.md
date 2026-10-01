@@ -15,5 +15,4 @@ venueJa: "電子情報通信学会 論文誌, Vol. J79-B-I, No. 53, pp. 572-581,
 venueEn: "IEICE Trans., Vol. J79-B-I, No. 53, pp. 572-581, 1996-08-01."
 url: "http://search.ieice.org/bin/summary.php?id=j79-b1_8_572&category=B&year=1996&lang=E&abst=j"
 webpage: "http://search.ieice.org/bin/summary.php?id=j79-b1_8_572&category=B&year=1996&lang=E&abst=j"
-local: "https://www.notion.so/3c7d54c353c881959ebcdfab1131ac79"
 ---

@@ -13,5 +13,4 @@ type: "international"
 venueJa: "IFIP Information Security & Privacy Conference, 2026-06-09."
 venueEn: "IFIP Information Security & Privacy Conference, 2026-06-09."
 place: "Perth, Australia"
-local: "https://www.notion.so/3c7d54c353c881449e38d429460e1e0e"
 ---

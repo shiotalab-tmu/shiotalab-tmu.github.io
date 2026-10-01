@@ -14,11 +14,10 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2014-09-04"
 type: "international"
-venueJa: "EURASIP European Signal Processing Conference, pp. TH-P5-4, 2014-09-04."
-venueEn: "EURASIP European Signal Processing Conference, pp. TH-P5-4, 2014-09-04."
+venueJa: "EURASIP European Signal Processing Conference, No. TH-P5-4, 2014-09-04."
+venueEn: "EURASIP European Signal Processing Conference, No. TH-P5-4, 2014-09-04."
 place: "Lisbon, Portugal"
 url: "http://www.eurasip.org/Proceedings/Eusipco/Eusipco2014/HTML/SessionIndex.html#S1569493481"
 webpage: "http://www.eurasip.org/Proceedings/Eusipco/Eusipco2014/HTML/SessionIndex.html#S1569493481"
 publish: "http://www.eurasip.org/Proceedings/Eusipco/Eusipco2014/HTML/papers/1569924869.pdf"
-local: "https://www.notion.so/3c7d54c353c88199b3f2cebeeb405a39"
 ---

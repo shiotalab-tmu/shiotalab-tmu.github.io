@@ -8,8 +8,7 @@ authorsEn:
   - "Hiroya NAKAZATO"
 date: "2012-12-05"
 type: "international"
-venueJa: "APSIPA Annual Summit and Conference, pp. OS.29-SIPTM.2-2, 2012-12-05."
-venueEn: "APSIPA Annual Summit and Conference, pp. OS.29-SIPTM.2-2, 2012-12-05."
+venueJa: "APSIPA Annual Summit and Conference, No. OS.29-SIPTM.2-2, 2012-12-05."
+venueEn: "APSIPA Annual Summit and Conference, No. OS.29-SIPTM.2-2, 2012-12-05."
 place: "Los Angeles, CA, the U.S."
-local: "https://www.notion.so/3c7d54c353c881caad19d0f8a3576c86"
 ---

@@ -15,8 +15,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2015-08-03"
 type: "domestic"
-venueJa: "電子情報通信学会 画像工学研究会, Vol. 115, No. 171, pp. IE2015-47, 2015-08-03."
-venueEn: "Technical Report of IEICE, Vol. 115, No. 171, pp. IE2015-47, 2015-08-03."
+venueJa: "電子情報通信学会 画像工学研究会, Vol. 115, No. 171, No. IE2015-47, pp. 7-12, 2015-08-03."
+venueEn: "Technical Report of IEICE, Vol. 115, No. 171, No. IE2015-47, pp. 7-12, 2015-08-03."
 place: "首都大（南大沢キャンパス）"
-local: "https://www.notion.so/3c7d54c353c88181abbdcc9528a07bb0"
 ---

@@ -1,5 +1,6 @@
 ---
 titleJa: "拡張されたRTPを用いたJPEG 2000符号化画像の画質監視"
+titleEn: "Image Authentication of JPEG 2000 Coded Images Using Extended RTP Protocol"
 authorsJa:
   - "小林 弘幸"
   - "長藁 真一"
@@ -12,7 +13,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2005-03-22"
 type: "domestic"
-venueJa: "電子情報通信学会 総合大会, pp. DS-1-4, 2005-03-22."
-venueEn: "General Conference of IEICE, pp. DS-1-4, 2005-03-22."
+venueJa: "電子情報通信学会 総合大会, Vol. 情報・システム, No. DS-1-4, pp. 7-8, 2005-03-22."
+venueEn: "General Conference of IEICE, Vol. 情報・システム, No. DS-1-4, pp. 7-8, 2005-03-22."
 place: "大阪府豊中市"
 ---

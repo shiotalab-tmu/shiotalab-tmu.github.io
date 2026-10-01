@@ -178,10 +178,13 @@ function buildVenueString(paper: Paper, lang: 'ja' | 'en'): string {
     parts.push(volStr);
   }
 
-  // Pages
+  // 論文番号(講演番号)。ページ番号ではないので「pp.」は付けない(旧サイト準拠で「No.」を付ける)
   if (paper.pages.pnum) {
-    parts.push(`pp. ${paper.pages.pnum}`);
-  } else if (paper.pages.begin && paper.pages.end) {
+    parts.push(`No. ${paper.pages.pnum}`);
+  }
+
+  // Pages (講演番号とページ範囲の両方がある論文もあるので、講演番号とは別に出す)
+  if (paper.pages.begin && paper.pages.end) {
     parts.push(`pp. ${paper.pages.begin}-${paper.pages.end}`);
   } else if (paper.pages.begin) {
     parts.push(`p. ${paper.pages.begin}`);

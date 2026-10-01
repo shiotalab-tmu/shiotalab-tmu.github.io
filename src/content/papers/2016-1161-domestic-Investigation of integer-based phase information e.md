@@ -14,5 +14,4 @@ type: "domestic"
 venueJa: "電子情報通信学会 音声研究会, Vol. 2016-SLP-114, No. 16, pp. 65-70, 2016-12-20."
 venueEn: "Speech Committee, Vol. 2016-SLP-114, No. 16, pp. 65-70, 2016-12-20."
 place: "NTT武蔵野研究開発センタ"
-local: "https://www.notion.so/3c7d54c353c8819093fdd9308d0ab289"
 ---

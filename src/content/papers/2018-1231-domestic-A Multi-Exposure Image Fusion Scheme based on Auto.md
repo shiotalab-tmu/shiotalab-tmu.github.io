@@ -11,10 +11,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-03-19"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理研究会, Vol. 117, No. 516, pp. SIP2017-145, 2018-03-19."
-venueEn: "Technical Report of IEICE, Vol. 117, No. 516, pp. SIP2017-145, 2018-03-19."
+venueJa: "電子情報通信学会 信号処理研究会, Vol. 117, No. 516, No. SIP2017-145, pp. 191-196, 2018-03-19."
+venueEn: "Technical Report of IEICE, Vol. 117, No. 516, No. SIP2017-145, pp. 191-196, 2018-03-19."
 place: "沖縄県石垣市"
 url: "http://www.ieice.org/ken/paper/20180319l12B/eng/"
 webpage: "http://www.ieice.org/ken/paper/20180319l12B/eng/"
-local: "https://www.notion.so/3c7d54c353c8814790c4f49901a7c5d8"
 ---

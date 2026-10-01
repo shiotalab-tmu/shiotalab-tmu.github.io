@@ -15,5 +15,4 @@ type: "domestic"
 venueJa: "電子情報通信学会 音声研究会, 2022-03-01."
 venueEn: "Speech Committee, 2022-03-01."
 place: "沖縄"
-local: "https://www.notion.so/3c7d54c353c88179bd2bdd7d8a7e29ff"
 ---

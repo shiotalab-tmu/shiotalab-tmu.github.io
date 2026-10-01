@@ -11,10 +11,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-03-19"
 type: "domestic"
-venueJa: "電子情報通信学会 音声研究会, Vol. 117, No. 517, pp. SP2017-94, 2018-03-19."
-venueEn: "Speech Committee, Vol. 117, No. 517, pp. SP2017-94, 2018-03-19."
+venueJa: "電子情報通信学会 音声研究会, Vol. 117, No. 517, No. SP2017-94, pp. 57-62, 2018-03-19."
+venueEn: "Speech Committee, Vol. 117, No. 517, No. SP2017-94, pp. 57-62, 2018-03-19."
 place: "沖縄県石垣市"
 url: "http://www.ieice.org/ken/paper/20180319P12P/eng/"
 webpage: "http://www.ieice.org/ken/paper/20180319P12P/eng/"
-local: "https://www.notion.so/3c7d54c353c881639075dfc9abc42e90"
 ---

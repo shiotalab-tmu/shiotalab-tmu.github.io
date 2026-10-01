@@ -15,5 +15,4 @@ venueEn: "IEEE Global Conference on Life Sciences and Technologies, pp. 8-12, 20
 place: "Nara, Japan"
 url: "https://ieeexplore.ieee.org/document/9391973"
 webpage: "https://ieeexplore.ieee.org/document/9391973"
-local: "https://www.notion.so/3c7d54c353c88100915ecc2a7f8994da"
 ---
