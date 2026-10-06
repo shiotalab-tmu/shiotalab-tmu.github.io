@@ -1,5 +1,5 @@
 ---
-// 指定著者・指定種別の論文を、新しい順・通し番号のリストで表示する
+// 指定著者・指定種別の論文を、古い順・通し番号のリストで表示する
 import { getCollection } from 'astro:content';
 import PaperLinks from './PaperLinks.astro';
 import { paperTitle, paperAuthors, paperVenue } from '../utils/paperTitle';
@@ -21,7 +21,7 @@ const target = normalize(author);
 const papers = (await getCollection('papers'))
   .filter((p) => p.data.type === type && p.data.authorsJa.some((a) => normalize(a) === target))
   // 古い順。同日の場合はslugで安定ソート
-  .sort((a, b) => b.data.date.localeCompare(b.data.date) || a.slug.localeCompare(b.slug));
+  .sort((a, b) => a.data.date.localeCompare(b.data.date) || a.slug.localeCompare(b.slug));
 ---
 
 {papers.length === 0 ? (
