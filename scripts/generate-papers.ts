@@ -156,6 +156,7 @@ function generateFilename(paper: Paper): string {
  * venueフィールドの文字列を構築
  * 電子情報通信学会の参考文献の書き方に準拠する。
  *   例: 画像工学研究会, vol.103, no.450, IE2003-101, pp.13-18, Nov. 2003.
+ *   (日本語の日付は 2003年11月20日 の形にする)
  * (開催地は表示ページに応じて出し分けるため、別フィールドとして保持する)
  */
 function buildVenueString(paper: Paper, lang: 'ja' | 'en'): string {
@@ -193,9 +194,9 @@ function buildVenueString(paper: Paper, lang: 'ja' | 'en'): string {
     parts.push(`p.${paper.pages.begin}`);
   }
 
-  // Date (参考文献の慣例に合わせて年月のみ。例: Nov. 2003)
+  // Date (日本語は「2003年11月20日」、英語は参考文献の慣例に合わせて年月のみ「Nov. 2003」)
   if (paper.date) {
-    parts.push(formatCitationDate(paper.date));
+    parts.push(formatCitationDate(paper.date, lang));
   }
 
   return parts.join(', ') + '.';
@@ -205,10 +206,15 @@ function buildVenueString(paper: Paper, lang: 'ja' | 'en'): string {
 const MONTHS = ['Jan.', 'Feb.', 'March', 'April', 'May', 'June', 'July', 'Aug.', 'Sept.', 'Oct.', 'Nov.', 'Dec.'];
 
 /**
- * YYYY-MM-DD を参考文献用の「月 年」表記に変換 (例: 2003-11-20 → Nov. 2003)
+ * YYYY-MM-DD を参考文献用の日付表記に変換
+ *   日本語: 2003-11-20 → 2003年11月20日
+ *   英語:   2003-11-20 → Nov. 2003
  */
-function formatCitationDate(date: string): string {
-  const [year, month] = date.split('-');
+function formatCitationDate(date: string, lang: 'ja' | 'en'): string {
+  const [year, month, day] = date.split('-');
+  if (lang === 'ja') {
+    return `${year}年${parseInt(month, 10)}月${parseInt(day, 10)}日`;
+  }
   return `${MONTHS[parseInt(month, 10) - 1]} ${year}`;
 }
 
