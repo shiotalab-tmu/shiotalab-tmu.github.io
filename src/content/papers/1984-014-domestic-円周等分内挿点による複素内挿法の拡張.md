@@ -8,6 +8,6 @@ authorsEn:
   - "Masahiko SAGAWA"
 date: "1984-10-01"
 type: "domestic"
-venueJa: "電子通信学会 信越支部大会, pp. 41, 1984-10-01."
-venueEn: "IECE Shin'etsu Branch Conference, pp. 41, 1984-10-01."
+venueJa: "電子通信学会 信越支部大会, 41, 1984年10月1日."
+venueEn: "IECE Shin'etsu Branch Conference, 41, Oct. 1984."
 ---

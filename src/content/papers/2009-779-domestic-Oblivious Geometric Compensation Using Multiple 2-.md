@@ -11,8 +11,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2009-03-17"
 type: "domestic"
-venueJa: "電子情報通信学会 総合大会, Vol. ESS, pp. A-4-16, 2009-03-17."
-venueEn: "General Conference of IEICE, Vol. ESS, pp. A-4-16, 2009-03-17."
+venueJa: "電子情報通信学会 総合大会, vol.ESS, A-4-16, p.120, 2009年3月17日."
+venueEn: "General Conference of IEICE, vol.ESS, A-4-16, p.120, March 2009."
 place: "愛媛県松山市"
 local: "https://www.notion.so/3c7d54c353c881a7a465d82ac4f26567"
 ---

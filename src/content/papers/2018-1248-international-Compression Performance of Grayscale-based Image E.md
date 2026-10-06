@@ -10,8 +10,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-07-06"
 type: "international"
-venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, 2018-07-06."
-venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, 2018-07-06."
+venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, 2018年7月6日."
+venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, July 2018."
 place: "Bangkok, Thailand"
 local: "https://www.notion.so/3c7d54c353c881f4a549db2f3896b357"
 ---

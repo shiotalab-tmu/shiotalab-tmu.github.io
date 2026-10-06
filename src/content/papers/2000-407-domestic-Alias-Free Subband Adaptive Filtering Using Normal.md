@@ -11,7 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2000-11-01"
 type: "domestic"
-venueJa: "電子情報通信学会 ディジタル信号処理シンポジウム, pp. A3-3, 2000-11-01."
-venueEn: "IEICE Digital Signal Processing Symposium, pp. A3-3, 2000-11-01."
+venueJa: "電子情報通信学会 ディジタル信号処理シンポジウム, A3-3, pp.239-242, 2000年11月1日."
+venueEn: "IEICE Digital Signal Processing Symposium, A3-3, pp.239-242, Nov. 2000."
 place: "かずさアカデミアパーク（千葉)"
 ---

@@ -14,9 +14,9 @@ authorsEn:
   - "Sayaka SHIOTA"
 date: "2022-05-09"
 type: "journal"
-venueJa: "APSIPA Trans. Signal and Information Processing, Vol. 11, No.1, e11, 2022-05-09."
-venueEn: "APSIPA Trans. Signal and Information Processing, Vol. 11, No.1, e11, 2022-05-09."
-url: "https://doi.org/http://dx.doi.org/10.1561/116.00000048"
-doi: "https://doi.org/http://dx.doi.org/10.1561/116.00000048"
+venueJa: "APSIPA Trans. Signal and Information Processing, vol.11, No.1, e11, 2022年5月9日."
+venueEn: "APSIPA Trans. Signal and Information Processing, vol.11, No.1, e11, May 2022."
+url: "https://doi.org/10.1561/116.00000048"
+doi: "https://doi.org/10.1561/116.00000048"
 webpage: "https://www.nowpublishers.com/article/Details/SIP-2021-0048"
 ---

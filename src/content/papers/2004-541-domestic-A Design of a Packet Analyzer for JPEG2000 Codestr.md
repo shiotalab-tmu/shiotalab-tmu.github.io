@@ -11,7 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2004-03-22"
 type: "domestic"
-venueJa: "電子情報通信学会 総合大会, pp. A-4-13, 2004-03-22."
-venueEn: "General Conference of IEICE, pp. A-4-13, 2004-03-22."
+venueJa: "電子情報通信学会 総合大会, A-4-13, p.104, 2004年3月22日."
+venueEn: "General Conference of IEICE, A-4-13, p.104, March 2004."
 place: "東京"
 ---

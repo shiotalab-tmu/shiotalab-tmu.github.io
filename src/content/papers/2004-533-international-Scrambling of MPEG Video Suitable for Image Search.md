@@ -8,7 +8,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2004-01-12"
 type: "international"
-venueJa: "International Workshop on Advanced Image Technology, pp. 135-139, 2004-01-12."
-venueEn: "International Workshop on Advanced Image Technology, pp. 135-139, 2004-01-12."
+venueJa: "International Workshop on Advanced Image Technology, pp.135-139, 2004年1月12日."
+venueEn: "International Workshop on Advanced Image Technology, pp.135-139, Jan. 2004."
 place: "Singapore"
 ---

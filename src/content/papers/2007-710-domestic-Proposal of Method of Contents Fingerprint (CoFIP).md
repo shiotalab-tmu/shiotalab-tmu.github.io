@@ -9,7 +9,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2007-11-01"
 type: "domestic"
-venueJa: "電子情報通信学会 映像メディア処理シンポジウム, pp. I2-15, 2007-11-01."
-venueEn: "IEICE Image Media Processing Symposium, pp. I2-15, 2007-11-01."
+venueJa: "電子情報通信学会 映像メディア処理シンポジウム, I2-15, 2007年11月1日."
+venueEn: "IEICE Image Media Processing Symposium, I2-15, Nov. 2007."
 place: "静岡県伊豆市"
 ---

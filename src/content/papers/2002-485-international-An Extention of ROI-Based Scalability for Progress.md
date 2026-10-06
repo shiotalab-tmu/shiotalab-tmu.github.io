@@ -8,7 +8,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2002-12-01"
 type: "international"
-venueJa: "IEEE Asia-Pacific Conference on Circuits and Systems, Vol. 1, pp. 535-540, 2002-12-01."
-venueEn: "IEEE Asia-Pacific Conference on Circuits and Systems, Vol. 1, pp. 535-540, 2002-12-01."
+venueJa: "IEEE Asia-Pacific Conference on Circuits and Systems, vol.1, pp.535-540, 2002年12月1日."
+venueEn: "IEEE Asia-Pacific Conference on Circuits and Systems, vol.1, pp.535-540, Dec. 2002."
 place: "Singapore"
 ---

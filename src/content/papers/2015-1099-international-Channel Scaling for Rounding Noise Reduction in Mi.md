@@ -12,8 +12,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2015-12-17"
 type: "international"
-venueJa: "APSIPA Annual Summit and Conference, pp. 888-891, 2015-12-17."
-venueEn: "APSIPA Annual Summit and Conference, pp. 888-891, 2015-12-17."
+venueJa: "APSIPA Annual Summit and Conference, pp.888-891, 2015年12月17日."
+venueEn: "APSIPA Annual Summit and Conference, pp.888-891, Dec. 2015."
 place: "Hong Kong, China"
 local: "https://www.notion.so/3c7d54c353c8815da6bafe551fcd82a1"
 ---

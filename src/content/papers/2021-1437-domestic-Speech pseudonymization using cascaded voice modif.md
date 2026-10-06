@@ -13,7 +13,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2021-03-11"
 type: "domestic"
-venueJa: "日本音響学会春季大会, 2021-03-11."
-venueEn: "Acoustical Society of Japan Spring Meeting, 2021-03-11."
+venueJa: "日本音響学会春季大会, 2021年3月11日."
+venueEn: "Acoustical Society of Japan Spring Meeting, March 2021."
 place: "オンライン"
 ---

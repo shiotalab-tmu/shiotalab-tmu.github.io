@@ -10,8 +10,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2012-11-06"
 type: "international"
-venueJa: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, pp. D4.2, 2012-11-06."
-venueEn: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, pp. D4.2, 2012-11-06."
+venueJa: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, D4.2, pp.509-514, 2012年11月6日."
+venueEn: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, D4.2, pp.509-514, Nov. 2012."
 place: "New Taipei City, Taiwan, R.O.C."
 local: "https://www.notion.so/3c7d54c353c88179bd3cc4e272cd4ea7"
 ---

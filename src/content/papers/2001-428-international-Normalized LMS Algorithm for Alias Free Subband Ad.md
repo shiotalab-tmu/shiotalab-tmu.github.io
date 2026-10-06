@@ -8,7 +8,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2001-07-01"
 type: "international"
-venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, Vol. 1, pp. D4-2, 2001-07-01."
-venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, Vol. 1, pp. D4-2, 2001-07-01."
+venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, vol.1, D4-2, pp.580-583, 2001年7月1日."
+venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, vol.1, D4-2, pp.580-583, July 2001."
 place: "Tokushima, Japan"
 ---

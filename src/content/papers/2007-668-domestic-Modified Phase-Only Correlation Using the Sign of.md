@@ -8,7 +8,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2007-01-08"
 type: "domestic"
-venueJa: "電子情報通信学会 画像工学研究会, Vol. 106, No. 448, pp. IE2006-168, 2007-01-08."
-venueEn: "Technical Report of IEICE, Vol. 106, No. 448, pp. IE2006-168, 2007-01-08."
+venueJa: "電子情報通信学会 画像工学研究会, vol.106, no.448, IE2006-168, pp.163-168, 2007年1月8日."
+venueEn: "Technical Report of IEICE, vol.106, no.448, IE2006-168, pp.163-168, Jan. 2007."
 place: "Bangkok, Thailand"
 ---

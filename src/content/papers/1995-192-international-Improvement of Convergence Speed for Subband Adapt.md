@@ -10,6 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1995-05-01"
 type: "international"
-venueJa: "IEEE International Conference on Acoustics, Speech and Signal Processing, 1995-05-01."
-venueEn: "IEEE International Conference on Acoustics, Speech and Signal Processing, 1995-05-01."
+venueJa: "IEEE International Conference on Acoustics, Speech and Signal Processing, 1995年5月1日."
+venueEn: "IEEE International Conference on Acoustics, Speech and Signal Processing, May 1995."
 ---

@@ -15,8 +15,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2013-01-23"
 type: "domestic"
-venueJa: "電子情報通信学会 暗号と情報セキュリティシンポジウム, pp. 2C3-1, 2013-01-23."
-venueEn: "IEICE Symposium on Cryptography and Information Security, pp. 2C3-1, 2013-01-23."
+venueJa: "電子情報通信学会 暗号と情報セキュリティシンポジウム, 2C3-1, pp.1-7, 2013年1月23日."
+venueEn: "IEICE Symposium on Cryptography and Information Security, 2C3-1, pp.1-7, Jan. 2013."
 place: "京都府京都市東山区"
 local: "https://www.notion.so/3c7d54c353c881878ed5c7763f32d67b"
 ---

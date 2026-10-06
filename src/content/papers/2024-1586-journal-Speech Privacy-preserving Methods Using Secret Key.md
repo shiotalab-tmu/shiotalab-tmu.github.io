@@ -10,9 +10,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2024-10-23"
 type: "journal"
-venueJa: "APSIPA Trans. Signal and Information Processing, Vol. 13, No. 1, 2024-10-23."
-venueEn: "APSIPA Trans. Signal and Information Processing, Vol. 13, No. 1, 2024-10-23."
-url: "https://doi.org/http://dx.doi.org/10.1561/116.20240020"
-doi: "https://doi.org/http://dx.doi.org/10.1561/116.20240020"
+venueJa: "APSIPA Trans. Signal and Information Processing, vol.13, no.1, 2024年10月23日."
+venueEn: "APSIPA Trans. Signal and Information Processing, vol.13, no.1, Oct. 2024."
+url: "https://doi.org/10.1561/116.20240020"
+doi: "https://doi.org/10.1561/116.20240020"
 webpage: "https://www.nowpublishers.com/article/Details/SIP-20240020"
 ---

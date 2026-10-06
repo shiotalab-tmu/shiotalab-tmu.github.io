@@ -8,8 +8,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2019-05-27"
 type: "journal"
-venueJa: "IEEE Access, Vol. 7, No. 1, pp. 73555-73563, 2019-05-27."
-venueEn: "IEEE Access, Vol. 7, No. 1, pp. 73555-73563, 2019-05-27."
+venueJa: "IEEE Access, vol.7, no.1, pp.73555-73563, 2019年5月27日."
+venueEn: "IEEE Access, vol.7, no.1, pp.73555-73563, May 2019."
 url: "https://doi.org/10.1109/ACCESS.2019.2919296"
 doi: "https://doi.org/10.1109/ACCESS.2019.2919296"
 ---

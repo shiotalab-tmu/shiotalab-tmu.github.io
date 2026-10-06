@@ -7,7 +7,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2006-03-26"
 type: "domestic"
-venueJa: "電子情報通信学会 総合大会, Vol. ESS, pp. AP-2-5, 2006-03-26."
-venueEn: "General Conference of IEICE, Vol. ESS, pp. AP-2-5, 2006-03-26."
+venueJa: "電子情報通信学会 総合大会, vol.ESS, AP-2-5, 2006年3月26日."
+venueEn: "General Conference of IEICE, vol.ESS, AP-2-5, March 2006."
 place: "東京都世田谷区"
 ---

@@ -11,7 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2006-06-23"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理研究会, pp. SIP2006-43, 2006-06-23."
-venueEn: "Technical Report of IEICE, pp. SIP2006-43, 2006-06-23."
+venueJa: "電子情報通信学会 信号処理研究会, SIP2006-43, pp.73-78, 2006年6月23日."
+venueEn: "Technical Report of IEICE, SIP2006-43, pp.73-78, June 2006."
 place: "北海道北見市"
 ---

@@ -11,7 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2022-09-14"
 type: "domestic"
-venueJa: "日本音響学会秋季大会, 2022-09-14."
-venueEn: "Acoustical Society of Japan Autumn Meeting, 2022-09-14."
+venueJa: "日本音響学会秋季大会, 2022年9月14日."
+venueEn: "Acoustical Society of Japan Autumn Meeting, Sept. 2022."
 place: "北海道科学大学"
 ---

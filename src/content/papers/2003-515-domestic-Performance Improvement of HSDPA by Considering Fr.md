@@ -9,7 +9,7 @@ authorsEn:
   - "Kiyoshi NISHIKAWA"
 date: "2003-08-22"
 type: "domestic"
-venueJa: "電子情報通信学会 無線通信システム研究会, Vol. 103, pp. RCS2003-119, 2003-08-22."
-venueEn: "Technical Report of IEICE, Vol. 103, pp. RCS2003-119, 2003-08-22."
+venueJa: "電子情報通信学会 無線通信システム研究会, vol.103, RCS2003-119, pp.11-16, 2003年8月22日."
+venueEn: "Technical Report of IEICE, vol.103, RCS2003-119, pp.11-16, Aug. 2003."
 place: "東京"
 ---

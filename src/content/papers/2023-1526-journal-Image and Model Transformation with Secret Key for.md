@@ -12,8 +12,8 @@ authorsEn:
   - "Yuma KINOSHITA"
 date: "2023-01-01"
 type: "journal"
-venueJa: "IEICE Trans. Inf. & Sys., Vol. E106.D, No. 1, pp. 2-11, 2023-01-01."
-venueEn: "IEICE Trans. Inf. & Sys., Vol. E106.D, No. 1, pp. 2-11, 2023-01-01."
+venueJa: "IEICE Trans. Inf. & Sys., vol.E106.D, no.1, pp.2-11, 2023年1月1日."
+venueEn: "IEICE Trans. Inf. & Sys., vol.E106.D, no.1, pp.2-11, Jan. 2023."
 url: "https://doi.org/10.1587/transinf.2022MUI0001"
 doi: "https://doi.org/10.1587/transinf.2022MUI0001"
 ---

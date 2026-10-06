@@ -10,7 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2003-05-15"
 type: "domestic"
-venueJa: "電子情報通信学会 ディジタル信号処理研究会, pp. DSP2003-18, 2003-05-15."
-venueEn: "Technical Report of IEICE, pp. DSP2003-18, 2003-05-15."
+venueJa: "電子情報通信学会 ディジタル信号処理研究会, DSP2003-18, pp.63-68, 2003年5月15日."
+venueEn: "Technical Report of IEICE, DSP2003-18, pp.63-68, May 2003."
 place: "兵庫県姫路市"
 ---

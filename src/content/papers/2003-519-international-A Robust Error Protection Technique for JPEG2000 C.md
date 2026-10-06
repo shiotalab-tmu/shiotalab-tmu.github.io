@@ -12,7 +12,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2003-09-23"
 type: "international"
-venueJa: "IEEE Asia-Pacific Conference on Communications, Vol. 2, pp. 654-658, 2003-09-23."
-venueEn: "IEEE Asia-Pacific Conference on Communications, Vol. 2, pp. 654-658, 2003-09-23."
+venueJa: "IEEE Asia-Pacific Conference on Communications, vol.2, pp.654-658, 2003年9月23日."
+venueEn: "IEEE Asia-Pacific Conference on Communications, vol.2, pp.654-658, Sept. 2003."
 place: "Penang, Malaysia"
 ---

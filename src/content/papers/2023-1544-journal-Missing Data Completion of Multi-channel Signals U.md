@@ -16,9 +16,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2023-04-25"
 type: "journal"
-venueJa: "APSIPA Trans. Signal and Information Processing, Vol. 12, no.3, e16, 2023-04-25."
-venueEn: "APSIPA Trans. Signal and Information Processing, Vol. 12, no.3, e16, 2023-04-25."
-url: "https://doi.org/http://dx.doi.org/10.1561/116.00000074"
-doi: "https://doi.org/http://dx.doi.org/10.1561/116.00000074"
+venueJa: "APSIPA Trans. Signal and Information Processing, vol.12, no.3, e16, 2023年4月25日."
+venueEn: "APSIPA Trans. Signal and Information Processing, vol.12, no.3, e16, April 2023."
+url: "https://doi.org/10.1561/116.00000074"
+doi: "https://doi.org/10.1561/116.00000074"
 webpage: "https://www.nowpublishers.com/article/Details/SIP-2022-0074"
 ---

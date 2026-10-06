@@ -12,6 +12,6 @@ authorsEn:
   - "Nobuo FUJII"
 date: "1997-09-01"
 type: "international"
-venueJa: "European Conference on Circuit Theory and Design, 1997-09-01."
-venueEn: "European Conference on Circuit Theory and Design, 1997-09-01."
+venueJa: "European Conference on Circuit Theory and Design, 1997年9月1日."
+venueEn: "European Conference on Circuit Theory and Design, Sept. 1997."
 ---

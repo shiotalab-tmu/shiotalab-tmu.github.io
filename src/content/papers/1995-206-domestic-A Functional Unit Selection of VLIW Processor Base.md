@@ -13,6 +13,6 @@ authorsEn:
   - "Akihiko YAMADA"
 date: "1995-09-01"
 type: "domestic"
-venueJa: "電子情報通信学会 VLSI設計技術研究会, pp. VLD95-64, 1995-09-01."
-venueEn: "Technical Report of IEICE, pp. VLD95-64, 1995-09-01."
+venueJa: "電子情報通信学会 VLSI設計技術研究会, VLD95-64, 1995年9月1日."
+venueEn: "Technical Report of IEICE, VLD95-64, Sept. 1995."
 ---

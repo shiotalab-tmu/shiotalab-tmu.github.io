@@ -11,6 +11,6 @@ authorsEn:
   - "Naoyuki AIKAWA"
 date: "1989-03-01"
 type: "domestic"
-venueJa: "電子情報通信学会 春季全国大会, pp. A-90, 1989-03-01."
-venueEn: "Spring Conf. of IEICE, pp. A-90, 1989-03-01."
+venueJa: "電子情報通信学会 春季全国大会, A-90, 1989年3月1日."
+venueEn: "Spring Conf. of IEICE, A-90, March 1989."
 ---

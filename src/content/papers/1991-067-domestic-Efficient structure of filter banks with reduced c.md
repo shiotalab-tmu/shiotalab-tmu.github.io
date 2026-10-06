@@ -13,6 +13,6 @@ authorsEn:
   - "Masahiko SAGAWA"
 date: "1991-03-01"
 type: "domestic"
-venueJa: "電子情報通信学会 ディジタル信号処理研究会, pp. DSP90-102, 1991-03-01."
-venueEn: "Technical Report of IEICE, pp. DSP90-102, 1991-03-01."
+venueJa: "電子情報通信学会 ディジタル信号処理研究会, DSP90-102, 1991年3月1日."
+venueEn: "Technical Report of IEICE, DSP90-102, March 1991."
 ---

@@ -14,7 +14,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-10-05"
 type: "international"
-venueJa: "International GIGAKU Conference in Nagaoka, 2018-10-05."
-venueEn: "International GIGAKU Conference in Nagaoka, 2018-10-05."
+venueJa: "International GIGAKU Conference in Nagaoka, 2018年10月5日."
+venueEn: "International GIGAKU Conference in Nagaoka, Oct. 2018."
 place: "Nagaoka, Niigata, Japan"
 ---

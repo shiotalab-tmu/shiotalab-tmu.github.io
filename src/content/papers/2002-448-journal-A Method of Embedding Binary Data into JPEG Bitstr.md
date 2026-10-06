@@ -10,6 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2002-01-01"
 type: "journal"
-venueJa: "Systems and Computers in Japan, Vol. 33, No. 1, pp. 18-26, 2002-01-01."
-venueEn: "Systems and Computers in Japan, Vol. 33, No. 1, pp. 18-26, 2002-01-01."
+venueJa: "Systems and Computers in Japan, vol.33, no.1, pp.18-26, 2002年1月1日."
+venueEn: "Systems and Computers in Japan, vol.33, no.1, pp.18-26, Jan. 2002."
 ---

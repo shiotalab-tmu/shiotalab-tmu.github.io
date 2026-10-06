@@ -12,6 +12,6 @@ authorsEn:
   - "Noriyoshi KAMBAYASHI"
 date: "1992-11-01"
 type: "domestic"
-venueJa: "電子情報通信学会 ディジタル信号処理シンポジウム, pp. B4-3, 1992-11-01."
-venueEn: "IEICE Digital Signal Processing Symposium, pp. B4-3, 1992-11-01."
+venueJa: "電子情報通信学会 ディジタル信号処理シンポジウム, B4-3, 1992年11月1日."
+venueEn: "IEICE Digital Signal Processing Symposium, B4-3, Nov. 1992."
 ---

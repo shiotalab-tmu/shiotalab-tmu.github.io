@@ -10,8 +10,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2017-03-05"
 type: "international"
-venueJa: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. 2157-2161, 2017-03-05."
-venueEn: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp. 2157-2161, 2017-03-05."
+venueJa: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp.2157-2161, 2017年3月5日."
+venueEn: "IEEE International Conference on Acoustics, Speech and Signal Processing, pp.2157-2161, March 2017."
 place: "New Orleans, LA, USA"
 local: "https://www.notion.so/3c7d54c353c881c39e8dcf570c1c0d6c"
 ---

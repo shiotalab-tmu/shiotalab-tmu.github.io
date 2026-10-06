@@ -8,7 +8,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2000-10-01"
 type: "international"
-venueJa: "SSPATJ International Workshop on Signal Processing Applications and Technology, 2000-10-01."
-venueEn: "SSPATJ International Workshop on Signal Processing Applications and Technology, 2000-10-01."
+venueJa: "SSPATJ International Workshop on Signal Processing Applications and Technology, 2000年10月1日."
+venueEn: "SSPATJ International Workshop on Signal Processing Applications and Technology, Oct. 2000."
 place: "Tokyo"
 ---

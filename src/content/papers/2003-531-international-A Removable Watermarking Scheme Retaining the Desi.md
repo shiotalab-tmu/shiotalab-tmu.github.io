@@ -10,7 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2003-12-09"
 type: "international"
-venueJa: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, pp. A5-3, 2003-12-09."
-venueEn: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, pp. A5-3, 2003-12-09."
+venueJa: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, A5-3, pp.538-542, 2003年12月9日."
+venueEn: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, A5-3, pp.538-542, Dec. 2003."
 place: "Awaji Island, Japan"
 ---

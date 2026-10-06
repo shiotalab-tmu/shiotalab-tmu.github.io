@@ -11,7 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2005-07-15"
 type: "domestic"
-venueJa: "映像情報メディア学会 メディア工学研究会, Vol. 29, No. 43, pp. ME2005-103, 2005-07-15."
-venueEn: "ITE Technical Report, Vol. 29, No. 43, pp. ME2005-103, 2005-07-15."
+venueJa: "映像情報メディア学会 メディア工学研究会, vol.29, no.43, ME2005-103, pp.21-24, 2005年7月15日."
+venueEn: "ITE Technical Report, vol.29, no.43, ME2005-103, pp.21-24, July 2005."
 place: "愛知県愛知郡長久手町"
 ---

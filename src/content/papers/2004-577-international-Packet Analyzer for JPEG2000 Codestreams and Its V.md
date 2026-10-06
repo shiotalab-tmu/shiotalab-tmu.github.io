@@ -12,7 +12,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2004-12-09"
 type: "international"
-venueJa: "IEEE Asia-Pacific Conference on Circuits and Systems, pp. P3.22, 2004-12-09."
-venueEn: "IEEE Asia-Pacific Conference on Circuits and Systems, pp. P3.22, 2004-12-09."
+venueJa: "IEEE Asia-Pacific Conference on Circuits and Systems, P3.22, pp.905-908, 2004年12月9日."
+venueEn: "IEEE Asia-Pacific Conference on Circuits and Systems, P3.22, pp.905-908, Dec. 2004."
 place: "Tainan, Taiwan, R.O.C."
 ---

@@ -11,6 +11,6 @@ authorsEn:
   - "Akihiko YAMADA"
 date: "1997-11-01"
 type: "domestic"
-venueJa: "電子情報通信学会 ディジタル信号処理シンポジウム, pp. B7.2, 1997-11-01."
-venueEn: "IEICE Digital Signal Processing Symposium, pp. B7.2, 1997-11-01."
+venueJa: "電子情報通信学会 ディジタル信号処理シンポジウム, B7.2, 1997年11月1日."
+venueEn: "IEICE Digital Signal Processing Symposium, B7.2, Nov. 1997."
 ---

@@ -10,8 +10,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-10-08"
 type: "international"
-venueJa: "IEEE International Conference on Image Processing, 2018-10-08."
-venueEn: "IEEE International Conference on Image Processing, 2018-10-08."
+venueJa: "IEEE International Conference on Image Processing, 2018年10月8日."
+venueEn: "IEEE International Conference on Image Processing, Oct. 2018."
 place: "Athens, Greece"
 local: "https://www.notion.so/3c7d54c353c881948612c8fe265d47e2"
 ---

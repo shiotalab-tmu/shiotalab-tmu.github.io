@@ -10,7 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2016-01-02"
 type: "journal"
-venueJa: "IEICE Trans. Inf. & Sys., Vol. E99-D, No. 1, pp. 60-68, 2016-01-02."
-venueEn: "IEICE Trans. Inf. & Sys., Vol. E99-D, No. 1, pp. 60-68, 2016-01-02."
+venueJa: "IEICE Trans. Inf. & Sys., vol.E99-D, no.1, pp.60-68, 2016年1月2日."
+venueEn: "IEICE Trans. Inf. & Sys., vol.E99-D, no.1, pp.60-68, Jan. 2016."
 local: "https://www.notion.so/3c7d54c353c88127a154ff00b039099e"
 ---

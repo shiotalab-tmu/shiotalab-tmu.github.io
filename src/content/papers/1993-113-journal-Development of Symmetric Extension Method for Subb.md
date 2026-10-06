@@ -8,6 +8,6 @@ authorsEn:
   - "Kiyoshi NISHIKAWA"
 date: "1993-01-01"
 type: "journal"
-venueJa: "Memoirs of Faculty of Technology, Tokyo Metropolitan University, 1993-01-01."
-venueEn: "Memoirs of Faculty of Technology, Tokyo Metropolitan University, 1993-01-01."
+venueJa: "Memoirs of Faculty of Technology, Tokyo Metropolitan University, no.43, 1993年1月1日."
+venueEn: "Memoirs of Faculty of Technology, Tokyo Metropolitan University, no.43, Jan. 1993."
 ---

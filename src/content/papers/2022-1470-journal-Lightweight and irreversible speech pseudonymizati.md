@@ -12,9 +12,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2022-03-01"
 type: "journal"
-venueJa: "Computer Speech and Language, Vol. 72, No. 101315, 2022-03-01."
-venueEn: "Computer Speech and Language, Vol. 72, No. 101315, 2022-03-01."
-url: "https://doi.org/https://doi.org/10.1016/j.csl.2021.101315"
-doi: "https://doi.org/https://doi.org/10.1016/j.csl.2021.101315"
+venueJa: "Computer Speech and Language, vol.72, no.101315, 2022年3月1日."
+venueEn: "Computer Speech and Language, vol.72, no.101315, March 2022."
+url: "https://doi.org/10.1016/j.csl.2021.101315"
+doi: "https://doi.org/10.1016/j.csl.2021.101315"
 webpage: "https://www.sciencedirect.com/science/article/pii/S0885230821001108?dgcid=author"
 ---

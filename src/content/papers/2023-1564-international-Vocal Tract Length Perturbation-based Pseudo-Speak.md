@@ -10,8 +10,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2023-11-03"
 type: "international"
-venueJa: "APSIPA Annual Summit and Conference, pp. 2209-2213, 2023-11-03."
-venueEn: "APSIPA Annual Summit and Conference, pp. 2209-2213, 2023-11-03."
+venueJa: "APSIPA Annual Summit and Conference, pp.2209-2213, 2023年11月3日."
+venueEn: "APSIPA Annual Summit and Conference, pp.2209-2213, Nov. 2023."
 place: "TICC, Taipei, Tiwan"
 local: "https://www.notion.so/3c7d54c353c881919688d5c1398bad26"
 ---

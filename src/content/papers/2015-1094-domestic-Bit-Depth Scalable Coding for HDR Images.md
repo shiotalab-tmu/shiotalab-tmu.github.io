@@ -13,8 +13,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2015-08-03"
 type: "domestic"
-venueJa: "映像情報メディア学会 メディア工学研究会, Vol. 39, No. 29, pp. ME2015-75, 2015-08-03."
-venueEn: "ITE Technical Report, Vol. 39, No. 29, pp. ME2015-75, 2015-08-03."
+venueJa: "映像情報メディア学会 メディア工学研究会, vol.39, no.29, ME2015-75, pp.25-28, 2015年8月3日."
+venueEn: "ITE Technical Report, vol.39, no.29, ME2015-75, pp.25-28, Aug. 2015."
 place: "首都大（南大沢キャンパス）"
 local: "https://www.notion.so/3c7d54c353c881078bd6dea72b4aa99c"
 ---

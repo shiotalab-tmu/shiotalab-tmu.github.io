@@ -11,7 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2008-02-16"
 type: "domestic"
-venueJa: "映像情報メディア学会 メディア工学研究会, Vol. 32, No. 8, pp. ME2008-10, 2008-02-16."
-venueEn: "ITE Technical Report, Vol. 32, No. 8, pp. ME2008-10, 2008-02-16."
+venueJa: "映像情報メディア学会 メディア工学研究会, vol.32, no.8, ME2008-10, pp.33-36, 2008年2月16日."
+venueEn: "ITE Technical Report, vol.32, no.8, ME2008-10, pp.33-36, Feb. 2008."
 place: "横浜市中区"
 ---

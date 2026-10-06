@@ -10,6 +10,6 @@ authorsEn:
   - "Masahiko SAGAWA"
 date: "1986-03-01"
 type: "domestic"
-venueJa: "電子通信学会 総合全国大会, pp. 54, 1986-03-01."
-venueEn: "National Conference of IECE, pp. 54, 1986-03-01."
+venueJa: "電子通信学会 総合全国大会, 54, 1986年3月1日."
+venueEn: "National Conference of IECE, 54, March 1986."
 ---

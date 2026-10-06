@@ -12,8 +12,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2019-09-15"
 type: "international"
-venueJa: "ISCA International Conference on Interspeech, 2019-09-15."
-venueEn: "ISCA International Conference on Interspeech, 2019-09-15."
+venueJa: "ISCA International Conference on Interspeech, 2019年9月15日."
+venueEn: "ISCA International Conference on Interspeech, Sept. 2019."
 url: "https://doi.org/10.21437/Interspeech.2019-1510"
 doi: "https://doi.org/10.21437/Interspeech.2019-1510"
 ---

@@ -11,7 +11,7 @@ authorsEn:
   - "Kiyoshi NISHIKAWA"
 date: "2003-09-24"
 type: "domestic"
-venueJa: "電子情報通信学会 ソサイエティ大会, pp. B-5-38, 2003-09-24."
-venueEn: "Society Conference of IEICE, pp. B-5-38, 2003-09-24."
+venueJa: "電子情報通信学会 ソサイエティ大会, B-5-38, 2003年9月24日."
+venueEn: "Society Conference of IEICE, B-5-38, Sept. 2003."
 place: "新潟"
 ---

@@ -9,7 +9,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2000-11-01"
 type: "domestic"
-venueJa: "電子情報通信学会 画像符号化シンポジウム, pp. P-P1.21, 2000-11-01."
-venueEn: "IEICE Picture Coding Symposium of Japan, pp. P-P1.21, 2000-11-01."
+venueJa: "電子情報通信学会 画像符号化シンポジウム, P-P1.21, pp.71-72, 2000年11月1日."
+venueEn: "IEICE Picture Coding Symposium of Japan, P-P1.21, pp.71-72, Nov. 2000."
 place: "軽井沢"
 ---

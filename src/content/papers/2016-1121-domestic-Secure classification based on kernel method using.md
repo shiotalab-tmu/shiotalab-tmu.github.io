@@ -13,8 +13,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2016-02-22"
 type: "domestic"
-venueJa: "電子情報通信学会 画像工学研究会, Vol. 115, No. 458, pp. ITS2015-59, 2016-02-22."
-venueEn: "Technical Report of IEICE, Vol. 115, No. 458, pp. ITS2015-59, 2016-02-22."
+venueJa: "電子情報通信学会 画像工学研究会, vol.115, no.458, ITS2015-59, pp.17-22, 2016年2月22日."
+venueEn: "Technical Report of IEICE, vol.115, no.458, ITS2015-59, pp.17-22, Feb. 2016."
 place: "北海道"
 local: "https://www.notion.so/3c7d54c353c8810ab663cd0ab4fd9e31"
 ---

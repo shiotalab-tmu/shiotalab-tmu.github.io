@@ -11,6 +11,6 @@ authorsEn:
   - "Kiyoshi NISHIKAWA"
 date: "1992-03-01"
 type: "domestic"
-venueJa: "電子情報通信学会 春季全国大会, pp. A-195, 1992-03-01."
-venueEn: "Spring Conf. of IEICE, pp. A-195, 1992-03-01."
+venueJa: "電子情報通信学会 春季全国大会, A-195, 1992年3月1日."
+venueEn: "Spring Conf. of IEICE, A-195, March 1992."
 ---

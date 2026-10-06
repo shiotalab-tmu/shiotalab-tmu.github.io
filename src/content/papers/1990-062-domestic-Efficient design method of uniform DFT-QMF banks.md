@@ -13,6 +13,6 @@ authorsEn:
   - "Masahiko SAGAWA"
 date: "1990-09-01"
 type: "domestic"
-venueJa: "電子情報通信学会 回路とシステム研究会, pp. CAS90-66, 1990-09-01."
-venueEn: "Technical Report of IEICE, pp. CAS90-66, 1990-09-01."
+venueJa: "電子情報通信学会 回路とシステム研究会, CAS90-66, 1990年9月1日."
+venueEn: "Technical Report of IEICE, CAS90-66, Sept. 1990."
 ---

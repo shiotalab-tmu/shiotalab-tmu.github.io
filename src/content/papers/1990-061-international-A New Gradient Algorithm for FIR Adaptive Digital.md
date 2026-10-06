@@ -10,6 +10,6 @@ authorsEn:
   - "Masahiko SAGAWA"
 date: "1990-08-01"
 type: "international"
-venueJa: "IEEE Midwest Symposium on Circuits and Systems, pp. MAR1-6, 1990-08-01."
-venueEn: "IEEE Midwest Symposium on Circuits and Systems, pp. MAR1-6, 1990-08-01."
+venueJa: "IEEE Midwest Symposium on Circuits and Systems, MAR1-6, 1990年8月1日."
+venueEn: "IEEE Midwest Symposium on Circuits and Systems, MAR1-6, Aug. 1990."
 ---

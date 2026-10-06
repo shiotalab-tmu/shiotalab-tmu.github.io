@@ -10,6 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1992-11-01"
 type: "domestic"
-venueJa: "電子情報通信学会 ディジタル信号処理シンポジウム, pp. B5-1, 1992-11-01."
-venueEn: "IEICE Digital Signal Processing Symposium, pp. B5-1, 1992-11-01."
+venueJa: "電子情報通信学会 ディジタル信号処理シンポジウム, B5-1, 1992年11月1日."
+venueEn: "IEICE Digital Signal Processing Symposium, B5-1, Nov. 1992."
 ---

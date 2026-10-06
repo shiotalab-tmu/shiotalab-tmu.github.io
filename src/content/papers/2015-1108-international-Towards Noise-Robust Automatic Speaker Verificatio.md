@@ -10,8 +10,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2015-12-01"
 type: "international"
-venueJa: "International Workshop on Community centric Systems, pp. 28-32, 2015-12-01."
-venueEn: "International Workshop on Community centric Systems, pp. 28-32, 2015-12-01."
+venueJa: "International Workshop on Community centric Systems, pp.28-32, 2015年12月1日."
+venueEn: "International Workshop on Community centric Systems, pp.28-32, Dec. 2015."
 place: "Tokyo, Japan"
 local: "https://www.notion.so/3c7d54c353c881c5a948f82c08cf9ee7"
 ---

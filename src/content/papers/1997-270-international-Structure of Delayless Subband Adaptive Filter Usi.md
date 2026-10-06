@@ -10,6 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1997-07-01"
 type: "international"
-venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, 1997-07-01."
-venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, 1997-07-01."
+venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, 1997年7月1日."
+venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, July 1997."
 ---

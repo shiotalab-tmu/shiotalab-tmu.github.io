@@ -6,6 +6,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-11-01"
 type: "journal"
-venueJa: "APSIPA Magazine, pp. 12-15, 2018-11-01."
-venueEn: "APSIPA Magazine, pp. 12-15, 2018-11-01."
+venueJa: "APSIPA Magazine, pp.12-15, 2018年11月1日."
+venueEn: "APSIPA Magazine, pp.12-15, Nov. 2018."
 ---

@@ -8,7 +8,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2023-01-09"
 type: "international"
-venueJa: "International Workshop on Advanced Image Technology, 2023-01-09."
-venueEn: "International Workshop on Advanced Image Technology, 2023-01-09."
+venueJa: "International Workshop on Advanced Image Technology, 2023年1月9日."
+venueEn: "International Workshop on Advanced Image Technology, Jan. 2023."
 place: "Jeju, Korea"
 ---

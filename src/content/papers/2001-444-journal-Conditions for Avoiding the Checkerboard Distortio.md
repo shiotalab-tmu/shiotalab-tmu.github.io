@@ -8,6 +8,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2001-12-01"
 type: "journal"
-venueJa: "Electronics and Communications in Japan, Part III, Vol. 84, No. 12, pp. 59-68, 2001-12-01."
-venueEn: "Electronics and Communications in Japan, Part III, Vol. 84, No. 12, pp. 59-68, 2001-12-01."
+venueJa: "Electronics and Communications in Japan, Part III, vol.84, no.12, pp.59-68, 2001年12月1日."
+venueEn: "Electronics and Communications in Japan, Part III, vol.84, no.12, pp.59-68, Dec. 2001."
 ---

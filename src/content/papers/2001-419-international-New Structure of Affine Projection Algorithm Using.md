@@ -8,7 +8,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2001-03-01"
 type: "international"
-venueJa: "IEEE Signal Processing Adavances in Wireless Communications, 2001-03-01."
-venueEn: "IEEE Signal Processing Adavances in Wireless Communications, 2001-03-01."
+venueJa: "IEEE Signal Processing Adavances in Wireless Communications, 2001年3月1日."
+venueEn: "IEEE Signal Processing Adavances in Wireless Communications, March 2001."
 place: "Taoyuan, Taiwan, R.O.C."
 ---

@@ -10,8 +10,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2019-03-01"
 type: "journal"
-venueJa: "ECTI Trans. Electrical Eng., Electronics, and Commun., Vol. 17, No. 1, pp. 95-107, 2019-03-01."
-venueEn: "ECTI Trans. Electrical Eng., Electronics, and Commun., Vol. 17, No. 1, pp. 95-107, 2019-03-01."
+venueJa: "ECTI Trans. Electrical Eng., Electronics, and Commun., vol.17, no.1, pp.95-107, 2019年3月1日."
+venueEn: "ECTI Trans. Electrical Eng., Electronics, and Commun., vol.17, no.1, pp.95-107, March 2019."
 url: "https://www.ecti-eec.org/index.php/ecti-eec/article/view/840"
 webpage: "https://www.ecti-eec.org/index.php/ecti-eec/article/view/840"
 ---

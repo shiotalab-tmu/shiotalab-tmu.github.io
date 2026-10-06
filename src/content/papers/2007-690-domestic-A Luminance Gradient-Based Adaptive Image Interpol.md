@@ -9,7 +9,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2007-06-21"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理研究会, Vol. 107, No. 1, pp. SIP2007-39, 2007-06-21."
-venueEn: "Technical Report of IEICE, Vol. 107, No. 1, pp. SIP2007-39, 2007-06-21."
+venueJa: "電子情報通信学会 信号処理研究会, vol.107, no.1, SIP2007-39, pp.49-54, 2007年6月21日."
+venueEn: "Technical Report of IEICE, vol.107, no.1, SIP2007-39, pp.49-54, June 2007."
 place: "札幌市南区"
 ---

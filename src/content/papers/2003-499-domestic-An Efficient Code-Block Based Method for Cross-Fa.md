@@ -9,7 +9,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2003-04-28"
 type: "domestic"
-venueJa: "電子情報通信学会 回路とシステム(軽井沢)ワークショップ, pp. Bd-2-3-2, 2003-04-28."
-venueEn: "IEICE Workshop on Circuits and Systems in Karuizawa, pp. Bd-2-3-2, 2003-04-28."
+venueJa: "電子情報通信学会 回路とシステム(軽井沢)ワークショップ, Bd-2-3-2, pp.393-398, 2003年4月28日."
+venueEn: "IEICE Workshop on Circuits and Systems in Karuizawa, Bd-2-3-2, pp.393-398, April 2003."
 place: "長野県佐久郡軽井沢町"
 ---

@@ -9,7 +9,7 @@ authorsEn:
   - "Katsuyuki MATSUI"
 date: "2002-06-01"
 type: "domestic"
-venueJa: "電子情報通信学会 画像工学研究会, pp. IE2002-28, 2002-06-01."
-venueEn: "Technical Report of IEICE, pp. IE2002-28, 2002-06-01."
+venueJa: "電子情報通信学会 画像工学研究会, IE2002-28, pp.25-30, 2002年6月1日."
+venueEn: "Technical Report of IEICE, IE2002-28, pp.25-30, June 2002."
 place: "沖縄県"
 ---

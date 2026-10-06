@@ -11,7 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2005-11-17"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理シンポジウム, pp. D5-3, 2005-11-17."
-venueEn: "IEICE Signal Processing Symposium, pp. D5-3, 2005-11-17."
+venueJa: "電子情報通信学会 信号処理シンポジウム, D5-3, 2005年11月17日."
+venueEn: "IEICE Signal Processing Symposium, D5-3, Nov. 2005."
 place: "高知県高知市"
 ---

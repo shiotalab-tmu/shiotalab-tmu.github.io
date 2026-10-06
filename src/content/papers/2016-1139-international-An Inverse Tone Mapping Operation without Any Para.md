@@ -10,8 +10,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2016-08-23"
 type: "international"
-venueJa: "Workshop on Community-centric Systems as Interdisciplinary Study, 2016-08-23."
-venueEn: "Workshop on Community-centric Systems as Interdisciplinary Study, 2016-08-23."
+venueJa: "Workshop on Community-centric Systems as Interdisciplinary Study, 2016年8月23日."
+venueEn: "Workshop on Community-centric Systems as Interdisciplinary Study, Aug. 2016."
 place: "Hachioji, Tokyo, Japan"
 local: "https://www.notion.so/3c7d54c353c8812dbee9ee4b22d9f89b"
 ---

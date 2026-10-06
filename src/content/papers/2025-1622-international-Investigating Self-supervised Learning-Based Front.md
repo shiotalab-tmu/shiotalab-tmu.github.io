@@ -10,8 +10,8 @@ authorsEn:
   - "Naohiro TAWARA"
 date: "2025-10-24"
 type: "international"
-venueJa: "APSIPA Annual Summit and Conference, 2025-10-24."
-venueEn: "APSIPA Annual Summit and Conference, 2025-10-24."
+venueJa: "APSIPA Annual Summit and Conference, 2025年10月24日."
+venueEn: "APSIPA Annual Summit and Conference, Oct. 2025."
 place: "Shangri-la, Singapore"
 local: "https://www.notion.so/3c7d54c353c881c189cff8653aff167c"
 ---

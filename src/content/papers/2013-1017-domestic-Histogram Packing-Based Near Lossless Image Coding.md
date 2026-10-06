@@ -11,8 +11,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2013-11-06"
 type: "domestic"
-venueJa: "電子情報通信学会 画像符号化シンポジウム, pp. P-2-01, 2013-11-06."
-venueEn: "IEICE Picture Coding Symposium of Japan, pp. P-2-01, 2013-11-06."
+venueJa: "電子情報通信学会 画像符号化シンポジウム, P-2-01, 2013年11月6日."
+venueEn: "IEICE Picture Coding Symposium of Japan, P-2-01, Nov. 2013."
 place: "静岡県熱海市"
 local: "https://www.notion.so/3c7d54c353c88181a3cfd7e81180be94"
 ---

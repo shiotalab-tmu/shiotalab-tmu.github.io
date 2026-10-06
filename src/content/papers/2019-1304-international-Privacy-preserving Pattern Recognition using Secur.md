@@ -8,7 +8,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2019-03-17"
 type: "international"
-venueJa: "International Conference on Frontiers of Image Processing, 2019-03-17."
-venueEn: "International Conference on Frontiers of Image Processing, 2019-03-17."
+venueJa: "International Conference on Frontiers of Image Processing, 2019年3月17日."
+venueEn: "International Conference on Frontiers of Image Processing, March 2019."
 place: "Florence, Italy"
 ---

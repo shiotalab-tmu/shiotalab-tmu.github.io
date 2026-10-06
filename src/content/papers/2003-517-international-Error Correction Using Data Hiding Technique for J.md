@@ -10,7 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2003-09-17"
 type: "international"
-venueJa: "IEEE International Conference on Image Processing, pp. CD-ROM, 2003-09-17."
-venueEn: "IEEE International Conference on Image Processing, pp. CD-ROM, 2003-09-17."
+venueJa: "IEEE International Conference on Image Processing, CD-ROM, 2003年9月17日."
+venueEn: "IEEE International Conference on Image Processing, CD-ROM, Sept. 2003."
 place: "Barcelona, Spain"
 ---

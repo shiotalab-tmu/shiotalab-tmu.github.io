@@ -9,7 +9,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2008-10-30"
 type: "domestic"
-venueJa: "電子情報通信学会 画像符号化シンポジウム, pp. P5-16, 2008-10-30."
-venueEn: "IEICE Picture Coding Symposium of Japan, pp. P5-16, 2008-10-30."
+venueJa: "電子情報通信学会 画像符号化シンポジウム, P5-16, 2008年10月30日."
+venueEn: "IEICE Picture Coding Symposium of Japan, P5-16, Oct. 2008."
 place: "静岡県伊豆市"
 ---

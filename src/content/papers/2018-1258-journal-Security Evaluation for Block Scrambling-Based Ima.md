@@ -8,7 +8,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-12-01"
 type: "journal"
-venueJa: "IEICE Trans. Fundamentals, Vol. E101-A, No. 12, pp. 2405-2408, 2018-12-01."
-venueEn: "IEICE Trans. Fundamentals, Vol. E101-A, No. 12, pp. 2405-2408, 2018-12-01."
+venueJa: "IEICE Trans. Fundamentals, vol.E101-A, no.12, pp.2405-2408, 2018年12月1日."
+venueEn: "IEICE Trans. Fundamentals, vol.E101-A, no.12, pp.2405-2408, Dec. 2018."
 local: "https://www.notion.so/3c7d54c353c8816d85c9f4a285bc46f3"
 ---

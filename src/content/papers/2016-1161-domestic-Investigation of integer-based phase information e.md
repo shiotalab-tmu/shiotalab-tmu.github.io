@@ -11,8 +11,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2016-12-20"
 type: "domestic"
-venueJa: "電子情報通信学会 音声研究会, Vol. 2016-SLP-114, No. 16, pp. 65-70, 2016-12-20."
-venueEn: "Speech Committee, Vol. 2016-SLP-114, No. 16, pp. 65-70, 2016-12-20."
+venueJa: "電子情報通信学会 音声研究会, vol.2016-SLP-114, no.16, pp.65-70, 2016年12月20日."
+venueEn: "Speech Committee, vol.2016-SLP-114, no.16, pp.65-70, Dec. 2016."
 place: "NTT武蔵野研究開発センタ"
 local: "https://www.notion.so/3c7d54c353c8819093fdd9308d0ab289"
 ---

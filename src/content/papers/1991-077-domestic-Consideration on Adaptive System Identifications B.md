@@ -9,6 +9,6 @@ authorsEn:
   - "Satoshi YAMAGUCHI"
 date: "1991-09-01"
 type: "domestic"
-venueJa: "電子情報通信学会 秋季全国大会, pp. A-81, 1991-09-01."
-venueEn: "Autumn Conf. of IEICE, pp. A-81, 1991-09-01."
+venueJa: "電子情報通信学会 秋季全国大会, A-81, 1991年9月1日."
+venueEn: "Autumn Conf. of IEICE, A-81, Sept. 1991."
 ---

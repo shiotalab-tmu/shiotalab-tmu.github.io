@@ -13,6 +13,6 @@ authorsEn:
   - "Masahiko SAGAWA"
 date: "1990-03-01"
 type: "domestic"
-venueJa: "電子情報通信学会 春季全国大会, pp. A-194, 1990-03-01."
-venueEn: "Spring Conf. of IEICE, pp. A-194, 1990-03-01."
+venueJa: "電子情報通信学会 春季全国大会, A-194, 1990年3月1日."
+venueEn: "Spring Conf. of IEICE, A-194, March 1990."
 ---

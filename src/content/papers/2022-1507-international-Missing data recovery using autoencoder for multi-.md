@@ -16,7 +16,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2022-08-30"
 type: "international"
-venueJa: "EURASIP European Signal Processing Conference, pp. 767-771, 2022-08-30."
-venueEn: "EURASIP European Signal Processing Conference, pp. 767-771, 2022-08-30."
+venueJa: "EURASIP European Signal Processing Conference, pp.767-771, 2022年8月30日."
+venueEn: "EURASIP European Signal Processing Conference, pp.767-771, Aug. 2022."
 place: "Belgrade, Serbia"
 ---

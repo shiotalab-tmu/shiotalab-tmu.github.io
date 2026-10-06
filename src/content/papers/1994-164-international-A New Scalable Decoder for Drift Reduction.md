@@ -8,6 +8,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1994-09-01"
 type: "international"
-venueJa: "Picture Coding Symposium, 1994-09-01."
-venueEn: "Picture Coding Symposium, 1994-09-01."
+venueJa: "Picture Coding Symposium, 1994年9月1日."
+venueEn: "Picture Coding Symposium, Sept. 1994."
 ---

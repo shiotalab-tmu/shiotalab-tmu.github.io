@@ -10,6 +10,6 @@ authorsEn:
   - "Masahiko SAGAWA"
 date: "1989-01-01"
 type: "journal"
-venueJa: "Electronics and Communications in Japan, Part III, Vol. 72, No. 1, pp. 105-113, 1989-01-01."
-venueEn: "Electronics and Communications in Japan, Part III, Vol. 72, No. 1, pp. 105-113, 1989-01-01."
+venueJa: "Electronics and Communications in Japan, Part III, vol.72, no.1, pp.105-113, 1989年1月1日."
+venueEn: "Electronics and Communications in Japan, Part III, vol.72, no.1, pp.105-113, Jan. 1989."
 ---

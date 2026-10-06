@@ -11,8 +11,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2012-09-17"
 type: "domestic"
-venueJa: "日本教育工学会 全国大会, pp. 3a-242-04, 2012-09-17."
-venueEn: "JSET Annual Conference, pp. 3a-242-04, 2012-09-17."
+venueJa: "日本教育工学会 全国大会, 3a-242-04, pp.755-756, 2012年9月17日."
+venueEn: "JSET Annual Conference, 3a-242-04, pp.755-756, Sept. 2012."
 place: "長崎県長崎市"
 local: "https://www.notion.so/3c7d54c353c88100a051f25bd6f0a5de"
 ---

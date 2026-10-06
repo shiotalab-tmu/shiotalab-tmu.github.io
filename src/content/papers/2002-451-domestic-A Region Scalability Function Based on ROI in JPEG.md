@@ -9,7 +9,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2002-03-01"
 type: "domestic"
-venueJa: "電子情報通信学会 総合大会, pp. D-11-19, 2002-03-01."
-venueEn: "General Conference of IEICE, pp. D-11-19, 2002-03-01."
+venueJa: "電子情報通信学会 総合大会, D-11-19, 2002年3月1日."
+venueEn: "General Conference of IEICE, D-11-19, March 2002."
 place: "東京都新宿区"
 ---

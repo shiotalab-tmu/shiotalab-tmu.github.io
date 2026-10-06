@@ -11,7 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2005-07-15"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理研究会, Vol. 105, No. 175, pp. SIP2005-67, 2005-07-15."
-venueEn: "Technical Report of IEICE, Vol. 105, No. 175, pp. SIP2005-67, 2005-07-15."
+venueJa: "電子情報通信学会 信号処理研究会, vol.105, no.175, SIP2005-67, pp.21-26, 2005年7月15日."
+venueEn: "Technical Report of IEICE, vol.105, no.175, SIP2005-67, pp.21-26, July 2005."
 place: "愛媛県松山市"
 ---

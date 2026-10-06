@@ -13,7 +13,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2020-09-11"
 type: "domestic"
-venueJa: "日本音響学会秋季大会, pp. 3-2-15, 2020-09-11."
-venueEn: "Acoustical Society of Japan Autumn Meeting, pp. 3-2-15, 2020-09-11."
+venueJa: "日本音響学会秋季大会, 3-2-15, 2020年9月11日."
+venueEn: "Acoustical Society of Japan Autumn Meeting, 3-2-15, Sept. 2020."
 local: "https://www.notion.so/3c7d54c353c8814aa6b5ea752e24fae9"
 ---

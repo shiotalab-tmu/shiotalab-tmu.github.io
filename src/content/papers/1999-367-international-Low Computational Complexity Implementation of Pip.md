@@ -8,7 +8,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1999-09-01"
 type: "international"
-venueJa: "European Conference on Circuit Theory and Design, Vol. 2, 1999-09-01."
-venueEn: "European Conference on Circuit Theory and Design, Vol. 2, 1999-09-01."
+venueJa: "European Conference on Circuit Theory and Design, vol.2, 1999年9月1日."
+venueEn: "European Conference on Circuit Theory and Design, vol.2, Sept. 1999."
 place: "Streasa, Italy"
 ---

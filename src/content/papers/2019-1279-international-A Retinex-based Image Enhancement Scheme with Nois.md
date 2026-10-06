@@ -12,8 +12,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2019-01-08"
 type: "international"
-venueJa: "International Workshop on Advanced Image Technology, 2019-01-08."
-venueEn: "International Workshop on Advanced Image Technology, 2019-01-08."
+venueJa: "International Workshop on Advanced Image Technology, 2019年1月8日."
+venueEn: "International Workshop on Advanced Image Technology, Jan. 2019."
 place: "Nanyang Technological University, Singapore"
 local: "https://www.notion.so/3c7d54c353c88106b4a4c7f4df6f0596"
 ---

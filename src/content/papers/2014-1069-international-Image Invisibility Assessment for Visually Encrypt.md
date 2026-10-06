@@ -12,8 +12,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2014-12-02"
 type: "international"
-venueJa: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, 2014-12-02."
-venueEn: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, 2014-12-02."
+venueJa: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, 2014年12月2日."
+venueEn: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, Dec. 2014."
 place: "Kuching, Sarawak, Malaysia"
 local: "https://www.notion.so/3c7d54c353c881cdad13df7c86f0ee80"
 ---

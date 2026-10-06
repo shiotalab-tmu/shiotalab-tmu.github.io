@@ -13,6 +13,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1998-03-01"
 type: "domestic"
-venueJa: "電子情報通信学会 VLSI設計技術研究会, pp. VLD97-128, 1998-03-01."
-venueEn: "Technical Report of IEICE, pp. VLD97-128, 1998-03-01."
+venueJa: "電子情報通信学会 VLSI設計技術研究会, VLD97-128, 1998年3月1日."
+venueEn: "Technical Report of IEICE, VLD97-128, March 1998."
 ---

@@ -11,6 +11,6 @@ authorsEn:
   - "Sachio NAITO"
 date: "1994-07-01"
 type: "domestic"
-venueJa: "電子情報通信学会 フォルトトレラントシステム研究会, 1994-07-01."
-venueEn: "Technical Report of IEICE, 1994-07-01."
+venueJa: "電子情報通信学会 フォルトトレラントシステム研究会, 1994年7月1日."
+venueEn: "Technical Report of IEICE, July 1994."
 ---

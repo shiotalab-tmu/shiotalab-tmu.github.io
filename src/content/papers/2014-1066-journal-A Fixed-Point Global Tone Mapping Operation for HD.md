@@ -12,10 +12,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2014-11-01"
 type: "journal"
-venueJa: "IEICE Trans. Fundamentals, Vol. E97-A, No. 11, pp. 2147-2153, 2014-11-01."
-venueEn: "IEICE Trans. Fundamentals, Vol. E97-A, No. 11, pp. 2147-2153, 2014-11-01."
-url: "https://doi.org/0.1587/transfun.E97.A.2147"
-doi: "https://doi.org/0.1587/transfun.E97.A.2147"
+venueJa: "IEICE Trans. Fundamentals, vol.E97-A, no.11, pp.2147-2153, 2014年11月1日."
+venueEn: "IEICE Trans. Fundamentals, vol.E97-A, no.11, pp.2147-2153, Nov. 2014."
+url: "http://search.ieice.org/bin/summary.php?id=e97-a_11_2147&category=A&year=2014&lang=E&abst="
 webpage: "http://search.ieice.org/bin/summary.php?id=e97-a_11_2147&category=A&year=2014&lang=E&abst="
 local: "https://www.notion.so/3c7d54c353c88177b74fd1fa3836fb10"
 ---

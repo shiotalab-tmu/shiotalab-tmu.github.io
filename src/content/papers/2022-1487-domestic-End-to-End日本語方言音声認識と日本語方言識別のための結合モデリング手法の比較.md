@@ -12,8 +12,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2022-03-09"
 type: "domestic"
-venueJa: "日本音響学会春季大会, 2022-03-09."
-venueEn: "Acoustical Society of Japan Spring Meeting, 2022-03-09."
+venueJa: "日本音響学会春季大会, 2022年3月9日."
+venueEn: "Acoustical Society of Japan Spring Meeting, March 2022."
 place: "オンライン"
 local: "https://www.notion.so/3c7d54c353c881a0ac55d0c4354a6503"
 ---

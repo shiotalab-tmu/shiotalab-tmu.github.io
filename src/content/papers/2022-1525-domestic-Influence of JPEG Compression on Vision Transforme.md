@@ -11,7 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2022-12-13"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理シンポジウム, pp. 65-70, 2022-12-13."
-venueEn: "IEICE Signal Processing Symposium, pp. 65-70, 2022-12-13."
+venueJa: "電子情報通信学会 信号処理シンポジウム, pp.65-70, 2022年12月13日."
+venueEn: "IEICE Signal Processing Symposium, pp.65-70, Dec. 2022."
 place: "朱鷺メッセ"
 ---

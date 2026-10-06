@@ -12,8 +12,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2019-09-23"
 type: "international"
-venueJa: "IEEE International Conference on Image Processing, 2019-09-23."
-venueEn: "IEEE International Conference on Image Processing, 2019-09-23."
+venueJa: "IEEE International Conference on Image Processing, 2019年9月23日."
+venueEn: "IEEE International Conference on Image Processing, Sept. 2019."
 place: "Taipei, Taiwan"
 local: "https://www.notion.so/3c7d54c353c88148a9c5d0d09c8aeed7"
 ---

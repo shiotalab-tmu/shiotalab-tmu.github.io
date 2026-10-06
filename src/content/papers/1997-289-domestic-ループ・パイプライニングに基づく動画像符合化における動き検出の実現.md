@@ -12,6 +12,6 @@ authorsEn:
   - "Akihiko YAMADA"
 date: "1997-11-01"
 type: "domestic"
-venueJa: "電子情報通信学会 システムLSI琵琶湖ワークショップ, pp. A8.2, 1997-11-01."
-venueEn: "IEICE System LSI Biwako Workshop, pp. A8.2, 1997-11-01."
+venueJa: "電子情報通信学会 システムLSI琵琶湖ワークショップ, A8.2, 1997年11月1日."
+venueEn: "IEICE System LSI Biwako Workshop, A8.2, Nov. 1997."
 ---

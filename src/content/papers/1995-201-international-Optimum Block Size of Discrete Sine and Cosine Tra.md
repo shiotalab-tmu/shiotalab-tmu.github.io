@@ -10,6 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1995-07-01"
 type: "international"
-venueJa: "Joint Technical Conference on Circuits/Systems, Computers and Communications, pp. SP6-4, 1995-07-01."
-venueEn: "Joint Technical Conference on Circuits/Systems, Computers and Communications, pp. SP6-4, 1995-07-01."
+venueJa: "Joint Technical Conference on Circuits/Systems, Computers and Communications, SP6-4, 1995年7月1日."
+venueEn: "Joint Technical Conference on Circuits/Systems, Computers and Communications, SP6-4, July 1995."
 ---

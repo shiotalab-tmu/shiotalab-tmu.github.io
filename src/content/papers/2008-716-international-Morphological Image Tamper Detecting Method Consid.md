@@ -10,8 +10,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2008-01-07"
 type: "international"
-venueJa: "International Workshop on Advanced Image Technology, pp. B3-4, 2008-01-07."
-venueEn: "International Workshop on Advanced Image Technology, pp. B3-4, 2008-01-07."
+venueJa: "International Workshop on Advanced Image Technology, B3-4, 2008年1月7日."
+venueEn: "International Workshop on Advanced Image Technology, B3-4, Jan. 2008."
 place: "Hsinchu, Taiwan, R.O.C."
 local: "https://www.notion.so/3c7d54c353c8810f9a50cec5abd6d2e8"
 ---

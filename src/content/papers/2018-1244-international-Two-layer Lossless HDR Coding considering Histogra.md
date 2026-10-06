@@ -10,8 +10,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-06-25"
 type: "international"
-venueJa: "Picture Coding Symposium, pp. 11-15, 2018-06-25."
-venueEn: "Picture Coding Symposium, pp. 11-15, 2018-06-25."
+venueJa: "Picture Coding Symposium, pp.11-15, 2018年6月25日."
+venueEn: "Picture Coding Symposium, pp.11-15, June 2018."
 place: "San Francisco, USA"
 local: "https://www.notion.so/3c7d54c353c8810da260ddd12b7d44ce"
 ---

@@ -10,7 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2000-07-01"
 type: "international"
-venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. 282-285, 2000-07-01."
-venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. 282-285, 2000-07-01."
+venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, pp.282-285, 2000年7月1日."
+venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, pp.282-285, July 2000."
 place: "Pusan, Korea"
 ---

@@ -9,7 +9,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2001-04-01"
 type: "domestic"
-venueJa: "電子情報通信学会 回路とシステム(軽井沢)ワークショップ, pp. 71-76, 2001-04-01."
-venueEn: "IEICE Workshop on Circuits and Systems in Karuizawa, pp. 71-76, 2001-04-01."
+venueJa: "電子情報通信学会 回路とシステム(軽井沢)ワークショップ, pp.71-76, 2001年4月1日."
+venueEn: "IEICE Workshop on Circuits and Systems in Karuizawa, pp.71-76, April 2001."
 place: "軽井沢"
 ---

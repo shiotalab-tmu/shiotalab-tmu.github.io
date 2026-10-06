@@ -11,8 +11,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2024-01-24"
 type: "domestic"
-venueJa: "電子情報通信学会 暗号と情報セキュリティシンポジウム, 2024-01-24."
-venueEn: "IEICE Symposium on Cryptography and Information Security, 2024-01-24."
+venueJa: "電子情報通信学会 暗号と情報セキュリティシンポジウム, 2024年1月24日."
+venueEn: "IEICE Symposium on Cryptography and Information Security, Jan. 2024."
 place: "出島メッセ長崎"
 local: "https://www.notion.so/3c7d54c353c8810492f0f19d8ca79f2f"
 ---

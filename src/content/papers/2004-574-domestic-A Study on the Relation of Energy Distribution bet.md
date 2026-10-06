@@ -9,7 +9,7 @@ authorsEn:
   - "Kiyoshi NISHIKAWA"
 date: "2004-11-11"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理シンポジウム, pp. C3-4, 2004-11-11."
-venueEn: "IEICE Signal Processing Symposium, pp. C3-4, 2004-11-11."
+venueJa: "電子情報通信学会 信号処理シンポジウム, C3-4, 2004年11月11日."
+venueEn: "IEICE Signal Processing Symposium, C3-4, Nov. 2004."
 place: "山梨県北巨摩郡大泉村"
 ---

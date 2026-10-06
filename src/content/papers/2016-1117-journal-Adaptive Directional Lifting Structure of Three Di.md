@@ -12,7 +12,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2016-05-01"
 type: "journal"
-venueJa: "IEICE Trans. Fundamentals, Vol. E99-A, No. 5, pp. 892-899, 2016-05-01."
-venueEn: "IEICE Trans. Fundamentals, Vol. E99-A, No. 5, pp. 892-899, 2016-05-01."
+venueJa: "IEICE Trans. Fundamentals, vol.E99-A, no.5, pp.892-899, 2016年5月1日."
+venueEn: "IEICE Trans. Fundamentals, vol.E99-A, no.5, pp.892-899, May 2016."
 local: "https://www.notion.so/3c7d54c353c881b7adcfc83fa341e6f4"
 ---

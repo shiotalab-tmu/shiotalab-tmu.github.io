@@ -12,9 +12,9 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2021-10-06"
 type: "journal"
-venueJa: "MDPI Journal of Imaging, Vol. 7, No. 10, pp. 1-15, 2021-10-06."
-venueEn: "MDPI Journal of Imaging, Vol. 7, No. 10, pp. 1-15, 2021-10-06."
-url: "https://doi.org/https://doi.org/10.3390/jimaging7100207"
-doi: "https://doi.org/https://doi.org/10.3390/jimaging7100207"
+venueJa: "MDPI Journal of Imaging, vol.7, no.10, pp.1-15, 2021年10月6日."
+venueEn: "MDPI Journal of Imaging, vol.7, no.10, pp.1-15, Oct. 2021."
+url: "https://doi.org/10.3390/jimaging7100207"
+doi: "https://doi.org/10.3390/jimaging7100207"
 webpage: "https://www.mdpi.com/2313-433X/7/10/207"
 ---

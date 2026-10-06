@@ -10,8 +10,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-05-29"
 type: "international"
-venueJa: "IEEE International Symposium on Circuits and Systems, 2018-05-29."
-venueEn: "IEEE International Symposium on Circuits and Systems, 2018-05-29."
+venueJa: "IEEE International Symposium on Circuits and Systems, 2018年5月29日."
+venueEn: "IEEE International Symposium on Circuits and Systems, May 2018."
 place: "Florence, Italy"
 local: "https://www.notion.so/3c7d54c353c881c29f11f3faa6ab3854"
 ---

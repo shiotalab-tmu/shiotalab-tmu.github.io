@@ -9,7 +9,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2006-02-21"
 type: "domestic"
-venueJa: "電子情報通信学会 画像工学研究会, pp. IE2005-299, 2006-02-21."
-venueEn: "Technical Report of IEICE, pp. IE2005-299, 2006-02-21."
+venueJa: "電子情報通信学会 画像工学研究会, IE2005-299, pp.73-78, 2006年2月21日."
+venueEn: "Technical Report of IEICE, IE2005-299, pp.73-78, Feb. 2006."
 place: "北海道札幌市北区"
 ---

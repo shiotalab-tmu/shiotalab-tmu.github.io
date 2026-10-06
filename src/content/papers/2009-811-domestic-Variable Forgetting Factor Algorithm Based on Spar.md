@@ -9,7 +9,7 @@ authorsEn:
   - "Kiyoshi NISHIKAWA"
 date: "2009-11-26"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理シンポジウム, pp. B3-1, 2009-11-26."
-venueEn: "IEICE Signal Processing Symposium, pp. B3-1, 2009-11-26."
+venueJa: "電子情報通信学会 信号処理シンポジウム, B3-1, pp.296-301, 2009年11月26日."
+venueEn: "IEICE Signal Processing Symposium, B3-1, pp.296-301, Nov. 2009."
 place: "鹿児島県鹿児島市"
 ---

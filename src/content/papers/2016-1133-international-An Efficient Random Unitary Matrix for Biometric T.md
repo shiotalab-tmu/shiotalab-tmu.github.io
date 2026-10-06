@@ -12,8 +12,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2016-08-27"
 type: "international"
-venueJa: "International Conference on Soft Computing and Intelligent Systems and International Symposium on Advanced Intelligent Systems, 2016-08-27."
-venueEn: "International Conference on Soft Computing and Intelligent Systems and International Symposium on Advanced Intelligent Systems, 2016-08-27."
+venueJa: "International Conference on Soft Computing and Intelligent Systems and International Symposium on Advanced Intelligent Systems, 2016年8月27日."
+venueEn: "International Conference on Soft Computing and Intelligent Systems and International Symposium on Advanced Intelligent Systems, Aug. 2016."
 place: "Sapporo, Hokkaido, Japan "
 local: "https://www.notion.so/3c7d54c353c881e48aabf6c9be4c0896"
 ---

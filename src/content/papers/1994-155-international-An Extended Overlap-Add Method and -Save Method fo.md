@@ -8,6 +8,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1994-05-01"
 type: "international"
-venueJa: "IEEE International Symposium on Circuits and Systems, 1994-05-01."
-venueEn: "IEEE International Symposium on Circuits and Systems, 1994-05-01."
+venueJa: "IEEE International Symposium on Circuits and Systems, 1994年5月1日."
+venueEn: "IEEE International Symposium on Circuits and Systems, May 1994."
 ---

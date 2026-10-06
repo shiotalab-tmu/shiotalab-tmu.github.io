@@ -10,6 +10,6 @@ authorsEn:
   - "Masahiko SAGAWA"
 date: "1987-03-01"
 type: "domestic"
-venueJa: "電子情報通信学会 春季全国大会, pp. 465, 1987-03-01."
-venueEn: "Spring Conf. of IEICE, pp. 465, 1987-03-01."
+venueJa: "電子情報通信学会 春季全国大会, 465, 1987年3月1日."
+venueEn: "Spring Conf. of IEICE, 465, March 1987."
 ---

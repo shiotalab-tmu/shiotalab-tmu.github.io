@@ -10,6 +10,6 @@ authorsEn:
   - "Sachio NAITO"
 date: "1993-01-01"
 type: "domestic"
-venueJa: "FTC研究会, 1993-01-01."
-venueEn: "FTC研究会, 1993-01-01."
+venueJa: "FTC研究会, 1993年1月1日."
+venueEn: "FTC研究会, Jan. 1993."
 ---

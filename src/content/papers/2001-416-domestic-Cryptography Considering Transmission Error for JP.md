@@ -11,7 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2001-01-01"
 type: "domestic"
-venueJa: "電子情報通信学会 画像工学研究会, pp. IE2000-152, 2001-01-01."
-venueEn: "Technical Report of IEICE, pp. IE2000-152, 2001-01-01."
+venueJa: "電子情報通信学会 画像工学研究会, IE2000-152, pp.67-71, 2001年1月1日."
+venueEn: "Technical Report of IEICE, IE2000-152, pp.67-71, Jan. 2001."
 place: "札幌"
 ---

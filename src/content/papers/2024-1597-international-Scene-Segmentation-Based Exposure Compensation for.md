@@ -8,7 +8,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2024-12-05"
 type: "international"
-venueJa: "APSIPA Annual Summit and Conference, 2024-12-05."
-venueEn: "APSIPA Annual Summit and Conference, 2024-12-05."
+venueJa: "APSIPA Annual Summit and Conference, 2024年12月5日."
+venueEn: "APSIPA Annual Summit and Conference, Dec. 2024."
 place: "Macau"
 ---

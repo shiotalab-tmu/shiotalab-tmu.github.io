@@ -14,9 +14,9 @@ authorsEn:
   - "Isao ECHIZEN"
 date: "2023-01-09"
 type: "journal"
-venueJa: "Telecommunication Systems, 2023-01-09."
-venueEn: "Telecommunication Systems, 2023-01-09."
-url: "https://doi.org/https://doi.org/10.1007/s11235-022-00985-0"
-doi: "https://doi.org/https://doi.org/10.1007/s11235-022-00985-0"
+venueJa: "Telecommunication Systems, 2023年1月9日."
+venueEn: "Telecommunication Systems, Jan. 2023."
+url: "https://doi.org/10.1007/s11235-022-00985-0"
+doi: "https://doi.org/10.1007/s11235-022-00985-0"
 webpage: "https://link.springer.com/article/10.1007/s11235-022-00985-0"
 ---

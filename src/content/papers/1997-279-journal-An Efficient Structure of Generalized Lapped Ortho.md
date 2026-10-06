@@ -8,6 +8,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1997-10-01"
 type: "journal"
-venueJa: "Electronics and Communications in Japan, Part III, Vol. 80, No. 10, pp. 39-50, 1997-10-01."
-venueEn: "Electronics and Communications in Japan, Part III, Vol. 80, No. 10, pp. 39-50, 1997-10-01."
+venueJa: "Electronics and Communications in Japan, Part III, vol.80, no.10, pp.39-50, 1997年10月1日."
+venueEn: "Electronics and Communications in Japan, Part III, vol.80, no.10, pp.39-50, Oct. 1997."
 ---

@@ -11,7 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2020-03-03"
 type: "domestic"
-venueJa: "データ工学と情報マネジメントに関するフォーラム, 2020-03-03."
-venueEn: "Forum on Data Engineering and Information Management, 2020-03-03."
+venueJa: "データ工学と情報マネジメントに関するフォーラム, 2020年3月3日."
+venueEn: "Forum on Data Engineering and Information Management, March 2020."
 local: "https://www.notion.so/3c7d54c353c8816fa253dc9e2e563541"
 ---

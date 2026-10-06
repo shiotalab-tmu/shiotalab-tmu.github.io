@@ -12,8 +12,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2020-09-28"
 type: "international"
-venueJa: "IEEE International Conference on Consumer Electronics - Taiwan, 2020-09-28."
-venueEn: "IEEE International Conference on Consumer Electronics - Taiwan, 2020-09-28."
+venueJa: "IEEE International Conference on Consumer Electronics - Taiwan, 2020年9月28日."
+venueEn: "IEEE International Conference on Consumer Electronics - Taiwan, Sept. 2020."
 place: "Taoyuan, Taiwan"
 local: "https://www.notion.so/3c7d54c353c881cc86dbf2a5aecc2657"
 ---

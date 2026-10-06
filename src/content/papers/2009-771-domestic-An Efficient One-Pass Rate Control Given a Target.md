@@ -13,8 +13,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2009-02-04"
 type: "domestic"
-venueJa: "電子情報通信学会 画像工学研究会, Vol. 108, No. 425, pp. IE2008-211, 2009-02-04."
-venueEn: "Technical Report of IEICE, Vol. 108, No. 425, pp. IE2008-211, 2009-02-04."
+venueJa: "電子情報通信学会 画像工学研究会, vol.108, no.425, IE2008-211, pp.41-46, 2009年2月4日."
+venueEn: "Technical Report of IEICE, vol.108, no.425, IE2008-211, pp.41-46, Feb. 2009."
 place: "札幌市北区"
 local: "https://www.notion.so/3c7d54c353c88195b6c8d4449f55be44"
 ---

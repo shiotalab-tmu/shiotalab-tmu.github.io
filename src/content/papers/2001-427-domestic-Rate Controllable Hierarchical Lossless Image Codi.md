@@ -9,7 +9,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2001-06-01"
 type: "domestic"
-venueJa: "電子情報通信学会 ディジタル信号処理研究会, pp. DSP2001-26, 2001-06-01."
-venueEn: "Technical Report of IEICE, pp. DSP2001-26, 2001-06-01."
+venueJa: "電子情報通信学会 ディジタル信号処理研究会, DSP2001-26, pp.49-54, 2001年6月1日."
+venueEn: "Technical Report of IEICE, DSP2001-26, pp.49-54, June 2001."
 place: "北見市、北海道"
 ---

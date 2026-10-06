@@ -10,7 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2005-01-10"
 type: "international"
-venueJa: "International Workshop on Advanced Image Technology, pp. PS1_6, 2005-01-10."
-venueEn: "International Workshop on Advanced Image Technology, pp. PS1_6, 2005-01-10."
+venueJa: "International Workshop on Advanced Image Technology, PS1_6, pp.79-84, 2005年1月10日."
+venueEn: "International Workshop on Advanced Image Technology, PS1_6, pp.79-84, Jan. 2005."
 place: "Jeju, Korea"
 ---

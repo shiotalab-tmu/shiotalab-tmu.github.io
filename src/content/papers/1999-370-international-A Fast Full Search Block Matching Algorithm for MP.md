@@ -10,7 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1999-10-01"
 type: "international"
-venueJa: "IEEE International Conference on Image Processing, 1999-10-01."
-venueEn: "IEEE International Conference on Image Processing, 1999-10-01."
+venueJa: "IEEE International Conference on Image Processing, 1999年10月1日."
+venueEn: "IEEE International Conference on Image Processing, Oct. 1999."
 place: "Kobe, Japan"
 ---

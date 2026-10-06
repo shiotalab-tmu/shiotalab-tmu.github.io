@@ -8,6 +8,6 @@ authorsEn:
   - "Satoshi YAMAGUCHI"
 date: "1992-04-01"
 type: "domestic"
-venueJa: "電子情報通信学会 回路とシステム軽井沢ワークショップ, 1992-04-01."
-venueEn: "IEICE Workshop on Circuits and Systems in Karuizawa, 1992-04-01."
+venueJa: "電子情報通信学会 回路とシステム軽井沢ワークショップ, 1992年4月1日."
+venueEn: "IEICE Workshop on Circuits and Systems in Karuizawa, April 1992."
 ---

@@ -12,7 +12,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2023-10-13"
 type: "international"
-venueJa: "IEEE Global Conference on Consumer Electronics, 2023-10-13."
-venueEn: "IEEE Global Conference on Consumer Electronics, 2023-10-13."
+venueJa: "IEEE Global Conference on Consumer Electronics, 2023年10月13日."
+venueEn: "IEEE Global Conference on Consumer Electronics, Oct. 2023."
 place: "Nara"
 ---

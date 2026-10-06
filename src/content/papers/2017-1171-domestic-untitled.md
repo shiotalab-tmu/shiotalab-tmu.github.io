@@ -10,6 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2017-07-10"
 type: "domestic"
-venueJa: "2017-07-10."
-venueEn: "2017-07-10."
+venueJa: "2017年7月10日."
+venueEn: "July 2017."
 ---

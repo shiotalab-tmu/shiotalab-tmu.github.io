@@ -12,6 +12,6 @@ authorsEn:
   - "Hiroyuki KOBAYASHI"
 date: "1999-05-01"
 type: "international"
-venueJa: "IEEE International Symposium on Circuits and Systems, Vol. 4, pp. 65.9, 1999-05-01."
-venueEn: "IEEE International Symposium on Circuits and Systems, Vol. 4, pp. 65.9, 1999-05-01."
+venueJa: "IEEE International Symposium on Circuits and Systems, vol.4, 65.9, pp.471-474, 1999年5月1日."
+venueEn: "IEEE International Symposium on Circuits and Systems, vol.4, 65.9, pp.471-474, May 1999."
 ---

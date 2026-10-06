@@ -13,6 +13,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1995-03-01"
 type: "domestic"
-venueJa: "電子情報通信学会 総合大会, pp. A-206, 1995-03-01."
-venueEn: "General Conference of IEICE, pp. A-206, 1995-03-01."
+venueJa: "電子情報通信学会 総合大会, A-206, 1995年3月1日."
+venueEn: "General Conference of IEICE, A-206, March 1995."
 ---

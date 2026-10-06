@@ -11,8 +11,8 @@ authorsEn:
   - "Kiyoshi NISHIKAWA"
 date: "2013-11-20"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理シンポジウム, pp. P1-18, 2013-11-20."
-venueEn: "IEICE Signal Processing Symposium, pp. P1-18, 2013-11-20."
+venueJa: "電子情報通信学会 信号処理シンポジウム, P1-18, pp.131-136, 2013年11月20日."
+venueEn: "IEICE Signal Processing Symposium, P1-18, pp.131-136, Nov. 2013."
 place: "山口県下関市"
 local: "https://www.notion.so/3c7d54c353c88171860bd598588d88a6"
 ---

@@ -11,7 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2004-01-15"
 type: "domestic"
-venueJa: "電子情報通信学会 ディジタル信号処理研究会, pp. DSP2003-163, 2004-01-15."
-venueEn: "Technical Report of IEICE, pp. DSP2003-163, 2004-01-15."
+venueJa: "電子情報通信学会 ディジタル信号処理研究会, DSP2003-163, pp.85-89, 2004年1月15日."
+venueEn: "Technical Report of IEICE, DSP2003-163, pp.85-89, Jan. 2004."
 place: "福岡県福岡市東区"
 ---

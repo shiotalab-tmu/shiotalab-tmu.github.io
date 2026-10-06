@@ -11,6 +11,6 @@ authorsEn:
   - "Masahiko SAGAWA"
 date: "1992-09-01"
 type: "domestic"
-venueJa: "電子情報通信学会 秋季全国大会, pp. A-90, 1992-09-01."
-venueEn: "Autumn Conf. of IEICE, pp. A-90, 1992-09-01."
+venueJa: "電子情報通信学会 秋季全国大会, A-90, 1992年9月1日."
+venueEn: "Autumn Conf. of IEICE, A-90, Sept. 1992."
 ---

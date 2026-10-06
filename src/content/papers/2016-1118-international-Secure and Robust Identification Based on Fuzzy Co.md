@@ -8,8 +8,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2016-06-02"
 type: "international"
-venueJa: "IEEE International Symposium on Broadband Multimedia Systems and Broadcasting, 2016-06-02."
-venueEn: "IEEE International Symposium on Broadband Multimedia Systems and Broadcasting, 2016-06-02."
+venueJa: "IEEE International Symposium on Broadband Multimedia Systems and Broadcasting, 2016年6月2日."
+venueEn: "IEEE International Symposium on Broadband Multimedia Systems and Broadcasting, June 2016."
 place: "Nara, Japan"
 local: "https://www.notion.so/3c7d54c353c881ca86dee8ddbccb0bc9"
 ---

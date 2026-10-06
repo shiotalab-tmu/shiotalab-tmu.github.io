@@ -8,6 +8,6 @@ authorsEn:
   - "Masahiko SAGAWA"
 date: "1987-01-01"
 type: "journal"
-venueJa: "Electronics and Communications in Japan, Vol. 70, No. 1, 1987-01-01."
-venueEn: "Electronics and Communications in Japan, Vol. 70, No. 1, 1987-01-01."
+venueJa: "Electronics and Communications in Japan, vol.70, no.1, 1987年1月1日."
+venueEn: "Electronics and Communications in Japan, vol.70, no.1, Jan. 1987."
 ---

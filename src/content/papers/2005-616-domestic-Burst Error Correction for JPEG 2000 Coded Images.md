@@ -11,7 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2005-12-14"
 type: "domestic"
-venueJa: "映像情報メディア学会 メディア工学研究会, Vol. 29, No. 75, pp. ME2005-231, 2005-12-14."
-venueEn: "ITE Technical Report, Vol. 29, No. 75, pp. ME2005-231, 2005-12-14."
+venueJa: "映像情報メディア学会 メディア工学研究会, vol.29, no.75, ME2005-231, pp.1-4, 2005年12月14日."
+venueEn: "ITE Technical Report, vol.29, no.75, ME2005-231, pp.1-4, Dec. 2005."
 place: "福井県福井市"
 ---

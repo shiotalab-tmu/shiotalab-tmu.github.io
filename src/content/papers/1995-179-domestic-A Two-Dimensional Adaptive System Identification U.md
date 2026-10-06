@@ -13,6 +13,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1995-01-01"
 type: "domestic"
-venueJa: "電子情報通信学会 回路とシステム研究会, pp. CAS94-84, 1995-01-01."
-venueEn: "Technical Report of IEICE, pp. CAS94-84, 1995-01-01."
+venueJa: "電子情報通信学会 回路とシステム研究会, CAS94-84, 1995年1月1日."
+venueEn: "Technical Report of IEICE, CAS94-84, Jan. 1995."
 ---

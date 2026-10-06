@@ -12,7 +12,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2006-07-12"
 type: "international"
-venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, Vol. II, pp. WAM1-4-4, 2006-07-12."
-venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, Vol. II, pp. WAM1-4-4, 2006-07-12."
+venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, vol.II, WAM1-4-4, pp.69-72, 2006年7月12日."
+venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, vol.II, WAM1-4-4, pp.69-72, July 2006."
 place: "Chiang Mai, Thailand"
 ---

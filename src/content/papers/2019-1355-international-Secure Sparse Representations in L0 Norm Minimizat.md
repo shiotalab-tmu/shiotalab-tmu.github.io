@@ -8,7 +8,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2019-12-17"
 type: "international"
-venueJa: "International Conference on Signal Processing and Communication Systems, 2019-12-17."
-venueEn: "International Conference on Signal Processing and Communication Systems, 2019-12-17."
+venueJa: "International Conference on Signal Processing and Communication Systems, 2019年12月17日."
+venueEn: "International Conference on Signal Processing and Communication Systems, Dec. 2019."
 place: "Gold Coast, Australia"
 ---

@@ -10,7 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2005-01-10"
 type: "domestic"
-venueJa: "電子情報通信学会 画像工学研究会, pp. IE2004-160, 2005-01-10."
-venueEn: "Technical Report of IEICE, pp. IE2004-160, 2005-01-10."
+venueJa: "電子情報通信学会 画像工学研究会, IE2004-160, pp.87-92, 2005年1月10日."
+venueEn: "Technical Report of IEICE, IE2004-160, pp.87-92, Jan. 2005."
 place: "Jeju, Korea"
 ---

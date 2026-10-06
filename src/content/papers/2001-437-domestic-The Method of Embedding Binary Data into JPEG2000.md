@@ -11,7 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2001-10-01"
 type: "domestic"
-venueJa: "電子情報通信学会 ディジタル信号処理研究会, pp. DSP2001-102, 2001-10-01."
-venueEn: "Technical Report of IEICE, pp. DSP2001-102, 2001-10-01."
+venueJa: "電子情報通信学会 ディジタル信号処理研究会, DSP2001-102, pp.17-24, 2001年10月1日."
+venueEn: "Technical Report of IEICE, DSP2001-102, pp.17-24, Oct. 2001."
 place: "宮城県仙台市"
 ---

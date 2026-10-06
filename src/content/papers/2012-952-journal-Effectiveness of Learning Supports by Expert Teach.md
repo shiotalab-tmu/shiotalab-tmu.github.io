@@ -11,7 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2012-10-10"
 type: "journal"
-venueJa: "日本教育工学会論文誌, Vol. 36, No. 2, pp. 111-123, 2012-10-10."
-venueEn: "JSET Japan Journal of Educational Technology, Vol. 36, No. 2, pp. 111-123, 2012-10-10."
+venueJa: "日本教育工学会論文誌, vol.36, no.2, pp.111-123, 2012年10月10日."
+venueEn: "JSET Japan Journal of Educational Technology, vol.36, no.2, pp.111-123, Oct. 2012."
 local: "https://www.notion.so/3c7d54c353c88127b7bdc585403875f4"
 ---

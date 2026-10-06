@@ -10,6 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1996-08-01"
 type: "international"
-venueJa: "IEEE Midwest Symposium on Circuits and Systems, 1996-08-01."
-venueEn: "IEEE Midwest Symposium on Circuits and Systems, 1996-08-01."
+venueJa: "IEEE Midwest Symposium on Circuits and Systems, 1996年8月1日."
+venueEn: "IEEE Midwest Symposium on Circuits and Systems, Aug. 1996."
 ---

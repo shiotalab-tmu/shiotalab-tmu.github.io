@@ -12,7 +12,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2004-10-21"
 type: "international"
-venueJa: "Indonesia-Japan Joint Scientific Symposium, pp. 235-240, 2004-10-21."
-venueEn: "Indonesia-Japan Joint Scientific Symposium, pp. 235-240, 2004-10-21."
+venueJa: "Indonesia-Japan Joint Scientific Symposium, pp.235-240, 2004年10月21日."
+venueEn: "Indonesia-Japan Joint Scientific Symposium, pp.235-240, Oct. 2004."
 place: "Chiba, Japan"
 ---

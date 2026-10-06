@@ -13,7 +13,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2006-03-06"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理研究会, Vol. 105, No. 635, pp. SIP2005-163, 2006-03-06."
-venueEn: "Technical Report of IEICE, Vol. 105, No. 635, pp. SIP2005-163, 2006-03-06."
+venueJa: "電子情報通信学会 信号処理研究会, vol.105, no.635, SIP2005-163, pp.123-128, 2006年3月6日."
+venueEn: "Technical Report of IEICE, vol.105, no.635, SIP2005-163, pp.123-128, March 2006."
 place: "沖縄県中頭郡西原町"
 ---

@@ -10,6 +10,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-03-14"
 type: "domestic"
-venueJa: "2018-03-14."
-venueEn: "2018-03-14."
+venueJa: "2018年3月14日."
+venueEn: "March 2018."
 ---

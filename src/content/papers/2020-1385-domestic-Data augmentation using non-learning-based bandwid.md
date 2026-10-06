@@ -11,6 +11,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2020-02-13"
 type: "domestic"
-venueJa: "情報処理学会 音声言語情報処理研究会, 2020-02-13."
-venueEn: "IPSJ Special Interest Groups Spoken Language Processing, 2020-02-13."
+venueJa: "情報処理学会 音声言語情報処理研究会, 2020年2月13日."
+venueEn: "IPSJ Special Interest Groups Spoken Language Processing, Feb. 2020."
 ---

@@ -13,7 +13,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2004-11-12"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理シンポジウム, pp. D6-1, 2004-11-12."
-venueEn: "IEICE Signal Processing Symposium, pp. D6-1, 2004-11-12."
+venueJa: "電子情報通信学会 信号処理シンポジウム, D6-1, 2004年11月12日."
+venueEn: "IEICE Signal Processing Symposium, D6-1, Nov. 2004."
 place: "山梨県北巨摩郡大泉村"
 ---

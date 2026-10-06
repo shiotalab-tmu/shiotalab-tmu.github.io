@@ -11,8 +11,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2023-09-27"
 type: "domestic"
-venueJa: "日本音響学会秋季大会, pp. 1221-1224, 2023-09-27."
-venueEn: "Acoustical Society of Japan Autumn Meeting, pp. 1221-1224, 2023-09-27."
+venueJa: "日本音響学会秋季大会, pp.1221-1224, 2023年9月27日."
+venueEn: "Acoustical Society of Japan Autumn Meeting, pp.1221-1224, Sept. 2023."
 place: "名古屋工業大学"
 local: "https://www.notion.so/3c7d54c353c8811391abe34df52935f6"
 ---

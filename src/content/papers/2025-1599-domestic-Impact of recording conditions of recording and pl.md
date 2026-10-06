@@ -9,8 +9,8 @@ authorsEn:
   - "Sayaka SHIOTA"
 date: "2025-03-26"
 type: "domestic"
-venueJa: "電子情報通信学会 総合大会, 2025-03-26."
-venueEn: "General Conference of IEICE, 2025-03-26."
+venueJa: "電子情報通信学会 総合大会, 2025年3月26日."
+venueEn: "General Conference of IEICE, March 2025."
 place: "東京都市大学　世田谷キャンパス"
 local: "https://www.notion.so/3c7d54c353c881248a9ffd6b1842d7b0"
 ---

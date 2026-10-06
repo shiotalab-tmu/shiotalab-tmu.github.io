@@ -13,8 +13,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2016-09-01"
 type: "journal"
-venueJa: "電気学会論文誌C, Vol. 136, No. 9, 2016-09-01."
-venueEn: "IEEJ Transactions on Electronics, Information and Systems, Vol. 136, No. 9, 2016-09-01."
+venueJa: "電気学会論文誌C, vol.136, no.9, 2016年9月1日."
+venueEn: "IEEJ Transactions on Electronics, Information and Systems, vol.136, no.9, Sept. 2016."
 url: "https://www.jstage.jst.go.jp/browse/ieejeiss"
 webpage: "https://www.jstage.jst.go.jp/browse/ieejeiss"
 ---

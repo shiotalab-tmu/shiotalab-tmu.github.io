@@ -10,7 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2005-05-26"
 type: "international"
-venueJa: "IEEE International Symposium on Circuits and Systems, pp. C4P-Y.5, 2005-05-26."
-venueEn: "IEEE International Symposium on Circuits and Systems, pp. C4P-Y.5, 2005-05-26."
+venueJa: "IEEE International Symposium on Circuits and Systems, C4P-Y.5, pp.6324-6327, 2005年5月26日."
+venueEn: "IEEE International Symposium on Circuits and Systems, C4P-Y.5, pp.6324-6327, May 2005."
 place: "Kobe, Japan"
 ---

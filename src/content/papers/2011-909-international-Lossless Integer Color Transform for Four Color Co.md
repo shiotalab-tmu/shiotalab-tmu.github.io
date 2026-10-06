@@ -10,8 +10,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2011-11-07"
 type: "international"
-venueJa: "SPIE/IEEE Visual Communications and Image Processing, pp. P-07.1, 2011-11-07."
-venueEn: "SPIE/IEEE Visual Communications and Image Processing, pp. P-07.1, 2011-11-07."
+venueJa: "SPIE/IEEE Visual Communications and Image Processing, P-07.1, 2011年11月7日."
+venueEn: "SPIE/IEEE Visual Communications and Image Processing, P-07.1, Nov. 2011."
 place: "Tainan, Taiwan, R.O.C."
 local: "https://www.notion.so/3c7d54c353c88147acdecb31d58b0c47"
 ---

@@ -11,6 +11,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1995-06-01"
 type: "domestic"
-venueJa: "電子情報通信学会 ディジタル信号処理研究会, pp. DSP95-68, 1995-06-01."
-venueEn: "Technical Report of IEICE, pp. DSP95-68, 1995-06-01."
+venueJa: "電子情報通信学会 ディジタル信号処理研究会, DSP95-68, 1995年6月1日."
+venueEn: "Technical Report of IEICE, DSP95-68, June 1995."
 ---

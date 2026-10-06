@@ -10,7 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2024-10-31"
 type: "international"
-venueJa: "IEEE Global Conference on Consumer Electronics, 2024-10-31."
-venueEn: "IEEE Global Conference on Consumer Electronics, 2024-10-31."
+venueJa: "IEEE Global Conference on Consumer Electronics, 2024年10月31日."
+venueEn: "IEEE Global Conference on Consumer Electronics, Oct. 2024."
 place: "Fukuoka,"
 ---

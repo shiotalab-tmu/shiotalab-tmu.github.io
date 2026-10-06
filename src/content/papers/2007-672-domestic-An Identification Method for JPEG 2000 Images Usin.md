@@ -10,7 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2007-01-09"
 type: "domestic"
-venueJa: "電子情報通信学会 画像工学研究会, Vol. 106, No. 449, pp. IE2006-217, 2007-01-09."
-venueEn: "Technical Report of IEICE, Vol. 106, No. 449, pp. IE2006-217, 2007-01-09."
+venueJa: "電子情報通信学会 画像工学研究会, vol.106, no.449, IE2006-217, pp.177-181, 2007年1月9日."
+venueEn: "Technical Report of IEICE, vol.106, no.449, IE2006-217, pp.177-181, Jan. 2007."
 place: "Bangkok, Thailand"
 ---

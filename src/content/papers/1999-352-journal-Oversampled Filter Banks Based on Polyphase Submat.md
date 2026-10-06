@@ -8,6 +8,6 @@ authorsEn:
   - "Hiroyuki KOBAYASHI"
 date: "1999-06-01"
 type: "journal"
-venueJa: "Electronics and Communications in Japan, Part III, Vol. 82, No. 6, 1999-06-01."
-venueEn: "Electronics and Communications in Japan, Part III, Vol. 82, No. 6, 1999-06-01."
+venueJa: "Electronics and Communications in Japan, Part III, vol.82, no.6, 1999年6月1日."
+venueEn: "Electronics and Communications in Japan, Part III, vol.82, no.6, June 1999."
 ---

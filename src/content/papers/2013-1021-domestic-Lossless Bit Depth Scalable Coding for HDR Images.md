@@ -11,8 +11,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2013-11-21"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理シンポジウム, pp. B3-1, 2013-11-21."
-venueEn: "IEICE Signal Processing Symposium, pp. B3-1, 2013-11-21."
+venueJa: "電子情報通信学会 信号処理シンポジウム, B3-1, pp.440-445, 2013年11月21日."
+venueEn: "IEICE Signal Processing Symposium, B3-1, pp.440-445, Nov. 2013."
 place: "山口県下関市"
 local: "https://www.notion.so/3c7d54c353c881fbb5f6cbd071da5213"
 ---

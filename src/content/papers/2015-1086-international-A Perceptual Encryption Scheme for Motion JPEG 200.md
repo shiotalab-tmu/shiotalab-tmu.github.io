@@ -10,8 +10,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2015-10-07"
 type: "international"
-venueJa: "IEEE International Symposium on Communications and Information Technologies, pp. 125-128, 2015-10-07."
-venueEn: "IEEE International Symposium on Communications and Information Technologies, pp. 125-128, 2015-10-07."
+venueJa: "IEEE International Symposium on Communications and Information Technologies, pp.125-128, 2015年10月7日."
+venueEn: "IEEE International Symposium on Communications and Information Technologies, pp.125-128, Oct. 2015."
 place: "Nara, Japan"
 local: "https://www.notion.so/3c7d54c353c88135951dfd049fe7e0b1"
 ---

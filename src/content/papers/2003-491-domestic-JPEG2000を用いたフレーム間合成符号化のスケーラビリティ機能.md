@@ -10,7 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2003-03-01"
 type: "domestic"
-venueJa: "電子情報通信学会 総合大会, pp. A-4-3, 2003-03-01."
-venueEn: "General Conference of IEICE, pp. A-4-3, 2003-03-01."
+venueJa: "電子情報通信学会 総合大会, A-4-3, p.92, 2003年3月1日."
+venueEn: "General Conference of IEICE, A-4-3, p.92, March 2003."
 place: "宮城県仙台市"
 ---

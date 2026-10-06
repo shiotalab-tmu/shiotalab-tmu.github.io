@@ -9,7 +9,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2001-03-01"
 type: "domestic"
-venueJa: "電子情報通信学会 総合大会, Vol. 1, pp. A-4-47, 2001-03-01."
-venueEn: "General Conference of IEICE, Vol. 1, pp. A-4-47, 2001-03-01."
+venueJa: "電子情報通信学会 総合大会, vol.1, A-4-47, p.147, 2001年3月1日."
+venueEn: "General Conference of IEICE, vol.1, A-4-47, p.147, March 2001."
 place: "滋賀県草津市"
 ---

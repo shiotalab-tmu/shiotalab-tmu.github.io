@@ -9,8 +9,8 @@ authorsEn:
   - "Kiyoshi NISHIKAWA"
 date: "2012-11-28"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理シンポジウム, pp. C2-4, 2012-11-28."
-venueEn: "IEICE Signal Processing Symposium, pp. C2-4, 2012-11-28."
+venueJa: "電子情報通信学会 信号処理シンポジウム, C2-4, pp.511-516, 2012年11月28日."
+venueEn: "IEICE Signal Processing Symposium, C2-4, pp.511-516, Nov. 2012."
 place: "沖縄県石垣市"
 local: "https://www.notion.so/3c7d54c353c8812789e5f1b4d2b6b782"
 ---

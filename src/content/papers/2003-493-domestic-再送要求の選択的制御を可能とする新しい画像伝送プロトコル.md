@@ -8,7 +8,7 @@ authorsEn:
   - "Kiyoshi NISHIKAWA"
 date: "2003-03-01"
 type: "domestic"
-venueJa: "電子情報通信学会 総合大会, pp. D-11-40, 2003-03-01."
-venueEn: "General Conference of IEICE, pp. D-11-40, 2003-03-01."
+venueJa: "電子情報通信学会 総合大会, D-11-40, p.40, 2003年3月1日."
+venueEn: "General Conference of IEICE, D-11-40, p.40, March 2003."
 place: "宮城県仙台市"
 ---

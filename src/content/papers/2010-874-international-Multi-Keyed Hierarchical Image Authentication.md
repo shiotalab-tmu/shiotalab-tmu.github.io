@@ -10,8 +10,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2010-12-16"
 type: "international"
-venueJa: "APSIPA Annual Summit and Conference, Vol. Student Symposium, pp. 62-62, 2010-12-16."
-venueEn: "APSIPA Annual Summit and Conference, Vol. Student Symposium, pp. 62-62, 2010-12-16."
+venueJa: "APSIPA Annual Summit and Conference, vol.Student Symposium, p.62, 2010年12月16日."
+venueEn: "APSIPA Annual Summit and Conference, vol.Student Symposium, p.62, Dec. 2010."
 place: "Biopolis, Singapore"
 local: "https://www.notion.so/3c7d54c353c881af922bcf21a8ac3dd5"
 ---

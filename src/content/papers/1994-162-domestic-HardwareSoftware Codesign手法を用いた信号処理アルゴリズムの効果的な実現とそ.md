@@ -10,6 +10,6 @@ authorsEn:
   - "Akihiko YAMADA"
 date: "1994-08-01"
 type: "domestic"
-venueJa: "情報処理学会 DAシンポジウム, 1994-08-01."
-venueEn: "IPSJ Design Automation Symposium, 1994-08-01."
+venueJa: "情報処理学会 DAシンポジウム, 1994年8月1日."
+venueEn: "IPSJ Design Automation Symposium, Aug. 1994."
 ---

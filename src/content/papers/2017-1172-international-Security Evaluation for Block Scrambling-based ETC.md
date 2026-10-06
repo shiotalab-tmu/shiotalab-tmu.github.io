@@ -10,8 +10,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2017-07-11"
 type: "international"
-venueJa: "IEEE International Conference on Multimedia and Expo, 2017-07-11."
-venueEn: "IEEE International Conference on Multimedia and Expo, 2017-07-11."
+venueJa: "IEEE International Conference on Multimedia and Expo, 2017年7月11日."
+venueEn: "IEEE International Conference on Multimedia and Expo, July 2017."
 place: "Hong Kong, China"
 local: "https://www.notion.so/3c7d54c353c881639e5fffc84800aff4"
 ---

@@ -13,7 +13,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2006-06-27"
 type: "domestic"
-venueJa: "映像情報メディア学会 メディア工学研究会, Vol. 30, No. 33, pp. ME2006-122, 2006-06-27."
-venueEn: "ITE Technical Report, Vol. 30, No. 33, pp. ME2006-122, 2006-06-27."
+venueJa: "映像情報メディア学会 メディア工学研究会, vol.30, no.33, ME2006-122, pp.33-36, 2006年6月27日."
+venueEn: "ITE Technical Report, vol.30, no.33, ME2006-122, pp.33-36, June 2006."
 place: "宮城県仙台市青葉区"
 ---

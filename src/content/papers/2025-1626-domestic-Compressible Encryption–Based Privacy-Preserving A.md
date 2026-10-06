@@ -11,8 +11,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2025-11-27"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理シンポジウム, 2025-11-27."
-venueEn: "IEICE Signal Processing Symposium, 2025-11-27."
+venueJa: "電子情報通信学会 信号処理シンポジウム, 2025年11月27日."
+venueEn: "IEICE Signal Processing Symposium, Nov. 2025."
 place: "ホテルレイクビュー水戸"
 local: "https://www.notion.so/3c7d54c353c881f790ebea1b14a28158"
 ---

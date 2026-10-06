@@ -11,8 +11,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2010-10-08"
 type: "domestic"
-venueJa: "電子情報通信学会 マルチメディア情報ハイディング研究会, pp. 25-30, 2010-10-08."
-venueEn: "Technical Report of IEICE, pp. 25-30, 2010-10-08."
+venueJa: "電子情報通信学会 マルチメディア情報ハイディング研究会, pp.25-30, 2010年10月8日."
+venueEn: "Technical Report of IEICE, pp.25-30, Oct. 2010."
 place: "長崎県長崎市"
 local: "https://www.notion.so/3c7d54c353c8811cb93ee9355fd9faa1"
 ---

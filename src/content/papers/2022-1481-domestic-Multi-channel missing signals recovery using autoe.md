@@ -17,8 +17,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2022-03-02"
 type: "domestic"
-venueJa: "電子情報通信学会 応用音響研究会, Vol. 121, No. 383, pp. 140-145, 2022-03-02."
-venueEn: "Technical Report of IEICE, Vol. 121, No. 383, pp. 140-145, 2022-03-02."
+venueJa: "電子情報通信学会 応用音響研究会, vol.121, no.383, pp.140-145, 2022年3月2日."
+venueEn: "Technical Report of IEICE, vol.121, no.383, pp.140-145, March 2022."
 url: "https://www.ieice.org/ken/paper/202203028CJa/eng/"
 webpage: "https://www.ieice.org/ken/paper/202203028CJa/eng/"
 ---

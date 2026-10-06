@@ -9,7 +9,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2019-12-01"
 type: "journal"
-venueJa: "電気情報通信学会論文誌D, Vol. J102-D, 2019-12-01."
-venueEn: "IEICE Transactions on Information and Systems, Vol. J102-D, 2019-12-01."
+venueJa: "電気情報通信学会論文誌D, vol.J102-D, 2019年12月1日."
+venueEn: "IEICE Transactions on Information and Systems, vol.J102-D, Dec. 2019."
 local: "https://www.notion.so/3c7d54c353c8811ba71ee4f0935ebdd4"
 ---

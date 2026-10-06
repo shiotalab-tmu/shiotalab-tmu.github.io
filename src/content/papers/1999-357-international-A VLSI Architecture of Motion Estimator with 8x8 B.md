@@ -12,6 +12,6 @@ authorsEn:
   - "Akihiko YAMADA"
 date: "1999-07-01"
 type: "international"
-venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, Vol. 1, 1999-07-01."
-venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, Vol. 1, 1999-07-01."
+venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, vol.1, 1999年7月1日."
+venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, vol.1, July 1999."
 ---

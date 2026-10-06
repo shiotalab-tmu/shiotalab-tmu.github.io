@@ -10,8 +10,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2015-01-13"
 type: "international"
-venueJa: "International Workshop on Advanced Image Technology, 2015-01-13."
-venueEn: "International Workshop on Advanced Image Technology, 2015-01-13."
+venueJa: "International Workshop on Advanced Image Technology, 2015年1月13日."
+venueEn: "International Workshop on Advanced Image Technology, Jan. 2015."
 place: "National Cheng Kung University, Tainan, Taiwan"
 local: "https://www.notion.so/3c7d54c353c881dc9ec4de9cd707b335"
 ---

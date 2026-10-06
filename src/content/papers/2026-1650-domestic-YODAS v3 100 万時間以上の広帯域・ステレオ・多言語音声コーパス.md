@@ -14,6 +14,6 @@ authorsEn:
   - "Shinji WATANABE"
 date: "2026-09-08"
 type: "domestic"
-venueJa: "日本音響学会秋季大会, 2026-09-08."
-venueEn: "Acoustical Society of Japan Autumn Meeting, 2026-09-08."
+venueJa: "日本音響学会秋季大会, 2026年9月8日."
+venueEn: "Acoustical Society of Japan Autumn Meeting, Sept. 2026."
 ---

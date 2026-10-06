@@ -10,7 +10,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2004-09-23"
 type: "domestic"
-venueJa: "電子情報通信学会 ソサイエティ大会, pp. A-4-12, 2004-09-23."
-venueEn: "Society Conference of IEICE, pp. A-4-12, 2004-09-23."
+venueJa: "電子情報通信学会 ソサイエティ大会, A-4-12, p.75, 2004年9月23日."
+venueEn: "Society Conference of IEICE, A-4-12, p.75, Sept. 2004."
 place: "徳島"
 ---
