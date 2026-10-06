@@ -15,4 +15,5 @@ type: "international"
 venueJa: "APSIPA Annual Summit and Conference, pp. 440-443, 2015-12-18."
 venueEn: "APSIPA Annual Summit and Conference, pp. 440-443, 2015-12-18."
 place: "Hong Kong, China"
+local: "https://www.notion.so/3c7d54c353c881a58908fcab0e9fe5c1"
 ---

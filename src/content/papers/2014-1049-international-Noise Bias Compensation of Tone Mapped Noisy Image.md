@@ -8,7 +8,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2014-10-29"
 type: "international"
-venueJa: "IEEE International Conference on Image Processing, No. TEC-P6.3, 2014-10-29."
-venueEn: "IEEE International Conference on Image Processing, No. TEC-P6.3, 2014-10-29."
+venueJa: "IEEE International Conference on Image Processing, pp. TEC-P6.3, 2014-10-29."
+venueEn: "IEEE International Conference on Image Processing, pp. TEC-P6.3, 2014-10-29."
 place: "Paris, France"
+local: "https://www.notion.so/3c7d54c353c881b9b1eada19932309fc"
 ---

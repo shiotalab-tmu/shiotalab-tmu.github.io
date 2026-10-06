@@ -154,6 +154,9 @@ function generateFilename(paper: Paper): string {
 
 /**
  * venueフィールドの文字列を構築
+ * 電子情報通信学会の参考文献の書き方に準拠する。
+ *   例: 画像工学研究会, vol.103, no.450, IE2003-101, pp.13-18, Nov. 2003.
+ *   (日本語の日付は 2003年11月20日 の形にする)
  * (開催地は表示ページに応じて出し分けるため、別フィールドとして保持する)
  */
 function buildVenueString(paper: Paper, lang: 'ja' | 'en'): string {
@@ -169,33 +172,63 @@ function buildVenueString(paper: Paper, lang: 'ja' | 'en'): string {
     }
   }
 
-  // Volume/Number
+  // Volume/Number (号だけを持つ論文もあるので、巻とは独立に出す)
   if (paper.volume) {
-    let volStr = `Vol. ${paper.volume}`;
-    if (paper.number) {
-      volStr += `, No. ${paper.number}`;
-    }
-    parts.push(volStr);
+    parts.push(`vol.${paper.volume}`);
+  }
+  if (paper.number) {
+    parts.push(`no.${paper.number}`);
   }
 
-  // 論文番号(講演番号)。ページ番号ではないので「pp.」は付けない(旧サイト準拠で「No.」を付ける)
+  // 論文番号(講演番号)。ページ番号ではないので「pp.」は付けない。
+  // 号の「no.」と並ぶと紛らわしいため接頭辞も付けない(電子情報通信学会の参考文献の書き方に準拠)
   if (paper.pages.pnum) {
-    parts.push(`No. ${paper.pages.pnum}`);
+    parts.push(paper.pages.pnum);
   }
 
   // Pages (講演番号とページ範囲の両方がある論文もあるので、講演番号とは別に出す)
-  if (paper.pages.begin && paper.pages.end) {
-    parts.push(`pp. ${paper.pages.begin}-${paper.pages.end}`);
+  // 1ページだけの論文 (開始=終了) は「p.」で出す
+  if (paper.pages.begin && paper.pages.end && paper.pages.begin !== paper.pages.end) {
+    parts.push(`pp.${paper.pages.begin}-${paper.pages.end}`);
   } else if (paper.pages.begin) {
-    parts.push(`p. ${paper.pages.begin}`);
+    parts.push(`p.${paper.pages.begin}`);
   }
 
-  // Date
+  // Date (日本語は「2003年11月20日」、英語は参考文献の慣例に合わせて年月のみ「Nov. 2003」)
   if (paper.date) {
-    parts.push(paper.date);
+    parts.push(formatCitationDate(paper.date, lang));
   }
 
   return parts.join(', ') + '.';
+}
+
+// 電子情報通信学会の参考文献の書き方に準拠した月の表記
+const MONTHS = ['Jan.', 'Feb.', 'March', 'April', 'May', 'June', 'July', 'Aug.', 'Sept.', 'Oct.', 'Nov.', 'Dec.'];
+
+/**
+ * YYYY-MM-DD を参考文献用の日付表記に変換
+ *   日本語: 2003-11-20 → 2003年11月20日
+ *   英語:   2003-11-20 → Nov. 2003
+ */
+function formatCitationDate(date: string, lang: 'ja' | 'en'): string {
+  const [year, month, day] = date.split('-');
+  if (lang === 'ja') {
+    return `${year}年${parseInt(month, 10)}月${parseInt(day, 10)}日`;
+  }
+  return `${MONTHS[parseInt(month, 10) - 1]} ${year}`;
+}
+
+/**
+ * DOI欄の値をDOI本体 (10.xxxx/...) に正規化する
+ * DB上には「doi: 10.xxxx/...」や「https://doi.org/10.xxxx/...」の形でも入っているため、接頭辞を取り除く。
+ * DOIでない値 (論文ページのURLなど) の場合は null を返す
+ */
+function normalizeDoi(raw: string | null): string | null {
+  if (!raw) return null;
+  const doi = raw.trim()
+    .replace(/^doi:\s*/i, '')
+    .replace(/^https?:\/\/(dx\.)?doi\.org\//i, '');
+  return doi.startsWith('10.') ? doi : null;
 }
 
 /**
@@ -235,8 +268,11 @@ function generateMarkdown(paper: Paper): string {
   const venueEn = cleanString(buildVenueString(paper, 'en'));
 
   // リンク各種(旧サイト準拠: DOI / webpage / Publish / Local)
-  const doi = paper.doi ? `https://doi.org/${paper.doi}` : null;
-  const webpage = paper.urls.english || paper.urls.japanese;
+  const doiId = normalizeDoi(paper.doi);
+  const doi = doiId ? `https://doi.org/${doiId}` : null;
+  // DOI欄にDOIでないURLが入っている場合は、論文ページURLが未入力ならそれをwebpageとして使う
+  const doiFieldUrl = !doiId && paper.doi && /^https?:\/\//.test(paper.doi.trim()) ? paper.doi.trim() : null;
+  const webpage = paper.urls.english || paper.urls.japanese || doiFieldUrl;
   const publish = paper.urls.presentation_pdf;
   // rpdfurlは絶対URLのみ使用(相対パスの旧ローカルパスは出さない)
   let local: string | null = paper.urls.review_pdf?.trim() || null;

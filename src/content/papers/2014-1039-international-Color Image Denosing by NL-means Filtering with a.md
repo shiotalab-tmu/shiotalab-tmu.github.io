@@ -13,4 +13,5 @@ type: "international"
 venueJa: "WSEAS International Conference on Applied Computer and Applied Computational Science, pp. 13-17, 2014-04-23."
 venueEn: "WSEAS International Conference on Applied Computer and Applied Computational Science, pp. 13-17, 2014-04-23."
 place: "Kuala Lumpur, Malaysia"
+local: "https://www.notion.so/3c7d54c353c8819ca17bf4aac0b5d535"
 ---

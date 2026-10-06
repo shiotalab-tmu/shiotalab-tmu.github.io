@@ -14,4 +14,5 @@ type: "domestic"
 venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, 2020-03-06."
 venueEn: "Technical Report of IEICE, 2020-03-06."
 place: "沖縄県石垣市"
+local: "https://www.notion.so/3c7d54c353c881b4968de51ffef05ce7"
 ---

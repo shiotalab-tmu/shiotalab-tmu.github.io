@@ -10,7 +10,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2014-08-27"
 type: "international"
-venueJa: "IEEE International Conference on Intelligent Information Hiding and Multimedia Signal Processing, No. A3-05, pp. 516-519, 2014-08-27."
-venueEn: "IEEE International Conference on Intelligent Information Hiding and Multimedia Signal Processing, No. A3-05, pp. 516-519, 2014-08-27."
+venueJa: "IEEE International Conference on Intelligent Information Hiding and Multimedia Signal Processing, pp. A3-05, 2014-08-27."
+venueEn: "IEEE International Conference on Intelligent Information Hiding and Multimedia Signal Processing, pp. A3-05, 2014-08-27."
 place: "Kitakyushu, Japan"
+local: "https://www.notion.so/3c7d54c353c881be8b2ecadd647e2a46"
 ---

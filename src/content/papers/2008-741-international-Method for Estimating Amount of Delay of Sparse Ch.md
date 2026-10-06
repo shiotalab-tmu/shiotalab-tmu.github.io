@@ -10,10 +10,11 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2008-07-09"
 type: "international"
-venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, No. F6-1, pp. 897-900, 2008-07-09."
-venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, No. F6-1, pp. 897-900, 2008-07-09."
+venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. F6-1, 2008-07-09."
+venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, pp. F6-1, 2008-07-09."
 place: "Shimonoseki, Yamaguchi, Japan"
 url: "http://www.ieice.org/proceedings/ITC-CSCC2008/program/F6_abst.html#F6-1"
 webpage: "http://www.ieice.org/proceedings/ITC-CSCC2008/program/F6_abst.html#F6-1"
 publish: "http://www.ieice.org/proceedings/ITC-CSCC2008/pdf/p897_F6-1.pdf"
+local: "https://www.notion.so/3c7d54c353c8813bb050d37d22926aa1"
 ---

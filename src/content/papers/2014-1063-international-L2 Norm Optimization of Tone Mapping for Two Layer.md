@@ -10,9 +10,10 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2014-12-11"
 type: "international"
-venueJa: "APSIPA Annual Summit and Conference, No. TA-P-1156, 2014-12-11."
-venueEn: "APSIPA Annual Summit and Conference, No. TA-P-1156, 2014-12-11."
+venueJa: "APSIPA Annual Summit and Conference, pp. TA-P-1156, 2014-12-11."
+venueEn: "APSIPA Annual Summit and Conference, pp. TA-P-1156, 2014-12-11."
 place: "Siem Reap, city of Angkor Wat, Cambodia"
 url: "http://www.apsipa2014.org/home/"
 webpage: "http://www.apsipa2014.org/home/"
+local: "https://www.notion.so/3c7d54c353c88127b137d5d13c55e1de"
 ---

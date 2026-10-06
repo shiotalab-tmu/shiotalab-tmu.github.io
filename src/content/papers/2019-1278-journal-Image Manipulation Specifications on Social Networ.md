@@ -14,4 +14,5 @@ date: "2019-01-01"
 type: "journal"
 venueJa: "IEICE Trans. Inf. & Sys., Vol. E102-D, No. 1, pp. 11-18, 2019-01-01."
 venueEn: "IEICE Trans. Inf. & Sys., Vol. E102-D, No. 1, pp. 11-18, 2019-01-01."
+local: "https://www.notion.so/3c7d54c353c881e8a212f97692f0d9b7"
 ---

@@ -11,10 +11,11 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2024-02-29"
 type: "domestic"
-venueJa: "電子情報通信学会 音声研究会, Vol. 123, No. 403, No. SP-2023-43, pp. 1-6, 2024-02-29."
-venueEn: "Speech Committee, Vol. 123, No. 403, No. SP-2023-43, pp. 1-6, 2024-02-29."
+venueJa: "電子情報通信学会 音声研究会, Vol. 123, No. 403, pp. SP-2023-43, 2024-02-29."
+venueEn: "Speech Committee, Vol. 123, No. 403, pp. SP-2023-43, 2024-02-29."
 place: "沖縄産業支援センター"
 url: "https://ken.ieice.org/ken/paper/20240229vc18/eng/"
 webpage: "https://ken.ieice.org/ken/paper/20240229vc18/eng/"
 publish: "https://ken.ieice.org/ken/paper/20240229vc18/"
+local: "https://www.notion.so/3c7d54c353c88188b6c7c77d57756ffa"
 ---

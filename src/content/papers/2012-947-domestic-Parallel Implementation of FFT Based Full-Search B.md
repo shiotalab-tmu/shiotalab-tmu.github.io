@@ -11,7 +11,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2012-09-13"
 type: "domestic"
-venueJa: "電子情報通信学会 ソサイエティ大会, Vol. ESS, No. A-4-3, pp. 58-58, 2012-09-13."
-venueEn: "Society Conference of IEICE, Vol. ESS, No. A-4-3, pp. 58-58, 2012-09-13."
+venueJa: "電子情報通信学会 ソサイエティ大会, Vol. ESS, pp. A-4-3, 2012-09-13."
+venueEn: "Society Conference of IEICE, Vol. ESS, pp. A-4-3, 2012-09-13."
 place: "富山県富山市"
+local: "https://www.notion.so/3c7d54c353c8810aa385ccdd843414bc"
 ---

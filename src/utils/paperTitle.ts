@@ -36,5 +36,9 @@ export function paperVenue(paper: PaperDisplayData, siteLang: SiteLang): string 
     return venue;
   }
 
-  return venue.replace(/(,?\s*\d{4}-\d{2}-\d{2}\.)$/, `, ${paper.place}$1`);
+  // venueの末尾は常に日付なので、最後の区切りの直前(日付の前)に開催地を差し込む
+  const lastSep = venue.lastIndexOf(', ');
+  return lastSep < 0
+    ? `${paper.place}, ${venue}`
+    : `${venue.slice(0, lastSep)}, ${paper.place}${venue.slice(lastSep)}`;
 }

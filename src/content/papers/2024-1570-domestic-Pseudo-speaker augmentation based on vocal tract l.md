@@ -11,10 +11,11 @@ authorsEn:
   - "Sayaka SHIOTA"
 date: "2024-02-29"
 type: "domestic"
-venueJa: "電子情報通信学会 音声研究会, Vol. 123, No. 403, No. SP2023-44, pp. 7-12, 2024-02-29."
-venueEn: "Speech Committee, Vol. 123, No. 403, No. SP2023-44, pp. 7-12, 2024-02-29."
+venueJa: "電子情報通信学会 音声研究会, Vol. 123, No. 403, pp. SP2023-44, 2024-02-29."
+venueEn: "Speech Committee, Vol. 123, No. 403, pp. SP2023-44, 2024-02-29."
 place: "沖縄産業支援センター"
 url: "https://ken.ieice.org/ken/paper/20240229Rc17/eng/"
 webpage: "https://ken.ieice.org/ken/paper/20240229Rc17/eng/"
 publish: "https://ken.ieice.org/ken/paper/20240229Rc17/"
+local: "https://www.notion.so/3c7d54c353c881a0a191de70a11b1a81"
 ---

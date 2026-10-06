@@ -11,7 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2007-03-21"
 type: "domestic"
-venueJa: "電子情報通信学会 総合大会, No. A-4-29, 2007-03-21."
-venueEn: "General Conference of IEICE, No. A-4-29, 2007-03-21."
+venueJa: "電子情報通信学会 総合大会, pp. A-4-29, 2007-03-21."
+venueEn: "General Conference of IEICE, pp. A-4-29, 2007-03-21."
 place: "名古屋市天白区"
 ---

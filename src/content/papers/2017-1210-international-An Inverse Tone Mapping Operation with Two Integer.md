@@ -13,4 +13,5 @@ type: "international"
 venueJa: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, pp. 634-639, 2017-11-09."
 venueEn: "IEEE International Symposium on Intelligent Signal Processing and Communication Systems, pp. 634-639, 2017-11-09."
 place: "Xiamen, China"
+local: "https://www.notion.so/3c7d54c353c88135a405f761f5a32a65"
 ---

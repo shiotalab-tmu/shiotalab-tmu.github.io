@@ -11,7 +11,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1999-11-01"
 type: "domestic"
-venueJa: "電子情報通信学会 ディジタル信号処理シンポジウム, No. B3-4, pp. 341-346, 1999-11-01."
-venueEn: "IEICE Digital Signal Processing Symposium, No. B3-4, pp. 341-346, 1999-11-01."
+venueJa: "電子情報通信学会 ディジタル信号処理シンポジウム, pp. B3-4, 1999-11-01."
+venueEn: "IEICE Digital Signal Processing Symposium, pp. B3-4, 1999-11-01."
 place: "北九州"
 ---

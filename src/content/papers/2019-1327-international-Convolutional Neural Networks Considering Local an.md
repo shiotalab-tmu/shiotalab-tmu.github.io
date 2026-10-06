@@ -11,4 +11,5 @@ type: "international"
 venueJa: "IEEE International Conference on Image Processing, 2019-09-24."
 venueEn: "IEEE International Conference on Image Processing, 2019-09-24."
 place: "Taipei, Taiwan"
+local: "https://www.notion.so/3c7d54c353c881ff922ac5ddbc296202"
 ---

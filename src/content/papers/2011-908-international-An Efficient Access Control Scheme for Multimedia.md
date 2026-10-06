@@ -16,4 +16,5 @@ place: "Barcelona, Spain"
 url: "http://www.thinkmind.org/index.php?view=article&articleid=icsnc_2011_7_50_20124"
 webpage: "http://www.thinkmind.org/index.php?view=article&articleid=icsnc_2011_7_50_20124"
 publish: "http://www.thinkmind.org/download.php?articleid=icsnc_2011_7_50_20124"
+local: "https://www.notion.so/3c7d54c353c8813da8aae9de1be99675"
 ---

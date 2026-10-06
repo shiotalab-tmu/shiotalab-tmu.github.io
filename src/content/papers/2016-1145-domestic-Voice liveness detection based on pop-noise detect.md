@@ -11,9 +11,10 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2016-09-16"
 type: "domestic"
-venueJa: "日本音響学会秋季大会, No. 3-Q-9, pp. 107-108, 2016-09-16."
-venueEn: "Acoustical Society of Japan Autumn Meeting, No. 3-Q-9, pp. 107-108, 2016-09-16."
+venueJa: "日本音響学会秋季大会, pp. 3-Q-9, 2016-09-16."
+venueEn: "Acoustical Society of Japan Autumn Meeting, pp. 3-Q-9, 2016-09-16."
 place: "富山県富山市"
 url: "http://www.asj.gr.jp/annualmeeting/2016autumn_youryou.html"
 webpage: "http://www.asj.gr.jp/annualmeeting/2016autumn_youryou.html"
+local: "https://www.notion.so/3c7d54c353c8810fa216c16be9df1338"
 ---

@@ -12,7 +12,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2014-10-30"
 type: "international"
-venueJa: "IEEE International Conference on Image Processing, No. TEC-P10.6, 2014-10-30."
-venueEn: "IEEE International Conference on Image Processing, No. TEC-P10.6, 2014-10-30."
+venueJa: "IEEE International Conference on Image Processing, pp. TEC-P10.6, 2014-10-30."
+venueEn: "IEEE International Conference on Image Processing, pp. TEC-P10.6, 2014-10-30."
 place: "Paris, France"
+local: "https://www.notion.so/3c7d54c353c881f48802cbc42a75f5c5"
 ---

@@ -13,4 +13,5 @@ type: "international"
 venueJa: "APSIPA Annual Summit and Conference, Vol. Student Symposium, pp. 29-29, 2010-12-15."
 venueEn: "APSIPA Annual Summit and Conference, Vol. Student Symposium, pp. 29-29, 2010-12-15."
 place: "Biopolis, Singapore"
+local: "https://www.notion.so/3c7d54c353c881a0881ee8f36b545119"
 ---

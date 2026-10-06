@@ -13,4 +13,5 @@ type: "international"
 venueJa: "The Scandinavian Conference on Image Analysis, pp. 562-573, 2017-06-13."
 venueEn: "The Scandinavian Conference on Image Analysis, pp. 562-573, 2017-06-13."
 place: "Tromsø, Norway"
+local: "https://www.notion.so/3c7d54c353c88114abefd900543433a1"
 ---

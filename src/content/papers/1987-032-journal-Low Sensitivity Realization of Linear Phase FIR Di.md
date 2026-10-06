@@ -15,4 +15,5 @@ venueJa: "電子情報通信学会 論文誌, Vol. J70-A, No. 5, pp. 766-774, 19
 venueEn: "IEICE Trans., Vol. J70-A, No. 5, pp. 766-774, 1987-05-01."
 url: "http://search.ieice.org/bin/summary.php?id=j70-a_5_766&category=A&year=1987&lang=E&abst=j"
 webpage: "http://search.ieice.org/bin/summary.php?id=j70-a_5_766&category=A&year=1987&lang=E&abst=j"
+local: "https://www.notion.so/3c7d54c353c88124ae17e263e787d227"
 ---

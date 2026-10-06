@@ -12,4 +12,5 @@ date: "2018-01-01"
 type: "journal"
 venueJa: "IEICE Trans. Inf. & Sys., Vol. E101-D, No. 1, pp. 37-44, 2018-01-01."
 venueEn: "IEICE Trans. Inf. & Sys., Vol. E101-D, No. 1, pp. 37-44, 2018-01-01."
+local: "https://www.notion.so/3c7d54c353c881f19ef0dcc18541e1b4"
 ---

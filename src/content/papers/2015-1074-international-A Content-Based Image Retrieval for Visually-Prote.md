@@ -17,4 +17,5 @@ venueEn: "Asia Pacific Conference on Multimedia and Broadcasting, pp. 1-6, 2015-
 place: "Bali, Indonesia"
 url: "http://apmediacast.org/"
 webpage: "http://apmediacast.org/"
+local: "https://www.notion.so/3c7d54c353c8819d81c9f8d45d010727"
 ---

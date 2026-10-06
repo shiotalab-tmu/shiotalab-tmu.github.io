@@ -12,4 +12,5 @@ date: "2017-11-01"
 type: "journal"
 venueJa: "IEICE Trans. Fundamentals, Vol. E100-A, No. 11, pp. 2248-2255, 2017-11-01."
 venueEn: "IEICE Trans. Fundamentals, Vol. E100-A, No. 11, pp. 2248-2255, 2017-11-01."
+local: "https://www.notion.so/3c7d54c353c88145aaccfd3400828f23"
 ---

@@ -9,9 +9,10 @@ authorsEn:
   - "Kiyoshi NISHIKAWA"
 date: "2013-12-10"
 type: "domestic"
-venueJa: "映像情報メディア学会 メディア工学研究会, Vol. 37, No. 56, No. ME2013-128, pp. 37-40, 2013-12-10."
-venueEn: "ITE Technical Report, Vol. 37, No. 56, No. ME2013-128, pp. 37-40, 2013-12-10."
+venueJa: "映像情報メディア学会 メディア工学研究会, Vol. 37, No. 56, pp. ME2013-128, 2013-12-10."
+venueEn: "ITE Technical Report, Vol. 37, No. 56, pp. ME2013-128, 2013-12-10."
 place: "福井県あわら市"
 url: "http://www.ite.or.jp/ken/paper/201312101A3A/eng/"
 webpage: "http://www.ite.or.jp/ken/paper/201312101A3A/eng/"
+local: "https://www.notion.so/3c7d54c353c881f7952bc775674be18e"
 ---

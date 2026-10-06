@@ -16,4 +16,5 @@ date: "2026-06-22"
 type: "international"
 venueJa: "The Speaker and Language Recognition Workshop Odyssey, 2026-06-22."
 venueEn: "The Speaker and Language Recognition Workshop Odyssey, 2026-06-22."
+local: "https://www.notion.so/3c7d54c353c881ef95fbf3d8547c34b8"
 ---
