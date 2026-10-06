@@ -8,7 +8,7 @@ authorsEn:
   - "Yasuyuki TAGUCHI"
 date: "2005-07-06"
 type: "international"
-venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, Vol. 2, No. WB1-2, pp. 573-574, 2005-07-06."
-venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, Vol. 2, No. WB1-2, pp. 573-574, 2005-07-06."
+venueJa: "International Technical Conference on Circuits/Systems, Computers and Communications, Vol. 2, pp. WB1-2, 2005-07-06."
+venueEn: "International Technical Conference on Circuits/Systems, Computers and Communications, Vol. 2, pp. WB1-2, 2005-07-06."
 place: "Jeju, Korea"
 ---

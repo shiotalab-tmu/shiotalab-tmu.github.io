@@ -15,4 +15,5 @@ venueJa: "電子情報通信学会 論文誌, Vol. J96-A, No. 7, pp. 462-470, 20
 venueEn: "IEICE Trans., Vol. J96-A, No. 7, pp. 462-470, 2013-07-01."
 url: "http://search.ieice.org/bin/summary.php?id=j96-a_7_462&category=A&lang=E&ref=rss&abst&year=2013#/"
 webpage: "http://search.ieice.org/bin/summary.php?id=j96-a_7_462&category=A&lang=E&ref=rss&abst&year=2013#/"
+local: "https://www.notion.so/3c7d54c353c881b2ace8c7159540082c"
 ---

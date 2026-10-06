@@ -13,4 +13,5 @@ type: "international"
 venueJa: "Pacific Rim Symposium on Image and Video Technology, 2015-11-23."
 venueEn: "Pacific Rim Symposium on Image and Video Technology, 2015-11-23."
 place: "Auckland, New Zealand"
+local: "https://www.notion.so/3c7d54c353c8810c9351e113e6400dd5"
 ---

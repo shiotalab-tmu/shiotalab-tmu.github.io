@@ -13,7 +13,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2002-12-01"
 type: "domestic"
-venueJa: "映像情報メディア学会 メディア工学研究会, No. ME2002-87, pp. 13-16, 2002-12-01."
-venueEn: "ITE Technical Report, No. ME2002-87, pp. 13-16, 2002-12-01."
+venueJa: "映像情報メディア学会 メディア工学研究会, pp. ME2002-87, 2002-12-01."
+venueEn: "ITE Technical Report, pp. ME2002-87, 2002-12-01."
 place: "東京都港区"
 ---

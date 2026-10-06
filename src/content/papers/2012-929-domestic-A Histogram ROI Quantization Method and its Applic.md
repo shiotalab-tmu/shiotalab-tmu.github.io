@@ -9,9 +9,10 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2012-03-08"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理研究会, Vol. 111, No. 466, No. SIP2011-139, pp. 71-76, 2012-03-08."
-venueEn: "Technical Report of IEICE, Vol. 111, No. 466, No. SIP2011-139, pp. 71-76, 2012-03-08."
+venueJa: "電子情報通信学会 信号処理研究会, Vol. 111, No. 466, pp. SIP2011-139, 2012-03-08."
+venueEn: "Technical Report of IEICE, Vol. 111, No. 466, pp. SIP2011-139, 2012-03-08."
 place: "新潟市中央区"
 url: "http://www.ieice.org/ken/paper/20120308r0p9/eng/"
 webpage: "http://www.ieice.org/ken/paper/20120308r0p9/eng/"
+local: "https://www.notion.so/3c7d54c353c881af9265d3124f7e8d73"
 ---

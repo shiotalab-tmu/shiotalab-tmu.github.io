@@ -14,4 +14,5 @@ date: "2016-05-01"
 type: "journal"
 venueJa: "IEICE Trans. Fundamentals, Vol. E99-A, No. 5, pp. 892-899, 2016-05-01."
 venueEn: "IEICE Trans. Fundamentals, Vol. E99-A, No. 5, pp. 892-899, 2016-05-01."
+local: "https://www.notion.so/3c7d54c353c881b7adcfc83fa341e6f4"
 ---

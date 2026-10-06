@@ -9,7 +9,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2007-09-14"
 type: "domestic"
-venueJa: "電子情報通信学会 ソサイエティ大会, Vol. ESS, No. A-4-51, pp. 112-112, 2007-09-14."
-venueEn: "Society Conference of IEICE, Vol. ESS, No. A-4-51, pp. 112-112, 2007-09-14."
+venueJa: "電子情報通信学会 ソサイエティ大会, Vol. ESS, pp. A-4-51, 2007-09-14."
+venueEn: "Society Conference of IEICE, Vol. ESS, pp. A-4-51, 2007-09-14."
 place: "鳥取県鳥取市"
 ---

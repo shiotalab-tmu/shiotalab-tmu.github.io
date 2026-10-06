@@ -15,4 +15,5 @@ venueJa: "電子情報通信学会 論文誌, Vol. J80-A, No. 11, pp. 1902-1909,
 venueEn: "IEICE Trans., Vol. J80-A, No. 11, pp. 1902-1909, 1997-11-01."
 url: "http://search.ieice.org/bin/summary.php?id=j80-a_11_1902&category=A&year=1997&lang=E&abst=j"
 webpage: "http://search.ieice.org/bin/summary.php?id=j80-a_11_1902&category=A&year=1997&lang=E&abst=j"
+local: "https://www.notion.so/3c7d54c353c881dd9cc1d3a5b04c5c1c"
 ---

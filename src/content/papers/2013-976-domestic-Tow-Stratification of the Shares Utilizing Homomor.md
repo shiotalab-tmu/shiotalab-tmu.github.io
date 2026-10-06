@@ -11,9 +11,10 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2013-03-20"
 type: "domestic"
-venueJa: "電子情報通信学会 総合大会, Vol. ISS, No. D-21-8, 2013-03-20."
-venueEn: "General Conference of IEICE, Vol. ISS, No. D-21-8, 2013-03-20."
+venueJa: "電子情報通信学会 総合大会, Vol. ISS, pp. D-21-8, 2013-03-20."
+venueEn: "General Conference of IEICE, Vol. ISS, pp. D-21-8, 2013-03-20."
 place: "岐阜県岐阜市"
 url: "http://www.gakkai-web.net/gakkai/ieice/2013gpro/Settings/ab/d_21_008.html"
 webpage: "http://www.gakkai-web.net/gakkai/ieice/2013gpro/Settings/ab/d_21_008.html"
+local: "https://www.notion.so/3c7d54c353c88190bfc7c60e04af9488"
 ---

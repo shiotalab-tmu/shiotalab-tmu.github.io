@@ -21,4 +21,5 @@ venueEn: "ISCA International Conference on Interspeech, pp. 239-243, 2015-09-07.
 place: "Dresden"
 url: "http://interspeech2015.org"
 webpage: "http://interspeech2015.org"
+local: "https://www.notion.so/3c7d54c353c8811d91a3dbc678ef88da"
 ---

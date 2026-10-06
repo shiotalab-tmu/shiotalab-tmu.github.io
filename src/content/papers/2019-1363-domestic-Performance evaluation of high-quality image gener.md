@@ -11,9 +11,10 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2019-10-24"
 type: "domestic"
-venueJa: "電子情報通信学会 スマートインフォメディアシステム研究会, Vol. 119, No. 240, No. SIS2019-13, pp. 11-16, 2019-10-24."
-venueEn: "Technical Report of IEICE, Vol. 119, No. 240, No. SIS2019-13, pp. 11-16, 2019-10-24."
+venueJa: "電子情報通信学会 スマートインフォメディアシステム研究会, Vol. 119, No. 240, pp. SIS2019-13, 2019-10-24."
+venueEn: "Technical Report of IEICE, Vol. 119, No. 240, pp. SIS2019-13, 2019-10-24."
 place: "福井"
 url: "https://www.ieice.org/ken/paper/20191024Y1QG/eng/"
 webpage: "https://www.ieice.org/ken/paper/20191024Y1QG/eng/"
+local: "https://www.notion.so/3c7d54c353c881c9bf87ff3868717c01"
 ---

@@ -13,4 +13,5 @@ type: "international"
 venueJa: "International Workshop on Advanced Image Technology, 2015-01-13."
 venueEn: "International Workshop on Advanced Image Technology, 2015-01-13."
 place: "National Cheng Kung University, Tainan, Taiwan"
+local: "https://www.notion.so/3c7d54c353c881dc9ec4de9cd707b335"
 ---

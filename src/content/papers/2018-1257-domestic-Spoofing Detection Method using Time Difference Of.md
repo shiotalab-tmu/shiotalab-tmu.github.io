@@ -13,7 +13,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-06-16"
 type: "domestic"
-venueJa: "情報処理学会音楽情報科学研究会 音学シンポジウム, Vol. 2018-MUS-119, No. 32, No. 32, 2018-06-16."
-venueEn: "IPSJ Music and computer Symposium, Vol. 2018-MUS-119, No. 32, No. 32, 2018-06-16."
+venueJa: "情報処理学会音楽情報科学研究会 音学シンポジウム, Vol. 2018-MUS-119, No. 32, pp. 32, 2018-06-16."
+venueEn: "IPSJ Music and computer Symposium, Vol. 2018-MUS-119, No. 32, pp. 32, 2018-06-16."
 place: "東京大学本郷キャンパス"
+local: "https://www.notion.so/3c7d54c353c8810fae0fd9dfcce9a3d9"
 ---

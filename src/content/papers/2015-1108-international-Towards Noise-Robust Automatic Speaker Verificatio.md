@@ -13,4 +13,5 @@ type: "international"
 venueJa: "International Workshop on Community centric Systems, pp. 28-32, 2015-12-01."
 venueEn: "International Workshop on Community centric Systems, pp. 28-32, 2015-12-01."
 place: "Tokyo, Japan"
+local: "https://www.notion.so/3c7d54c353c881c5a948f82c08cf9ee7"
 ---

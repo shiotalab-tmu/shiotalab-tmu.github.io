@@ -9,9 +9,10 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2010-06-22"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理研究会, Vol. 110, No. 88, No. SIP2010-39, pp. 99-104, 2010-06-22."
-venueEn: "Technical Report of IEICE, Vol. 110, No. 88, No. SIP2010-39, pp. 99-104, 2010-06-22."
+venueJa: "電子情報通信学会 信号処理研究会, Vol. 110, No. 88, pp. SIP2010-39, 2010-06-22."
+venueEn: "Technical Report of IEICE, Vol. 110, No. 88, pp. SIP2010-39, 2010-06-22."
 place: "北海道北見市"
 url: "http://www.ieice.org/ken/paper/20100622waYt/eng/"
 webpage: "http://www.ieice.org/ken/paper/20100622waYt/eng/"
+local: "https://www.notion.so/3c7d54c353c881b6973dcf9939d7743f"
 ---

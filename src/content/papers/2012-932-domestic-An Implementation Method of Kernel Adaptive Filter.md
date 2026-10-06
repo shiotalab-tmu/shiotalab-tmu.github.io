@@ -9,7 +9,8 @@ authorsEn:
   - "Kiyoshi NISHIKAWA"
 date: "2012-03-23"
 type: "domestic"
-venueJa: "電子情報通信学会 総合大会, Vol. ESS, No. A-4-21, pp. 118-118, 2012-03-23."
-venueEn: "General Conference of IEICE, Vol. ESS, No. A-4-21, pp. 118-118, 2012-03-23."
+venueJa: "電子情報通信学会 総合大会, Vol. ESS, pp. A-4-21, 2012-03-23."
+venueEn: "General Conference of IEICE, Vol. ESS, pp. A-4-21, 2012-03-23."
 place: "岡山県岡山市"
+local: "https://www.notion.so/3c7d54c353c8814fb816d598aa832231"
 ---

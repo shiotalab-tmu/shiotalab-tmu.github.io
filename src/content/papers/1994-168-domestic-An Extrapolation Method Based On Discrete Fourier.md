@@ -11,6 +11,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1994-09-01"
 type: "domestic"
-venueJa: "電子情報通信学会 秋季全国大会, No. A-130, 1994-09-01."
-venueEn: "Autumn Conf. of IEICE, No. A-130, 1994-09-01."
+venueJa: "電子情報通信学会 秋季全国大会, pp. A-130, 1994-09-01."
+venueEn: "Autumn Conf. of IEICE, pp. A-130, 1994-09-01."
 ---

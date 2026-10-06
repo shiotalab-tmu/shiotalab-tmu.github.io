@@ -13,6 +13,6 @@ authorsEn:
   - "Masahiko SAGAWA"
 date: "1989-03-01"
 type: "domestic"
-venueJa: "電子情報通信学会 回路とシステム研究会, No. CAS88-153, 1989-03-01."
-venueEn: "Technical Report of IEICE, No. CAS88-153, 1989-03-01."
+venueJa: "電子情報通信学会 回路とシステム研究会, pp. CAS88-153, 1989-03-01."
+venueEn: "Technical Report of IEICE, pp. CAS88-153, 1989-03-01."
 ---

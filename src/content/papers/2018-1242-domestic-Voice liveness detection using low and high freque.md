@@ -11,7 +11,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-03-14"
 type: "domestic"
-venueJa: "日本音響学会春季大会, No. 2-Q-3, pp. 137-140, 2018-03-14."
-venueEn: "Acoustical Society of Japan Spring Meeting, No. 2-Q-3, pp. 137-140, 2018-03-14."
+venueJa: "日本音響学会春季大会, pp. 2-Q-3, 2018-03-14."
+venueEn: "Acoustical Society of Japan Spring Meeting, pp. 2-Q-3, 2018-03-14."
 place: "埼玉県南埼玉郡宮代町"
+local: "https://www.notion.so/3c7d54c353c8817c8b94c0d42a09ed1c"
 ---

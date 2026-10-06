@@ -15,4 +15,5 @@ type: "international"
 venueJa: "IEEE International Conference on Multimedia and Expo, 2018-07-24."
 venueEn: "IEEE International Conference on Multimedia and Expo, 2018-07-24."
 place: "San Diego, USA"
+local: "https://www.notion.so/3c7d54c353c88172bc78cb654314896c"
 ---

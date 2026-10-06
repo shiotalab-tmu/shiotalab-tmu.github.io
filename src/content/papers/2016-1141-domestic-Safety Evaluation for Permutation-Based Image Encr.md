@@ -11,9 +11,10 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2016-07-14"
 type: "domestic"
-venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, Vol. 116, No. 132, No. EMM2016-25, pp. 23-28, 2016-07-14."
-venueEn: "Technical Report of IEICE, Vol. 116, No. 132, No. EMM2016-25, pp. 23-28, 2016-07-14."
+venueJa: "電子情報通信学会 マルチメディア情報ハイディング・エンリッチメント研究会, Vol. 116, No. 132, pp. EMM2016-25, 2016-07-14."
+venueEn: "Technical Report of IEICE, Vol. 116, No. 132, pp. EMM2016-25, 2016-07-14."
 place: "山口県山口市中市町"
 url: "http://www.ieice.org/ken/paper/20160714BbjN/eng/"
 webpage: "http://www.ieice.org/ken/paper/20160714BbjN/eng/"
+local: "https://www.notion.so/3c7d54c353c88124a39aed9d45b609c6"
 ---

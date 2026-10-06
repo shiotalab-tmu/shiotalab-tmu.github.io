@@ -11,7 +11,8 @@ authorsEn:
   - "Jun'ya HASEGAWA"
 date: "2010-09-14"
 type: "domestic"
-venueJa: "電子情報通信学会 ソサイエティ大会, Vol. ESS, No. A-4-3, pp. 72-72, 2010-09-14."
-venueEn: "Society Conference of IEICE, Vol. ESS, No. A-4-3, pp. 72-72, 2010-09-14."
+venueJa: "電子情報通信学会 ソサイエティ大会, Vol. ESS, pp. A-4-3, 2010-09-14."
+venueEn: "Society Conference of IEICE, Vol. ESS, pp. A-4-3, 2010-09-14."
 place: "大阪府堺市"
+local: "https://www.notion.so/3c7d54c353c881219652c168b9dfc360"
 ---

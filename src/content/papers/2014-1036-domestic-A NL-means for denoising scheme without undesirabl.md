@@ -9,9 +9,10 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2014-03-21"
 type: "domestic"
-venueJa: "電子情報通信学会 総合大会, Vol. ESS, No. A-4-24, pp. 79-79, 2014-03-21."
-venueEn: "General Conference of IEICE, Vol. ESS, No. A-4-24, pp. 79-79, 2014-03-21."
+venueJa: "電子情報通信学会 総合大会, Vol. ESS, pp. A-4-24, 2014-03-21."
+venueEn: "General Conference of IEICE, Vol. ESS, pp. A-4-24, 2014-03-21."
 place: "新潟市西区"
 url: "http://www.gakkai-web.net/gakkai/ieice/G_2014/Settings/ab/a_04_024.html"
 webpage: "http://www.gakkai-web.net/gakkai/ieice/G_2014/Settings/ab/a_04_024.html"
+local: "https://www.notion.so/3c7d54c353c88147978ac9aa1fa3515a"
 ---

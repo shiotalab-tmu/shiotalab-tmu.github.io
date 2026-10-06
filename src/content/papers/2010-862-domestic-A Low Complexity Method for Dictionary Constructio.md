@@ -9,7 +9,8 @@ authorsEn:
   - "Kiyoshi NISHIKAWA"
 date: "2010-11-24"
 type: "domestic"
-venueJa: "電子情報通信学会 信号処理シンポジウム, No. P1-7, pp. 227-232, 2010-11-24."
-venueEn: "IEICE Signal Processing Symposium, No. P1-7, pp. 227-232, 2010-11-24."
+venueJa: "電子情報通信学会 信号処理シンポジウム, pp. P1-7, 2010-11-24."
+venueEn: "IEICE Signal Processing Symposium, pp. P1-7, 2010-11-24."
 place: "奈良県奈良市"
+local: "https://www.notion.so/3c7d54c353c881679f5dc9a7ab57c90c"
 ---

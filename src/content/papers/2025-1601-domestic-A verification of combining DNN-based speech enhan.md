@@ -16,4 +16,5 @@ type: "domestic"
 venueJa: "日本音響学会春季大会, pp. 1083-1084, 2025-03-19."
 venueEn: "Acoustical Society of Japan Spring Meeting, pp. 1083-1084, 2025-03-19."
 place: "埼玉大学"
+local: "https://www.notion.so/3c7d54c353c881cc91e4f86507b600e2"
 ---

@@ -8,7 +8,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2013-10-30"
 type: "international"
-venueJa: "APSIPA Annual Summit and Conference, No. OS.10-IVM.5-2, 2013-10-30."
-venueEn: "APSIPA Annual Summit and Conference, No. OS.10-IVM.5-2, 2013-10-30."
+venueJa: "APSIPA Annual Summit and Conference, pp. OS.10-IVM.5-2, 2013-10-30."
+venueEn: "APSIPA Annual Summit and Conference, pp. OS.10-IVM.5-2, 2013-10-30."
 place: "Kaohsiung, Taiwan, R.O.C."
+local: "https://www.notion.so/3c7d54c353c881298a94d7e1cba1d633"
 ---

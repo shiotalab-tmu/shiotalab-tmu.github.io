@@ -178,9 +178,10 @@ function buildVenueString(paper: Paper, lang: 'ja' | 'en'): string {
     parts.push(volStr);
   }
 
-  // 論文番号(講演番号)。ページ番号ではないので「pp.」は付けない(旧サイト準拠で「No.」を付ける)
+  // 論文番号(講演番号)。ページ番号ではないので「pp.」は付けない。
+  // 号の「No.」と並ぶと紛らわしいため接頭辞も付けない(電子情報通信学会の参考文献の書き方に準拠)
   if (paper.pages.pnum) {
-    parts.push(`No. ${paper.pages.pnum}`);
+    parts.push(paper.pages.pnum);
   }
 
   // Pages (講演番号とページ範囲の両方がある論文もあるので、講演番号とは別に出す)

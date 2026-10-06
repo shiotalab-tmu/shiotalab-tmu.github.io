@@ -11,4 +11,5 @@ type: "international"
 venueJa: "International Conference on Advances in Image Processing, pp. 72-77, 2017-08-26."
 venueEn: "International Conference on Advances in Image Processing, pp. 72-77, 2017-08-26."
 place: "Bangkok, Thailand"
+local: "https://www.notion.so/3c7d54c353c881fd8e86cb2d51f16d96"
 ---

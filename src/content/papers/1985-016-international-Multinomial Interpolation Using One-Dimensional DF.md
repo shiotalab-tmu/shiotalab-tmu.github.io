@@ -8,6 +8,6 @@ authorsEn:
   - "Masahiko SAGAWA"
 date: "1985-06-01"
 type: "international"
-venueJa: "IEEE International Symposium on Circuits and Systems, No. R6EE.6L, 1985-06-01."
-venueEn: "IEEE International Symposium on Circuits and Systems, No. R6EE.6L, 1985-06-01."
+venueJa: "IEEE International Symposium on Circuits and Systems, pp. R6EE.6L, 1985-06-01."
+venueEn: "IEEE International Symposium on Circuits and Systems, pp. R6EE.6L, 1985-06-01."
 ---

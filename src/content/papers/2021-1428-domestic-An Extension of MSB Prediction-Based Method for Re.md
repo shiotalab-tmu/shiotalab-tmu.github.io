@@ -16,4 +16,5 @@ venueEn: "Technical Report of IEICE, Vol. 120, No. 351, pp. 25-30, 2021-01-28."
 place: "オンライン"
 url: "https://www.ieice.org/ken/paper/202101289CCK/"
 webpage: "https://www.ieice.org/ken/paper/202101289CCK/"
+local: "https://www.notion.so/3c7d54c353c88143bdd4f9cb3bc6d8ae"
 ---

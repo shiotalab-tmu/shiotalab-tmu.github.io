@@ -8,7 +8,7 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2007-01-08"
 type: "international"
-venueJa: "International Workshop on Advanced Image Technology, No. P3-14, pp. 308-313, 2007-01-08."
-venueEn: "International Workshop on Advanced Image Technology, No. P3-14, pp. 308-313, 2007-01-08."
+venueJa: "International Workshop on Advanced Image Technology, pp. P3-14, 2007-01-08."
+venueEn: "International Workshop on Advanced Image Technology, pp. P3-14, 2007-01-08."
 place: "Bangkok, Thailand"
 ---

@@ -15,4 +15,5 @@ type: "international"
 venueJa: "International Workshop on Advanced Image Technology, 2019-01-08."
 venueEn: "International Workshop on Advanced Image Technology, 2019-01-08."
 place: "Nanyang Technological University, Singapore"
+local: "https://www.notion.so/3c7d54c353c88106b4a4c7f4df6f0596"
 ---

@@ -17,7 +17,8 @@ authorsEn:
   - "Tomoko MATSUI"
 date: "2015-07-09"
 type: "domestic"
-venueJa: "電子情報通信学会 音声研究会, Vol. 115, No. 146, No. SP2015-48, pp. 73-78, 2015-07-09."
-venueEn: "Technical Report of IEICE, Vol. 115, No. 146, No. SP2015-48, pp. 73-78, 2015-07-09."
+venueJa: "電子情報通信学会 音声研究会, Vol. 115, No. 146, pp. SP2015-48, 2015-07-09."
+venueEn: "Technical Report of IEICE, Vol. 115, No. 146, pp. SP2015-48, 2015-07-09."
 place: "長野"
+local: "https://www.notion.so/3c7d54c353c8818780b8e30f16105f84"
 ---

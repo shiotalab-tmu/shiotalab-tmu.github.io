@@ -13,7 +13,8 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2012-02-02"
 type: "domestic"
-venueJa: "電子情報通信学会 暗号と情報セキュリティシンポジウム, No. 4F1-2, 2012-02-02."
-venueEn: "IEICE Symposium on Cryptography and Information Security, No. 4F1-2, 2012-02-02."
+venueJa: "電子情報通信学会 暗号と情報セキュリティシンポジウム, pp. 4F1-2, 2012-02-02."
+venueEn: "IEICE Symposium on Cryptography and Information Security, pp. 4F1-2, 2012-02-02."
 place: "石川県金沢市"
+local: "https://www.notion.so/3c7d54c353c88100a765e04a6dda6ca2"
 ---

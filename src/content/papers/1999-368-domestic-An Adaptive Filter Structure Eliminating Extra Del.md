@@ -9,6 +9,6 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "1999-09-01"
 type: "domestic"
-venueJa: "電子情報通信学会 ソサイエティ大会, No. A-4-20, 1999-09-01."
-venueEn: "Society Conference of IEICE, No. A-4-20, 1999-09-01."
+venueJa: "電子情報通信学会 ソサイエティ大会, pp. A-4-20, 1999-09-01."
+venueEn: "Society Conference of IEICE, pp. A-4-20, 1999-09-01."
 ---

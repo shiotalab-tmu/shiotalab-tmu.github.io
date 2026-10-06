@@ -9,9 +9,10 @@ authorsEn:
   - "Hitoshi KIYA"
 date: "2018-09-27"
 type: "domestic"
-venueJa: "電子情報通信学会 画像工学研究会, Vol. 118, No. 223, No. IE2018-34, pp. 23-28, 2018-09-27."
-venueEn: "Technical Report of IEICE, Vol. 118, No. 223, No. IE2018-34, pp. 23-28, 2018-09-27."
+venueJa: "電子情報通信学会 画像工学研究会, Vol. 118, No. 223, pp. IE2018-34, 2018-09-27."
+venueEn: "Technical Report of IEICE, Vol. 118, No. 223, pp. IE2018-34, 2018-09-27."
 place: "大分県別府市"
 url: "https://www.ieice.org/ken/paper/20180927g1G3/eng/"
 webpage: "https://www.ieice.org/ken/paper/20180927g1G3/eng/"
+local: "https://www.notion.so/3c7d54c353c8819f8ca9f2b2962cace9"
 ---
